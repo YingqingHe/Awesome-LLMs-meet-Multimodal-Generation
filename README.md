@@ -21,6 +21,7 @@ Cui, Xing, et al.\
 + **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (Sep 2023)\
 Fu, Tsu-Jui, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.17102.pdf)
+[![Code](https://img.shields.io/github/stars/tsujuifu/pytorch_mgie.svg?style=social&label=Star)](https://github.com/tsujuifu/pytorch_mgie)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://mllm-ie.github.io/)
 
 + **Interactive Image Manipulation with Complex Text Instructions** (Nov 2022)\
