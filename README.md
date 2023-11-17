@@ -34,12 +34,24 @@ Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://jykoh.com/gill)
 
-+ **Generating Images with Multimodal Language Models** (Oct 2023)\
++ **LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** (May 2023)\
 Lian, Long, et al.\
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedDiffusion)
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.13655.pdf)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-diffusion.github.io/)
 
++ **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
+Rombach, Robin, et al. CVPR 2022 (Oral).\
+[![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/stable-diffusion)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.10752.pdf)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ommer-lab.com/research/latent-diffusion-models/)
+
 ## Video Editing
 
 ## Video Generation
++ **LLM-grounded Video Diffusion Models** (Sep 2023)\
+Lian, Long, et al.\
+[![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.17444.pdf)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-video-diffusion.github.io/)
+
