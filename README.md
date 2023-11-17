@@ -61,6 +61,11 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ommer-lab.com/research/latent-diffusion-models/)
 
 ## Video Editing
++ **Pix2Video: Video Editing using Image Diffusion** (Mar 2023)\
+Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.12688.pdf)
+[![Code](https://img.shields.io/github/stars/duyguceylan/pix2video.svg?style=social&label=Star)](https://github.com/duyguceylan/pix2video)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://duyguceylan.github.io/pix2video.github.io/)
 
 ## Video Generation
 + **LLM-grounded Video Diffusion Models** (Sep 2023)\
