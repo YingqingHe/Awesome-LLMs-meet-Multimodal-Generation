@@ -75,3 +75,14 @@ Fei, Hao, et al.\
 [![Code](https://img.shields.io/github/stars/scofield7419/Dysen.svg?style=social&label=Star)](https://github.com/scofield7419/Dysen)
 [![Website](https://img.shields.io/badge/Website-9cf)](http://haofei.vip/Dysen-VDM/)
 
++ **VideoComposer: Compositional Video Synthesis with Motion Controllability** (Jun 2023)\
+Wang, Xiang, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02018.pdf)
+[![Code](https://img.shields.io/github/stars/damo-vilab/videocomposer.svg?style=social&label=Star)](https://github.com/damo-vilab/videocomposer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://videocomposer.github.io/)
+
++ **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
+Luo, Zhengxiong, et al. CVPR 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.08320.pdf)
+
+
