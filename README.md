@@ -40,6 +40,12 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169)
 [![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/kohjingyu/gill)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://layoutgpt.github.io/)
+
++ **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models** (Oct 2023)\
+Feng, Weixi, et al. NeurIPS 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15393)
+[![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/weixi-feng/LayoutGPT)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://jykoh.com/gill)
 
 + **GLayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
@@ -53,6 +59,11 @@ Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.13655.pdf)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedDiffusion)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-diffusion.github.io/)
+
++ **Controllable Text-to-Image Generation with GPT-4** (May 2023)\
+Lian, Long, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/tianjunz/Control-GPT)
 
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
