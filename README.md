@@ -38,7 +38,7 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 ## Image Generation
 + **Generating Images with Multimodal Language Models** (Oct 2023)\
 Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17216)
 [![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/kohjingyu/gill)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://layoutgpt.github.io/)
 
