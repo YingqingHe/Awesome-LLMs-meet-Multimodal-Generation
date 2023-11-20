@@ -10,7 +10,6 @@ Cui, Xing, et al.\
 [![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)\
 **Tags:** `Image-Editing` `LLMs`
 
-
 + **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (Sep 2023)\
 Fu, Tsu-Jui, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17102v1)
@@ -80,6 +79,13 @@ Zhang, Tianjun, et al. \
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) \
 **Tags:** `Image-Generation` `LLMs`
 
++ **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** (May 2022)\
+Zhang, Tianjun, et al. NeurIPS 2022.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9695824d7a01fad57ba9c01d7d76a519d78d65e7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Photorealistic-Text-to-Image-Diffusion-Models-with-Saharia-Chan/9695824d7a01fad57ba9c01d7d76a519d78d65e7)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://imagen.research.google/) \
+**Tags:** `Image-Generation` `LLMs` `Diffusion`
+  
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
@@ -108,10 +114,9 @@ Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023.\
 [![Code](https://img.shields.io/github/stars/duyguceylan/pix2video.svg?style=social&label=Star)](https://github.com/duyguceylan/pix2video)
 
 + **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (Apr 2021)\
-Fu, Tsu-Jui, et al. CVPR 2022\
+Fu, Tsu-Jui, et al. CVPR 2022.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2104.01122.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F81349524489f8ba0812ac2529eac92ec45959782%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-based-Video-Editing-via-Multi-Modal-Fu-Wang/81349524489f8ba0812ac2529eac92ec45959782)
-
 
 
 ## Video Generation
