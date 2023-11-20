@@ -61,7 +61,7 @@ Lian, Long, et al.\
 [![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-diffusion.github.io/)
 
 + **Controllable Text-to-Image Generation with GPT-4** (May 2023)\
-Lian, Long, et al.\
+Zhang, Tianjun, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/tianjunz/Control-GPT)
 
