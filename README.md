@@ -132,6 +132,15 @@ Lian, Long, et al.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
 
+
++ **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning** (Sep 2023)\
+Lin, Han, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15091)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F16753e0317730e8c1b297338300a8c6163dd06f2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDirectorGPT%3A-Consistent-Multi-scene-Video-via-Lin-Zala/16753e0317730e8c1b297338300a8c6163dd06f2)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://videodirectorgpt.github.io/)
+[![Code](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
+
+
 + **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** (Aug 2023)\
 Fei, Hao, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.13812)
