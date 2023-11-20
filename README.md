@@ -118,4 +118,8 @@ Hong, Susung, et al.\
 Luo, Zhengxiong, et al. CVPR 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
 
+## Audio Generation
+**AudioPaLM: A Large Language Model That Can Speak and Listen** (Jun 2023)\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12925)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://google-research.github.io/seanet/audiopalm/examples/)
 
