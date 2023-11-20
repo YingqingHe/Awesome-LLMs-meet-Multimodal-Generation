@@ -8,7 +8,7 @@ Cui, Xing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CHATEDIT%3A-Towards-Multi-turn-Interactive-Facial-via-Cui-Li/5a185965ad1e87367d044b47043706d00b85b007)
 [![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)\
-**Tags:** Image-Editing; LLMs.
+**Tags:** `Image-Editing` `LLMs`
 
 
 + **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (Sep 2023)\
@@ -29,7 +29,7 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa2d2bbe4c542173662a444b33b76c66992697830%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructPix2Pix%3A-Learning-to-Follow-Image-Editing-Brooks-Holynski/a2d2bbe4c542173662a444b33b76c66992697830)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.timothybrooks.com/instruct-pix2pix)
 [![Code](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix.svg?style=social&label=Star)](https://github.com/timothybrooks/instruct-pix2pix)\
-**Tags:** Image-Editing; Diffuser.
+**Tags:** `Image-Editing` `Diffuser`
 
 ## Image Generation
 + **Generating Images with Multimodal Language Models** (Oct 2023)\
@@ -50,7 +50,7 @@ Feng, Weixi, et al. NeurIPS 2023.\
 Gani, Hanan, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10640)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cb2c262ce34f41974f1b1623fc5a6e32956ded3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-Blueprint%3A-Enabling-Text-to-Image-Generation-Gani-Bhat/4cb2c262ce34f41974f1b1623fc5a6e32956ded3)\
-**Tags:** Image-Editing; LLMs; Diffuser.
+**Tags:** `Image-Editing` `LLMs` `Diffuser`
 
 + **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** (Oct 2023)\
 Qu, Leigang, et al.\
@@ -71,14 +71,14 @@ Lian, Long, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe9ae0c76a71b8f302eb17b1c4462b9cc97d87cd0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Diffusion%3A-Enhancing-Prompt-of-Models-Lian-Li/e9ae0c76a71b8f302eb17b1c4462b9cc97d87cd0)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedDiffusion)\
-**Tags:** Image-Generation; LLMs; Diffuser.
+**Tags:** `Image-Generation` `LLMs` `Diffuser`
 
 + **Controllable Text-to-Image Generation with GPT-4** (May 2023)\
 Zhang, Tianjun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a79545719fb193a6b4042ef7d1d87cfd267be06%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Text-to-Image-Generation-with-GPT-4-Zhang-Zhang/3a79545719fb193a6b4042ef7d1d87cfd267be06)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) \
-**Tags:** Image-Generation; LLMs.
+**Tags:** `Image-Generation` `LLMs`
 
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
