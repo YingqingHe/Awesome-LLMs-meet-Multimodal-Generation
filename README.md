@@ -7,8 +7,7 @@
 Cui, Xing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CHATEDIT%3A-Towards-Multi-turn-Interactive-Facial-via-Cui-Li/5a185965ad1e87367d044b47043706d00b85b007)
-[![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)\
-**Tags:** `Image-Editing` `LLMs`
+[![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)
 
 + **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (Sep 2023)\
 Fu, Tsu-Jui, et al.\
@@ -27,8 +26,7 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09800)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa2d2bbe4c542173662a444b33b76c66992697830%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructPix2Pix%3A-Learning-to-Follow-Image-Editing-Brooks-Holynski/a2d2bbe4c542173662a444b33b76c66992697830)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.timothybrooks.com/instruct-pix2pix)
-[![Code](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix.svg?style=social&label=Star)](https://github.com/timothybrooks/instruct-pix2pix)\
-**Tags:** `Image-Editing` `Diffuser`
+[![Code](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix.svg?style=social&label=Star)](https://github.com/timothybrooks/instruct-pix2pix)
 
 ## Image Generation
 + **Generating Images with Multimodal Language Models** (Oct 2023)\
@@ -48,8 +46,7 @@ Feng, Weixi, et al. NeurIPS 2023.\
 + **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** (Oct 2023)\
 Gani, Hanan, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10640)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cb2c262ce34f41974f1b1623fc5a6e32956ded3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-Blueprint%3A-Enabling-Text-to-Image-Generation-Gani-Bhat/4cb2c262ce34f41974f1b1623fc5a6e32956ded3)\
-**Tags:** `Image-Editing` `LLMs` `Diffuser`
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cb2c262ce34f41974f1b1623fc5a6e32956ded3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-Blueprint%3A-Enabling-Text-to-Image-Generation-Gani-Bhat/4cb2c262ce34f41974f1b1623fc5a6e32956ded3)
 
 + **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** (Oct 2023)\
 Qu, Leigang, et al.\
@@ -82,16 +79,13 @@ Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13655)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe9ae0c76a71b8f302eb17b1c4462b9cc97d87cd0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Diffusion%3A-Enhancing-Prompt-of-Models-Lian-Li/e9ae0c76a71b8f302eb17b1c4462b9cc97d87cd0)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-diffusion.github.io/)
-[![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedDiffusion)\
-**Tags:** `Image-Generation` `LLMs` `Diffuser`
+[![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedDiffusion)
 
 + **Controllable Text-to-Image Generation with GPT-4** (May 2023)\
 Zhang, Tianjun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a79545719fb193a6b4042ef7d1d87cfd267be06%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Text-to-Image-Generation-with-GPT-4-Zhang-Zhang/3a79545719fb193a6b4042ef7d1d87cfd267be06)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) \
-**Tags:** `Image-Generation` `LLMs`
-
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) 
 
 + **Interactive Data Synthesis for Systematic Vision Adaptation via LLMs-AIGCs Collaboration** (May 2023)\
 Yu, Qifan, et al. \
@@ -99,13 +93,11 @@ Yu, Qifan, et al. \
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43a55dbd95c9d5cd82de8db276f41adeec4a937d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Data-Synthesis-for-Systematic-Vision-Yu-Li/43a55dbd95c9d5cd82de8db276f41adeec4a937d)
 [![Code](https://img.shields.io/github/stars/Yuqifan1117/Labal-Anything-Pipeline.svg?style=social&label=Star)](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
 
-
 + **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** (May 2022)\
 Zhang, Tianjun, et al. NeurIPS 2022.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9695824d7a01fad57ba9c01d7d76a519d78d65e7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Photorealistic-Text-to-Image-Diffusion-Models-with-Saharia-Chan/9695824d7a01fad57ba9c01d7d76a519d78d65e7)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://imagen.research.google/) \
-**Tags:** `Image-Generation` `LLMs` `Diffusion`
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://imagen.research.google/) 
   
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
