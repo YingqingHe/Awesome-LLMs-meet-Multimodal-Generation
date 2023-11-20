@@ -14,12 +14,14 @@ Cui, Xing, et al.\
 + **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (Sep 2023)\
 Fu, Tsu-Jui, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17102v1)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F092245d86b77181c36f972b1b7a17a59cd989c4a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Guiding-Instruction-based-Image-Editing-via-Large-Fu-Hu/092245d86b77181c36f972b1b7a17a59cd989c4a)
 [![Code](https://img.shields.io/github/stars/tsujuifu/pytorch_mgie.svg?style=social&label=Star)](https://github.com/tsujuifu/pytorch_mgie)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mllm-ie.github.io/)
 
 + **Interactive Image Manipulation with Complex Text Instructions** (Nov 2022)\
 Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. WACV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15352)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F387144d293567408c363313aac971294e7ec8547%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Image-Manipulation-with-Complex-Text-Morita-Zhang/387144d293567408c363313aac971294e7ec8547)
 
 + **InstructPix2Pix: Learning to Follow Image Editing Instructions** (Jan 2022)\
 Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
@@ -33,12 +35,14 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 + **Generating Images with Multimodal Language Models** (Oct 2023)\
 Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17216)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fb5c0eff3696ef252aca9638e10176ecce7cecb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generating-Images-with-Multimodal-Language-Models-Koh-Fried/6fb5c0eff3696ef252aca9638e10176ecce7cecb)
 [![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/kohjingyu/gill)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutgpt.github.io/)
 
 + **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models** (Oct 2023)\
 Feng, Weixi, et al. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15393)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F66d755730f5d08a6f4fcc5e81f24982ba389dca9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutGPT%3A-Compositional-Visual-Planning-and-with-Feng-Zhu/66d755730f5d08a6f4fcc5e81f24982ba389dca9)
 [![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/weixi-feng/LayoutGPT)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/gill)
 
@@ -51,11 +55,13 @@ Gani, Hanan, et al.\
 + **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** (Oct 2023)\
 Qu, Leigang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08949v1)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F833cdd713c27ab5899bb912a1d511c10af61cefb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-Multimodal-Generation-Easier%3A-When-Diffusion-Zhao-Liu/833cdd713c27ab5899bb912a1d511c10af61cefb)
 [![Code](https://img.shields.io/github/stars/zxy556677/EasyGen.svg?style=social&label=Star)](https://github.com/zxy556677/EasyGen)
 
 + **GLayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
 Qu, Leigang, et al. ACM MM 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05095)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutLLM-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
 [![Code](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutllm-t2i.github.io/)
 
@@ -77,18 +83,21 @@ Zhang, Tianjun, et al. \
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc10075b3746a9f3dd5811970e93c8ca3ad39b39d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/High-Resolution-Image-Synthesis-with-Latent-Models-Rombach-Blattmann/c10075b3746a9f3dd5811970e93c8ca3ad39b39d)
 [![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/stable-diffusion)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ommer-lab.com/research/latent-diffusion-models/)
 
 + **Making LLaMA SEE and Draw with SEED Tokenizer** (Oct 2023)\
 Yuying Ge, Sijie Zhao, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-LLaMA-SEE-and-Draw-with-SEED-Tokenizer-Ge-Zhao/5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67)
 [![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/seed/)
 
 + **DreamLLM: Synergistic Multimodal Comprehension and Creation** (Oct 2023)\
-Dong, et al.\
+Dong, Runpei, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b689adb8c156d6158660f90d1c86888ee281f63%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamLLM%3A-Synergistic-Multimodal-Comprehension-and-Dong-Han/7b689adb8c156d6158660f90d1c86888ee281f63)
 [![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/RunpeiDong/DreamLLM/tree/master)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamllm.github.io/)
 
