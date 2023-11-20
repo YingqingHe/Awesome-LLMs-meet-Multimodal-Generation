@@ -61,7 +61,7 @@ Qu, Leigang, et al.\
 Gan, Yulu, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00390)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F819f477065088220a6f706cd9ef76dbcb4b4c134%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructCV%3A-Instruction-Tuned-Text-to-Image-Models-Gan-Park/819f477065088220a6f706cd9ef76dbcb4b4c134)
-[![Demo](https://img.shields.io/badge/Demo-DAA520)](https://huggingface.co/spaces/alaa-lab/InstructCV)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/alaa-lab/InstructCV)
 [![Code](https://img.shields.io/github/stars/AlaaLab/InstructCV.svg?style=social&label=Star)](https://github.com/AlaaLab/InstructCV)
 
 
