@@ -166,6 +166,7 @@ Copet, Jade, et al. \
 Lu, Peiling, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00110)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa559acac0e84319d62cefd564a5eecbf9d566ec4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MuseCoco%3A-Generating-Symbolic-Music-from-Text-Lu-Xu/a559acac0e84319d62cefd564a5eecbf9d566ec4)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ai-muzic.github.io/musecoco/)
 [![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musecoco)
 
 + **MusicLM: Generating Music From Text** (Jan 2023)\
