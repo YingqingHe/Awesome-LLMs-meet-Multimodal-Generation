@@ -92,6 +92,14 @@ Zhang, Tianjun, et al. \
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) \
 **Tags:** `Image-Generation` `LLMs`
 
+
++ **Interactive Data Synthesis for Systematic Vision Adaptation via LLMs-AIGCs Collaboration** (May 2023)\
+Yu, Qifan, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.12799)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43a55dbd95c9d5cd82de8db276f41adeec4a937d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Data-Synthesis-for-Systematic-Vision-Yu-Li/43a55dbd95c9d5cd82de8db276f41adeec4a937d)
+[![Code](https://img.shields.io/github/stars/Yuqifan1117/Labal-Anything-Pipeline.svg?style=social&label=Star)](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
+
+
 + **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** (May 2022)\
 Zhang, Tianjun, et al. NeurIPS 2022.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
