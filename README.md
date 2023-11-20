@@ -128,5 +128,5 @@ Rubenstein, Paul K., et al. \
 Copet, Jade, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05284)
 [![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/facebookresearch/audiocraft)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://google-research.github.io/seanet/audiopalm/examples/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://audiocraft.metademolab.com/musicgen.html)
 
