@@ -190,7 +190,7 @@ Rubenstein, Paul K., et al. \
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/audiopalm/examples/)
 
 + **Simple and Controllable Music Generation** (Jun 2023)\
-Copet, Jade, et al. \
+Copet, Jade, et al. Neurips 2023\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05284)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Simple-and-Controllable-Music-Generation-Copet-Kreuk/4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audiocraft.metademolab.com/musicgen.html)
