@@ -61,9 +61,11 @@ Lian, Long, et al.\
 [![Website](https://img.shields.io/badge/Website-9cf)](https://llm-grounded-diffusion.github.io/)
 
 + **Controllable Text-to-Image Generation with GPT-4** (May 2023)\
-Zhang, Tianjun, et al.\
+Zhang, Tianjun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/tianjunz/Control-GPT)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/tianjunz/Control-GPT) \
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a79545719fb193a6b4042ef7d1d87cfd267be06%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Text-to-Image-Generation-with-GPT-4-Zhang-Zhang/3a79545719fb193a6b4042ef7d1d87cfd267be06)
+![Tag](https://img.shields.io/badge/Image--Generation-cyan) ![Tag](https://img.shields.io/badge/LLMs-pink) 
 
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
