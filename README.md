@@ -71,6 +71,18 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/stable-diffusion)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ommer-lab.com/research/latent-diffusion-models/)
 
++ **Making LLaMA SEE and Draw with SEED Tokenizer** (Oct 2023)\
+Yuying Ge, Sijie Zhao, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
+[![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/seed/)
+
++ **DreamLLM: Synergistic Multimodal Comprehension and Creation** (Oct 2023)\
+Dong, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
+[![Code](https://img.shields.io/github/stars/CompVis/stable-diffusion.svg?style=social&label=Star)](https://github.com/RunpeiDong/DreamLLM/tree/master)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dreamllm.github.io/)
+
 ## Video Editing
 + **Pix2Video: Video Editing using Image Diffusion** (Mar 2023)\
 Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023\
