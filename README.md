@@ -29,6 +29,22 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![Code](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix.svg?style=social&label=Star)](https://github.com/timothybrooks/instruct-pix2pix)
 
 ## Image Generation
+
++ **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** (Oct 2023)\
+Zeqiang, Lai, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07653)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fb5c0eff3696ef252aca9638e10176ecce7cecb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-LLaMA-SEE-and-Draw-with-SEED-Tokenizer-Ge-Zhao/5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minidalle3.github.io/)
+[![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/Zeqiang-Lai/Mini-DALLE3)
+
++ **Making LLaMA SEE and Draw with SEED Tokenizer** (Oct 2023)\
+Ge, Yuying, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01218)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fb5c0eff3696ef252aca9638e10176ecce7cecb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-LLaMA-SEE-and-Draw-with-SEED-Tokenizer-Ge-Zhao/5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/seed/)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://dad1ed9a9fb76fe83b.gradio.live/)
+[![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+
 + **Generating Images with Multimodal Language Models** (Oct 2023)\
 Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17216)
