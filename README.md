@@ -130,3 +130,8 @@ Copet, Jade, et al. \
 [![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/facebookresearch/audiocraft)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://audiocraft.metademolab.com/musicgen.html)
 
++ **Simple and Controllable Music Generation** (Jan 2023)\
+Copet, Jade, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11325)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://google-research.github.io/seanet/musiclm/examples/)
+
