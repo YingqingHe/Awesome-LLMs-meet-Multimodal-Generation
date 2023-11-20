@@ -137,19 +137,37 @@ Luo, Zhengxiong, et al. CVPR 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
 
 ## Audio Generation
+
++ **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (Oct 2023)\
+Yu, Dingyao, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11954)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbeaf64df85f8204b8cd89a7f46827608e6d16922%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicAgent%3A-An-AI-Agent-for-Music-Understanding-and-Yu-Song/beaf64df85f8204b8cd89a7f46827608e6d16922)
+[![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
+
 + **AudioPaLM: A Large Language Model That Can Speak and Listen** (Jun 2023)\
 Rubenstein, Paul K., et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12925)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3efb81de24eb88017d6dbcf22cb4215084223fd8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioPaLM%3A-A-Large-Language-Model-That-Can-Speak-Rubenstein-Asawaroengchai/3efb81de24eb88017d6dbcf22cb4215084223fd8)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/audiopalm/examples/)
 
 + **Simple and Controllable Music Generation** (Jun 2023)\
 Copet, Jade, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05284)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Simple-and-Controllable-Music-Generation-Copet-Kreuk/4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audiocraft.metademolab.com/musicgen.html)
 [![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/facebookresearch/audiocraft)
 
-+ **Simple and Controllable Music Generation** (Jan 2023)\
-Copet, Jade, et al. \
++ **MuseCoco: Generating Symbolic Music from Text** (Jun 2023)\
+Lu, Peiling, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00110)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa559acac0e84319d62cefd564a5eecbf9d566ec4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MuseCoco%3A-Generating-Symbolic-Music-from-Text-Lu-Xu/a559acac0e84319d62cefd564a5eecbf9d566ec4)
+[![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musecoco)
+
++ **MusicLM: Generating Music From Text** (Jan 2023)\
+Agostinelli, Andrea, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11325)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLM%3A-Generating-Music-From-Text-Agostinelli-Denk/428854d9e75f94f0e61f37c6887c77800437d516)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/musiclm/examples/)
 
+
+ 
