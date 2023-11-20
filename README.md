@@ -103,7 +103,7 @@ Dong, Runpei, et al.\
 
 ## Video Editing
 + **Pix2Video: Video Editing using Image Diffusion** (Mar 2023)\
-Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023\
+Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12688)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://duyguceylan.github.io/pix2video.github.io/)
 [![Code](https://img.shields.io/github/stars/duyguceylan/pix2video.svg?style=social&label=Star)](https://github.com/duyguceylan/pix2video)
