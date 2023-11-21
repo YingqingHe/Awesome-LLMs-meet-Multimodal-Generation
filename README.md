@@ -8,7 +8,7 @@ Quan, Sun, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05222)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b689adb8c156d6158660f90d1c86888ee281f63%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generative-Pretraining-in-Multimodality-Sun-Yu/94053805cd59f2e9a47fe3f080c7e7afefb337cc)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](http://218.91.113.230:9002)
-[![Code](https://img.shields.io/github/stars//baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu)
+[![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu)
 
 
 
