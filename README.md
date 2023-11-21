@@ -3,6 +3,13 @@
 
 ## Image Generation
 
++ **Grounding language models to images for multimodal generation** (July 2023)\
+Quan, Sun, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13823)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6173520a1eb2814d067e8c5fd16212b7cbf6ee78%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Grounding-Language-Models-to-Images-for-Multimodal-Koh-Salakhutdinov/6173520a1eb2814d067e8c5fd16212b7cbf6ee78)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/fromage)
+[![Code](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage)
+
 + **Generative Pretraining in Multimodality** (July 2023)\
 Quan, Sun, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05222)
@@ -10,15 +17,12 @@ Quan, Sun, et al.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](http://218.91.113.230:9002)
 [![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu)
 
-
-
 + **DreamLLM: Synergistic Multimodal Comprehension and Creation** (Oct 2023)\
 Dong, Runpei, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b689adb8c156d6158660f90d1c86888ee281f63%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamLLM%3A-Synergistic-Multimodal-Comprehension-and-Dong-Han/7b689adb8c156d6158660f90d1c86888ee281f63)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamllm.github.io/)
 [![Code](https://img.shields.io/github/stars/RunpeiDong/DreamLLM.svg?style=social&label=Star)](https://github.com/RunpeiDong/DreamLLM)
-
 
 + **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** (Oct 2023)\
 Zeqiang, Lai, et al.\
@@ -73,12 +77,12 @@ Gan, Yulu, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F366564d210768814bc880e391b909cfbd95f8964%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SwitchGPT%3A-Adapting-Large-Language-Models-for-Wang-Zhuang/366564d210768814bc880e391b909cfbd95f8964)
 [![Code](https://img.shields.io/github/stars/xinke-wang/SwitchGPT.svg?style=social&label=Star)](https://github.com/xinke-wang/SwitchGPT)
 
-+ **GLayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
++ **-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
 Qu, Leigang, et al. ACM MM 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05095)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutLLM-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutllm-t2i.github.io/)
-[![Code](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://-t2i.github.io/)
+[![Code](https://img.shields.io/github/stars/-T2I/-T2I.svg?style=social&label=Star)](https://github.com/-T2I/-T2I)
 
 + **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs** (Jun 2023)\
 Yu, Lijun, et al. NeurIPS 2023 spotlight.\
