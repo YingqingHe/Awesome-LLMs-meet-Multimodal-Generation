@@ -200,6 +200,7 @@ Wang, Xiang, et al.\
 Hong, Susung, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14330)
 [![Code](https://img.shields.io/github/stars/KU-CVLAB/DirecT2V.svg?style=social&label=Star)](https://github.com/KU-CVLAB/DirecT2V)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdb1750d2a6e3480e690999916a86c8b3876577b39%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-are-Frame-level-Directors-for-Hong-Seo/b1750d2a6e3480e690999916a86c8b3876577b39)
 
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
