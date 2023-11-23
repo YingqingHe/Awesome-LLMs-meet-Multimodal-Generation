@@ -164,6 +164,12 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 
 ## Video Generation
 
++ **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning** (Nov 2023)\
+Yu, Lijun, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://gpt4motion.github.io/)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F66facda0b11bae0bac6f0f1828d3b10e7d9b2047%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/GPT4Motion%3A-Scripting-Physical-Motions-in-via-GPT-Lv-Huang/66facda0b11bae0bac6f0f1828d3b10e7d9b2047)
+
 + **Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (Oct 2023)\
 Yu, Lijun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
@@ -174,7 +180,6 @@ Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
-
 
 + **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning** (Sep 2023)\
 Lin, Han, et al.\
@@ -200,7 +205,7 @@ Wang, Xiang, et al.\
 Hong, Susung, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14330)
 [![Code](https://img.shields.io/github/stars/KU-CVLAB/DirecT2V.svg?style=social&label=Star)](https://github.com/KU-CVLAB/DirecT2V)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdb1750d2a6e3480e690999916a86c8b3876577b39%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-are-Frame-level-Directors-for-Hong-Seo/b1750d2a6e3480e690999916a86c8b3876577b39)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb1750d2a6e3480e690999916a86c8b3876577b39%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-are-Frame-level-Directors-for-Hong-Seo/b1750d2a6e3480e690999916a86c8b3876577b39)
 
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
