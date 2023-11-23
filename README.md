@@ -8,6 +8,13 @@ Yang, Zhen, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04589)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59d716b442ab760a78f58de6748c0fa1d507bfc1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TEAL%3A-Tokenize-and-Embed-ALL-for-Multi-modal-Large-Yang-Zhang/59d716b442ab760a78f58de6748c0fa1d507bfc1)
 
++ **MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens** (Oct 2023)\
+Zheng, Kaizhi, Xuehai He, and Xin Eric Wang.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02239)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe7d09b6f2bc878cf2c993acf675f409d0b55f35a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-5%3A-Interleaved-Vision-and-Language-via-Zheng-He/e7d09b6f2bc878cf2c993acf675f409d0b55f35a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://eric-ai-lab.github.io/minigpt-5.github.io/)
+[![Code](https://img.shields.io/github/stars/eric-ai-lab/MiniGPT-5.svg?style=social&label=Star)](https://github.com/eric-ai-lab/MiniGPT-5)
+
 + **DreamLLM: Synergistic Multimodal Comprehension and Creation** (Oct 2023)\
 Dong, Runpei, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
@@ -68,12 +75,12 @@ Gan, Yulu, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F366564d210768814bc880e391b909cfbd95f8964%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SwitchGPT%3A-Adapting-Large-Language-Models-for-Wang-Zhuang/366564d210768814bc880e391b909cfbd95f8964)
 [![Code](https://img.shields.io/github/stars/xinke-wang/SwitchGPT.svg?style=social&label=Star)](https://github.com/xinke-wang/SwitchGPT)
 
-+ **-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
++ **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
 Qu, Leigang, et al. ACM MM 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05095)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://-t2i.github.io/)
-[![Code](https://img.shields.io/github/stars/-T2I/-T2I.svg?style=social&label=Star)](https://github.com/-T2I/-T2I)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutLLM-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutllm-t2i.github.io/)
+[![Code](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
 
 + **Generative Pretraining in Multimodality** (Jul 2023)\
 Quan, Sun, et al.\
