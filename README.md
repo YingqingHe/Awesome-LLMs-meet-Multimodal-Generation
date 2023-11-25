@@ -1,4 +1,4 @@
-# LLMs-VisualGen
+# LLMs for Visual Generation
 
 
 ## Image Generation
@@ -279,5 +279,45 @@ Agostinelli, Andrea, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLM%3A-Generating-Music-From-Text-Agostinelli-Denk/428854d9e75f94f0e61f37c6887c77800437d516)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/musiclm/examples/)
 
+# Multitask LLMs
++ **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (Oct 2023)\
+Liu, Zhaoyang, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F288e7224d53d68669eb67f2496e068dc965c639e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ControlLLM%3A-Augment-Language-Models-with-Tools-by-Liu-Lai/288e7224d53d68669eb67f2496e068dc965c639e)
+[![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/OpenGVLab/ControlLLM)\
+**Tags:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
 
- 
++ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** ()
+
++ **AutoGPT: build & use AI agents** ()
+
+# LLMs for Visual Understanding
+## Image
+
+## Video
++ **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** (Jul 2023)\
+Zhang, Hang, Xin Li, and Lidong Bing.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02858)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5d321194696f1f75cf9da045e6022b2f20ba5b9c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaMA%3A-An-Instruction-tuned-Audio-Visual-for-Zhang-Li/5d321194696f1f75cf9da045e6022b2f20ba5b9c)
+[![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)
+
++ **AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?** (Jul 2023)\
+Zhao, Qi, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16368)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6024f320e0a5b9b8fc29b86903aa9a96956b26dd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AntGPT%3A-Can-Large-Language-Models-Help-Long-term-Zhao-Zhang/6024f320e0a5b9b8fc29b86903aa9a96956b26dd)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://brown-palm.github.io/AntGPT/)
+
++ **Learning video embedding space with Natural Language Supervision** (Mar 2023)\
+Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14584)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e54a45d2118b61ae1baec07308af3fdd2c48759%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-video-embedding-space-with-Natural-Uppala-Bamotra/4e54a45d2118b61ae1baec07308af3fdd2c48759)
+
++ **Valley: Video Assistant with Large Language model Enhanced ability** (Jun 2023)\
+Luo, Ruipu, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07207)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4c4d176c6e28f48041f215d563f6ee8633534cff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Valley%3A-Video-Assistant-with-Large-Language-model-Luo-Zhao/4c4d176c6e28f48041f215d563f6ee8633534cff)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://valley-vl.github.io/)
+[![Code](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley)
+
+
