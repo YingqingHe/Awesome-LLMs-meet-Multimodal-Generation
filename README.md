@@ -2,6 +2,10 @@
 
 
 ## Image Generation
++ **Self-correcting LLM-controlled Diffusion Models** (Nov 2023)\
+Wu, Tsung-Han, Long Lian, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16090)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Self-correcting-LLM-controlled-Diffusion-Models-Wu-Lian/42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e)
 
 + **Tokenize and Embed ALL for Multi-modal Large Language Models** (Nov 2023)\
 Yang, Zhen, et al.\
@@ -61,6 +65,12 @@ Qu, Leigang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08949v1)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F833cdd713c27ab5899bb912a1d511c10af61cefb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-Multimodal-Generation-Easier%3A-When-Diffusion-Zhao-Liu/833cdd713c27ab5899bb912a1d511c10af61cefb)
 [![Code](https://img.shields.io/github/stars/zxy556677/EasyGen.svg?style=social&label=Star)](https://github.com/zxy556677/EasyGen)
+
++ **Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation** (Oct 2023)\
+Yang, Zhengyuan, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08541)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1d14a708622917da4b9820ada6d32af24fc1651a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Idea2Img%3A-Iterative-Self-Refinement-with-for-Image-Yang-Wang/1d14a708622917da4b9820ada6d32af24fc1651a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://idea2img.github.io/)
 
 + **InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists** (Sep 2023)\
 Gan, Yulu, et al.\
@@ -178,6 +188,13 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 
 ## Video Generation
 
++ **InterControl: Generate Human Motion Interactions by Controlling Every Joint** (Nov 2023)\
+Yu, Lijun, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15864)
+[![Code](https://img.shields.io/github/stars/zhenzhiwang/intercontrol.svg?style=social&label=Star)](https://github.com/zhenzhiwang/intercontrol)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9cdb7e415a96795dc6705e66f3b798238b4dec2c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InterControl%3A-Generate-Human-Motion-Interactions-by-Wang-Wang/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
+
+
 + **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning** (Nov 2023)\
 Yu, Lijun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631)
@@ -279,24 +296,51 @@ Agostinelli, Andrea, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLM%3A-Generating-Music-From-Text-Agostinelli-Denk/428854d9e75f94f0e61f37c6887c77800437d516)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/musiclm/examples/)
 
-# Multitask LLMs
+# Multi-Modal Agents
 + **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (Oct 2023)\
 Liu, Zhaoyang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F288e7224d53d68669eb67f2496e068dc965c639e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ControlLLM%3A-Augment-Language-Models-with-Tools-by-Liu-Lai/288e7224d53d68669eb67f2496e068dc965c639e)
 [![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/OpenGVLab/ControlLLM)\
-**Tags:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
+**Tasks:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
 
-+ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** ()
++ **ImageBind-LLM: Multi-modality Instruction Tuning** (Sep 2023)\
+Han, Jiaming, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54c68b8623505dc6bf7a0b08aaa77ca9165f2d7f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ImageBind-LLM%3A-Multi-modality-Instruction-Tuning-Han-Zhang/54c68b8623505dc6bf7a0b08aaa77ca9165f2d7f)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star)](https://github.com/OpenGVLab/LLaMA-Adapter)\
+**Condition Modality:** `text` `image` `video` `audio` `point cloud`
 
-+ **AutoGPT: build & use AI agents** ()
++ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** (May 2023)
+Liu, Zhaoyang, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05662)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54a8b153ed04a872da878d695239bdc413dc782c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternGPT%3A-Solving-Vision-Centric-Tasks-by-with-Liu-He/54a8b153ed04a872da878d695239bdc413dc782c)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)\
+
++ **AutoGPT: build & use AI agents**
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)\
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://news.agpt.co/)
 
 # LLMs for Visual Understanding
 ## Image
+Enhancing Scene Graph Generation with Hierarchical Relationships and Commonsense Knowledge
 
 ## Video
++ **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (Nov 2023)\
+Ning, Munan, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16103)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb037bb09aa162d8a543e64ec777ca0edc732d2af%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-Bench%3A-A-Comprehensive-Benchmark-and-Toolkit-Ning-Zhu/b037bb09aa162d8a543e64ec777ca0edc732d2af)
+[![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Video-Bench.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Video-Bench)
+
++ **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models** (Nov 2023)\
+Munasinghe, Shehan, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13435)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4edbb942c2d20a6f5a4e3caa763a9761be953231%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PG-Video-LLaVA%3A-Pixel-Grounding-Large-Models-Munasinghe-Thushara/4edbb942c2d20a6f5a4e3caa763a9761be953231)
+[![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-LLaVA.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-LLaVA)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mbzuai-oryx.github.io/Video-LLaVA/)
+
 + **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** (Jul 2023)\
-Zhang, Hang, Xin Li, and Lidong Bing.\
+Zhang, Hang, Xin Li, and Lidong Bing. EMNLP 2023's demo track. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02858)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5d321194696f1f75cf9da045e6022b2f20ba5b9c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaMA%3A-An-Instruction-tuned-Audio-Visual-for-Zhang-Li/5d321194696f1f75cf9da045e6022b2f20ba5b9c)
 [![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)
@@ -308,16 +352,35 @@ Zhao, Qi, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6024f320e0a5b9b8fc29b86903aa9a96956b26dd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AntGPT%3A-Can-Large-Language-Models-Help-Long-term-Zhao-Zhang/6024f320e0a5b9b8fc29b86903aa9a96956b26dd)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://brown-palm.github.io/AntGPT/)
 
-+ **Learning video embedding space with Natural Language Supervision** (Mar 2023)\
-Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14584)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e54a45d2118b61ae1baec07308af3fdd2c48759%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-video-embedding-space-with-Natural-Uppala-Bamotra/4e54a45d2118b61ae1baec07308af3fdd2c48759)
-
 + **Valley: Video Assistant with Large Language model Enhanced ability** (Jun 2023)\
 Luo, Ruipu, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07207)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4c4d176c6e28f48041f215d563f6ee8633534cff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Valley%3A-Video-Assistant-with-Large-Language-model-Luo-Zhao/4c4d176c6e28f48041f215d563f6ee8633534cff)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://valley-vl.github.io/)
 [![Code](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley)
+
++ **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** (Jun 2023)\
+Maaz, Muhammad, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07207)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7025a2e5dbb3c09deae02a1aa98a256ca559e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-ChatGPT%3A-Towards-Detailed-Video-Understanding-Maaz-Rasheed/bf7025a2e5dbb3c09deae02a1aa98a256ca559e2)
+[![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)
+
++ **VideoChat: Chat-Centric Video Understanding** (May 2023)\
+Li, KunChang, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06355)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd48cb91b9e555194f7494c4d4bb9815021d3ee45%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoChat%3A-Chat-Centric-Video-Understanding-Li-He/d48cb91b9e555194f7494c4d4bb9815021d3ee45)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)
+
++ **VideoLLM: Modeling Video Sequence with Large Language Models** (May 2023)\
+Chen, Guo, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06355)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff9bfc6d9ba1665b73af3323d46c7642b852759ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoLLM%3A-Modeling-Video-Sequence-with-Large-Models-Chen-Zheng/f9bfc6d9ba1665b73af3323d46c7642b852759ef)
+[![Code](https://img.shields.io/github/stars/cg1177/VideoLLM.svg?style=social&label=Star)](https://github.com/cg1177/VideoLLM)
+
++ **Learning video embedding space with Natural Language Supervision** (Mar 2023)\
+Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14584)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e54a45d2118b61ae1baec07308af3fdd2c48759%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-video-embedding-space-with-Natural-Uppala-Bamotra/4e54a45d2118b61ae1baec07308af3fdd2c48759)
+
 
 
