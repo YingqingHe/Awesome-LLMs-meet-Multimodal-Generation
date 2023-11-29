@@ -274,6 +274,7 @@ Wang, Yi, et al.\
 + **Pix2Video: Video Editing using Image Diffusion** (Mar 2023)\
 Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12688)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F32a3c2fbd3e733bd0eea938517fec2ff8dc7c701%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Pix2Video%3A-Video-Editing-using-Image-Diffusion-Ceylan-Huang/32a3c2fbd3e733bd0eea938517fec2ff8dc7c701)
 [![Code](https://img.shields.io/github/stars/duyguceylan/pix2video.svg?style=social&label=Star)](https://github.com/duyguceylan/pix2video)
 
 + **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (Apr 2021)\
