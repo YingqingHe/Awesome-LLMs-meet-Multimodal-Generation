@@ -339,8 +339,9 @@ Liu, Zhaoyang, et al. \
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)
 
 + **AutoGPT: build & use AI agents**\
-[![Code](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://news.agpt.co/)
+[![Code](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)
+
 
 # LLMs for Visual Understanding
 ## Image
