@@ -219,6 +219,7 @@ Huang, Hanzhuo, et al. NeurIPS 2023. \
 + **LLM-grounded Video Diffusion Models** (Sep 2023)\
 Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F87bf66eb6d22df17f70170a0e575b4f12c4813ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Video-Diffusion-Models-Lian-Shi/87bf66eb6d22df17f70170a0e575b4f12c4813ef)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
 
