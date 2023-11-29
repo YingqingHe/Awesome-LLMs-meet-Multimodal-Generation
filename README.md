@@ -256,7 +256,7 @@ Chen, Haoxin, et al.\
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
-
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26c6090b7e7ba4513f82aa28d41360c60770c618%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoFusion%3A-Decomposed-Diffusion-Models-for-Video-Luo-Chen/26c6090b7e7ba4513f82aa28d41360c60770c618)
 
 ### Datasets
 
