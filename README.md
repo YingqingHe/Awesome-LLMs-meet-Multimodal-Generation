@@ -243,6 +243,14 @@ Hong, Susung, et al.\
 
 
 ### Multimodal Language Model-based Approaches
++ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (Oct 2023)\
+Chen, Haoxin, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1891c3756f870d902a0b793a1dcd5cc34c778612%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoCrafter1%3A-Open-Diffusion-Models-for-Video-Chen-Xia/1891c3756f870d902a0b793a1dcd5cc34c778612)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter/)
+
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
@@ -326,15 +334,14 @@ Han, Jiaming, et al.\
 Liu, Zhaoyang, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05662)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54a8b153ed04a872da878d695239bdc413dc782c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternGPT%3A-Solving-Vision-Centric-Tasks-by-with-Liu-He/54a8b153ed04a872da878d695239bdc413dc782c)
-[![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)\
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)
 
-+ **AutoGPT: build & use AI agents**
-[![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)\
++ **AutoGPT: build & use AI agents**\
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://news.agpt.co/)
 
 # LLMs for Visual Understanding
 ## Image
-Enhancing Scene Graph Generation with Hierarchical Relationships and Commonsense Knowledge
 
 ## Video
 + **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (Nov 2023)\
