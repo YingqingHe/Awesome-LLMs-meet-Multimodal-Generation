@@ -92,6 +92,14 @@ Qu, Leigang, et al. ACM MM 2023.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutllm-t2i.github.io/)
 [![Code](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
 
++ **Planting a SEED of Vision in Large Language Model** (Jul 2023)\
+Yuying, Ge, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F40298b8d50109c52fc10763eddc64a07cf8acb31%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Planting-a-SEED-of-Vision-in-Large-Language-Model-Ge-Ge/40298b8d50109c52fc10763eddc64a07cf8acb31)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/seed/)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+
+
 + **Generative Pretraining in Multimodality** (Jul 2023)\
 Quan, Sun, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05222)
