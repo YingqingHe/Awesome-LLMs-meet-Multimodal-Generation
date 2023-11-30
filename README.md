@@ -259,6 +259,14 @@ Hong, Susung, et al.\
 
 
 ### Multimodal Language Model-based Approaches
+
++ **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** (Nov 2023)\
+Blattmann, Andreas, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15127)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1206b05eae5a06ba662ae79fb291b50e359c4f42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Stable-Video-Diffusion%3A-Scaling-Latent-Video-Models-Blattmann-Dockhorn/1206b05eae5a06ba662ae79fb291b50e359c4f42)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)
+[![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
+
 + **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (Oct 2023)\
 Chen, Haoxin, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
