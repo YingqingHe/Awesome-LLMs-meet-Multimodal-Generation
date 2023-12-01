@@ -304,6 +304,12 @@ Fu, Tsu-Jui, et al. CVPR 2022.\
 
 ## Audio Generation
 
++ **Music ControlNet: Multiple Time-varying Controls for Music Generation** (Nov 2023)\
+Wu, Shih-Lun, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07069)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42239e71a712d70cd24e06ffc0cf0d22fc628a36%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Music-ControlNet%3A-Multiple-Time-varying-Controls-Wu-Donahue/42239e71a712d70cd24e06ffc0cf0d22fc628a36)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musiccontrolnet.github.io/web/)
+
 + **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (Oct 2023)\
 Yu, Dingyao, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11954)
@@ -433,10 +439,18 @@ Wang, Wenhai, et al. NeurIPS 2023.\
 Dai, Wenliang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06500)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8bd6a2a89503be083176f2cc26fabedb79238cbd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructBLIP%3A-Towards-General-purpose-Models-with-Dai-Li/8bd6a2a89503be083176f2cc26fabedb79238cbd)
-[![Code](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+[![Code](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-VL)
+
++ **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** (Apr 2023)\
+Bai, Jinze, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12966)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc6a2f7478f68adefd69e2071f27e38aa1647f2f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Qwen-VL%3A-A-Versatile-Vision-Language-Model-for-Text-Bai-Bai/fc6a2f7478f68adefd69e2071f27e38aa1647f2f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/QwenLM/Qwen-VL/blob/master/TUTORIAL.md)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary)
+[![Code](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-VL)
 
 + **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models** (Apr 2023)\
-Zhu, Deyao, et al.. \
+Zhu, Deyao, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10592)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fca6a2bc279be5a3349a22bfd6866ed633d18734b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-4%3A-Enhancing-Vision-Language-Understanding-Zhu-Chen/ca6a2bc279be5a3349a22bfd6866ed633d18734b)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minigpt-4.github.io/)
