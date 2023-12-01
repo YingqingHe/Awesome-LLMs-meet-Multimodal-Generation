@@ -402,6 +402,14 @@ Munasinghe, Shehan, et al. \
 [![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-LLaVA.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-LLaVA)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mbzuai-oryx.github.io/Video-LLaVA/)
 
++ **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection** (Nov 2023)\
+Lin, Bin, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10122)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F107fb6eec2febbae12db29bf3e311aaf5680027c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaVA%3A-Learning-United-Visual-Representation-Lin-Zhu/107fb6eec2febbae12db29bf3e311aaf5680027c)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/LanguageBind/Video-LLaVA)
+[![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-LLaVA.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Video-LLaVA)
+
+
 + **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** (Jul 2023)\
 Zhang, Hang, Xin Li, and Lidong Bing. EMNLP 2023's demo track. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02858)
