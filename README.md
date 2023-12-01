@@ -414,6 +414,14 @@ Jin, Yang, et al. \
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbcac614f9774488447221ebb4f16f05e3975ec1e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Unified-Language-Vision-Pretraining-in-LLM-with-Jin-Xu/bcac614f9774488447221ebb4f16f05e3975ec1e)
 [![Code](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT)
 
++ **NExT-GPT: Any-to-Any Multimodal LLM** (Oct 2023)\
+Wu, Shengqiong, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffa75a55760e6ea49b39b83cb85c99a22e1088254%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/NExT-GPT%3A-Any-to-Any-Multimodal-LLM-Wu-Fei/fa75a55760e6ea49b39b83cb85c99a22e1088254)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://next-gpt.github.io/)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
+[![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
+
 + **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks** (May 2023)\
 Wang, Wenhai, et al. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11175)
