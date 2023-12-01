@@ -2,6 +2,11 @@
 
 
 ## Image Generation
++ **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model** (Nov 2023)\
+Xiaowei, Chi, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17963)
+[![Code](https://img.shields.io/github/stars/litwellchi/ChatIllusion.svg?style=social&label=Star)](https://github.com/litwellchi/ChatIllusion)
+
 + **OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation** (Nov 2023)\
 Jie, An, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07749)
@@ -380,7 +385,7 @@ Li, Yanwei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03079)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3bf842dec99016da2d309ea8cbd7e25343032317%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CogVLM%3A-Visual-Expert-for-Pretrained-Language-Wang-Lv/3bf842dec99016da2d309ea8cbd7e25343032317)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://36.103.203.44:7861/)
-[![Code](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM/tree/main)
+[![Code](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM)
 
 
 ## Video
