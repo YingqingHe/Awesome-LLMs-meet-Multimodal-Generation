@@ -375,6 +375,14 @@ Li, Yanwei, et al. \
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://103.170.5.190:7864/)
 [![Code](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/dvlab-research/LLaMA-VID)
 
++ **CogVLM: Visual Expert for Pretrained Language Models** (Nov 2023)\
+Li, Yanwei, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03079)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3bf842dec99016da2d309ea8cbd7e25343032317%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CogVLM%3A-Visual-Expert-for-Pretrained-Language-Wang-Lv/3bf842dec99016da2d309ea8cbd7e25343032317)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://36.103.203.44:7861/)
+[![Code](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM/tree/main)
+
+
 ## Video
 + **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (Nov 2023)\
 Ning, Munan, et al. \
