@@ -49,8 +49,8 @@ Ge, Yuying, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01218)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-LLaMA-SEE-and-Draw-with-SEED-Tokenizer-Ge-Zhao/5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/seed/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://dad1ed9a9fb76fe83b.gradio.live/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://dad1ed9a9fb76fe83b.gradio.live/)
 
 + **Generating Images with Multimodal Language Models** (Oct 2023)\
 Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
@@ -87,8 +87,8 @@ Yang, Zhengyuan, et al.\
 Gan, Yulu, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00390)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F819f477065088220a6f706cd9ef76dbcb4b4c134%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructCV%3A-Instruction-Tuned-Text-to-Image-Models-Gan-Park/819f477065088220a6f706cd9ef76dbcb4b4c134)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/alaa-lab/InstructCV)
 [![Code](https://img.shields.io/github/stars/AlaaLab/InstructCV.svg?style=social&label=Star)](https://github.com/AlaaLab/InstructCV)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/alaa-lab/InstructCV)
 
 + **SwitchGPT: Adapting Large Language Models for Non-Text Outputs** (Sep 2023)\
 Wang, Xinyu, Bohan Zhuang, and Qi Wu.\
@@ -115,8 +115,8 @@ Yuying, Ge, et al.\
 Quan, Sun, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05222)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F94053805cd59f2e9a47fe3f080c7e7afefb337cc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generative-Pretraining-in-Multimodality-Sun-Yu/94053805cd59f2e9a47fe3f080c7e7afefb337cc)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://218.91.113.230:9002)
 [![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://218.91.113.230:9002)
 
 + **NExT-GPT: Any-to-Any Multimodal LLM** (Jun 2023)\
 Shengqiong, Wu, et al.\
@@ -262,8 +262,8 @@ Huang, Ziqi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e9a8141da2a8c603722b07d096109207f8e0b66%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VBench%3A-Comprehensive-Benchmark-Suite-for-Video-Huang-He/4e9a8141da2a8c603722b07d096109207f8e0b66)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://vchitect.github.io/VBench-project/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)
 
 + **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** (Nov 2023)\
 Blattmann, Andreas, et al.\
@@ -277,8 +277,8 @@ Chen, Haoxin, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1891c3756f870d902a0b793a1dcd5cc34c778612%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoCrafter1%3A-Open-Diffusion-Models-for-Video-Chen-Xia/1891c3756f870d902a0b793a1dcd5cc34c778612)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
 
 + **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** (Jul 2023)\
 He, Yingqing, et al.\
@@ -299,8 +299,8 @@ Ma, Yue, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fee73edebd42626d9c2d91e35fd2ed3cdb0fb26d0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Follow-Your-Pose%3A-Pose-Guided-Text-to-Video-using-Ma-He/ee73edebd42626d9c2d91e35fd2ed3cdb0fb26d0)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-pose.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/YueMafighting/FollowYourPose)
 [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/YueMafighting/FollowYourPose)
 
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
@@ -313,8 +313,8 @@ Luo, Zhengxiong, et al. CVPR 2023.\
 Wang, Yi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F369b449415d50387fba048bbd4d26ee890df84b5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVid%3A-A-Large-scale-Video-Text-Dataset-for-and-Wang-He/369b449415d50387fba048bbd4d26ee890df84b5)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/OpenGVLab/InternVid)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/OpenGVLab/InternVid)
 
 ## Video Editing
 
@@ -397,15 +397,15 @@ Liu, Zhaoyang, et al. \
 Shen, Yongliang, et al. NeurIPS 2023 \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17580)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd1120d67b700e4dfe8b39eb1e48fbdea4e1a0c43%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HuggingGPT%3A-Solving-AI-Tasks-with-ChatGPT-and-its-Shen-Song/d1120d67b700e4dfe8b39eb1e48fbdea4e1a0c43)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/HuggingGPT)
 [![Code](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/microsoft/JARVIS)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/HuggingGPT)
 
 + **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** (Mar 2023)\
 Wu, Chenfei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04671)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf997821231898a5f8d0fd78dad4eec526acabe5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-ChatGPT%3A-Talking%2C-Drawing-and-Editing-with-Wu-Yin/af997821231898a5f8d0fd78dad4eec526acabe5)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/visual_chatgpt)
 [![Code](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/moymix/TaskMatrix)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/visual_chatgpt)
 
 + **AutoGPT: build & use AI agents**\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://news.agpt.co/)
@@ -419,23 +419,23 @@ Li, Yanwei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17043)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F486c2df78cbb770a90a55f7fa3fe19102fba2c24%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLaMA-VID%3A-An-Image-is-Worth-2-Tokens-in-Large-Li-Wang/486c2df78cbb770a90a55f7fa3fe19102fba2c24)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llama-vid.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://103.170.5.190:7864/)
 [![Code](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/dvlab-research/LLaMA-VID)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://103.170.5.190:7864/)
 
 + **CogVLM: Visual Expert for Pretrained Language Models** (Nov 2023)\
 Li, Yanwei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03079)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3bf842dec99016da2d309ea8cbd7e25343032317%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CogVLM%3A-Visual-Expert-for-Pretrained-Language-Wang-Lv/3bf842dec99016da2d309ea8cbd7e25343032317)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://36.103.203.44:7861/)
 [![Code](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://36.103.203.44:7861/)
 
 + **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning** (Oct 2023)\
 Chen, Jun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09478)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1ddbd08ad8cf22a5c66c4242194c4286328533bf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-v2%3A-large-language-model-as-a-unified-for-Chen-Zhu/1ddbd08ad8cf22a5c66c4242194c4286328533bf)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minigpt-v2.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 [![Code](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 
 + **OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue** (Oct 2023)\
 Gao, Weihao, et al.\
@@ -455,23 +455,23 @@ Wu, Shengqiong, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffa75a55760e6ea49b39b83cb85c99a22e1088254%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/NExT-GPT%3A-Any-to-Any-Multimodal-LLM-Wu-Fei/fa75a55760e6ea49b39b83cb85c99a22e1088254)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://next-gpt.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
 [![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
 
 + **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** (Aug 2023)\
 Bai, Jinze, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12966)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc6a2f7478f68adefd69e2071f27e38aa1647f2f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Qwen-VL%3A-A-Versatile-Vision-Language-Model-for-Text-Bai-Bai/fc6a2f7478f68adefd69e2071f27e38aa1647f2f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/QwenLM/Qwen-VL/blob/master/TUTORIAL.md)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary)
 [![Code](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-VL)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary)
 
 + **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks** (May 2023)\
 Wang, Wenhai, et al. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11175)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42a30dc5470f54ec249f25d3c31e05d7c376c8e3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VisionLLM%3A-Large-Language-Model-is-also-an-Decoder-Wang-Chen/42a30dc5470f54ec249f25d3c31e05d7c376c8e3)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://github.com/OpenGVLab/InternGPT)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/VisionLLM)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://github.com/OpenGVLab/InternGPT)
 
 + **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning** (May 2023)\
 Dai, Wenliang, et al.\
@@ -484,16 +484,16 @@ Zhu, Deyao, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10592)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fca6a2bc279be5a3349a22bfd6866ed633d18734b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-4%3A-Enhancing-Vision-Language-Understanding-Zhu-Chen/ca6a2bc279be5a3349a22bfd6866ed633d18734b)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minigpt-4.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 [![Code](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 
 + **Visual Instruction Tuning** (Apr 2023)\
 Liu, Haotian, et al. NeurIPS 2023 (oral).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08485)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1a8eb2cae1833df3bf12fe3b41b03d60b4a4a98d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-Instruction-Tuning-Liu-Li/1a8eb2cae1833df3bf12fe3b41b03d60b4a4a98d)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llava-vl.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://llava.hliu.cc/)
 [![Code](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star)](https://github.com/haotian-liu/LLaVA)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://llava.hliu.cc/)
 
 
 ## Video
@@ -514,23 +514,23 @@ Munasinghe, Shehan, et al. \
 Lin, Bin, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10122)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F107fb6eec2febbae12db29bf3e311aaf5680027c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaVA%3A-Learning-United-Visual-Representation-Lin-Zhu/107fb6eec2febbae12db29bf3e311aaf5680027c)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/LanguageBind/Video-LLaVA)
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Video-LLaVA)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/LanguageBind/Video-LLaVA)
 
 + **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** (Nov 2023)\
 Jin, Peng, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.08046)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faad3d2e690f6c73f04a14622ceff51464bbc560e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Chat-UniVi%3A-Unified-Visual-Representation-Empowers-Jin-Takanobu/aad3d2e690f6c73f04a14622ceff51464bbc560e)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Chat-UniVi/Chat-UniVi)
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Chat-UniVi.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Chat-UniVi)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Chat-UniVi/Chat-UniVi)
 
 
 + **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** (Jul 2023)\
 Zhang, Hang, Xin Li, and Lidong Bing. EMNLP 2023's demo track. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02858)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5d321194696f1f75cf9da045e6022b2f20ba5b9c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaMA%3A-An-Instruction-tuned-Audio-Visual-for-Zhang-Li/5d321194696f1f75cf9da045e6022b2f20ba5b9c)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)
 [![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)
 
 + **AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?** (Jul 2023)\
 Zhao, Qi, et al.\
