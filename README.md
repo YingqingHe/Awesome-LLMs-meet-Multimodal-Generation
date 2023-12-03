@@ -257,6 +257,13 @@ Hong, Susung, et al.\
 
 
 ### Multimodal Language Model-based Approaches
++ **VBench: Comprehensive Benchmark Suite for Video Generative Models** (Nov 2023)\
+Huang, Ziqi, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e9a8141da2a8c603722b07d096109207f8e0b66%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VBench%3A-Comprehensive-Benchmark-Suite-for-Video-Huang-He/4e9a8141da2a8c603722b07d096109207f8e0b66)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://vchitect.github.io/VBench-project/)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)
+[![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench)
 
 + **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** (Nov 2023)\
 Blattmann, Andreas, et al.\
@@ -272,6 +279,20 @@ Chen, Haoxin, et al.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter/)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
+
++ **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** (Jul 2023)\
+He, Yingqing, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F77040969110fab39a55699cb06f9edf68789445a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Animate-A-Story%3A-Storytelling-with-Video-Generation-He-Xia/77040969110fab39a55699cb06f9edf68789445a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/Animate-A-Story/)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/Animate-A-Story.svg?style=social&label=Star)](https://github.com/AILab-CVC/Animate-A-Story)
+
++ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (Jun 2023)\
+Xing, Jinbo, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00943)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F52b10ae66d025e99fbb602935e155f97f4f0696f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Make-Your-Video%3A-Customized-Video-Generation-Using-Xing-Xia/52b10ae66d025e99fbb602935e155f97f4f0696f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/Make-Your-Video/)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/Make-Your-Video.svg?style=social&label=Star)](https://github.com/AILab-CVC/Make-Your-Video)
 
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
