@@ -2,49 +2,49 @@
 
 
 ## Image Generation
-+ **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model** (Nov 2023)\
++ **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model** (29 Nov 2023)\
 Xiaowei, Chi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17963)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F22d55c52f43f59634586ab95fefbb7dba8c8b190%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ChatIllusion%3A-Efficient-Aligning-Interleaved-with-Chi-Liu/22d55c52f43f59634586ab95fefbb7dba8c8b190)
 [![Code](https://img.shields.io/github/stars/litwellchi/ChatIllusion.svg?style=social&label=Star)](https://github.com/litwellchi/ChatIllusion)
 
-+ **OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation** (Nov 2023)\
-Jie, An, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07749)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7f1ba5630c3baa09b11cc665b3f71cdb117e5ffb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/OpenLEAF%3A-Open-Domain-Interleaved-Image-Text-and-An-Yang/7f1ba5630c3baa09b11cc665b3f71cdb117e5ffb)
-
-+ **Self-correcting LLM-controlled Diffusion Models** (Nov 2023)\
++ **Self-correcting LLM-controlled Diffusion Models** (27 Nov 2023)\
 Wu, Tsung-Han, Long Lian, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16090)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Self-correcting-LLM-controlled-Diffusion-Models-Wu-Lian/42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e)
 
-+ **Tokenize and Embed ALL for Multi-modal Large Language Models** (Nov 2023)\
++ **Tokenize and Embed ALL for Multi-modal Large Language Models** (8 Nov 2023)\
 Yang, Zhen, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04589)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59d716b442ab760a78f58de6748c0fa1d507bfc1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TEAL%3A-Tokenize-and-Embed-ALL-for-Multi-modal-Large-Yang-Zhang/59d716b442ab760a78f58de6748c0fa1d507bfc1)
 
-+ **MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens** (Oct 2023)\
++ **OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation** (3 Nov 2023)\
+Jie, An, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07749)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7f1ba5630c3baa09b11cc665b3f71cdb117e5ffb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/OpenLEAF%3A-Open-Domain-Interleaved-Image-Text-and-An-Yang/7f1ba5630c3baa09b11cc665b3f71cdb117e5ffb)
+
++ **MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens** (3 Oct 2023)\
 Zheng, Kaizhi, Xuehai He, and Xin Eric Wang.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02239)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe7d09b6f2bc878cf2c993acf675f409d0b55f35a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-5%3A-Interleaved-Vision-and-Language-via-Zheng-He/e7d09b6f2bc878cf2c993acf675f409d0b55f35a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://eric-ai-lab.github.io/minigpt-5.github.io/)
 [![Code](https://img.shields.io/github/stars/eric-ai-lab/MiniGPT-5.svg?style=social&label=Star)](https://github.com/eric-ai-lab/MiniGPT-5)
 
-+ **DreamLLM: Synergistic Multimodal Comprehension and Creation** (Oct 2023)\
++ **DreamLLM: Synergistic Multimodal Comprehension and Creation** (20 Sep 2023)\
 Dong, Runpei, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b689adb8c156d6158660f90d1c86888ee281f63%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamLLM%3A-Synergistic-Multimodal-Comprehension-and-Dong-Han/7b689adb8c156d6158660f90d1c86888ee281f63)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamllm.github.io/)
 [![Code](https://img.shields.io/github/stars/RunpeiDong/DreamLLM.svg?style=social&label=Star)](https://github.com/RunpeiDong/DreamLLM)
 
-+ **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** (Oct 2023)\
++ **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** (11 Oct 2023)\
 Zeqiang, Lai, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07653)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff669d7a6fab0147253178a6fc854e05e3d92fb3f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mini-DALLE3%3A-Interactive-Text-to-Image-by-Prompting-Lai-Zhu/f669d7a6fab0147253178a6fc854e05e3d92fb3f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minidalle3.github.io/)
 [![Code](https://img.shields.io/github/stars/Zeqiang-Lai/Mini-DALLE3.svg?style=social&label=Star)](https://github.com/Zeqiang-Lai/Mini-DALLE3)
 
-+ **Making LLaMA SEE and Draw with SEED Tokenizer** (Oct 2023)\
++ **Making LLaMA SEE and Draw with SEED Tokenizer** (2 Oct 2023)\
 Ge, Yuying, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.01218)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-LLaMA-SEE-and-Draw-with-SEED-Tokenizer-Ge-Zhao/5ba1525dc6d382ee0a4a1ca3c64fc5907ca64c67)
@@ -52,73 +52,44 @@ Ge, Yuying, et al.\
 [![Code](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://dad1ed9a9fb76fe83b.gradio.live/)
 
-+ **Generating Images with Multimodal Language Models** (Oct 2023)\
-Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17216)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fb5c0eff3696ef252aca9638e10176ecce7cecb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generating-Images-with-Multimodal-Language-Models-Koh-Fried/6fb5c0eff3696ef252aca9638e10176ecce7cecb)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/gill)
-[![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/kohjingyu/gill)
-
-+ **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models** (Oct 2023)\
++ **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models** (24 May 2023)\
 Feng, Weixi, et al. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15393)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F66d755730f5d08a6f4fcc5e81f24982ba389dca9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutGPT%3A-Compositional-Visual-Planning-and-with-Feng-Zhu/66d755730f5d08a6f4fcc5e81f24982ba389dca9)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutgpt.github.io/)
 [![Code](https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social&label=Star)](https://github.com/weixi-feng/LayoutGPT)
 
-+ **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** (Oct 2023)\
++ **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** (16 Oct 2023)\
 Gani, Hanan, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10640)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cb2c262ce34f41974f1b1623fc5a6e32956ded3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-Blueprint%3A-Enabling-Text-to-Image-Generation-Gani-Bhat/4cb2c262ce34f41974f1b1623fc5a6e32956ded3)
 
-+ **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** (Oct 2023)\
++ **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** (13 Oct 2023)\
 Qu, Leigang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08949v1)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F833cdd713c27ab5899bb912a1d511c10af61cefb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Making-Multimodal-Generation-Easier%3A-When-Diffusion-Zhao-Liu/833cdd713c27ab5899bb912a1d511c10af61cefb)
 [![Code](https://img.shields.io/github/stars/zxy556677/EasyGen.svg?style=social&label=Star)](https://github.com/zxy556677/EasyGen)
 
-+ **Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation** (Oct 2023)\
++ **Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation** (12 Oct 2023)\
 Yang, Zhengyuan, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08541)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1d14a708622917da4b9820ada6d32af24fc1651a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Idea2Img%3A-Iterative-Self-Refinement-with-for-Image-Yang-Wang/1d14a708622917da4b9820ada6d32af24fc1651a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://idea2img.github.io/)
 
-+ **InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists** (Sep 2023)\
++ **InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists** (30 Sep 2023)\
 Gan, Yulu, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00390)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F819f477065088220a6f706cd9ef76dbcb4b4c134%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructCV%3A-Instruction-Tuned-Text-to-Image-Models-Gan-Park/819f477065088220a6f706cd9ef76dbcb4b4c134)
 [![Code](https://img.shields.io/github/stars/AlaaLab/InstructCV.svg?style=social&label=Star)](https://github.com/AlaaLab/InstructCV)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/alaa-lab/InstructCV)
 
-+ **SwitchGPT: Adapting Large Language Models for Non-Text Outputs** (Sep 2023)\
++ **SwitchGPT: Adapting Large Language Models for Non-Text Outputs** (14 Sep 2023)\
 Wang, Xinyu, Bohan Zhuang, and Qi Wu.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.07623)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F366564d210768814bc880e391b909cfbd95f8964%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SwitchGPT%3A-Adapting-Large-Language-Models-for-Wang-Zhuang/366564d210768814bc880e391b909cfbd95f8964)
 [![Code](https://img.shields.io/github/stars/xinke-wang/SwitchGPT.svg?style=social&label=Star)](https://github.com/xinke-wang/SwitchGPT)
 
-+ **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (Aug 2023)\
-Qu, Leigang, et al. ACM MM 2023.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05095)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutLLM-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutllm-t2i.github.io/)
-[![Code](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
-
-+ **Planting a SEED of Vision in Large Language Model** (Jul 2023)\
-Yuying, Ge, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F40298b8d50109c52fc10763eddc64a07cf8acb31%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Planting-a-SEED-of-Vision-in-Large-Language-Model-Ge-Ge/40298b8d50109c52fc10763eddc64a07cf8acb31)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/seed/)
-[![Code](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
-
-
-+ **Generative Pretraining in Multimodality** (Jul 2023)\
-Quan, Sun, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05222)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F94053805cd59f2e9a47fe3f080c7e7afefb337cc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generative-Pretraining-in-Multimodality-Sun-Yu/94053805cd59f2e9a47fe3f080c7e7afefb337cc)
-[![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://218.91.113.230:9002)
-
-+ **NExT-GPT: Any-to-Any Multimodal LLM** (Jun 2023)\
++ **NExT-GPT: Any-to-Any Multimodal LLM** (11 Sep 2023)\
 Shengqiong, Wu, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffa75a55760e6ea49b39b83cb85c99a22e1088254%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/NExT-GPT%3A-Any-to-Any-Multimodal-LLM-Wu-Fei/fa75a55760e6ea49b39b83cb85c99a22e1088254)
@@ -126,36 +97,64 @@ Shengqiong, Wu, et al.\
 [![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://9704af1b453125102e.gradio.live/)
 
-+ **Grounding Language Models to Images for Multimodal Inputs and Outputs** (Jun 2023)\
-Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13823)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6173520a1eb2814d067e8c5fd16212b7cbf6ee78%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Grounding-Language-Models-to-Images-for-Multimodal-Koh-Salakhutdinov/6173520a1eb2814d067e8c5fd16212b7cbf6ee78)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/fromage)
-[![Code](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage)
++ **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** (9 Aug 2023)\
+Qu, Leigang, et al. ACM MM 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05095)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7d78238a9bad60433d616abdd93c735087d99670%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LayoutLLM-T2I%3A-Eliciting-Layout-Guidance-from-LLM-Qu-Wu/7d78238a9bad60433d616abdd93c735087d99670)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutllm-t2i.github.io/)
+[![Code](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
 
-+ **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs** (Jun 2023)\
++ **Planting a SEED of Vision in Large Language Model** (16 Jul 2023)\
+Yuying, Ge, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F40298b8d50109c52fc10763eddc64a07cf8acb31%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Planting-a-SEED-of-Vision-in-Large-Language-Model-Ge-Ge/40298b8d50109c52fc10763eddc64a07cf8acb31)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/seed/)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+
++ **Generative Pretraining in Multimodality** (11 Jul 2023)\
+Quan, Sun, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05222)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F94053805cd59f2e9a47fe3f080c7e7afefb337cc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generative-Pretraining-in-Multimodality-Sun-Yu/94053805cd59f2e9a47fe3f080c7e7afefb337cc)
+[![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://218.91.113.230:9002)
+
++ **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs** (30 Jun 2023)\
 Yu, Lijun, et al. NeurIPS 2023 spotlight.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.17842)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F376f494126d1ea4f571ea0263c43ac2b6331800a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SPAE%3A-Semantic-Pyramid-AutoEncoder-for-Multimodal-Yu-Cheng/376f494126d1ea4f571ea0263c43ac2b6331800a)
 
-+ **LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** (May 2023)\
++ **Controllable Text-to-Image Generation with GPT-4** (29 May 2023)\
+Zhang, Tianjun, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a79545719fb193a6b4042ef7d1d87cfd267be06%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Text-to-Image-Generation-with-GPT-4-Zhang-Zhang/3a79545719fb193a6b4042ef7d1d87cfd267be06)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) 
+
++ **Generating Images with Multimodal Language Models** (26 May 2023)\
+Koh, Jing Yu, Daniel Fried, and Ruslan Salakhutdinov. NeurIPS 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17216)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6fb5c0eff3696ef252aca9638e10176ecce7cecb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Generating-Images-with-Multimodal-Language-Models-Koh-Fried/6fb5c0eff3696ef252aca9638e10176ecce7cecb)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/gill)
+[![Code](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star)](https://github.com/kohjingyu/gill)
+
++ **LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** (23 May 2023)\
 Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13655)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe9ae0c76a71b8f302eb17b1c4462b9cc97d87cd0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Diffusion%3A-Enhancing-Prompt-of-Models-Lian-Li/e9ae0c76a71b8f302eb17b1c4462b9cc97d87cd0)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedDiffusion)
 
-+ **Controllable Text-to-Image Generation with GPT-4** (May 2023)\
-Zhang, Tianjun, et al. \
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18583)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a79545719fb193a6b4042ef7d1d87cfd267be06%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Text-to-Image-Generation-with-GPT-4-Zhang-Zhang/3a79545719fb193a6b4042ef7d1d87cfd267be06)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/tianjunz/Control-GPT) 
-
-+ **Interactive Data Synthesis for Systematic Vision Adaptation via LLMs-AIGCs Collaboration** (May 2023)\
++ **Interactive Data Synthesis for Systematic Vision Adaptation via LLMs-AIGCs Collaboration** (22 May 2023)\
 Yu, Qifan, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.12799)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43a55dbd95c9d5cd82de8db276f41adeec4a937d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Data-Synthesis-for-Systematic-Vision-Yu-Li/43a55dbd95c9d5cd82de8db276f41adeec4a937d)
 [![Code](https://img.shields.io/github/stars/Yuqifan1117/Labal-Anything-Pipeline.svg?style=social&label=Star)](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
+
++ **Grounding Language Models to Images for Multimodal Inputs and Outputs** (31 Jan 2023)\
+Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13823)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6173520a1eb2814d067e8c5fd16212b7cbf6ee78%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Grounding-Language-Models-to-Images-for-Multimodal-Koh-Salakhutdinov/6173520a1eb2814d067e8c5fd16212b7cbf6ee78)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/fromage)
+[![Code](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage)
 
 ### Multimodal Language Model-based Approaches
 
