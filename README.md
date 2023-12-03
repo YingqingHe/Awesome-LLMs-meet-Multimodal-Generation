@@ -156,13 +156,13 @@ Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 
 ### Multimodal Language Model-based Approaches
 
-+ **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** (May 2022)\
++ **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** (23 May 2022)\
 Saharia, Chitwan, et al. NeurIPS 2022.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9695824d7a01fad57ba9c01d7d76a519d78d65e7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Photorealistic-Text-to-Image-Diffusion-Models-with-Saharia-Chan/9695824d7a01fad57ba9c01d7d76a519d78d65e7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://imagen.research.google/) 
 
-+ **High-Resolution Image Synthesis with Latent Diffusion Models** (Dec 2021)\
++ **High-Resolution Image Synthesis with Latent Diffusion Models** (20 Dec 2021)\
 Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc10075b3746a9f3dd5811970e93c8ca3ad39b39d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/High-Resolution-Image-Synthesis-with-Latent-Models-Rombach-Blattmann/c10075b3746a9f3dd5811970e93c8ca3ad39b39d)
@@ -172,25 +172,25 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 
 ## Image Editing
 
-+ **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (Mar 2023)\
++ **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (20 Mar 2023)\
 Cui, Xing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CHATEDIT%3A-Towards-Multi-turn-Interactive-Facial-via-Cui-Li/5a185965ad1e87367d044b47043706d00b85b007)
 [![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)
 
-+ **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (Sep 2023)\
++ **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (29 Sep 2023)\
 Fu, Tsu-Jui, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17102v1)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F092245d86b77181c36f972b1b7a17a59cd989c4a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Guiding-Instruction-based-Image-Editing-via-Large-Fu-Hu/092245d86b77181c36f972b1b7a17a59cd989c4a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mllm-ie.github.io/)
 [![Code](https://img.shields.io/github/stars/tsujuifu/pytorch_mgie.svg?style=social&label=Star)](https://github.com/tsujuifu/pytorch_mgie)
 
-+ **Interactive Image Manipulation with Complex Text Instructions** (Nov 2022)\
++ **Interactive Image Manipulation with Complex Text Instructions** (25 Nov 2022)\
 Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. WACV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15352)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F387144d293567408c363313aac971294e7ec8547%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Image-Manipulation-with-Complex-Text-Morita-Zhang/387144d293567408c363313aac971294e7ec8547)
 
-+ **InstructPix2Pix: Learning to Follow Image Editing Instructions** (Jan 2022)\
++ **InstructPix2Pix: Learning to Follow Image Editing Instructions** (17 Nov 2022)\
 Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09800)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa2d2bbe4c542173662a444b33b76c66992697830%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructPix2Pix%3A-Learning-to-Follow-Image-Editing-Brooks-Holynski/a2d2bbe4c542173662a444b33b76c66992697830)
@@ -200,52 +200,52 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 
 ## Video Generation
 
-+ **InterControl: Generate Human Motion Interactions by Controlling Every Joint** (Nov 2023)\
++ **InterControl: Generate Human Motion Interactions by Controlling Every Joint** (27 Nov 2023)\
 Yu, Lijun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15864)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9cdb7e415a96795dc6705e66f3b798238b4dec2c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InterControl%3A-Generate-Human-Motion-Interactions-by-Wang-Wang/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
 [![Code](https://img.shields.io/github/stars/zhenzhiwang/intercontrol.svg?style=social&label=Star)](https://github.com/zhenzhiwang/intercontrol)
 
-+ **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning** (Nov 2023)\
++ **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning** (21 Nov 2023)\
 Yu, Lijun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9cdb7e415a96795dc6705e66f3b798238b4dec2c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InterControl%3A-Generate-Human-Motion-Interactions-by-Wang-Wang/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://gpt4motion.github.io/)
 
-+ **Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (Oct 2023)\
++ **Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (9 Oct 2023)\
 Yu, Lijun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F985f0c89c5a607742ec43c1fdc2cbfe54541cbad%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-Model-Beats-Diffusion-Tokenizer-is-Key-to-Yu-Lezama/985f0c89c5a607742ec43c1fdc2cbfe54541cbad)
 
-+ **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** (Sep 2023)\
++ **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** (25 Sep 2023)\
 Huang, Hanzhuo, et al. NeurIPS 2023. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14494)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F120aca3e415b6641a0b0cd20695ab85ed7789612%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Free-Bloom%3A-Zero-Shot-Text-to-Video-Generator-with-Huang-Feng/120aca3e415b6641a0b0cd20695ab85ed7789612)
 [![Code](https://img.shields.io/github/stars/SooLab/Free-Bloom.svg?style=social&label=Star)](https://github.com/SooLab/Free-Bloom)
 
 
-+ **LLM-grounded Video Diffusion Models** (Sep 2023)\
++ **LLM-grounded Video Diffusion Models** (29 Sep 2023)\
 Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F87bf66eb6d22df17f70170a0e575b4f12c4813ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Video-Diffusion-Models-Lian-Shi/87bf66eb6d22df17f70170a0e575b4f12c4813ef)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
 
-+ **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning** (Sep 2023)\
++ **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning** (26 Sep 2023)\
 Lin, Han, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15091)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F16753e0317730e8c1b297338300a8c6163dd06f2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDirectorGPT%3A-Consistent-Multi-scene-Video-via-Lin-Zala/16753e0317730e8c1b297338300a8c6163dd06f2)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://videodirectorgpt.github.io/)
 [![Code](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
 
-+ **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** (Aug 2023)\
++ **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** (26 Aug 2023)\
 Fei, Hao, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.13812)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd0a7f7fe31e0e0c42b471b4c47a313bd8c8e5206%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Empowering-Dynamics-aware-Text-to-Video-Diffusion-Fei-Wu/d0a7f7fe31e0e0c42b471b4c47a313bd8c8e5206)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](http://haofei.vip/Dysen-VDM/)
 [![Code](https://img.shields.io/github/stars/scofield7419/Dysen.svg?style=social&label=Star)](https://github.com/scofield7419/Dysen)
 
-+ **Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation** (May 2023)\
++ **Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation** (23 May 2023)\
 Hong, Susung, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14330)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb1750d2a6e3480e690999916a86c8b3876577b39%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-are-Frame-level-Directors-for-Hong-Seo/b1750d2a6e3480e690999916a86c8b3876577b39)
@@ -254,7 +254,7 @@ Hong, Susung, et al.\
 
 
 ### Multimodal Language Model-based Approaches
-+ **VBench: Comprehensive Benchmark Suite for Video Generative Models** (Nov 2023)\
++ **VBench: Comprehensive Benchmark Suite for Video Generative Models** (29 Nov 2023)\
 Huang, Ziqi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e9a8141da2a8c603722b07d096109207f8e0b66%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VBench%3A-Comprehensive-Benchmark-Suite-for-Video-Huang-He/4e9a8141da2a8c603722b07d096109207f8e0b66)
@@ -262,14 +262,14 @@ Huang, Ziqi, et al.\
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Vchitect/VBench)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)
 
-+ **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** (Nov 2023)\
++ **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** (25 Nov 2023)\
 Blattmann, Andreas, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15127)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1206b05eae5a06ba662ae79fb291b50e359c4f42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Stable-Video-Diffusion%3A-Scaling-Latent-Video-Models-Blattmann-Dockhorn/1206b05eae5a06ba662ae79fb291b50e359c4f42)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)
 [![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
 
-+ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (Oct 2023)\
++ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (30 Oct 2023)\
 Chen, Haoxin, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1891c3756f870d902a0b793a1dcd5cc34c778612%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoCrafter1%3A-Open-Diffusion-Models-for-Video-Chen-Xia/1891c3756f870d902a0b793a1dcd5cc34c778612)
@@ -277,21 +277,21 @@ Chen, Haoxin, et al.\
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
 
-+ **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** (Jul 2023)\
++ **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** (13 Jul 2023)\
 He, Yingqing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F77040969110fab39a55699cb06f9edf68789445a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Animate-A-Story%3A-Storytelling-with-Video-Generation-He-Xia/77040969110fab39a55699cb06f9edf68789445a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/Animate-A-Story/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/Animate-A-Story.svg?style=social&label=Star)](https://github.com/AILab-CVC/Animate-A-Story)
 
-+ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (Jun 2023)\
++ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (1 Jun 2023)\
 Xing, Jinbo, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00943)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F52b10ae66d025e99fbb602935e155f97f4f0696f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Make-Your-Video%3A-Customized-Video-Generation-Using-Xing-Xia/52b10ae66d025e99fbb602935e155f97f4f0696f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/Make-Your-Video/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/Make-Your-Video.svg?style=social&label=Star)](https://github.com/AILab-CVC/Make-Your-Video)
 
-+ **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (Apr 2023)\
++ **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023)\
 Ma, Yue, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fee73edebd42626d9c2d91e35fd2ed3cdb0fb26d0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Follow-Your-Pose%3A-Pose-Guided-Text-to-Video-using-Ma-He/ee73edebd42626d9c2d91e35fd2ed3cdb0fb26d0)
@@ -299,14 +299,14 @@ Ma, Yue, et al.\
 [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/YueMafighting/FollowYourPose)
 
-+ **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (Mar 2023)\
++ **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (15 Mar 2023)\
 Luo, Zhengxiong, et al. CVPR 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26c6090b7e7ba4513f82aa28d41360c60770c618%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoFusion%3A-Decomposed-Diffusion-Models-for-Video-Luo-Chen/26c6090b7e7ba4513f82aa28d41360c60770c618)
 
 ### Datasets
 
-+ **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (Jul 2023)\
++ **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)\
 Wang, Yi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F369b449415d50387fba048bbd4d26ee890df84b5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVid%3A-A-Large-scale-Video-Text-Dataset-for-and-Wang-He/369b449415d50387fba048bbd4d26ee890df84b5)
@@ -317,87 +317,87 @@ Wang, Yi, et al.\
 
 ### Multimodal Language Model-based Approaches
 
-+ **Pix2Video: Video Editing using Image Diffusion** (Mar 2023)\
++ **Pix2Video: Video Editing using Image Diffusion** (22 Mar 2023)\
 Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12688)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F32a3c2fbd3e733bd0eea938517fec2ff8dc7c701%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Pix2Video%3A-Video-Editing-using-Image-Diffusion-Ceylan-Huang/32a3c2fbd3e733bd0eea938517fec2ff8dc7c701)
 [![Code](https://img.shields.io/github/stars/duyguceylan/pix2video.svg?style=social&label=Star)](https://github.com/duyguceylan/pix2video)
 
-+ **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (Apr 2021)\
++ **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (2 Apr 2021)\
 Fu, Tsu-Jui, et al. CVPR 2022.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2104.01122.pdf)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.01122)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F81349524489f8ba0812ac2529eac92ec45959782%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-based-Video-Editing-via-Multi-Modal-Fu-Wang/81349524489f8ba0812ac2529eac92ec45959782)
 
 
 ## Audio Generation
 
-+ **Music ControlNet: Multiple Time-varying Controls for Music Generation** (Nov 2023)\
++ **Music ControlNet: Multiple Time-varying Controls for Music Generation** (13 Nov 2023)\
 Wu, Shih-Lun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07069)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42239e71a712d70cd24e06ffc0cf0d22fc628a36%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Music-ControlNet%3A-Multiple-Time-varying-Controls-Wu-Donahue/42239e71a712d70cd24e06ffc0cf0d22fc628a36)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musiccontrolnet.github.io/web/)
 
-+ **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (Oct 2023)\
++ **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (18 Oct 2023)\
 Yu, Dingyao, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11954)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbeaf64df85f8204b8cd89a7f46827608e6d16922%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicAgent%3A-An-AI-Agent-for-Music-Understanding-and-Yu-Song/beaf64df85f8204b8cd89a7f46827608e6d16922)
 [![Code](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
 
-+ **AudioPaLM: A Large Language Model That Can Speak and Listen** (Jun 2023)\
++ **AudioPaLM: A Large Language Model That Can Speak and Listen** (22 Jun 2023)\
 Rubenstein, Paul K., et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12925)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3efb81de24eb88017d6dbcf22cb4215084223fd8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioPaLM%3A-A-Large-Language-Model-That-Can-Speak-Rubenstein-Asawaroengchai/3efb81de24eb88017d6dbcf22cb4215084223fd8)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/audiopalm/examples/)
 
-+ **Simple and Controllable Music Generation** (Jun 2023)\
++ **Simple and Controllable Music Generation** (8 Jun 2023)\
 Copet, Jade, et al. Neurips 2023\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05284)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Simple-and-Controllable-Music-Generation-Copet-Kreuk/4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audiocraft.metademolab.com/musicgen.html)
 [![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/facebookresearch/audiocraft)
 
-+ **MuseCoco: Generating Symbolic Music from Text** (Jun 2023)\
++ **MuseCoco: Generating Symbolic Music from Text** (31 May 2023)\
 Lu, Peiling, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00110)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa559acac0e84319d62cefd564a5eecbf9d566ec4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MuseCoco%3A-Generating-Symbolic-Music-from-Text-Lu-Xu/a559acac0e84319d62cefd564a5eecbf9d566ec4)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ai-muzic.github.io/musecoco/)
 [![Code](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musecoco)
 
-+ **MusicLM: Generating Music From Text** (Jan 2023)\
++ **MusicLM: Generating Music From Text** (26 Jan 2023)\
 Agostinelli, Andrea, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11325)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLM%3A-Generating-Music-From-Text-Agostinelli-Denk/428854d9e75f94f0e61f37c6887c77800437d516)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/musiclm/examples/)
 
 # Multi-Modal Agents
-+ **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (Oct 2023)\
++ **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (26 Oct 2023)\
 Liu, Zhaoyang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F288e7224d53d68669eb67f2496e068dc965c639e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ControlLLM%3A-Augment-Language-Models-with-Tools-by-Liu-Lai/288e7224d53d68669eb67f2496e068dc965c639e)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/ControlLLM)\
 **Tasks:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
 
-+ **ImageBind-LLM: Multi-modality Instruction Tuning** (Sep 2023)\
++ **ImageBind-LLM: Multi-modality Instruction Tuning** (7 Sep 2023)\
 Han, Jiaming, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.03905)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54c68b8623505dc6bf7a0b08aaa77ca9165f2d7f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ImageBind-LLM%3A-Multi-modality-Instruction-Tuning-Han-Zhang/54c68b8623505dc6bf7a0b08aaa77ca9165f2d7f)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star)](https://github.com/OpenGVLab/LLaMA-Adapter)\
 **Condition Modality:** `text` `image` `video` `audio` `point cloud`
 
-+ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** (May 2023)\
++ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** (9 May 2023)\
 Liu, Zhaoyang, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05662)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54a8b153ed04a872da878d695239bdc413dc782c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternGPT%3A-Solving-Vision-Centric-Tasks-by-with-Liu-He/54a8b153ed04a872da878d695239bdc413dc782c)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)
 
-+ **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** (Mar 2023)\
++ **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** (30 Mar 2023)\
 Shen, Yongliang, et al. NeurIPS 2023 \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17580)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd1120d67b700e4dfe8b39eb1e48fbdea4e1a0c43%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HuggingGPT%3A-Solving-AI-Tasks-with-ChatGPT-and-its-Shen-Song/d1120d67b700e4dfe8b39eb1e48fbdea4e1a0c43)
 [![Code](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/microsoft/JARVIS)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/HuggingGPT)
 
-+ **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** (Mar 2023)\
++ **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** (8 Mar 2023)\
 Wu, Chenfei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04671)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf997821231898a5f8d0fd78dad4eec526acabe5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-ChatGPT%3A-Talking%2C-Drawing-and-Editing-with-Wu-Yin/af997821231898a5f8d0fd78dad4eec526acabe5)
@@ -411,7 +411,7 @@ Wu, Chenfei, et al. \
 
 # LLMs for Visual Understanding
 ## Image
-+ **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models** (Nov 2023)\
++ **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models** (28 Nov 2023)\
 Li, Yanwei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17043)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F486c2df78cbb770a90a55f7fa3fe19102fba2c24%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLaMA-VID%3A-An-Image-is-Worth-2-Tokens-in-Large-Li-Wang/486c2df78cbb770a90a55f7fa3fe19102fba2c24)
@@ -419,14 +419,14 @@ Li, Yanwei, et al. \
 [![Code](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/dvlab-research/LLaMA-VID)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://103.170.5.190:7864/)
 
-+ **CogVLM: Visual Expert for Pretrained Language Models** (Nov 2023)\
++ **CogVLM: Visual Expert for Pretrained Language Models** (6 Nov 2023)\
 Li, Yanwei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03079)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3bf842dec99016da2d309ea8cbd7e25343032317%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CogVLM%3A-Visual-Expert-for-Pretrained-Language-Wang-Lv/3bf842dec99016da2d309ea8cbd7e25343032317)
 [![Code](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://36.103.203.44:7861/)
 
-+ **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning** (Oct 2023)\
++ **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning** (14 Oct 2023)\
 Chen, Jun, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09478)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1ddbd08ad8cf22a5c66c4242194c4286328533bf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-v2%3A-large-language-model-as-a-unified-for-Chen-Zhu/1ddbd08ad8cf22a5c66c4242194c4286328533bf)
@@ -434,20 +434,20 @@ Chen, Jun, et al. \
 [![Code](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 
-+ **OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue** (Oct 2023)\
++ **OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue** (21 Jun 2023)\
 Gao, Weihao, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12174)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0f8d12775a4685575f1489796b5dee9e11fbdfb5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/OphGLM%3A-Training-an-Ophthalmology-Large-Assistant-Gao-Deng/0f8d12775a4685575f1489796b5dee9e11fbdfb5)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minigpt-v2.github.io/)
 [![Code](https://img.shields.io/github/stars/ML-AILab/OphGLM.svg?style=social&label=Star)](https://github.com/ML-AILab/OphGLM)
 
-+ **Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization** (Oct 2023)\
++ **Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization** (9 Sep 2023)\
 Jin, Yang, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.04669)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbcac614f9774488447221ebb4f16f05e3975ec1e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Unified-Language-Vision-Pretraining-in-LLM-with-Jin-Xu/bcac614f9774488447221ebb4f16f05e3975ec1e)
 [![Code](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT)
 
-+ **NExT-GPT: Any-to-Any Multimodal LLM** (Oct 2023)\
++ **NExT-GPT: Any-to-Any Multimodal LLM** (11 Sep 2023)\
 Wu, Shengqiong, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffa75a55760e6ea49b39b83cb85c99a22e1088254%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/NExT-GPT%3A-Any-to-Any-Multimodal-LLM-Wu-Fei/fa75a55760e6ea49b39b83cb85c99a22e1088254)
@@ -455,7 +455,7 @@ Wu, Shengqiong, et al. \
 [![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
 
-+ **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** (Aug 2023)\
++ **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** (24 Aug 2023)\
 Bai, Jinze, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12966)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc6a2f7478f68adefd69e2071f27e38aa1647f2f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Qwen-VL%3A-A-Versatile-Vision-Language-Model-for-Text-Bai-Bai/fc6a2f7478f68adefd69e2071f27e38aa1647f2f)
@@ -463,20 +463,20 @@ Bai, Jinze, et al. \
 [![Code](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-VL)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary)
 
-+ **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks** (May 2023)\
++ **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks** (18 May 2023)\
 Wang, Wenhai, et al. NeurIPS 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11175)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42a30dc5470f54ec249f25d3c31e05d7c376c8e3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VisionLLM%3A-Large-Language-Model-is-also-an-Decoder-Wang-Chen/42a30dc5470f54ec249f25d3c31e05d7c376c8e3)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/VisionLLM)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://github.com/OpenGVLab/InternGPT)
 
-+ **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning** (May 2023)\
++ **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning** (11 May 2023)\
 Dai, Wenliang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06500)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8bd6a2a89503be083176f2cc26fabedb79238cbd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructBLIP%3A-Towards-General-purpose-Models-with-Dai-Li/8bd6a2a89503be083176f2cc26fabedb79238cbd)
 [![Code](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-VL)
 
-+ **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models** (Apr 2023)\
++ **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models** (20 Apr 2023)\
 Zhu, Deyao, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10592)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fca6a2bc279be5a3349a22bfd6866ed633d18734b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-4%3A-Enhancing-Vision-Language-Understanding-Zhu-Chen/ca6a2bc279be5a3349a22bfd6866ed633d18734b)
@@ -484,7 +484,7 @@ Zhu, Deyao, et al. \
 [![Code](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 
-+ **Visual Instruction Tuning** (Apr 2023)\
++ **Visual Instruction Tuning** (17 Apr 2023)\
 Liu, Haotian, et al. NeurIPS 2023 (oral).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08485)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1a8eb2cae1833df3bf12fe3b41b03d60b4a4a98d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-Instruction-Tuning-Liu-Li/1a8eb2cae1833df3bf12fe3b41b03d60b4a4a98d)
@@ -494,27 +494,27 @@ Liu, Haotian, et al. NeurIPS 2023 (oral).\
 
 
 ## Video
-+ **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (Nov 2023)\
++ **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (27 Nov 2023)\
 Ning, Munan, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16103)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb037bb09aa162d8a543e64ec777ca0edc732d2af%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-Bench%3A-A-Comprehensive-Benchmark-and-Toolkit-Ning-Zhu/b037bb09aa162d8a543e64ec777ca0edc732d2af)
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Video-Bench.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Video-Bench)
 
-+ **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models** (Nov 2023)\
++ **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models** (22 Nov 2023)\
 Munasinghe, Shehan, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13435)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4edbb942c2d20a6f5a4e3caa763a9761be953231%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PG-Video-LLaVA%3A-Pixel-Grounding-Large-Models-Munasinghe-Thushara/4edbb942c2d20a6f5a4e3caa763a9761be953231)
 [![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-LLaVA.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-LLaVA)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mbzuai-oryx.github.io/Video-LLaVA/)
 
-+ **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection** (Nov 2023)\
++ **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection** (16 Nov 2023)\
 Lin, Bin, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10122)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F107fb6eec2febbae12db29bf3e311aaf5680027c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaVA%3A-Learning-United-Visual-Representation-Lin-Zhu/107fb6eec2febbae12db29bf3e311aaf5680027c)
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Video-LLaVA)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/LanguageBind/Video-LLaVA)
 
-+ **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** (Nov 2023)\
++ **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding** (14 Nov 2023)\
 Jin, Peng, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.08046)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faad3d2e690f6c73f04a14622ceff51464bbc560e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Chat-UniVi%3A-Unified-Visual-Representation-Empowers-Jin-Takanobu/aad3d2e690f6c73f04a14622ceff51464bbc560e)
@@ -522,20 +522,20 @@ Jin, Peng, et al. \
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Chat-UniVi/Chat-UniVi)
 
 
-+ **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** (Jul 2023)\
++ **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** (5 Jul 2023)\
 Zhang, Hang, Xin Li, and Lidong Bing. EMNLP 2023's demo track. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02858)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5d321194696f1f75cf9da045e6022b2f20ba5b9c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-LLaMA%3A-An-Instruction-tuned-Audio-Visual-for-Zhang-Li/5d321194696f1f75cf9da045e6022b2f20ba5b9c)
 [![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA)
 
-+ **AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?** (Jul 2023)\
++ **AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?** (31 Jul 2023)\
 Zhao, Qi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16368)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6024f320e0a5b9b8fc29b86903aa9a96956b26dd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AntGPT%3A-Can-Large-Language-Models-Help-Long-term-Zhao-Zhang/6024f320e0a5b9b8fc29b86903aa9a96956b26dd)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://brown-palm.github.io/AntGPT/)
 
-+ **Valley: Video Assistant with Large Language model Enhanced ability** (Jun 2023)\
++ **Valley: Video Assistant with Large Language model Enhanced ability** (12 Jun 2023)\
 Luo, Ruipu, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07207)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4c4d176c6e28f48041f215d563f6ee8633534cff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Valley%3A-Video-Assistant-with-Large-Language-model-Luo-Zhao/4c4d176c6e28f48041f215d563f6ee8633534cff)
@@ -548,19 +548,19 @@ Maaz, Muhammad, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7025a2e5dbb3c09deae02a1aa98a256ca559e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-ChatGPT%3A-Towards-Detailed-Video-Understanding-Maaz-Rasheed/bf7025a2e5dbb3c09deae02a1aa98a256ca559e2)
 [![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)
 
-+ **VideoChat: Chat-Centric Video Understanding** (May 2023)\
++ **VideoChat: Chat-Centric Video Understanding** (10 May 2023)\
 Li, KunChang, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06355)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd48cb91b9e555194f7494c4d4bb9815021d3ee45%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoChat%3A-Chat-Centric-Video-Understanding-Li-He/d48cb91b9e555194f7494c4d4bb9815021d3ee45)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)
 
-+ **VideoLLM: Modeling Video Sequence with Large Language Models** (May 2023)\
++ **VideoLLM: Modeling Video Sequence with Large Language Models** (22 May 2023)\
 Chen, Guo, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06355)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13292)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff9bfc6d9ba1665b73af3323d46c7642b852759ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoLLM%3A-Modeling-Video-Sequence-with-Large-Models-Chen-Zheng/f9bfc6d9ba1665b73af3323d46c7642b852759ef)
 [![Code](https://img.shields.io/github/stars/cg1177/VideoLLM.svg?style=social&label=Star)](https://github.com/cg1177/VideoLLM)
 
-+ **Learning video embedding space with Natural Language Supervision** (Mar 2023)\
++ **Learning video embedding space with Natural Language Supervision** (25 Mar 2023)\
 Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14584)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e54a45d2118b61ae1baec07308af3fdd2c48759%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-video-embedding-space-with-Natural-Uppala-Bamotra/4e54a45d2118b61ae1baec07308af3fdd2c48759)
