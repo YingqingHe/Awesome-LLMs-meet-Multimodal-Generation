@@ -67,20 +67,18 @@
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1d14a708622917da4b9820ada6d32af24fc1651a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Idea2Img%3A-Iterative-Self-Refinement-with-for-Image-Yang-Wang/1d14a708622917da4b9820ada6d32af24fc1651a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://idea2img.github.io/)
 
-+ **OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation** (11 Oct 2023)\
-Jie, An, et al.\
++ **OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation** (11 Oct 2023)<details><summary>Jie An, Zhengyuan Yang, Linjie Li, et al.</summary>Jie An, Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Zicheng Liu, Lijuan Wang, Jiebo Luo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07749)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7f1ba5630c3baa09b11cc665b3f71cdb117e5ffb%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/OpenLEAF%3A-Open-Domain-Interleaved-Image-Text-and-An-Yang/7f1ba5630c3baa09b11cc665b3f71cdb117e5ffb)
 
-+ **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** (11 Oct 2023)\
-Zeqiang, Lai, et al.\
++ **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** (11 Oct 2023)<details><summary>Zeqiang Lai, Xizhou Zhu, Jifeng Dai, et al.</summary>Zeqiang Lai, Xizhou Zhu, Jifeng Dai, Yu Qiao, Wenhai Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07653)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff669d7a6fab0147253178a6fc854e05e3d92fb3f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mini-DALLE3%3A-Interactive-Text-to-Image-by-Prompting-Lai-Zhu/f669d7a6fab0147253178a6fc854e05e3d92fb3f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://minidalle3.github.io/)
 [![Code](https://img.shields.io/github/stars/Zeqiang-Lai/Mini-DALLE3.svg?style=social&label=Star)](https://github.com/Zeqiang-Lai/Mini-DALLE3)
 
 + **MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens** (3 Oct 2023)\
-Zheng, Kaizhi, Xuehai He, and Xin Eric Wang.\
+Kaizhi Zheng, Xuehai He, Xin Eric Wang.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02239)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe7d09b6f2bc878cf2c993acf675f409d0b55f35a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MiniGPT-5%3A-Interleaved-Vision-and-Language-via-Zheng-He/e7d09b6f2bc878cf2c993acf675f409d0b55f35a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://eric-ai-lab.github.io/minigpt-5.github.io/)
