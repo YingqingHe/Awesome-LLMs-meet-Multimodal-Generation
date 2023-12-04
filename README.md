@@ -165,6 +165,13 @@ Feng, Weixi, et al. NeurIPS 2023.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layoutgpt.github.io/)
 [![Code](https://img.shields.io/github/stars/weixi-feng/LayoutGPT.svg?style=social&label=Star)](https://github.com/weixi-feng/LayoutGPT)
 
++ **Visual Programming for Text-to-Image Generation and Evaluation** (24 May 2023)\
+Jaemin Cho, Abhay Zala, Mohit Bansal. NeurIPS 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15328)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9837349417e36ef5be06da0fd6c74042148bdaa2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-Programming-for-Text-to-Image-Generation-and-Cho-Zala/9837349417e36ef5be06da0fd6c74042148bdaa2)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://vp-t2i.github.io/)
+[![Code](https://img.shields.io/github/stars/j-min/VPGen.svg?style=social&label=Star)](https://github.com/j-min/VPGen)
+
 + **LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** (23 May 2023)\
 Lian, Long, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13655)
