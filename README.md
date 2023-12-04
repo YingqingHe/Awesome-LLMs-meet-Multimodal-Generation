@@ -362,6 +362,10 @@ Agostinelli, Andrea, et al.\
 ### Datasets
 
 ## 3D Generation
++ **ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model** (29 Nov 2023)<details><summary>Fukun Yin, Xin Chen, Chi Zhang, et al.</summary>Fukun Yin, Xin Chen, Chi Zhang, Biao Jiang, Zibo Zhao, Jiayuan Fan, Gang Yu, Taihao Li, Tao Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17618)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ShapeGPT%3A-3D-Shape-Generation-with-A-Unified-Model-Yin-Chen/09157a8c0e7d7263ac035690118ddcbe295cee5c)
+[![Code](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star)](https://github.com/OpenShapeLab/ShapeGPT)
 
 ### Multimodal Language Model-based
 
