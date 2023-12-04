@@ -219,12 +219,6 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F985f0c89c5a607742ec43c1fdc2cbfe54541cbad%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-Model-Beats-Diffusion-Tokenizer-is-Key-to-Yu-Lezama/985f0c89c5a607742ec43c1fdc2cbfe54541cbad)
 
-+ **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** (25 Sep 2023)<details><summary>Hanzhuo Huang, Yufan Feng, Cheng Shi, et al.</summary>Hanzhuo Huang, Yufan Feng, Cheng Shi, Lan Xu, Jingyi Yu, Sibei Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14494)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F120aca3e415b6641a0b0cd20695ab85ed7789612%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Free-Bloom%3A-Zero-Shot-Text-to-Video-Generator-with-Huang-Feng/120aca3e415b6641a0b0cd20695ab85ed7789612)
-[![Code](https://img.shields.io/github/stars/SooLab/Free-Bloom.svg?style=social&label=Star)](https://github.com/SooLab/Free-Bloom)
-
-
 + **LLM-grounded Video Diffusion Models** (29 Sep 2023)<details><summary>Long Lian, Baifeng Shi, Adam Yala, et al.</summary>Long Lian, Baifeng Shi, Adam Yala, Trevor Darrell, Boyi Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F87bf66eb6d22df17f70170a0e575b4f12c4813ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Video-Diffusion-Models-Lian-Shi/87bf66eb6d22df17f70170a0e575b4f12c4813ef)
@@ -236,6 +230,11 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F16753e0317730e8c1b297338300a8c6163dd06f2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDirectorGPT%3A-Consistent-Multi-scene-Video-via-Lin-Zala/16753e0317730e8c1b297338300a8c6163dd06f2)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://videodirectorgpt.github.io/)
 [![Code](https://img.shields.io/github/stars/HL-hanlin/VideoDirectorGPT.svg?style=social&label=Star)](https://github.com/HL-hanlin/VideoDirectorGPT)
+
++ **Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** (25 Sep 2023)<details><summary>Hanzhuo Huang, Yufan Feng, Cheng Shi, et al. NIPS 2023.</summary>Hanzhuo Huang, Yufan Feng, Cheng Shi, Lan Xu, Jingyi Yu, Sibei Yang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14494)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F120aca3e415b6641a0b0cd20695ab85ed7789612%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Free-Bloom%3A-Zero-Shot-Text-to-Video-Generator-with-Huang-Feng/120aca3e415b6641a0b0cd20695ab85ed7789612)
+[![Code](https://img.shields.io/github/stars/SooLab/Free-Bloom.svg?style=social&label=Star)](https://github.com/SooLab/Free-Bloom)
 
 + **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** (26 Aug 2023)<details><summary>Hao Fei, Shengqiong Wu, Wei Ji, et al.</summary>Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.13812)
