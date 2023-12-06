@@ -653,9 +653,26 @@ Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel. arXiv 2023.\
 + **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**
 Yang, Dongchao, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5f51eda9f7abddca027941d50fb0b6bf6f508eff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Make-A-Protagonist%3A-Generic-Video-Editing-with-An-Zhao-Xie/5f51eda9f7abddca027941d50fb0b6bf6f508eff)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://make-a-protagonist.github.io/)
-[![Code](https://img.shields.io/github/stars/HeliosZhao/Make-A-Protagonist.svg?style=social&label=Star)](https://github.com/HeliosZhao/Make-A-Protagonist)
+
++ **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**
+Yang, Dongchao, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
+
++ **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**
+Yang, Dongchao, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
+
++ **Speechx: Neural codec language model as a versatile speech transformer**
+Yang, Dongchao, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
+
++ **Voicebox: Text-guided multilingual universal speech generation at scale**
+Yang, Dongchao, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
+
++ **Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias**
+Yang, Dongchao, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
 
 
 ## 3D Editing
