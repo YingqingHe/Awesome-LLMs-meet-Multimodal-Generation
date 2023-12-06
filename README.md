@@ -368,7 +368,45 @@ Agostinelli, Andrea, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ShapeGPT%3A-3D-Shape-Generation-with-A-Unified-Model-Yin-Chen/09157a8c0e7d7263ac035690118ddcbe295cee5c)
 [![Code](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star)](https://github.com/OpenShapeLab/ShapeGPT)
 
++ **MotionGPT: Human Motion as a Foreign Language** (2023)\
+Biao Jiang*, Xin Chen*, Wen Liu(NeurIPS 2023)\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.14795.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd212fa27f5868f0fd106e1a7bba908fd47da0816%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionGPT%3A-Human-Motion-as-a-Foreign-Language-Jiang-Chen/d212fa27f5868f0fd106e1a7bba908fd47da0816)
+[![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT.svg?style=social&label=Star)](https://github.com/OpenMotionLab/MotionGPT)
+
++ **3D-GPT: Procedural 3D MODELING WITH LARGE LANGUAGE MODELS** (2023)\
+Chunyi Sun*, Junlin Han*, Weijian Deng\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12945)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F588930cdd801f335b5e524d13f99aa94136a20a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-GPT%3A-Procedural-3D-Modeling-with-Large-Language-Sun-Han/588930cdd801f335b5e524d13f99aa94136a20a0)
+[![Code](https://img.shields.io/github/stars/Chuny1/3DGPT.svg?style=social&label=Star)](https://github.com/Chuny1/3DGPT)
+
+
+
+
 ### Multimodal Language Model-based
+#### General Object
++ **Clip-forge: Towards zero-shot text-to-shape generation** (2022)\
+Sanghi, Aditya, et al.(CVPR 2022)\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2110.02624.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F738e3e0623054da29dc57fc6aee5e6711867c4e8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-Forge%3A-Towards-Zero-Shot-Text-to-Shape-Sanghi-Chu/738e3e0623054da29dc57fc6aee5e6711867c4e8)
+[![Code](https://img.shields.io/github/stars/AutodeskAILab/Clip-Forge.svg?style=social&label=Star)](https://github.com/AutodeskAILab/Clip-Forge)
+
++ **Zero-Shot Text-Guided Object Generation with Dream Fields** (2022)\
+Jain, Ajay, Mildenhall Ben, Barron Jonathan T..(CVPR2022)\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01455.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F03e1c3b5fdad9b21bbed3d13af7e8d6c73cbcfa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Zero-Shot-Text-Guided-Object-Generation-with-Dream-Jain-Mildenhall/03e1c3b5fdad9b21bbed3d13af7e8d6c73cbcfa6)
+[![Code](https://img.shields.io/github/stars/google-research/google-research/tree/master/dreamfields.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/dreamfields)
+
++ **Text2Mesh: Text-Driven Neural Stylization for Meshes** (2022)\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2110.02624.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd15b27edf3630728cdb40f49946365d9011641cf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text2Mesh%3A-Text-Driven-Neural-Stylization-for-Michel-Bar-On/d15b27edf3630728cdb40f49946365d9011641cf)
+[![Code](https://img.shields.io/github/stars/threedle/text2mesh.svg?style=social&label=Star)](https://github.com/threedle/text2mesh)
+
+#### Avatar
++ **CLIP-Head: Text-Guided Generation of Textured Neural Parametric 3D Head Models** (25 Nov 2023)<details><summary>Pranav Manu, Astitva Srivastava, Avinash Sharma. SIGGRAPH Asia 2023.</summary>Pranav Manu, Astitva Srivastava, Avinash Sharma</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://raipranav384.github.io/clip_head/static/videos/Clip_Head.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3c99ad4cf2fdd4417bcb591686bd23500b1b4a46%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-Head%3A-Text-Guided-Generation-of-Textured-3D-Manu-Srivastava/3c99ad4cf2fdd4417bcb591686bd23500b1b4a46)
+[![Code](https://img.shields.io/github/stars/raipranav384/CLIP-Head.svg?style=social&label=Star)](https://github.com/raipranav384/CLIP-Head)
 
 ### Datasets
 
@@ -425,7 +463,23 @@ Fu, Tsu-Jui, et al. CVPR 2022.\
 ## 3D Editing
 
 ### Multimodal Language Model-based
+#### Avatar
++ **ClipFace: Text-guided Editing of Textured 3D Morphable Models** (July 2023)\
+SHIVANGI ANEJA, JUSTUS THIES, et al. SIGGRAPH 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.01406.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff21e8eddf42580d1f38a11ec5acd8891c0454a1f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ClipFace%3A-Text-guided-Editing-of-Textured-3D-Models-Aneja-Thies/f21e8eddf42580d1f38a11ec5acd8891c0454a1f)
+[![Code](https://img.shields.io/github/stars/cassiePython/CLIPNeRF.svg?style=social&label=Star)](https://github.com/cassiePython/CLIPNeRF)
+#### General Object
++ **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields** (2022)\
+Can Wang, et al. CVPR 2022.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.05139.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0483be6c3ec6cd41ffe248f86effc7468d3ac7be%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-NeRF%3A-Text-and-Image-Driven-Manipulation-of-Wang-Chai/0483be6c3ec6cd41ffe248f86effc7468d3ac7be)
+[![Code](https://img.shields.io/github/stars/shivangi-aneja/ClipFace.svg?style=social&label=Star)](https://github.com/shivangi-aneja/ClipFace)
 
++ **Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields** (2023)\
+Hyeonseop Song, Seokhun Choi, Hoseok Do, et al. ICCV 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11974)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7f31e07d9b128a0f555c275bc3fdb851f725b8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blending-NeRF%3A-Text-Driven-Localized-Editing-in-Song-Choi/bf7f31e07d9b128a0f555c275bc3fdb851f725b8)
 # Multi-Modal Agents
 + **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (26 Oct 2023)\
 Liu, Zhaoyang, et al.\
@@ -626,3 +680,20 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 ## Audio Understanding
 
 ## 3D Understanding
++ **3D-LLM: Injecting the 3D World into Large Language Models** (2023)\
+Yining Hong, Haoyu Zhen, Peihao Chen, et al. NeurIPS 2023 Spotlight\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12981)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7637ed79d30d0139901175ae4abedd822c217ab4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-LLM%3A-Injecting-the-3D-World-into-Large-Language-Hong-Zhen/7637ed79d30d0139901175ae4abedd822c217ab4)
+[![Code](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM.svg?style=social&label=Star)](https://github.com/UMass-Foundation-Model/3D-LLM)
+
++ **PointLLM: Empowering Large Language Models to Understand Point Clouds** (2023)\
+Runsen Xu, Xiaolong Wang, Tai Wang, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16911.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6bcc6ab9c28805d4067e99b2cdc7524550fe80e1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PointLLM%3A-Empowering-Large-Language-Models-to-Point-Xu-Wang/6bcc6ab9c28805d4067e99b2cdc7524550fe80e1)
+[![Code](https://img.shields.io/github/stars/OpenRobotLab/PointLLM.svg?style=social&label=Star)](https://github.com/OpenRobotLab/PointLLM)
+
+ + **PointCLIP: Point Cloud Understanding by CLIP** (2022)\
+Zhang, Renrui and Guo, Ziyu, Zhang, Wei, et al.(CVPR2022)\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.02413.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PointCLIP%3A-Point-Cloud-Understanding-by-CLIP-Zhang-Guo/f3ce9ba3fcec362b70263a7ed63d9404975496a0)
+[![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/ZrrSkywalker/PointCLIP)
