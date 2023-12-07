@@ -675,6 +675,20 @@ Yang, Dongchao, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
 
 
++ **SpeechPainter: Text-conditioned Speech Inpainting**
+Zalán Borsos, Matt Sharifi, Marco Tagliasacchi \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.07273)
+
++ **GACELA -- A generative adversarial context encoder for long audio inpainting**
+Zalán Borsos, Matt Sharifi, Marco Tagliasacchi \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.05032)
+
+
++ **Audio inpainting with generative adversarial network**
+P. P. Ebner, A. Eltelt \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.07704)
+
+
 ## 3D Editing
 
 ### Multimodal Language Model-based
