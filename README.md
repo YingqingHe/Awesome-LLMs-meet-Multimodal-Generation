@@ -12,6 +12,8 @@
     - [Datasets](#datasets-2)
   - [3D Generation](#3d-generation)
     - [Multimodal Language Model-based](#multimodal-language-model-based-3)
+      - [General Object](#general-object)
+      - [Avatar](#avatar)
     - [Datasets](#datasets-3)
 - [LLMs for Audiovisual Editing](#llms-for-audiovisual-editing)
   - [Image Editing](#image-editing)
@@ -22,6 +24,8 @@
     - [Multimodal Language Model-based](#multimodal-language-model-based-6)
   - [3D Editing](#3d-editing)
     - [Multimodal Language Model-based](#multimodal-language-model-based-7)
+      - [Avatar](#avatar-1)
+      - [General Object](#general-object-1)
 - [Multi-Modal Agents](#multi-modal-agents)
 - [LLMs for Audiovisual Understanding](#llms-for-audiovisual-understanding)
   - [Image Understanding](#image-understanding)
@@ -32,6 +36,12 @@
 # LLMs for Audiovisual Generation
 
 ## Image Generation
+
++ **Customization Assistant for Text-to-image Generation** (5 Dec 2023)<details><summary>Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, et al.</summary> Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Tong Sun</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03045)
+<!-- [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F689c358c5f9b5b1693a8bcc7e6e0460012f5cf9e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Sequential-Modeling-Enables-Scalable-Learning-for-Bai-Geng/689c358c5f9b5b1693a8bcc7e6e0460012f5cf9e)
+[![Code](https://img.shields.io/github/stars/ytongbai/LVM.svg?style=social&label=Star)](https://github.com/ytongbai/LVM)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yutongbai.com/lvm.html) -->
 
 + **Sequential Modeling Enables Scalable Learning for Large Vision Models** (1 Dec 2023)<details><summary>Yutong Bai, Xinyang Geng, Karttikeya Mangalam, et al.</summary> Yutong Bai, Xinyang Geng, Karttikeya Mangalam, Amir Bar, Alan Yuille, Trevor Darrell, Jitendra Malik, Alexei A Efros</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00785)
@@ -280,6 +290,13 @@ Chen, Haoxin, et al.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
+
++ **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling** (23 Oct 2023)<details><summary>Haonan Qiu, Menghan Xia, Yong Zhang, et al.</summary>Haonan Qiu, Menghan Xia, Yong Zhang, Yingqing He, Xintao Wang, Ying Shan, Ziwei Liu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd831988859f0c077b38094446d8585a8340af223%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/FreeNoise%3A-Tuning-Free-Longer-Video-Diffusion-via-Qiu-Xia/d831988859f0c077b38094446d8585a8340af223)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](http://haonanqiu.com/projects/FreeNoise.html)
+[![Code](https://img.shields.io/github/stars/arthur-qiu/LongerCrafter.svg?style=social&label=Star)](https://github.com/arthur-qiu/LongerCrafter)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/MoonQiu/LongerCrafter)
 
 + **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** (13 Jul 2023)\
 He, Yingqing, et al.\
@@ -537,6 +554,7 @@ Mingdeng Cao, Xintao Wang, Zhongang Qi, Ying Shan, Xiaohu Qie, Yinqiang Zheng. I
 
 
 ## Video Editing
+
 + **CONSISTENT VIDEO-TO-VIDEO TRANSFER USING SYNTHETIC DATASET** (1 Nov 2023)\
 Jiaxin Cheng, Tianjun Xiao, Tong He. ArXiv 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00213)
@@ -552,6 +570,12 @@ Bosheng Qin, Juncheng Li, Siliang Tang, Tat-Seng Chua, Yueting Zhuang. arXiv 202
 
 
 ### Multimodal Language Model-based
+
++ **MagicStick: Controllable Video Editing via Control Handle Transformations** (1 Nov 2023)<details><summary>Yue Ma, Xiaodong Cun, Yingqing He, et al.</summary>Yue Ma, Xiaodong Cun, Yingqing He, Chenyang Qi, Xintao Wang, Ying Shan, Xiu Li, Qifeng Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03047)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fxxx%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Consistent-Video-to-Video-Transfer-Using-Synthetic-Cheng-Xiao/xxx)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://magic-stick-edit.github.io/)
+[![Code](https://img.shields.io/github/stars/mayuelala/MagicStick.svg?style=social&label=Star)](https://github.com/mayuelala/MagicStick)
 
 + **Pix2Video: Video Editing using Image Diffusion** (22 Mar 2023)\
 Ceylan, Duygu, Chun-Hao P. Huang, and Niloy J. Mitra. ICCV 2023.\
