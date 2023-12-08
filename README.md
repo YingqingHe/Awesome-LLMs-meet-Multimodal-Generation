@@ -460,7 +460,7 @@ Sanghi, Aditya, et al.(CVPR 2022)\
 [![Code](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/)
 
 + **Text2Mesh: Text-Driven Neural Stylization for Meshes** (2022)\
-Oscar Michel, Roi Bar-On, Richard Liu, et al.(CVPR 2022)
+Oscar Michel, Roi Bar-On, Richard Liu, et al.(CVPR 2022)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2110.02624.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd15b27edf3630728cdb40f49946365d9011641cf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text2Mesh%3A-Text-Driven-Neural-Stylization-for-Michel-Bar-On/d15b27edf3630728cdb40f49946365d9011641cf)
 [![Code](https://img.shields.io/github/stars/threedle/text2mesh.svg?style=social&label=Star)](https://github.com/threedle/text2mesh)
