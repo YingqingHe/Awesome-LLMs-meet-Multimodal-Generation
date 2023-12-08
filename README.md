@@ -457,7 +457,8 @@ Sanghi, Aditya, et al.(CVPR 2022)\
 Jain, Ajay, Mildenhall Ben, Barron Jonathan T..(CVPR2022)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01455.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F03e1c3b5fdad9b21bbed3d13af7e8d6c73cbcfa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Zero-Shot-Text-Guided-Object-Generation-with-Dream-Jain-Mildenhall/03e1c3b5fdad9b21bbed3d13af7e8d6c73cbcfa6)
-[![Code](https://img.shields.io/github/stars/google-research/google-research/tree/master/dreamfields.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/dreamfields)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ajayj.com/dreamfields)
+[![Code](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/)
 
 + **Text2Mesh: Text-Driven Neural Stylization for Meshes** (2022)\
 Oscar Michel, Roi Bar-On, Richard Liu, et al.(CVPR 2022)
