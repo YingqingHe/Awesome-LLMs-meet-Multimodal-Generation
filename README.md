@@ -402,6 +402,12 @@ Lu, Peiling, et al.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ai-muzic.github.io/musecoco/)
 [![Code](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musecoco)
 
++ **Noise2Music: Text-conditioned Music Generation with Diffusion Models** (8 Feb 2023)\
+Qingqing Huang, Daniel S. Park, Tao Wang, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.03917)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Noise2Music%3A-Text-conditioned-Music-Generation-with-Huang-Park/02540ae926814f4b7972d3fa4dd33932fdc4b58b)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/noise2music/)
+
 + **MusicLM: Generating Music From Text** (26 Jan 2023)\
 Agostinelli, Andrea, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11325)
@@ -720,43 +726,6 @@ Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel. arXiv 2023.\
 
 ## Audio Editing
 ### Multimodal Language Model-based
-+ **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**
-Yang, Dongchao, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-
-+ **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**
-Yang, Dongchao, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-
-+ **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**
-Yang, Dongchao, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-
-+ **Speechx: Neural codec language model as a versatile speech transformer**
-Yang, Dongchao, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-
-+ **Voicebox: Text-guided multilingual universal speech generation at scale**
-Yang, Dongchao, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-
-+ **Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias**
-Yang, Dongchao, et al.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-
-
-+ **SpeechPainter: Text-conditioned Speech Inpainting**
-Zalán Borsos, Matt Sharifi, Marco Tagliasacchi \
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.07273)
-
-+ **GACELA -- A generative adversarial context encoder for long audio inpainting**
-Zalán Borsos, Matt Sharifi, Marco Tagliasacchi \
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.05032)
-
-
-+ **Audio inpainting with generative adversarial network**
-P. P. Ebner, A. Eltelt \
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.07704)
 
 
 ## 3D Editing
