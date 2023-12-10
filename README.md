@@ -36,7 +36,7 @@
   - [3D Understanding](#3d-understanding)
 # Tips
 - Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
-- Besides directly clicking the above categorization, you can also search the related papers via the following tags: `customization`, `human motion generation`.
+- Besides directly clicking the above categorization, you can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation`.
 
 
 # LLMs for Audiovisual Generation
@@ -214,6 +214,11 @@ Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pixart-alpha.github.io/)
 [![Code](https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha.svg?style=social&label=Star)](https://github.com/PixArt-alpha/PixArt-alpha)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
+
++ **TiGAN: Text-Based Interactive Image Generation and Manipulation** (Dec 2022)<details><summary>Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, et al. AAAI 2022.</summary>Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Chris Tensmeyer, Tong Yu,Changyou Chen, Jinhui Xu, Tong Sun</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/20270)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F839dc73c1adae268144d9cfb9d70985b2001304f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TiGAN%3A-Text-Based-Interactive-Image-Generation-and-Zhou-Zhang/839dc73c1adae268144d9cfb9d70985b2001304f)\
+Tags: `iteractive`
 
 + **Multi-Concept Customization of Text-to-Image Diffusion** (8 Dec 2022)<details><summary>Nupur Kumari, Bingliang Zhang, Richard Zhang, et al. CVPR 2023.</summary>Nupur Kumari, Bingliang Zhang, Richard Zhang, Eli Shechtman, Jun-Yan Zhu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.04488)
