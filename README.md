@@ -423,7 +423,7 @@ Andrea Agostinelli, Timo I. Denk, Zalán Borsos, et al.\
 + **Mustango: Toward Controllable Text-to-Music Generation** (14 Nov 2023)\
 Jan Melechovsky, Zixun Guo, Deepanway Ghosal, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.08355)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mustango%3A-Toward-Controllable-Text-to-Music-Melechovsk%C3%BD-Guo/26d51f1353353fc4e87d8cb2db0caf255e9ee434)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioPaLM%3A-A-Large-Language-Model-That-Can-Speak-Rubenstein-Asawaroengchai/3efb81de24eb88017d6dbcf22cb4215084223fd8)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://amaai-lab.github.io/mustango/)
 [![Code](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)](https://github.com/amaai-lab/mustango)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/declare-lab/mustango)
