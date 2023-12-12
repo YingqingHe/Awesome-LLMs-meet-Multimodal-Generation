@@ -427,7 +427,7 @@ Haohe Liu, Qiao Tian, Yi Yuan, et al.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioLDM-2%3A-Learning-Holistic-Audio-Generation-with-Liu-Tian/33de773be1733347a01cb07a5bb1b6cdfa956a47)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audioldm.github.io/audioldm2/)
 [![Code](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)](https://github.com/haoheliu/audioldm2)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2musicc)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music)
 
 + **JEN-1: TEXT-GUIDED UNIVERSAL MUSIC GENERATION WITH OMNIDIRECTIONAL DIFFUSION MODELS** (9 Aug 2023)\
 Peike Li, Boyu Chen, Yao Yao, et al.\
