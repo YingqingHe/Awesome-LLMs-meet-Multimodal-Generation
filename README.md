@@ -53,14 +53,21 @@ Tags: `customization`
 + **Sequential Modeling Enables Scalable Learning for Large Vision Models** (1 Dec 2023)<details><summary>Yutong Bai, Xinyang Geng, Karttikeya Mangalam, et al.</summary> Yutong Bai, Xinyang Geng, Karttikeya Mangalam, Amir Bar, Alan Yuille, Trevor Darrell, Jitendra Malik, Alexei A Efros</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00785)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F689c358c5f9b5b1693a8bcc7e6e0460012f5cf9e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Sequential-Modeling-Enables-Scalable-Learning-for-Bai-Geng/689c358c5f9b5b1693a8bcc7e6e0460012f5cf9e)
-[![Code](https://img.shields.io/github/stars/ytongbai/LVM.svg?style=social&label=Star)](https://github.com/ytongbai/LVM)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yutongbai.com/lvm.html)
+[![Code](https://img.shields.io/github/stars/ytongbai/LVM.svg?style=social&label=Star)](https://github.com/ytongbai/LVM)
 
 
 + **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model** (29 Nov 2023) <details><summary>Xiaowei Chi, Yijiang Liu, Zhengkai Jiang, et al.</summary> Xiaowei Chi, Yijiang Liu, Zhengkai Jiang, Rongyu Zhang, Ziyi Lin, Renrui Zhang, Peng Gao, Chaoyou Fu, Shanghang Zhang, Qifeng Liu, Yike Guo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17963)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F22d55c52f43f59634586ab95fefbb7dba8c8b190%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ChatIllusion%3A-Efficient-Aligning-Interleaved-with-Chi-Liu/22d55c52f43f59634586ab95fefbb7dba8c8b190)
 [![Code](https://img.shields.io/github/stars/litwellchi/ChatIllusion.svg?style=social&label=Star)](https://github.com/litwellchi/ChatIllusion)
+
++ **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** (28 Nov 2023) <details><summary>Jingye Chen, Yupan Huang, Tengchao Lv, et al.</summary>Jingye Chen, Yupan Huang, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16465)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1c6e2a4da1ead685a95c079751bf4d7a727d8180%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TextDiffuser-2%3A-Unleashing-the-Power-of-Language-Chen-Huang/1c6e2a4da1ead685a95c079751bf4d7a727d8180)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jingyechen.github.io/textdiffuser2/)
+[![Code](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser-2)
 
 + **Self-correcting LLM-controlled Diffusion Models** (27 Nov 2023)<details><summary>Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, et al.</summary> Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16090)
@@ -214,6 +221,13 @@ Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pixart-alpha.github.io/)
 [![Code](https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha.svg?style=social&label=Star)](https://github.com/PixArt-alpha/PixArt-alpha)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
+
++ **TextDiffuser: Diffusion Models as Text Painters** (18 May 2023) <details><summary>Jingye Chen, Yupan Huang, Tengchao Lv, et al. NeurIPS 2023.</summary>Jingye Chen, Yupan Huang, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10855)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe779781f1bea273573fc9d3f1a5e874bcff2cd2b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TextDiffuser%3A-Diffusion-Models-as-Text-Painters-Chen-Huang/e779781f1bea273573fc9d3f1a5e874bcff2cd2b)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jingyechen.github.io/textdiffuser/)
+[![Code](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)
 
 + **TiGAN: Text-Based Interactive Image Generation and Manipulation** (Dec 2022)<details><summary>Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, et al. AAAI 2022.</summary>Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Chris Tensmeyer, Tong Yu,Changyou Chen, Jinhui Xu, Tong Sun</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/20270)
