@@ -880,13 +880,23 @@ Can Wang, et al. CVPR 2022.\
 Hyeonseop Song, Seokhun Choi, Hoseok Do, et al. ICCV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11974)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7f31e07d9b128a0f555c275bc3fdb851f725b8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blending-NeRF%3A-Text-Driven-Localized-Editing-in-Song-Choi/bf7f31e07d9b128a0f555c275bc3fdb851f725b8)
+
 # Multi-Modal Agents
+
++ **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing** (1 Nov 2023) <details><summary>Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, et al.</summary> Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, Jianfeng Gao, Chunyuan Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00571)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc020f15be1dee20f9e2e0c5a6f05f272b5508325%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLaVA-Interactive%3A-An-All-in-One-Demo-for-Image-and-Chen-Spiridonova/c020f15be1dee20f9e2e0c5a6f05f272b5508325)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llava-vl.github.io/llava-interactive)
+[![Code](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star)](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://llavainteractive.ngrok.app/)\
+**Tags:** `Image Chat` `Image Segmentation`, `Image Generation` `Image Editing`
+
 + **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (26 Oct 2023)\
 Liu, Zhaoyang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F288e7224d53d68669eb67f2496e068dc965c639e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ControlLLM%3A-Augment-Language-Models-with-Tools-by-Liu-Lai/288e7224d53d68669eb67f2496e068dc965c639e)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/ControlLLM)\
-**Tasks:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
+**Tags:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
 
 + **ImageBind-LLM: Multi-modality Instruction Tuning** (7 Sep 2023)\
 Han, Jiaming, et al.\
