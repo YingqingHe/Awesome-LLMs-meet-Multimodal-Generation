@@ -56,6 +56,11 @@ Tags: `customization`
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yutongbai.com/lvm.html)
 [![Code](https://img.shields.io/github/stars/ytongbai/LVM.svg?style=social&label=Star)](https://github.com/ytongbai/LVM) -->
 
++ **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation** (30 Nov 2023) <details><summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, et al.</summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18775)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F78582ad19779a69d97b797a3c6eb2397f99398b6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CoDi-2%3A-In-Context%2C-Interleaved%2C-and-Interactive-Tang-Yang/78582ad19779a69d97b797a3c6eb2397f99398b6)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-2.github.io/)
+[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/CoDi-2)
 
 + **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model** (29 Nov 2023) <details><summary>Xiaowei Chi, Yijiang Liu, Zhengkai Jiang, et al.</summary> Xiaowei Chi, Yijiang Liu, Zhengkai Jiang, Rongyu Zhang, Ziyi Lin, Renrui Zhang, Peng Gao, Chaoyou Fu, Shanghang Zhang, Qifeng Liu, Yike Guo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17963)
