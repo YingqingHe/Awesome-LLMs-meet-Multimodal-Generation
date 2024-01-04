@@ -215,6 +215,12 @@ Yu, Qifan, et al. \
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43a55dbd95c9d5cd82de8db276f41adeec4a937d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Data-Synthesis-for-Systematic-Vision-Yu-Li/43a55dbd95c9d5cd82de8db276f41adeec4a937d)
 [![Code](https://img.shields.io/github/stars/Yuqifan1117/Labal-Anything-Pipeline.svg?style=social&label=Star)](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
 
++ **CoDi: Any-to-Any Generation via Composable Diffusion** (19 May 2023)<details><summary>Zineng Tang, Ziyi Yang, Chenguang Zhu, et al. NeurIPS 2023.</summary>Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11846)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9f411fda2ad5b141a3115f707bcf5ee865b3fb94%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Any-to-Any-Generation-via-Composable-Diffusion-Tang-Yang/9f411fda2ad5b141a3115f707bcf5ee865b3fb94)
+[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-gen.github.io/)
+
 + **Grounding Language Models to Images for Multimodal Inputs and Outputs** (31 Jan 2023)\
 Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13823)
