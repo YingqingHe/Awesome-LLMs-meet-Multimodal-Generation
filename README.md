@@ -407,7 +407,7 @@ Wang, Yi, et al.\
 + **Mustango: Toward Controllable Text-to-Music Generation** (14 Nov 2023)\
 Jan Melechovsky, Zixun Guo, Deepanway Ghosal, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.08355)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mustango%3A-Toward-Controllable-Text-to-Music-Melechovsk%C3%BD-Guo/26d51f1353353fc4e87d8cb2db0caf255e9ee434)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26d51f1353353fc4e87d8cb2db0caf255e9ee434%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mustango%3A-Toward-Controllable-Text-to-Music-Melechovsk%C3%BD-Guo/26d51f1353353fc4e87d8cb2db0caf255e9ee434)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://amaai-lab.github.io/mustango/)
 [![Code](https://img.shields.io/github/stars/amaai-lab/mustango.svg?style=social&label=Star)](https://github.com/amaai-lab/mustango)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/declare-lab/mustango)
@@ -415,13 +415,13 @@ Jan Melechovsky, Zixun Guo, Deepanway Ghosal, et al.\
 + **Music ControlNet: Multiple Time-varying Controls for Music Generation** (13 Nov 2023)\
 Shih-Lun Wu, Chris Donahue, Shinji Watanabe, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07069)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F369b449415d50387fba048bbd4d26ee890df84b5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Music-ControlNet%3A-Multiple-Time-varying-Controls-Wu-Donahue/42239e71a712d70cd24e06ffc0cf0d22fc628a36)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42239e71a712d70cd24e06ffc0cf0d22fc628a36%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Music-ControlNet%3A-Multiple-Time-varying-Controls-Wu-Donahue/42239e71a712d70cd24e06ffc0cf0d22fc628a36)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musiccontrolnet.github.io/web/)
 
 + **Controllable Music Production with Diffusion Models and Guidance Gradients** (1 Nov 2023)\
 Mark Levy, Bruno Di Giorgi, Floris Weers, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00613)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Music-Production-with-Diffusion-Models-Levy-Giorgi/87e36f66b0c28ca7a327257ccb00282bdf7fe7d5)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F87e36f66b0c28ca7a327257ccb00282bdf7fe7d5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Music-Production-with-Diffusion-Models-Levy-Giorgi/87e36f66b0c28ca7a327257ccb00282bdf7fe7d5)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://machinelearning.apple.com/research/controllable-music)
 
 + **JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation** (29 Oct 2023)\
