@@ -439,7 +439,7 @@ Dingyao Yu, Kaitao Song, Peiling Lu, et al.\
 + **Audiogen: Textually guided audio generation** (30 Sep 2022)\
 Felix Kreuk, Gabriel Synnaeve, Adam Polyak, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.15352)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGen%3A-Textually-Guided-Audio-Generation-Kreuk-Synnaeve/ebb85974e06c4879b451fdfcb4f472a09471935b)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Febb85974e06c4879b451fdfcb4f472a09471935b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGen%3A-Textually-Guided-Audio-Generation-Kreuk-Synnaeve/ebb85974e06c4879b451fdfcb4f472a09471935b)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://felixkreuk.github.io/audiogen/)
 
 + **Music understanding LLaMA: Advancing text-to-music generation with question answering and captioning** (22 Aug 2023)\
@@ -453,7 +453,7 @@ Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, et al.\
 + **AudioLDM 2: Learning holistic audio generation with self-supervised pretraining** (10 Aug 2023)\
 Haohe Liu, Qiao Tian, Yi Yuan, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05734)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioLDM-2%3A-Learning-Holistic-Audio-Generation-with-Liu-Tian/33de773be1733347a01cb07a5bb1b6cdfa956a47)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F33de773be1733347a01cb07a5bb1b6cdfa956a47%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioLDM-2%3A-Learning-Holistic-Audio-Generation-with-Liu-Tian/33de773be1733347a01cb07a5bb1b6cdfa956a47)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audioldm.github.io/audioldm2/)
 [![Code](https://img.shields.io/github/stars/haoheliu/audioldm2.svg?style=social&label=Star)](https://github.com/haoheliu/audioldm2)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music)
