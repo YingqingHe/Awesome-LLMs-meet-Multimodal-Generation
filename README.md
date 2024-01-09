@@ -403,6 +403,20 @@ Wang, Yi, et al.\
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/OpenGVLab/InternVid)
 
 ## Audio Generation
++ **Diffsound: Discrete Diffusion Model for Text-to-sound Generation** (Wed, 20 Jul 2022)<details><summary>Dongchao Yang, Jianwei Yu, Helin Wang, et al. (TASLP2022)</summary>Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu</details>\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.09983)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc036f75da24ba64a583e0b6d41c5b792347bffa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffsound%3A-Discrete-Diffusion-Model-for-Generation-Yang-Yu/c036f75da24ba64a583e0b6d41c5b792347bffa6)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dongchaoyang.top/text-to-sound-synthesis-demo/)
+[![Code](https://img.shields.io/github/stars/Text-to-sound-Synthesis.svg?style=social&label=Star)](https://github.com/yangdongchao/Text-to-sound-Synthesis)
+
+
++ **LLM-grounded Video Diffusion Models** (29 Sep 2023)<details><summary>Long Lian, Baifeng Shi, Adam Yala, et al.</summary>Long Lian, Baifeng Shi, Adam Yala, Trevor Darrell, Boyi Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F87bf66eb6d22df17f70170a0e575b4f12c4813ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-grounded-Video-Diffusion-Models-Lian-Shi/87bf66eb6d22df17f70170a0e575b4f12c4813ef)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io/)
+[![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
+
+
 + **Mustango: Toward Controllable Text-to-Music Generation** (14 Nov 2023)\
 Jan Melechovsky, Zixun Guo, Deepanway Ghosal, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.08355)
