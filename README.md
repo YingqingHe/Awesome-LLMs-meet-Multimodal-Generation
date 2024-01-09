@@ -565,19 +565,37 @@ Andrea Agostinelli, Timo I. Denk, Zalán Borsos, et al.\
 ### Datasets
 
 ## 3D Generation
-+ **ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model** (29 Nov 2023)<details><summary>Fukun Yin, Xin Chen, Chi Zhang, et al.</summary>Fukun Yin, Xin Chen, Chi Zhang, Biao Jiang, Zibo Zhao, Jiayuan Fan, Gang Yu, Taihao Li, Tao Chen</details>
++ **MotionScript: Natural Language Descriptions for Expressive 3D Human Motions** (19 Dec 2023)\
+Payam Jome Yazdian, Eric Liu, Li Cheng, et al.\
++ [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12634)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F816792e66f463be2aa1888e4ecb51f8fb2b4dd79%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionScript%3A-Natural-Language-Descriptions-for-3D-Yazdian-Liu/816792e66f463be2aa1888e4ecb51f8fb2b4dd79)
+
++ **HOLODECK: Language Guided Generation of 3D Embodied AI Environments** (14 Dec 2023)\
+Yue Yang, Fan-Yun Sun, Luca Weihs, et al.\
++ [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09067)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1dbc2cdcae3e17c3d721d12a5a2d98ced727681a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Holodeck%3A-Language-Guided-Generation-of-3D-Embodied-Yang-Sun/1dbc2cdcae3e17c3d721d12a5a2d98ced727681a)
+[![Code](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star)](https://github.com/allenai/Holodeck)
+
++ **PoseGPT: Chatting about 3D Human Pose** (30 Nov 2023)\
+Yao Feng, Jing Lin, Sai Kumar Dwivedi, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18836)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4673c2ac4abb4b055da87171231acb60801ffe74%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PoseGPT%3A-Chatting-about-3D-Human-Pose-Feng-Lin/4673c2ac4abb4b055da87171231acb60801ffe74)
+[![Code](https://img.shields.io/github/stars/yfeng95/PoseGPT.svg?style=social&label=Star)](https://github.com/yfeng95/PoseGPT)
+
++ **ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model** (29 Nov 2023)\ 
+Fukun Yin, Xin Chen, Chi Zhang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17618)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ShapeGPT%3A-3D-Shape-Generation-with-A-Unified-Model-Yin-Chen/09157a8c0e7d7263ac035690118ddcbe295cee5c)
 [![Code](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star)](https://github.com/OpenShapeLab/ShapeGPT)
 
 + **MotionGPT: Human Motion as a Foreign Language** (2023)\
-Biao Jiang*, Xin Chen*, Wen Liu(NeurIPS 2023)\
+Biao Jiang*, Xin Chen*, Wen Liu, et al.(NeurIPS 2023)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.14795.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd212fa27f5868f0fd106e1a7bba908fd47da0816%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionGPT%3A-Human-Motion-as-a-Foreign-Language-Jiang-Chen/d212fa27f5868f0fd106e1a7bba908fd47da0816)
 [![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT.svg?style=social&label=Star)](https://github.com/OpenMotionLab/MotionGPT)
 
 + **3D-GPT: Procedural 3D MODELING WITH LARGE LANGUAGE MODELS** (2023)\
-Chunyi Sun*, Junlin Han*, Weijian Deng\
+Chunyi Sun*, Junlin Han*, Weijian Deng, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12945)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F588930cdd801f335b5e524d13f99aa94136a20a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-GPT%3A-Procedural-3D-Modeling-with-Large-Language-Sun-Han/588930cdd801f335b5e524d13f99aa94136a20a0)
 [![Code](https://img.shields.io/github/stars/Chuny1/3DGPT.svg?style=social&label=Star)](https://github.com/Chuny1/3DGPT)
@@ -1105,6 +1123,13 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 ## Audio Understanding
 
 ## 3D Understanding
+
++ **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (21 Dec 2023)\
+Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14074)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5edf706467dc76cd09319592d18db0ad4e1fb64d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LiDAR-LLM%3A-Exploring-the-Potential-of-Large-Models-Yang-Liu/5edf706467dc76cd09319592d18db0ad4e1fb64d)
+
+
 + **3D-LLM: Injecting the 3D World into Large Language Models** (2023)\
 Yining Hong, Haoyu Zhen, Peihao Chen, et al. NeurIPS 2023 Spotlight\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12981)
