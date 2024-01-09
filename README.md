@@ -567,12 +567,12 @@ Andrea Agostinelli, Timo I. Denk, Zalán Borsos, et al.\
 ## 3D Generation
 + **MotionScript: Natural Language Descriptions for Expressive 3D Human Motions** (19 Dec 2023)\
 Payam Jome Yazdian, Eric Liu, Li Cheng, et al.\
-+ [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12634)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12634)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F816792e66f463be2aa1888e4ecb51f8fb2b4dd79%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionScript%3A-Natural-Language-Descriptions-for-3D-Yazdian-Liu/816792e66f463be2aa1888e4ecb51f8fb2b4dd79)
 
 + **HOLODECK: Language Guided Generation of 3D Embodied AI Environments** (14 Dec 2023)\
 Yue Yang, Fan-Yun Sun, Luca Weihs, et al.\
-+ [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09067)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09067)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1dbc2cdcae3e17c3d721d12a5a2d98ced727681a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Holodeck%3A-Language-Guided-Generation-of-3D-Embodied-Yang-Sun/1dbc2cdcae3e17c3d721d12a5a2d98ced727681a)
 [![Code](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star)](https://github.com/allenai/Holodeck)
 
@@ -607,17 +607,17 @@ Chunyi Sun*, Junlin Han*, Weijian Deng, et al.\
 #### General Object
 
 + **DreamFusion: Text-to-3D using 2D Diffusion** (2023)\
-Ben Poole, Ajay Jain, Jonathan T. Barron, et al.(ICLR2023 Oral)\
+Ben Poole, Ajay Jain, Jonathan T. Barron, et al. (ICLR2023 Oral)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14988.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4c94d04afa4309ec2f06bdd0fe3781f91461b362%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamFusion%3A-Text-to-3D-using-2D-Diffusion-Poole-Jain/4c94d04afa4309ec2f06bdd0fe3781f91461b362)
  
 + **Magic3D: High-Resolution Text-to-3D Content Creation** (2022)\
-Chen-Hsuan Lin, Jun Gao, Luming Tang, et al.(CVPR2023 HighLight)\
+Chen-Hsuan Lin, Jun Gao, Luming Tang, et al. (CVPR2023 HighLight)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbdf4af8311637c681904e71cf50f96fd0026f578%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Magic3D%3A-High-Resolution-Text-to-3D-Content-Lin-Gao/bdf4af8311637c681904e71cf50f96fd0026f578)
 
 + **Clip-forge: Towards zero-shot text-to-shape generation** (2022)\
-Sanghi, Aditya, et al.(CVPR 2022)\
+Sanghi, Aditya, et al. (CVPR 2022)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2110.02624.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F738e3e0623054da29dc57fc6aee5e6711867c4e8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-Forge%3A-Towards-Zero-Shot-Text-to-Shape-Sanghi-Chu/738e3e0623054da29dc57fc6aee5e6711867c4e8)
 [![Code](https://img.shields.io/github/stars/AutodeskAILab/Clip-Forge.svg?style=social&label=Star)](https://github.com/AutodeskAILab/Clip-Forge)
@@ -629,7 +629,7 @@ Sanghi, Aditya, et al.(CVPR 2022)\
 [![Code](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/)
 
 + **Text2Mesh: Text-Driven Neural Stylization for Meshes** (2022)\
-Oscar Michel, Roi Bar-On, Richard Liu, et al.(CVPR 2022)\
+Oscar Michel, Roi Bar-On, Richard Liu, et al. (CVPR 2022)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2110.02624.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd15b27edf3630728cdb40f49946365d9011641cf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text2Mesh%3A-Text-Driven-Neural-Stylization-for-Michel-Bar-On/d15b27edf3630728cdb40f49946365d9011641cf)
 [![Code](https://img.shields.io/github/stars/threedle/text2mesh.svg?style=social&label=Star)](https://github.com/threedle/text2mesh)
