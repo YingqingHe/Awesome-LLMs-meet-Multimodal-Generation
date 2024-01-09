@@ -1161,30 +1161,17 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 
 
 ## Audio Understanding
-+ **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** (3 Apr 2023)\
-Yuancheng Wang, Zeqian Ju, Xu Tan\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.00830)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F187703129bb0da27e0d3bda51320bb85efd34821%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AUDIT%3A-Audio-Editing-by-Following-Instructions-with-Wang-Ju/187703129bb0da27e0d3bda51320bb85efd34821)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audit-demo.github.io/)
++ **Audiogpt: Understanding and generating speech, music, sound, and talking head** (25 Apr 2023)<details><summary>Rongjie Huang, Mingze Li, Dongchao Yang, et al.</summary>Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12995)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8bc617c9139648d7a92991d70c671230bac7b2e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGPT%3A-Understanding-and-Generating-Speech%2C-and-Huang-Li/8bc617c9139648d7a92991d70c671230bac7b2e2)
+[![Code](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)](https://github.com/AIGC-Audio/AudioGPT)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
-+ **Voicebox: Text-guided multilingual universal speech generation at scale** (23 Jun 2023)\
-Matthew Le, Apoorv Vyas, Bowen Shi\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.15687)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa9e00c216ce69325a15fd139da0624978e54058a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Voicebox%3A-Text-Guided-Multilingual-Universal-Speech-Le-Vyas/a9e00c216ce69325a15fd139da0624978e54058a)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://voicebox.metademolab.com/)
-
-+ **UniAudio: An Audio Foundation Model Toward Universal Audio Generation** (1 Oct 2023)\
-Dongchao Yang, Jinchuan Tian, Xu Tan\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00704)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F74bfbbb7307a7af2686043ea97ab8b34cb062ba8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/UniAudio%3A-An-Audio-Foundation-Model-Toward-Audio-Yang-Tian/74bfbbb7307a7af2686043ea97ab8b34cb062ba8)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dongchaoyang.top/UniAudio_demo/)
-[![Code](https://img.shields.io/github/stars/yangdongchao/UniAudio.svg?style=social&label=Star)](https://github.com/yangdongchao/UniAudio)
-
-+ **Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing** (19 Oct 2023)<details><summary>Yixiao Zhang, Akira Maezawa, Gus Xia, et al.</summary>Yixiao Zhang, Akira Maezawa, Gus Xia, Kazuhiko Yamamoto, Simon Dixon</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12404)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcca4218dd7c10c1614bbd84aa7cd7e00027bdc7c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Loop-Copilot%3A-Conducting-AI-Ensembles-for-Music-and-Zhang-Maezawa/cca4218dd7c10c1614bbd84aa7cd7e00027bdc7c)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/loop-copilot)
-[![Code](https://img.shields.io/github/stars/ldzhangyx/loop-copilot/.svg?style=social&label=Star)](https://github.com/ldzhangyx/loop-copilot/)
++ **Joint Audio and Speech Understanding** (25 Sep 2023)<details><summary>Yuan Gong, Alexander H. Liu, Hongyin Luo, et al.</summary>Yuan Gong, Alexander H. Liu, Hongyin Luo, Leonid Karlinsky, James Glass</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14405)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc14db8b4c1bd65a18a604236cdbc3549ee75f3bd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Joint-Audio-and-Speech-Understanding-Gong-Liu/c14db8b4c1bd65a18a604236cdbc3549ee75f3bd)
+[![Code](https://img.shields.io/github/stars/yuangongnd/ltu.svg?style=social&label=Star)](https://github.com/yuangongnd/ltu)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/yuangongfdu/ltu-2)
 
 + **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** (19 Nov 2023)<details><summary>Atin Sakkeer Hussain, Shansong Liu, Chenshuo Sun, et al.</summary>Atin Sakkeer Hussain, Shansong Liu, Chenshuo Sun, Ying Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11255)
@@ -1193,10 +1180,12 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![Code](https://img.shields.io/github/stars/shansongliu/M2UGen.svg?style=social&label=Star)](https://github.com/shansongliu/M2UGen)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/M2UGen/M2UGen-Demo)
 
-+ **InstructME: An Instruction Guided Music Edit And Remix Framework with Latent Diffusion Models** (12 Dec 2023)<details><summary>Bing Han, Junyu Dai, Weituo Hao, et al.</summary>Bing Han, Junyu Dai, Weituo Hao, Xinyan He, Dong Guo, Jitong Chen, Yuxuan Wang, Yanmin Qian, Xuchen Song</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F96a7ca4a9687ef1170f5b5518798ab3fd228e845%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructME%3A-An-Instruction-Guided-Music-Edit-And-Han-Dai/96a7ca4a9687ef1170f5b5518798ab3fd228e845)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musicedit.github.io/)
++ **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action** (28 Dec 2023)<details><summary>Jiasen Lu, Christopher Clark, Sangho Lee, et al.</summary>Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.17172)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6c64ddd2190909de2c680dd18abc9b92e80c39f9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Unified-IO-2%3A-Scaling-Autoregressive-Multimodal-and-Lu-Clark/6c64ddd2190909de2c680dd18abc9b92e80c39f9)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://unified-io-2.allenai.org/)
+[![Code](https://img.shields.io/github/stars/allenai/unified-io-2.svg?style=social&label=Star)](https://github.com/allenai/unified-io-2)
+
 
 ## 3D Understanding
 
