@@ -405,7 +405,7 @@ Wang, Yi, et al.\
 ## Audio Generation
 
 + **Audiobox: Unified Audio Generation with Natural Language Prompts** (25 Dec 2023)\
-Apoorv Vyas, Bowen Shi, Matthew Le
+Apoorv Vyas, Bowen Shi, Matthew Le\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15821)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff124ae1e4663359193be32adb37b07b3252d5329%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Audiobox%3A-Unified-Audio-Generation-with-Natural-Vyas-Shi/f124ae1e4663359193be32adb37b07b3252d5329)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audiobox.metademolab.com/)
