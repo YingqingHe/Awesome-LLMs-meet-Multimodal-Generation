@@ -690,6 +690,13 @@ Ryugo Morita, Zhiqiang Zhang, Man M. Ho, Jinjia Zhou. WACV 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15352)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F387144d293567408c363313aac971294e7ec8547%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Image-Manipulation-with-Complex-Text-Morita-Zhang/387144d293567408c363313aac971294e7ec8547)
 
++ **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** (8 Mar 2023)\
+Wu, Chenfei, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04671)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf997821231898a5f8d0fd78dad4eec526acabe5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-ChatGPT%3A-Talking%2C-Drawing-and-Editing-with-Wu-Yin/af997821231898a5f8d0fd78dad4eec526acabe5)
+[![Code](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/moymix/TaskMatrix)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/visual_chatgpt)
+
 + **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (20 Mar 2023)\
 Cui, Xing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
@@ -785,6 +792,14 @@ Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pix2pixzero.github.io/)
 [![Code](https://img.shields.io/github/stars/pix2pixzero/pix2pix-zero.svg?style=social&label=Star)](https://github.com/pix2pixzero/pix2pix-zero)
 
++ **PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** (30 Mar 2023)\
+Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi. ArXiv 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17546)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc614a4da924466f62ca39002af425c9d14d240a3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PAIR-Diffusion%3A-A-Comprehensive-Multimodal-Image-Goel-Peruzzo/c614a4da924466f62ca39002af425c9d14d240a3)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://vidit98.github.io/publication/conference-paper/pair_diff.html)
+[![Code](https://img.shields.io/github/stars/pix2pixzero/pix2pix-zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/PAIR-Diffusion)
+
+
 + **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** (17 Apr 2023)\
 Mingdeng Cao, Xintao Wang, Zhongang Qi, Ying Shan, Xiaohu Qie, Yinqiang Zheng. ICCV 2023. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08947)
@@ -792,6 +807,12 @@ Mingdeng Cao, Xintao Wang, Zhongang Qi, Ying Shan, Xiaohu Qie, Yinqiang Zheng. I
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ljzycmd.github.io/projects/MasaCtrl/)
 [![Code](https://img.shields.io/github/stars/TencentARC/MasaCtrl.svg?style=social&label=Star)](https://github.com/TencentARC/MasaCtrl)
 
++ **Visual Instruction Inversion: Image Editing via Visual Prompting** (26 Jul 2023)\
+Thao Nguyen, Yuheng Li, Utkarsh Ojha, Yong Jae Lee. ArXiv 2023. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff4c62aa336de45273e0fdfcfbd65b3c2e552ad56%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-Instruction-Inversion%3A-Image-Editing-via-Nguyen-Li/f4c62aa336de45273e0fdfcfbd65b3c2e552ad56)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://thaoshibe.github.io/visii/)
+[![Code](https://img.shields.io/github/stars/thaoshibe/visii.svg?style=social&label=Star)](https://github.com/thaoshibe/visii)
 
 + **Watch Your Steps: Local Image and Scene Editing by Text Instructions** (17 Nov 2023)\
 Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell. ArXiv 2023. \
@@ -816,8 +837,6 @@ Jiaxin Cheng, Tianjun Xiao, Tong He. ArXiv 2023.\
 
 
 
-
-
 ### Multimodal Language Model-based
 
 + **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (2 Apr 2021)\
@@ -831,6 +850,12 @@ Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Weixian Lei, Yuchao Gu, Yufei Shi, Wynn
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1367dcff4ccb927a5e95c452041288b3f0dd0eff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Tune-A-Video%3A-One-Shot-Tuning-of-Image-Diffusion-Wu-Ge/1367dcff4ccb927a5e95c452041288b3f0dd0eff)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fate-zero-edit.github.io/)
 [![Code](https://img.shields.io/github/stars/showlab/Tune-A-Video.svg?style=social&label=Star)](https://tuneavideo.github.io/)
+
++ **Dreamix: Video Diffusion Models are General Video Editors** (2 Feb 2023)\
+Eyal Molad, Eliahu Horwitz, Dani Valevski, Alex Rav Acha, Yossi Matias, Yael Pritch, Yaniv Leviathan, Yedid Hoshen. arXiv 2023.\
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01329)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9758ddd6ffbaac75aa0447a9664e6989811a05e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Dreamix%3A-Video-Diffusion-Models-are-General-Video-Molad-Horwitz/9758ddd6ffbaac75aa0447a9664e6989811a05e2)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamix-video-editing.github.io/)
 
 + **Video-P2P: Video Editing with Cross-attention Control** (8 Mar 2023)\
 Shaoteng Liu, Yuechen Zhang, Wenbo Li, Zhe Lin, Jiaya Jia. arXiv 2022.\
