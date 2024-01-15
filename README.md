@@ -90,6 +90,10 @@ Tags: `customization`
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F22d55c52f43f59634586ab95fefbb7dba8c8b190%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ChatIllusion%3A-Efficient-Aligning-Interleaved-with-Chi-Liu/22d55c52f43f59634586ab95fefbb7dba8c8b190)
 [![Code](https://img.shields.io/github/stars/litwellchi/ChatIllusion.svg?style=social&label=Star)](https://github.com/litwellchi/ChatIllusion)
 
++ **DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback** (29 Nov 2023) <details><summary>Jiao Sun, Deqing Fu, Yushi Hu, et al.</summary>Jiao Sun, Deqing Fu, Yushi Hu, Su Wang, Royi Rassin, Da-Cheng Juan, Dana Alon, Charles Herrmann, Sjoerd van Steenkiste, Ranjay Krishna, Cyrus Rashtchian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17946)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd16f72b7be526dee5eb49e5afffeea2bddba5e66%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamSync%3A-Aligning-Text-to-Image-Generation-with-Sun-Fu/d16f72b7be526dee5eb49e5afffeea2bddba5e66)
+
 + **COLE: A Hierarchical Generation Framework for Graphic Design** (28 Nov 2023) <details><summary>Peidong Jia, Chenxuan Li, Zeyu Liu, et al.</summary>Peidong Jia, Chenxuan Li, Zeyu Liu, Yichao Shen, Xingru Chen, Yuhui Yuan, Yinglin Zheng, Dong Chen, Ji Li, Xiaodong Xie, Shanghang Zhang, Baining Guo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16974)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8441c30ad4abdca9ee380aa6f22ffd731b10231b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/COLE%3A-A-Hierarchical-Generation-Framework-for-Jia-Li/8441c30ad4abdca9ee380aa6f22ffd731b10231b)
