@@ -1064,6 +1064,12 @@ Wu, Chenfei, et al. \
 
 # LLMs for Audiovisual Understanding
 ## Image Understanding
++ **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** (21 Dec 2023)<details><summary>Zhe Chen, Jiannan Wu, Wenhai Wang, et al.</summary>Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14238)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6a33e58ef961a3a0a5657518b2be86395eb7c8d0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVL%3A-Scaling-up-Vision-Foundation-Models-and-Chen-Wu/6a33e58ef961a3a0a5657518b2be86395eb7c8d0)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://internvl.opengvlab.com/)
+
 + **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models** (28 Nov 2023)\
 Li, Yanwei, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17043)
