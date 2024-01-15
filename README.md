@@ -707,6 +707,16 @@ Wu, Chenfei, et al. \
 [![Code](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/moymix/TaskMatrix)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/visual_chatgpt)
 
+
++ **HIVE: Harnessing Human Feedback for Instructional Visual Editing** (16 Mar 2023)\
+Shu Zhang, Xinyi Yang, Yihao Feng, Can Qin, Chia-Chih Chen, Ning Yu, Zeyuan Chen, Huan Wang, Silvio Savarese, Stefano Ermon, Caiming Xiong, Ran Xu. ArXiv 2023. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09618)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F372bc41602bbd21f192305775f0a58de9880e454%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HIVE%3A-Harnessing-Human-Feedback-for-Instructional-Zhang-Yang/372bc41602bbd21f192305775f0a58de9880e454)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shugerdou.github.io/hive/)
+[![Code](https://img.shields.io/github/stars/salesforce/HIVE.svg?style=social&label=Star)](https://github.com/salesforce/HIVE)
+
+
+
 + **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (20 Mar 2023)\
 Cui, Xing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
