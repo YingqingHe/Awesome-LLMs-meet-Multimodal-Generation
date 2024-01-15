@@ -328,7 +328,7 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc84fcf269a37ed7ddcb1b0f2d7d1a00f677eaea%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDrafter%3A-Content-Consistent-Multi-Scene-Video-Long-Qiu/fc84fcf269a37ed7ddcb1b0f2d7d1a00f677eaea)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://videodrafter.github.io/)
 
-+ **Plan, Posture and Go: Towards Open-World Text-to-Motion Generation** (22 Dec 2023)<details><summary>Jinpeng Liu, Wenxun Dai, Chunyu Wang, et al.</summary>Jinpeng Liu, Wenxun Dai, Chunyu Wang, Yiji Cheng, Yansong Tang, Xin Tong</details>
++ **[PRO-Motion] Plan, Posture and Go: Towards Open-World Text-to-Motion Generation** (22 Dec 2023)<details><summary>Jinpeng Liu, Wenxun Dai, Chunyu Wang, et al.</summary>Jinpeng Liu, Wenxun Dai, Chunyu Wang, Yiji Cheng, Yansong Tang, Xin Tong</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14828)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4599d5af850da482f591a02a3b17d56e0d358771%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Plan%2C-Posture-and-Go%3A-Towards-Open-World-Generation-Liu-Dai/4599d5af850da482f591a02a3b17d56e0d358771)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://moonsliu.github.io/Pro-Motion/)
