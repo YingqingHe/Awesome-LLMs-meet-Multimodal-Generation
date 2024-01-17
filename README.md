@@ -846,8 +846,8 @@ Thao Nguyen, Yuheng Li, Utkarsh Ojha, Yong Jae Lee. ArXiv 2023. \
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://thaoshibe.github.io/visii/)
 [![Code](https://img.shields.io/github/stars/thaoshibe/visii.svg?style=social&label=Star)](https://github.com/thaoshibe/visii)
 
-+ **Watch Your Steps: Local Image and Scene Editing by Text Instructions** (17 Nov 2023)\
-Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell. ArXiv 2023. \
++ **Watch Your Steps: Local Image and Scene Editing by Text Instructions** (17 Aug 2023 )\
+Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski. ArXiv 2023. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08947)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F737ad8905228cd410e3342b5cceefd4feb57d166%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Watch-Your-Steps%3A-Local-Image-and-Scene-Editing-by-Mirzaei-Aumentado-Armstrong/737ad8905228cd410e3342b5cceefd4feb57d166)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ashmrz.github.io/WatchYourSteps/)
