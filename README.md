@@ -716,7 +716,6 @@ Shu Zhang, Xinyi Yang, Yihao Feng, Can Qin, Chia-Chih Chen, Ning Yu, Zeyuan Chen
 [![Code](https://img.shields.io/github/stars/salesforce/HIVE.svg?style=social&label=Star)](https://github.com/salesforce/HIVE)
 
 
-
 + **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (20 Mar 2023)\
 Cui, Xing, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
