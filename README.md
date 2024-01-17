@@ -765,6 +765,12 @@ Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefan
 [![Code](https://img.shields.io/github/stars/ermongroup/SDEdit.svg?style=social&label=Star)](https://github.com/ermongroup/SDEdit)
 
 
++ **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** (6 Oct 2021)\
+Gwanghyun Kim, Taesung Kwon, Jong Chul Ye. CVPR 2022. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.02711)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8f8dedb511c0324d1cb7f9750560109ca9290b5f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DiffusionCLIP%3A-Text-Guided-Diffusion-Models-for-Kim-Kwon/8f8dedb511c0324d1cb7f9750560109ca9290b5f)
+[![Code](https://img.shields.io/github/stars/gwang-kim/DiffusionCLIP.svg?style=social&label=Star)](https://github.com/gwang-kim/DiffusionCLIP)
+
 
 + **DiffEdit: Diffusion-based semantic image editing with mask guidance** (20 Oct 2022) \
 Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord. ICLR 2023 (notable top 25%). \
