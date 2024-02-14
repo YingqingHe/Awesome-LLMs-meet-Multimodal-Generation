@@ -454,6 +454,17 @@ Wang, Yi, et al.\
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/OpenGVLab/InternVid)
 
++ **[HD-VILA-100M] Advancing High-Resolution Video-Language Representation
+with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al. CVPR 2022</summary>Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, Huan Yang, Jianlong Fu, Baining Guo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.10337)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1a3e6856b6ac6af3600b5954392e5368603fd1b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Advancing-High-Resolution-Video-Language-with-Video-Xue-Hang/e1a3e6856b6ac6af3600b5954392e5368603fd1b)
+[![Code](https://img.shields.io/github/stars/microsoft/XPretrain.svg?style=social&label=Star)](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)
+
++ **[WebVid-10M] Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** (1 Apr 2021)<details><summary>Max Bain, Arsha Nagrani, Gül Varol, et al. [ICCV 2021]</summary>Max Bain, Arsha Nagrani, Gül Varol, Andrew Zisserman</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.00650)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbac87bdb1cabc35fafb8176a234d332ebcc02864%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Frozen-in-Time%3A-A-Joint-Video-and-Image-Encoder-for-Bain-Nagrani/bac87bdb1cabc35fafb8176a234d332ebcc02864)
+
+
 ## Audio Generation
 + **Diffsound: Discrete Diffusion Model for Text-to-sound Generation** (Wed, 20 Jul 2022)<details><summary>Dongchao Yang, Jianwei Yu, Helin Wang, et al. (TASLP2022)</summary>Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.09983)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc036f75da24ba64a583e0b6d41c5b792347bffa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffsound%3A-Discrete-Diffusion-Model-for-Generation-Yang-Yu/c036f75da24ba64a583e0b6d41c5b792347bffa6)
