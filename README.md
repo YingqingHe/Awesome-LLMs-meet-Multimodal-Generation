@@ -447,22 +447,79 @@ Luo, Zhengxiong, et al. CVPR 2023.\
 
 ### Datasets
 
-+ **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)\
-Wang, Yi, et al.\
++ **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)<details><summary>Yi Wang, Yinan He, Yizhuo Li, et al. [ICLR 2024 Spotlight]</summary>Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Conghui He, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F369b449415d50387fba048bbd4d26ee890df84b5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVid%3A-A-Large-scale-Video-Text-Dataset-for-and-Wang-He/369b449415d50387fba048bbd4d26ee890df84b5)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/OpenGVLab/InternVid)
 
++ **[HD-VG-130M] VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** (18 May 2023)<details><summary>Wenjing Wang, Huan Yang, Zixi Tuo, et al.</summary>Wenjing Wang, Huan Yang, Zixi Tuo, Huiguo He, Junchen Zhu, Jianlong Fu, Jiaying Liu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10874)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F50bbf2c11984d18aa14f964a4909ac25f07e50ea%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoFactory%3A-Swap-Attention-in-Spatiotemporal-for-Wang-Yang/50bbf2c11984d18aa14f964a4909ac25f07e50ea)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/daooshee/HD-VG-130M?tab=readme-ov-file)
+
++ **[VideoCC3M] Learning Audio-Video Modalities from Image Captions** (18 May 2023)<details><summary>Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, et al. [ECCV 2022]</summary>Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, Anja Hauth, Santiago Manen, Chen Sun, Cordelia Schmid</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.00679)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faa1b722485106c84e52c5e35b2d4b2f8c7fb3135%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-Audio-Video-Modalities-from-Image-Captions-Nagrani-Seo/aa1b722485106c84e52c5e35b2d4b2f8c7fb3135)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/google-research-datasets/videoCC-data)
+
++ **CelebV-Text: A Large-Scale Facial Text-Video Dataset** (26 Mar 2023)<details><summary>Jianhui Yu, Hao Zhu, Liming Jiang, et al. [CVPR 2023]</summary>Jianhui Yu, Hao Zhu, Liming Jiang, Chen Change Loy, Weidong Cai, Wayne Wu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14717)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F484d2194ce8459bfa9da906e556f63812c6ca999%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CelebV-Text%3A-A-Large-Scale-Facial-Text-Video-Yu-Zhu/484d2194ce8459bfa9da906e556f63812c6ca999)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://celebv-text.github.io/)
+[![Code](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/CelebV-Text/CelebV-Text)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://www.youtube.com/watch?v=0TS1hQwjNWw)
+
 + **[HD-VILA-100M] Advancing High-Resolution Video-Language Representation
-with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al. CVPR 2022</summary>Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, Huan Yang, Jianlong Fu, Baining Guo</details>
+with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei Xue, Tiankai Hang, Yanhong Zeng, et al. [CVPR 2022]</summary>Hongwei Xue, Tiankai Hang, Yanhong Zeng, Yuchong Sun, Bei Liu, Huan Yang, Jianlong Fu, Baining Guo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.10337)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1a3e6856b6ac6af3600b5954392e5368603fd1b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Advancing-High-Resolution-Video-Language-with-Video-Xue-Hang/e1a3e6856b6ac6af3600b5954392e5368603fd1b)
 [![Code](https://img.shields.io/github/stars/microsoft/XPretrain.svg?style=social&label=Star)](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)
 
++ **[YT-Temporal-180M] MERLOT: Multimodal Neural Script Knowledge Models** (4 Jun 2021)<details><summary>Rowan Zellers, Ximing Lu, Jack Hessel, et al. [NeurIPS 2021]</summary>Rowan Zellers, Ximing Lu, Jack Hessel, Youngjae Yu, Jae Sung Park, Jize Cao, Ali Farhadi, Yejin Choi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.02636)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F90357a6dc817e2f7cec477a51156675fbf545cf1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MERLOT%3A-Multimodal-Neural-Script-Knowledge-Models-Zellers-Lu/90357a6dc817e2f7cec477a51156675fbf545cf1)
+[![Code](https://img.shields.io/github/stars/rowanz/merlot.svg?style=social&label=Star)](https://github.com/rowanz/merlot)
+
 + **[WebVid-10M] Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval** (1 Apr 2021)<details><summary>Max Bain, Arsha Nagrani, Gül Varol, et al. [ICCV 2021]</summary>Max Bain, Arsha Nagrani, Gül Varol, Andrew Zisserman</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.00650)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbac87bdb1cabc35fafb8176a234d332ebcc02864%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Frozen-in-Time%3A-A-Joint-Video-and-Image-Encoder-for-Bain-Nagrani/bac87bdb1cabc35fafb8176a234d332ebcc02864)
+
++ **[WTS70M] Learning Video Representations from Textual Web Supervision** (29 Jul 2020)<details><summary>Jonathan C. Stroud, Zhichao Lu, Chen Sun, et al.</summary>Jonathan C. Stroud, Zhichao Lu, Chen Sun, Jia Deng, Rahul Sukthankar, Cordelia Schmid, David A. Ross</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2007.14937)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fda55208bc9b56b5f394c242239d8cd0734bd5a87%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-Video-Representations-from-Textual-Web-Stroud-Ross/da55208bc9b56b5f394c242239d8cd0734bd5a87)
+
++ **HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips** (7 Jun 2019)<details><summary>Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, et al. [ICCV 2019]</summary>Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1906.03327)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9311779489e597315488749ee6c386bfa3f3512e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HowTo100M%3A-Learning-a-Text-Video-Embedding-by-Video-Miech-Zhukov/9311779489e597315488749ee6c386bfa3f3512e)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.di.ens.fr/willow/research/howto100m/)
+[![Code](https://img.shields.io/github/stars/antoine77340/howto100m.svg?style=social&label=Star)](https://github.com/antoine77340/howto100m?tab=readme-ov-file)
+
++ **VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research** (6 Apr 2019)<details><summary>Xin Wang, Jiawei Wu, Junkun Chen, et al. [ICCV 2019 Oral]</summary>Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.03493)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F28b74bb7c8b08cceb2430ec2d54dfa0f3225d796%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VaTeX%3A-A-Large-Scale%2C-High-Quality-Multilingual-for-Wang-Wu/28b74bb7c8b08cceb2430ec2d54dfa0f3225d796)
+
++ **How2: A Large-scale Dataset for Multimodal Language Understanding** (7 Jun 2019)<details><summary>Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, et al. [NeurIPS 2018]</summary>Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, Desmond Elliott, Loïc Barrault, Lucia Specia, Florian Metze</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1811.00347)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff56cb5dc32b5b280546998418fda7769d0858629%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/How2%3A-A-Large-scale-Dataset-for-Multimodal-Language-Sanabria-Caglayan/f56cb5dc32b5b280546998418fda7769d0858629)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://srvk.github.io/how2-dataset/)
+[![Code](https://img.shields.io/github/stars/srvk/how2-dataset.svg?style=social&label=Star)](https://github.com/srvk/how2-dataset)
+
++ **[ActivityNet Captions] Dense-Captioning Events in Videos** (2 May 2017)<details><summary>Ranjay Krishna, Kenji Hata, Frederic Ren, et al. [ICCV 2017]</summary>Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1705.00754)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F96dd1fc39a368d23291816d57763bc6eb4f7b8d6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Dense-Captioning-Events-in-Videos-Krishna-Hata/96dd1fc39a368d23291816d57763bc6eb4f7b8d6)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
+
++ **[LSMDC] Movie Description** (12 May 2016)<details><summary>Anna Rohrbach, Atousa Torabi, Marcus Rohrbach, et al. [IJCV 2017]</summary>Anna Rohrbach, Atousa Torabi, Marcus Rohrbach, Niket Tandon, Christopher Pal, Hugo Larochelle, Aaron Courville, Bernt Schiele</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1605.03705)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F154c22ca5eef149aedc8a986fa684ca1fd14e7dc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Movie-Description-Rohrbach-Torabi/154c22ca5eef149aedc8a986fa684ca1fd14e7dc)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset)
+
+
++ **MSR-VTT: A Large Video Description Dataset for Bridging Video and Language** (1 Apr 2021)<details><summary>Jun Xu , Tao Mei , Ting Yao, et al. [CVPR 2016]</summary>Jun Xu , Tao Mei , Ting Yao and Yong Rui</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb8e2e9f3ba008e28257195ec69a00e07f260131d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MSR-VTT%3A-A-Large-Video-Description-Dataset-for-and-Xu-Mei/b8e2e9f3ba008e28257195ec69a00e07f260131d)
+[![Code](https://img.shields.io/github/stars/crux82/msr-vtt-it.svg?style=social&label=Star)](https://github.com/crux82/msr-vtt-it)
 
 
 ## Audio Generation
