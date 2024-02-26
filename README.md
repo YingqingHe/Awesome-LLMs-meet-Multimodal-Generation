@@ -43,6 +43,12 @@
 
 ## Image Generation
 
++ **Genie: Generative Interactive Environments** (26 Feb 2023)<details><summary>Jake Bruce, Michael Dennis, Ashley Edwards, et al.</summary> Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps, Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess, Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11556)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F60d3ade5c0085f5de1f5ab944cc058c78706ac66%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/StarVector%3A-Generating-Scalable-Vector-Graphics-Rodriguez-Agarwal/60d3ade5c0085f5de1f5ab944cc058c78706ac66)
+[![Code](https://img.shields.io/github/stars/joanrod/star-vector.svg?style=social&label=Star)](https://github.com/joanrod/star-vector)
+
+
 + **StarVector: Generating Scalable Vector Graphics Code from Images** (17 Dec 2023)<details><summary>Juan A. Rodriguez, Shubham Agarwal, Issam H. Laradji, et al.</summary> Juan A. Rodriguez, Shubham Agarwal, Issam H. Laradji, Pau Rodriguez, David Vazquez, Christopher Pal, Marco Pedersoli</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11556)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F60d3ade5c0085f5de1f5ab944cc058c78706ac66%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/StarVector%3A-Generating-Scalable-Vector-Graphics-Rodriguez-Agarwal/60d3ade5c0085f5de1f5ab944cc058c78706ac66)
