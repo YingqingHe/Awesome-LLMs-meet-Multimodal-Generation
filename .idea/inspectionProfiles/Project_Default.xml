@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="face" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="p" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="lightning" />
+            <item index="1" class="java.lang.String" itemvalue="xatlas" />
+            <item index="2" class="java.lang.String" itemvalue="nvdiffrast" />
+            <item index="3" class="java.lang.String" itemvalue="controlnet_aux" />
+            <item index="4" class="java.lang.String" itemvalue="PyMCubes" />
+            <item index="5" class="java.lang.String" itemvalue="libigl" />
+            <item index="6" class="java.lang.String" itemvalue="envlight" />
+            <item index="7" class="java.lang.String" itemvalue="nerfacc" />
+            <item index="8" class="java.lang.String" itemvalue="typeguard" />
+            <item index="9" class="java.lang.String" itemvalue="pysdf" />
+            <item index="10" class="java.lang.String" itemvalue="bitsandbytes" />
+            <item index="11" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="12" class="java.lang.String" itemvalue="taming-transformers-rom1504" />
+            <item index="13" class="java.lang.String" itemvalue="wandb" />
+            <item index="14" class="java.lang.String" itemvalue="jaxtyping" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
