@@ -37,8 +37,8 @@
 - [Multimodal LLM Safety](#multimodal-llm-safety)
   - [Attack](#attack)
   - [Defense and Detect](#defense-and-detect)
-  - [Alignment](alignment)
-  - [Dataset](dataset)
+  - [Alignment](#alignment)
+  - [Dataset](#dataset)
 
 # Tips
 - Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
@@ -1822,7 +1822,7 @@ Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Palek
 
 
 
-## Defense & Detect
+## Defense and Detect
 
 
 + **Smoothllm: Defending large language models against jailbreaking attacks.**(5 Oct 2023)\
