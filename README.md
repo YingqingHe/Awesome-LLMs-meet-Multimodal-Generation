@@ -1729,7 +1729,6 @@ Zhang, Renrui and Guo, Ziyu, Zhang, Wei, et al.(CVPR2022)\
 
 # Multimodal LLM Safety
 ## Attack
-### Malicious Usage
 + **Ignore previous prompt: Attack techniques for language models** (17 Nov 2022)\
 Fábio Perez, Ian Ribeiro\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09527.pdf)
@@ -1761,10 +1760,6 @@ Daniel Kang, Xuechen Li, Ion Stoica, Carlos Guestrin, Matei Zaharia, Tatsunori H
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.05733.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Exploiting-Programmatic-Behavior-of-LLMs%3A-Dual-Use-Kang-Li/0cf694b8f85ab2e11d45595de211a15cfbadcd22?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/chawins/llm-sp)
-
-
-
-### Adversarial Attack
 
 + **Adversarial Examples for Evaluating Reading Comprehension Systems** (23 Jul 2017)\
 Robin Jia, Percy Liang\
@@ -1809,9 +1804,6 @@ Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.09127.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Jailbreaking-GPT-4V-via-Self-Adversarial-Attacks-Wu-Li/18a8b97d75a87e8fef07542d8875d4a62b553744?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/ThuCCSLab/lm-ssp)
-
-
-### Data Attack
 
 
 + **Poisoning Web-Scale Training Datasets is Practical**(20 Feb 2023)\
