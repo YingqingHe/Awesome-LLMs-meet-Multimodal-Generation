@@ -3,7 +3,7 @@
 - [Contents](#contents)
 - [🤗 Introduction](#-introduction)
 - [💘 Tips](#-tips)
-- [📍 LLMs for Audiovisual Generation](#-llms-for-audiovisual-generation)
+- [📍 LLMs for Visual-audio Generation](#-llms-for-visual-audio-generation)
   - [Image](#image)
     - [🔅 LLM-based](#-llm-based)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
@@ -20,7 +20,7 @@
     - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
-- [📍 LLMs for Audiovisual Editing](#-llms-for-audiovisual-editing)
+- [📍 LLMs for Visual-audio Editing](#-llms-for-visual-audio-editing)
   - [Image](#image-1)
     - [🔅 LLM-based](#-llm-based-4)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
@@ -34,7 +34,7 @@
     - [🔅 LLM-based](#-llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [📍 Multi-Modal Agents](#-multi-modal-agents)
-- [📍 LLMs for Audiovisual Understanding](#-llms-for-audiovisual-understanding)
+- [📍 LLMs for Visual-audio Understanding](#-llms-for-visual-audio-understanding)
   - [Image](#image-2)
   - [Video](#video-2)
   - [3D](#3d-2)
@@ -55,7 +55,7 @@ TODO
 - **✅ Paper searching via tag**: You can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation`. (More tags are ongoing)
 
 
-# 📍 LLMs for Audiovisual Generation
+# 📍 LLMs for Visual-audio Generation
 
 ## Image
 
@@ -1082,7 +1082,7 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 
 ### Datasets
 
-# 📍 LLMs for Audiovisual Editing
+# 📍 LLMs for Visual-audio Editing
 
 ## Image
 
@@ -1541,7 +1541,7 @@ Wu, Chenfei, et al. \
 [![Code](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)
 
 
-# 📍 LLMs for Audiovisual Understanding
+# 📍 LLMs for Visual-audio Understanding
 ## Image
 + **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** (21 Dec 2023)<details><summary>Zhe Chen, Jiannan Wu, Wenhai Wang, et al.</summary>Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14238)
