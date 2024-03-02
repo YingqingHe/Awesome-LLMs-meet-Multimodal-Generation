@@ -45,6 +45,8 @@
   - [Alignment](#alignment)
   - [Datasets](#datasets-4)
 - [📍 Related Surveys](#-related-surveys)
+  - [LLM](#llm)
+  - [Vision](#vision)
 
 # 🤗 Introduction
 - This repository contains a curated list of LLM-based methods for visual and audio generation.
@@ -2090,7 +2092,17 @@ Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Pi
 
 
 # 📍 Related Surveys
+## LLM
++ **A Survey on Multimodal Large Language Models** (23 Jun 2023)<details><summary>Shukang Yin, Chaoyou Fu, Sirui Zhao, et al.</summary>Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.13549)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Survey-on-Multimodal-Large-Language-Models-Yin-Fu/ebedc4d7a2356090904baba4104ef0832bc236df)
+[![Code](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
++ **A Survey of Large Language Models** (31 Mar 2023)<details><summary>Wayne Xin Zhao, Kun Zhou, Junyi Li, et al.</summary>Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.18223)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc61d54644e9aedcfc756e5d6fe4cc8b78c87755d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Survey-of-Large-Language-Models-Zhao-Zhou/c61d54644e9aedcfc756e5d6fe4cc8b78c87755d)
+[![Code](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social&label=Star)](https://github.com/RUCAIBox/LLMSurvey?tab=readme-ov-file#timeline-of-llms)
+
+
+## Vision
 + **Diffusion Models in Vision: A Survey** (10 Sep 2022)<details><summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, et al. [TPAMI 2023]</summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffusion-Models-in-Vision%3A-A-Survey-Croitoru-Hondru/efa1647594b236361610a20d507127f0586a379b)
 [![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
