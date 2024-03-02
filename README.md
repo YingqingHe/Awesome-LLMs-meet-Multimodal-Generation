@@ -2093,9 +2093,21 @@ Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Pi
 
 # 📍 Related Surveys
 ## LLM
+
+
++ **MM-LLMs: Recent Advances in MultiModal Large Language Models** (24 Jan 2024)<details><summary>Duzhen Zhang, Yahan Yu, Chenxing Li</summary>Duzhen Zhang, Yahan Yu, Chenxing Li, Jiahua Dong, Dan Su, Chenhui Chu, Dong Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13601)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa050c9b0c321839e4427ab9defa3463be7825ac4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MM-LLMs%3A-Recent-Advances-in-MultiModal-Large-Models-Zhang-Yu/a050c9b0c321839e4427ab9defa3463be7825ac4)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mm-llms.github.io/)
+
+
 + **A Survey on Multimodal Large Language Models** (23 Jun 2023)<details><summary>Shukang Yin, Chaoyou Fu, Sirui Zhao, et al.</summary>Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.13549)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Survey-on-Multimodal-Large-Language-Models-Yin-Fu/ebedc4d7a2356090904baba4104ef0832bc236df)
 [![Code](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+
++ **Multimodal Large Language Models: A Survey** (22 Nov 2023)<details><summary>Jiayang Wu, Wensheng Gan, Zefeng Chen, et al. [IEEE BigData 2023]</summary>Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, Philip S. Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13165)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F52941cadbd340344f3e0a6f50719fe55b3de5088%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Multimodal-Large-Language-Models%3A-A-Survey-Wu-Gan/52941cadbd340344f3e0a6f50719fe55b3de5088)
+
 
 + **A Survey of Large Language Models** (31 Mar 2023)<details><summary>Wayne Xin Zhao, Kun Zhou, Junyi Li, et al.</summary>Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.18223)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc61d54644e9aedcfc756e5d6fe4cc8b78c87755d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Survey-of-Large-Language-Models-Zhao-Zhou/c61d54644e9aedcfc756e5d6fe4cc8b78c87755d)
@@ -2103,6 +2115,12 @@ Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Pi
 
 
 ## Vision
+
+
++ **State of the Art on Diffusion Models for Visual Computing** (11 Oct 2023)<details><summary>Ryan Po, Wang Yifan, Vladislav Golyanik, et al.</summary>Ryan Po, Wang Yifan, Vladislav Golyanik, Kfir Aberman, Jonathan T. Barron, Amit H. Bermano, Eric Ryan Chan, Tali Dekel, Aleksander Holynski, Angjoo Kanazawa, C. Karen Liu, Lingjie Liu, Ben Mildenhall, Matthias Nießner, Björn Ommer, Christian Theobalt, Peter Wonka, Gordon Wetzstein</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07204)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6487ec82f6d8082a5b402a5416ea03009acb1679%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/State-of-the-Art-on-Diffusion-Models-for-Visual-Po-Yifan/6487ec82f6d8082a5b402a5416ea03009acb1679)
+[![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
+
 + **Diffusion Models in Vision: A Survey** (10 Sep 2022)<details><summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, et al. [TPAMI 2023]</summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffusion-Models-in-Vision%3A-A-Survey-Croitoru-Hondru/efa1647594b236361610a20d507127f0586a379b)
 [![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
