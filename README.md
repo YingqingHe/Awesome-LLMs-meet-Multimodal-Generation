@@ -5,33 +5,33 @@
 - [💘 Tips](#-tips)
 - [📍 LLMs for Audiovisual Generation](#-llms-for-audiovisual-generation)
   - [Image](#image)
-    - [LLM-based](#llm-based)
+    - [🔅 LLM-based](#-llm-based)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
     - [Datasets](#datasets)
   - [Video](#video)
-    - [LLM-based](#llm-based-1)
+    - [🔅 LLM-based](#-llm-based-1)
     - [Non-LLM-based](#non-llm-based)
     - [Datasets](#datasets-1)
   - [3D](#3d)
-    - [LLM-based](#llm-based-2)
+    - [🔅 LLM-based](#-llm-based-2)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-1)
     - [Datasets](#datasets-2)
   - [Audio](#audio)
-    - [LLM-based](#llm-based-3)
+    - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
 - [📍 LLMs for Audiovisual Editing](#-llms-for-audiovisual-editing)
   - [Image](#image-1)
-    - [LLM-based](#llm-based-4)
+    - [🔅 LLM-based](#-llm-based-4)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
   - [Video](#video-1)
-    - [LLM-based](#llm-based-5)
+    - [🔅 LLM-based](#-llm-based-5)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-3)
   - [3D](#3d-1)
-    - [LLM-based](#llm-based-6)
+    - [🔅 LLM-based](#-llm-based-6)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-4)
   - [Audio](#audio-1)
-    - [LLM-based](#llm-based-7)
+    - [🔅 LLM-based](#-llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [📍 Multi-Modal Agents](#-multi-modal-agents)
 - [📍 LLMs for Audiovisual Understanding](#-llms-for-audiovisual-understanding)
@@ -59,7 +59,7 @@ TODO
 
 ## Image
 
-### LLM-based
+### 🔅 LLM-based
 
 <!-- + **Genie: Generative Interactive Environments** (26 Feb 2024)<details><summary>Jake Bruce, Michael Dennis, Ashley Edwards, et al.</summary> Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps, Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess, Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15391v1) -->
@@ -492,7 +492,7 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 
 ## Video
 
-### LLM-based
+### 🔅 LLM-based
 
 + **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** (2 Jan 2024)<details><summary>Fuchen Long, Zhaofan Qiu, Ting Yao, et al.</summary>Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01256)
@@ -698,7 +698,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 
 ## 3D
 
-### LLM-based
+### 🔅 LLM-based
 
 + **MotionScript: Natural Language Descriptions for Expressive 3D Human Motions** (19 Dec 2023)\
 Payam Jome Yazdian, Eric Liu, Li Cheng, et al.\
@@ -916,7 +916,7 @@ Guy Tevet, Brian Gordon, et al. (CVPR 2022)\
 
 ## Audio
 
-### LLM-based
+### 🔅 LLM-based
 
 + **Diffsound: Discrete Diffusion Model for Text-to-sound Generation** (Wed, 20 Jul 2022)<details><summary>Dongchao Yang, Jianwei Yu, Helin Wang, et al. (TASLP2022)</summary>Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.09983)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc036f75da24ba64a583e0b6d41c5b792347bffa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffsound%3A-Discrete-Diffusion-Model-for-Generation-Yang-Yu/c036f75da24ba64a583e0b6d41c5b792347bffa6)
@@ -1086,7 +1086,7 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 
 ## Image
 
-### LLM-based
+### 🔅 LLM-based
 
 + **InstructPix2Pix: Learning to Follow Image Editing Instructions** (17 Nov 2022)\
 Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
@@ -1249,7 +1249,7 @@ Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly,
 
 ## Video
 
-### LLM-based
+### 🔅 LLM-based
 
 + **InstructVid2Vid: Controllable Video Editing with Natural Language Instructions** (21 May 2023)\
 Bosheng Qin, Juncheng Li, Siliang Tang, Tat-Seng Chua, Yueting Zhuang. arXiv 2023.\
@@ -1379,7 +1379,7 @@ Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei 
 
 ## 3D
 
-### LLM-based
+### 🔅 LLM-based
 
 
 ### Non-LLM-based (Clip/T5)
@@ -1451,7 +1451,7 @@ Hyeonseop Song, Seokhun Choi, Hoseok Do, et al. ICCV 2023.\
 
 ## Audio
 
-### LLM-based
+### 🔅 LLM-based
 
 + **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** (3 Apr 2023)\
 Yuancheng Wang, Zeqian Ju, Xu Tan\
