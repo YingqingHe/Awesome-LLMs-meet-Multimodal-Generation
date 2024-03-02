@@ -1510,25 +1510,31 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://llavainteractive.ngrok.app/)\
 **Tags:** `Image Chat` `Image Segmentation`, `Image Generation` `Image Editing`
 
-+ **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (26 Oct 2023)\
-Liu, Zhaoyang, et al.\
++ **ControlLLM: Augment Language Models with Tools by Searching on Graphs** (26 Oct 2023) <details><summary>Zhaoyang Liu, Zeqiang Lai, Zhangwei Gao, et al.</summary>Zhaoyang Liu, Zeqiang Lai, Zhangwei Gao, Erfei Cui, Ziheng Li, Xizhou Zhu, Lewei Lu, Qifeng Chen, Yu Qiao, Jifeng Dai, Wenhai Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17796)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F288e7224d53d68669eb67f2496e068dc965c639e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ControlLLM%3A-Augment-Language-Models-with-Tools-by-Liu-Lai/288e7224d53d68669eb67f2496e068dc965c639e)
-[![Code](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/ControlLLM)\
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://controlllm.github.io/)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/ControlLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/ControlLLM)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://cllm.opengvlab.com/)\
 **Tags:** `Image Understanding` `Image Generation` `Image Editing` `Video Understanding` `Video Generation` `Video Editing` `Audio Understanding` `Audio Generation`
 
-+ **ImageBind-LLM: Multi-modality Instruction Tuning** (7 Sep 2023)\
-Han, Jiaming, et al.\
++ **ImageBind-LLM: Multi-modality Instruction Tuning** (7 Sep 2023) <details><summary>Jiaming Han, Renrui Zhang, Wenqi Shao, et al.</summary>Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.03905)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54c68b8623505dc6bf7a0b08aaa77ca9165f2d7f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ImageBind-LLM%3A-Multi-modality-Instruction-Tuning-Han-Zhang/54c68b8623505dc6bf7a0b08aaa77ca9165f2d7f)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star)](https://github.com/OpenGVLab/LLaMA-Adapter)\
-**Condition Modality:** `text` `image` `video` `audio` `point cloud`
+**Modalities:** `text` `image` `video` `audio` `point cloud`
 
-+ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** (9 May 2023)\
-Liu, Zhaoyang, et al. \
++ **ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models** (2 Sep 2023) <details><summary>Chenliang Li, Hehong Chen, Ming Yan, et al.</summary>Chenliang Li, Hehong Chen, Ming Yan, Weizhou Shen, Haiyang Xu, Zhikai Wu, Zhicheng Zhang, Wenmeng Zhou, Yingda Chen, Chen Cheng, Hongzhu Shi, Ji Zhang, Fei Huang, Jingren Zhou</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.00986)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe2f1f04f648a8863d11439aa4c80ee65d6caccda%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ModelScope-Agent%3A-Building-Your-Customizable-Agent-Li-Chen/e2f1f04f648a8863d11439aa4c80ee65d6caccda)
+[![Code](https://img.shields.io/github/stars/modelscope/modelscope-agent.svg?style=social&label=Star)](https://github.com/modelscope/modelscope-agent)\
+
++ **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** (9 May 2023)<details><summary>Zhaoyang Liu, Yinan He, Wenhai Wang, et al.</summary>Zhaoyang Liu, Yinan He, Wenhai Wang, Weiyun Wang, Yi Wang, Shoufa Chen, Qinglong Zhang, Zeqiang Lai, Yang Yang, Qingyun Li, Jiashuo Yu, Kunchang Li, Zhe Chen, Xue Yang, Xizhou Zhu, Yali Wang, Limin Wang, Ping Luo, Jifeng Dai, Yu Qiao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05662)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F54a8b153ed04a872da878d695239bdc413dc782c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternGPT%3A-Solving-Vision-Centric-Tasks-by-with-Liu-He/54a8b153ed04a872da878d695239bdc413dc782c)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternGPT.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternGPT)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://igpt.opengvlab.com/)\
+**Condition Modality:** `text` `image` `video` `audio`
 
 + **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** (30 Mar 2023)\
 Shen, Yongliang, et al. NeurIPS 2023 \
