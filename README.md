@@ -316,6 +316,12 @@ Jaemin Cho, Abhay Zala, Mohit Bansal. NeurIPS 2023.\
 [![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-gen.github.io/)
 
+
++ **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation** (18 May 2023)<details><summary>Yujie Lu, Xianjun Yang, Xiujun Li, et al. NeurIPS 2023.</summary>Yujie Lu, Xianjun Yang, Xiujun Li, Xin Eric Wang, William Yang Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11116)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F972501b057e2b84d6ce6506f70bcac697bab7872%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Any-to-Any-Generation-via-Composable-Diffusion-Tang-Yang/972501b057e2b84d6ce6506f70bcac697bab7872)
+[![Code](https://img.shields.io/github/stars/YujieLu10/LLMScore.svg?style=social&label=Star)](https://github.com/YujieLu10/LLMScore)
+
 + **Grounding Language Models to Images for Multimodal Inputs and Outputs** (31 Jan 2023)\
 Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.13823)
@@ -2080,5 +2086,4 @@ Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Pi
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.14580.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-as-Automated-Aligners-for-Ji-Ge/b754ff078bb45131aef0b8bd7aa1bebd238560da?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/topics/large-vision-language-models)
-
 
