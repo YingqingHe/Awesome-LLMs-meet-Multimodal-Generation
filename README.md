@@ -46,7 +46,10 @@
   - [Datasets](#datasets-4)
 
 # 🤗 Introduction
-TODO
+- This repository contains a curated list of LLM-based methods for visual and audio generation.
+- The visual generation includes image, video, and 3D modalities based on the text prompts. 
+- We welcome contributions to our repository or the addition of your own work. 
+
 
 
 # 💘 Tips
