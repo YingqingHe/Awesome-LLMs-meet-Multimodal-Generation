@@ -44,6 +44,7 @@
   - [Defense and Detect](#defense-and-detect)
   - [Alignment](#alignment)
   - [Datasets](#datasets-4)
+- [📍 Related Surveys](#-related-surveys)
 
 # 🤗 Introduction
 - This repository contains a curated list of LLM-based methods for visual and audio generation.
@@ -2087,3 +2088,9 @@ Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Pi
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-as-Automated-Aligners-for-Ji-Ge/b754ff078bb45131aef0b8bd7aa1bebd238560da?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/topics/large-vision-language-models)
 
+
+# 📍 Related Surveys
+
++ **Diffusion Models in Vision: A Survey** (10 Sep 2022)<details><summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, et al. [TPAMI 2023]</summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffusion-Models-in-Vision%3A-A-Survey-Croitoru-Hondru/efa1647594b236361610a20d507127f0586a379b)
+[![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
