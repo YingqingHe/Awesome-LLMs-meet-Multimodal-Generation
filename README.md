@@ -1,44 +1,53 @@
 
 # Contents
 - [Contents](#contents)
+- [Introduction](#introduction)
 - [Tips](#tips)
 - [LLMs for Audiovisual Generation](#llms-for-audiovisual-generation)
-  - [Image Generation](#image-generation)
-    - [Multimodal Language Model-based](#multimodal-language-model-based)
+  - [Image](#image)
+    - [LLM-based](#llm-based)
+    - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
     - [Datasets](#datasets)
-  - [Video Generation](#video-generation)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-1)
+  - [Video](#video)
+    - [LLM-based](#llm-based-1)
+    - [Non-LLM-based](#non-llm-based)
     - [Datasets](#datasets-1)
-  - [Audio Generation](#audio-generation)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-2)
+  - [Audio](#audio)
+    - [LLM-based](#llm-based-2)
+    - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-2)
-  - [3D Generation](#3d-generation)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-3)
-      - [General Object](#general-object)
-      - [Avatar](#avatar)
+  - [3D](#3d)
+    - [LLM-based](#llm-based-3)
+    - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-1)
     - [Datasets](#datasets-3)
 - [LLMs for Audiovisual Editing](#llms-for-audiovisual-editing)
-  - [Image Editing](#image-editing)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-4)
-  - [Video Editing](#video-editing)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-5)
-  - [Audio Editing](#audio-editing)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-6)
-  - [3D Editing](#3d-editing)
-    - [Multimodal Language Model-based](#multimodal-language-model-based-7)
-      - [Avatar](#avatar-1)
-      - [General Object](#general-object-1)
+  - [Image](#image-1)
+    - [LLM-based](#llm-based-4)
+    - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
+  - [Video](#video-1)
+    - [LLM-based](#llm-based-5)
+    - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-3)
+  - [Audio](#audio-1)
+    - [LLM-based](#llm-based-6)
+    - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-4)
+  - [3D](#3d-1)
+    - [LLM-based](#llm-based-7)
+    - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [Multi-Modal Agents](#multi-modal-agents)
 - [LLMs for Audiovisual Understanding](#llms-for-audiovisual-understanding)
-  - [Image Understanding](#image-understanding)
-  - [Video Understanding](#video-understanding)
-  - [Audio Understanding](#audio-understanding)
-  - [3D Understanding](#3d-understanding)
+  - [Image](#image-2)
+  - [Video](#video-2)
+  - [Audio](#audio-2)
+  - [3D](#3d-2)
 - [Multimodal LLM Safety](#multimodal-llm-safety)
   - [Attack](#attack)
   - [Defense and Detect](#defense-and-detect)
   - [Alignment](#alignment)
-  - [Dataset](#dataset)
+  - [Datasets](#datasets-4)
+
+# Introduction
+TODO
+
 
 # Tips
 - Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
@@ -47,7 +56,7 @@
 
 # LLMs for Audiovisual Generation
 
-## Image Generation
+## Image
 
 ### LLM-based
 
@@ -302,8 +311,7 @@ Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/fromage)
 [![Code](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage)
 
-### Multimodal Language Model-based
-
+### Non-LLM-based (Clip/T5)
 + **PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (30 Sep 2023)<details><summary>Junsong Chen, Jincheng Yu, Chongjian Ge, et al. ICLR 2024.</summary>Junsong Chen, Jincheng Yu, Chongjian Ge, Lewei Yao, Enze Xie, Yue Wu, Zhongdao Wang, James Kwok, Ping Luo, Huchuan Lu, Zhenguo Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00426)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F144eca44e250cc462f6fc3a172abb865978f66f5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PixArt-%CE%B1%3A-Fast-Training-of-Diffusion-Transformer-Chen-Yu/7dfe1c9f1d7120102499c7e561efc2326e7a0358)
@@ -481,7 +489,10 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 
 
 
-## Video Generation
+## Video
+
+### LLM-based
+
 + **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** (2 Jan 2024)<details><summary>Fuchen Long, Zhaofan Qiu, Ting Yao, et al.</summary>Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01256)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc84fcf269a37ed7ddcb1b0f2d7d1a00f677eaea%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDrafter%3A-Content-Consistent-Multi-Scene-Video-Long-Qiu/fc84fcf269a37ed7ddcb1b0f2d7d1a00f677eaea)
@@ -546,7 +557,7 @@ Tags: `human motion generation`
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/stanford.edu/text2motion)
 [![Code](https://img.shields.io/github/stars/KU-CVLAB/DirecT2V.svg?style=social&label=Star)](https://github.com/KU-CVLAB/DirecT2V)
 
-### Multimodal Language Model-based
+### Non-LLM-based
 + **VBench: Comprehensive Benchmark Suite for Video Generative Models** (29 Nov 2023)\
 Huang, Ziqi, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
@@ -681,7 +692,10 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 [![Code](https://img.shields.io/github/stars/crux82/msr-vtt-it.svg?style=social&label=Star)](https://github.com/crux82/msr-vtt-it)
 
 
-## Audio Generation
+## Audio
+
+### LLM-based
+
 + **Diffsound: Discrete Diffusion Model for Text-to-sound Generation** (Wed, 20 Jul 2022)<details><summary>Dongchao Yang, Jianwei Yu, Helin Wang, et al. (TASLP2022)</summary>Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.09983)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc036f75da24ba64a583e0b6d41c5b792347bffa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffsound%3A-Discrete-Diffusion-Model-for-Generation-Yang-Yu/c036f75da24ba64a583e0b6d41c5b792347bffa6)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dongchaoyang.top/text-to-sound-synthesis-demo/)
@@ -842,11 +856,14 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 [![Code](https://img.shields.io/github/stars/.svg?style=social&label=Star)]()
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://audiobox.metademolab.com/capabilities)
 
-### Multimodal Language Model-based
+### Non-LLM-based
 
 ### Datasets
 
-## 3D Generation
+## 3D
+
+### LLM-based
+
 + **MotionScript: Natural Language Descriptions for Expressive 3D Human Motions** (19 Dec 2023)\
 Payam Jome Yazdian, Eric Liu, Li Cheng, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12634)
@@ -885,7 +902,7 @@ Chunyi Sun*, Junlin Han*, Weijian Deng, et al.\
 
 
 
-### Multimodal Language Model-based
+### Non-LLM-based (Clip/T5)
  + **DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling** (Dec 2023)\
 Linqi Zhou, Andy Shih, Chenlin Meng, (Arxiv 2023)\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17082)
@@ -1061,7 +1078,10 @@ Guy Tevet, Brian Gordon, et al. (CVPR 2022)\
 
 # LLMs for Audiovisual Editing
 
-## Image Editing
+## Image
+
+### LLM-based
+
 + **InstructPix2Pix: Learning to Follow Image Editing Instructions** (17 Nov 2022)\
 Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09800)
@@ -1116,7 +1136,7 @@ Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell. ArXiv 2023
 
 
 
-### Multimodal Language Model-based
+### Non-LLM-based (Clip/T5)
 
 
 + **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** (2 Aug 2021)\
@@ -1221,7 +1241,9 @@ Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly,
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ashmrz.github.io/WatchYourSteps/)
 
 
-## Video Editing
+## Video
+
+### LLM-based
 
 + **InstructVid2Vid: Controllable Video Editing with Natural Language Instructions** (21 May 2023)\
 Bosheng Qin, Juncheng Li, Siliang Tang, Tat-Seng Chua, Yueting Zhuang. arXiv 2023.\
@@ -1237,7 +1259,7 @@ Jiaxin Cheng, Tianjun Xiao, Tong He. ArXiv 2023.\
 
 
 
-### Multimodal Language Model-based
+### Non-LLM-based (Clip/T5)
 
 + **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (2 Apr 2021)\
 Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, Miguel P. Eckstein, William Yang Wang. CVPR 2022.\
@@ -1347,7 +1369,10 @@ Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei 
 
 
 
-## Audio Editing
+## Audio
+
+### LLM-based
+
 + **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** (3 Apr 2023)\
 Yuancheng Wang, Zeqian Ju, Xu Tan\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.00830)
@@ -1385,12 +1410,15 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F96a7ca4a9687ef1170f5b5518798ab3fd228e845%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructME%3A-An-Instruction-Guided-Music-Edit-And-Han-Dai/96a7ca4a9687ef1170f5b5518798ab3fd228e845)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musicedit.github.io/)
 
-### Multimodal Language Model-based
+### Non-LLM-based (Clip/T5)
 
 
-## 3D Editing
+## 3D
 
-### Multimodal Language Model-based
+### LLM-based
+
+
+### Non-LLM-based (Clip/T5)
  + **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation** (Nov 2023)\
 Dale Decatur, Itai Lang, Kfir Aberman, et al. CVPR 2023.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09571)
@@ -1505,7 +1533,7 @@ Wu, Chenfei, et al. \
 
 
 # LLMs for Audiovisual Understanding
-## Image Understanding
+## Image
 + **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** (21 Dec 2023)<details><summary>Zhe Chen, Jiannan Wu, Wenhai Wang, et al.</summary>Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14238)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6a33e58ef961a3a0a5657518b2be86395eb7c8d0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVL%3A-Scaling-up-Vision-Foundation-Models-and-Chen-Wu/6a33e58ef961a3a0a5657518b2be86395eb7c8d0)
@@ -1600,7 +1628,7 @@ Liu, Haotian, et al. NeurIPS 2023 (oral).\
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://llava.hliu.cc/)
 
 
-## Video Understanding
+## Video
 + **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (27 Nov 2023)\
 Ning, Munan, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16103)
@@ -1673,7 +1701,7 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e54a45d2118b61ae1baec07308af3fdd2c48759%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-video-embedding-space-with-Natural-Uppala-Bamotra/4e54a45d2118b61ae1baec07308af3fdd2c48759)
 
 
-## Audio Understanding
+## Audio
 + **Audiogpt: Understanding and generating speech, music, sound, and talking head** (25 Apr 2023)<details><summary>Rongjie Huang, Mingze Li, Dongchao Yang, et al.</summary>Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12995)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8bc617c9139648d7a92991d70c671230bac7b2e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGPT%3A-Understanding-and-Generating-Speech%2C-and-Huang-Li/8bc617c9139648d7a92991d70c671230bac7b2e2)
@@ -1700,7 +1728,7 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 [![Code](https://img.shields.io/github/stars/allenai/unified-io-2.svg?style=social&label=Star)](https://github.com/allenai/unified-io-2)
 
 
-## 3D Understanding
+## 3D
 
 + **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (21 Dec 2023)\
 Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
@@ -1915,7 +1943,7 @@ Hanze Dong, Wei Xiong, Deepanshu Goyal, Yihan Zhang, Winnie Chow, Rui Pan, Shizh
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://optimalscale.github.io/LMFlow/examples/raft.html)
 
 
-## Dataset
+## Datasets
 + **Can pre-trained vision and language models answer visual information-seeking questions?**(17 Oct 2023)\
 Yang Chen, Hexiang Hu, Yi Luan, Haitian Sun, Soravit Changpinyo, Alan Ritter, Ming-Wei Chang\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.11713.pdf)
@@ -1993,4 +2021,5 @@ Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Pi
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.14580.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-as-Automated-Aligners-for-Ji-Ge/b754ff078bb45131aef0b8bd7aa1bebd238560da?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/topics/large-vision-language-models)
+
 
