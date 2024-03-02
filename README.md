@@ -1,9 +1,9 @@
 
 # Contents
 - [Contents](#contents)
-- [Introduction](#introduction)
-- [Tips](#tips)
-- [LLMs for Audiovisual Generation](#llms-for-audiovisual-generation)
+- [🤗 Introduction](#-introduction)
+- [💘 Tips](#-tips)
+- [📍 LLMs for Audiovisual Generation](#-llms-for-audiovisual-generation)
   - [Image](#image)
     - [LLM-based](#llm-based)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
@@ -20,7 +20,7 @@
     - [LLM-based](#llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
-- [LLMs for Audiovisual Editing](#llms-for-audiovisual-editing)
+- [📍 LLMs for Audiovisual Editing](#-llms-for-audiovisual-editing)
   - [Image](#image-1)
     - [LLM-based](#llm-based-4)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
@@ -33,28 +33,29 @@
   - [Audio](#audio-1)
     - [LLM-based](#llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
-- [Multi-Modal Agents](#multi-modal-agents)
-- [LLMs for Audiovisual Understanding](#llms-for-audiovisual-understanding)
+- [📍 Multi-Modal Agents](#-multi-modal-agents)
+- [📍 LLMs for Audiovisual Understanding](#-llms-for-audiovisual-understanding)
   - [Image](#image-2)
   - [Video](#video-2)
   - [3D](#3d-2)
   - [Audio](#audio-2)
-- [Multimodal LLM Safety](#multimodal-llm-safety)
+- [📍 Multimodal LLM Safety](#-multimodal-llm-safety)
   - [Attack](#attack)
   - [Defense and Detect](#defense-and-detect)
   - [Alignment](#alignment)
   - [Datasets](#datasets-4)
 
-# Introduction
+# 🤗 Introduction
 TODO
 
 
-# Tips
-- Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
-- Besides directly clicking the above categorization, you can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation`.
+# 💘 Tips
+- **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
+- **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
+- **✅ Paper searching via tag**: You can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation`. (More tags are ongoing)
 
 
-# LLMs for Audiovisual Generation
+# 📍 LLMs for Audiovisual Generation
 
 ## Image
 
@@ -1081,7 +1082,7 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 
 ### Datasets
 
-# LLMs for Audiovisual Editing
+# 📍 LLMs for Audiovisual Editing
 
 ## Image
 
@@ -1491,7 +1492,7 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 ### Non-LLM-based (Clip/T5)
 
-# Multi-Modal Agents
+# 📍 Multi-Modal Agents
 
 + **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing** (1 Nov 2023) <details><summary>Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, et al.</summary> Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, Jianfeng Gao, Chunyuan Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00571)
@@ -1540,7 +1541,7 @@ Wu, Chenfei, et al. \
 [![Code](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)
 
 
-# LLMs for Audiovisual Understanding
+# 📍 LLMs for Audiovisual Understanding
 ## Image
 + **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** (21 Dec 2023)<details><summary>Zhe Chen, Jiannan Wu, Wenhai Wang, et al.</summary>Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14238)
@@ -1765,7 +1766,7 @@ Zhang, Renrui and Guo, Ziyu, Zhang, Wei, et al.(CVPR2022)\
 [![Code](https://img.shields.io/github/stars/allenai/unified-io-2.svg?style=social&label=Star)](https://github.com/allenai/unified-io-2)
 
 
-# Multimodal LLM Safety
+# 📍 Multimodal LLM Safety
 ## Attack
 + **Ignore previous prompt: Attack techniques for language models** (17 Nov 2022)\
 Fábio Perez, Ian Ribeiro\
