@@ -1149,6 +1149,14 @@ Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell. ArXiv 2023
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Self-correcting-LLM-controlled-Diffusion-Models-Wu-Lian/42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e)
 
 
++ **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** (11 Dec 2023)\
+Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan. ArXiv 2023. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06739)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F388b0f44faf0a14cc402c2554ec36a868cf59129%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SmartEdit%3A-Exploring-Complex-Instruction-based-with-Huang-Xie/388b0f44faf0a14cc402c2554ec36a868cf59129)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuzhou914.github.io/SmartEdit/)
+[![Code](https://img.shields.io/github/stars/TencentARC/SmartEdit.svg?style=social&label=Star)](https://github.com/TencentARC/SmartEdit)
+
+
 
 ### Non-LLM-based (Clip/T5)
 
@@ -1248,12 +1256,40 @@ Thao Nguyen, Yuheng Li, Utkarsh Ojha, Yong Jae Lee. ArXiv 2023. \
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://thaoshibe.github.io/visii/)
 [![Code](https://img.shields.io/github/stars/thaoshibe/visii.svg?style=social&label=Star)](https://github.com/thaoshibe/visii)
 
++ **Differential Diffusion: Giving Each Pixel Its Strength** (1 Jun 2023)\
+Eran Levin, Ohad Fried. ArXiv 2023. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6e5760e5d4b468bbf01a95a6f64bd65c3aa3d798%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Differential-Diffusion%3A-Giving-Each-Pixel-Its-Levin-Fried/6e5760e5d4b468bbf01a95a6f64bd65c3aa3d798)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://differential-diffusion.github.io/)
+[![Code](https://img.shields.io/github/stars/exx8/differential-diffusion.svg?style=social&label=Star)](https://github.com/exx8/differential-diffusion)
+
+
++ **Dragondiffusion: Enabling drag-style manipulation on diffusion models** (5 Jul 2023)\
+Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. ArXiv 2023. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cfaa5b3571d3b75f040f6d639359a3c673f5561%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DragonDiffusion%3A-Enabling-Drag-style-Manipulation-Mou-Wang/2cfaa5b3571d3b75f040f6d639359a3c673f5561)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mc-e.github.io/project/DragonDiffusion/)
+[![Code](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
+
+
 + **Watch Your Steps: Local Image and Scene Editing by Text Instructions** (17 Aug 2023 )\
 Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski. ArXiv 2023. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08947)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F737ad8905228cd410e3342b5cceefd4feb57d166%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Watch-Your-Steps%3A-Local-Image-and-Scene-Editing-by-Mirzaei-Aumentado-Armstrong/737ad8905228cd410e3342b5cceefd4feb57d166)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ashmrz.github.io/WatchYourSteps/)
 
+
++ **ZONE: Zero-Shot Instruction-Guided Local Editing** (28 Dec 2023)\
+Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xuhui Liu, Jiaming Liu, Li Lin, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang. ArXiv 2023. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.16794)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F05eb2ad3af471c05a24abbf70258688e579cdf22%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ZONE%3A-Zero-Shot-Instruction-Guided-Local-Editing-Li-Zeng/05eb2ad3af471c05a24abbf70258688e579cdf22)
+
+
++ **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** (4 Feb 2024)\
+Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. CVPR 2024. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02583)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F198b3d809594a76bc473927af37b858132ac7fdd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DiffEditor%3A-Boosting-Accuracy-and-Flexibility-on-Mou-Wang/198b3d809594a76bc473927af37b858132ac7fdd)
+[![Code](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
 
 ## Video
 
