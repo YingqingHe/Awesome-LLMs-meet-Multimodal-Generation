@@ -719,38 +719,35 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 ## 3D
 
 ### 🔅 LLM-based
++ **SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code** (2 Mar 2024)<details><summary>Ziniu Hu, Ahmet Iscen, Aashi Jain, et al. </summary>Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Cordelia Schmid, Alireza Fathi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01248v1)
 
-+ **MotionScript: Natural Language Descriptions for Expressive 3D Human Motions** (19 Dec 2023)\
-Payam Jome Yazdian, Eric Liu, Li Cheng, et al.\
+
++ **MotionScript: Natural Language Descriptions for Expressive 3D Human Motions** (19 Dec 2023)<details><summary>Payam Jome Yazdian, Eric Liu, Li Cheng, et al. </summary>Payam Jome Yazdian, Eric Liu, Li Cheng, Angelica Lim</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12634)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F816792e66f463be2aa1888e4ecb51f8fb2b4dd79%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionScript%3A-Natural-Language-Descriptions-for-3D-Yazdian-Liu/816792e66f463be2aa1888e4ecb51f8fb2b4dd79)
 
-+ **HOLODECK: Language Guided Generation of 3D Embodied AI Environments** (14 Dec 2023)\
-Yue Yang, Fan-Yun Sun, Luca Weihs, et al.\
++ **HOLODECK: Language Guided Generation of 3D Embodied AI Environments** (19 Dec 2023)<details><summary>Yue Yang, Fan-Yun Sun, Luca Weihs, et al. </summary>Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09067)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1dbc2cdcae3e17c3d721d12a5a2d98ced727681a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Holodeck%3A-Language-Guided-Generation-of-3D-Embodied-Yang-Sun/1dbc2cdcae3e17c3d721d12a5a2d98ced727681a)
 [![Code](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star)](https://github.com/allenai/Holodeck)
 
-+ **PoseGPT: Chatting about 3D Human Pose** (30 Nov 2023)\
-Yao Feng, Jing Lin, Sai Kumar Dwivedi, et al.\
++ **PoseGPT: Chatting about 3D Human Pose** (30 Nov 2023)<details><summary>Yao Feng, Jing Lin, Sai Kumar Dwivedi, et al. </summary>Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18836)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4673c2ac4abb4b055da87171231acb60801ffe74%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PoseGPT%3A-Chatting-about-3D-Human-Pose-Feng-Lin/4673c2ac4abb4b055da87171231acb60801ffe74)
 [![Code](https://img.shields.io/github/stars/yfeng95/PoseGPT.svg?style=social&label=Star)](https://github.com/yfeng95/PoseGPT)
 
-+ **ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model** (29 Nov 2023)\ 
-Fukun Yin, Xin Chen, Chi Zhang, et al.\
++ **ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model** (1 Dec 2023)<details><summary>Fukun Yin, Xin Chen, Chi Zhang, et al. </summary>Fukun Yin, Xin Chen, Chi Zhang, Biao Jiang, Zibo Zhao, Jiayuan Fan, Gang Yu, Taihao Li, Tao Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17618)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ShapeGPT%3A-3D-Shape-Generation-with-A-Unified-Model-Yin-Chen/09157a8c0e7d7263ac035690118ddcbe295cee5c)
 [![Code](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star)](https://github.com/OpenShapeLab/ShapeGPT)
 
-+ **MotionGPT: Human Motion as a Foreign Language** (2023)\
-Biao Jiang*, Xin Chen*, Wen Liu, et al.(NeurIPS 2023)\
++ **MotionGPT: Human Motion as a Foreign Language** (20 Jul 2023 )<details><summary>Biao Jiang, Xin Chen, Wen Liu, et al. </summary>Biao Jiang, Xin Chen, Wen Liu, Jingyi Yu, Gang Yu, Tao Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.14795)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd212fa27f5868f0fd106e1a7bba908fd47da0816%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionGPT%3A-Human-Motion-as-a-Foreign-Language-Jiang-Chen/d212fa27f5868f0fd106e1a7bba908fd47da0816)
 [![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT.svg?style=social&label=Star)](https://github.com/OpenMotionLab/MotionGPT)
 
-+ **3D-GPT: Procedural 3D MODELING WITH LARGE LANGUAGE MODELS** (2023)\
-Chunyi Sun*, Junlin Han*, Weijian Deng, et al.\
++ **3D-GPT: Procedural 3D MODELING WITH LARGE LANGUAGE MODELS** (19 Oct 2023)<details><summary>Chunyi Sun*, Junlin Han*, Weijian Deng, et al. </summary>Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12945)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F588930cdd801f335b5e524d13f99aa94136a20a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-GPT%3A-Procedural-3D-Modeling-with-Large-Language-Sun-Han/588930cdd801f335b5e524d13f99aa94136a20a0)
 [![Code](https://img.shields.io/github/stars/Chuny1/3DGPT.svg?style=social&label=Star)](https://github.com/Chuny1/3DGPT)
@@ -759,113 +756,96 @@ Chunyi Sun*, Junlin Han*, Weijian Deng, et al.\
 
 
 ### Non-LLM-based (Clip/T5)
- + **DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling** (Dec 2023)\
-Linqi Zhou, Andy Shih, Chenlin Meng, (Arxiv 2023)\
++ **DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling** (28 Nov 2023)<details><summary>Linqi Zhou, Andy Shih, Chenlin Meng, et al. </summary>Linqi Zhou, Andy Shih, Chenlin Meng, Stefano Ermon</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17082)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe88d5399956c9d9519a5cfd49308b7d439167543%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamPropeller%3A-Supercharge-Text-to-3D-Generation-Zhou-Shih/e88d5399956c9d9519a5cfd49308b7d439167543)
 [![Code](https://img.shields.io/github/stars/alexzhou907/DreamPropeller.svg?style=social&label=Star)](https://github.com/alexzhou907/DreamPropeller)
 
- + **HiFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance** (Apr 2023)\
-Junzhe Zhu, Peiye Zhuang. (Arxiv 2023)\
++ **HiFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance** (28 Nov 2023)<details><summary>Junzhe Zhu, Peiye Zhuang. ICLR2024 </summary>Junzhe Zhu, Peiye Zhuang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18766)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdaf3b117f789b2b95223e58592979fb57627515e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HiFA%3A-High-fidelity-Text-to-3D-Generation-with-Zhu-Zhuang/daf3b117f789b2b95223e58592979fb57627515e)
 [![Code](https://img.shields.io/github/stars/JunzheJosephZhu/HiFA.svg?style=social&label=Star)](https://github.com/JunzheJosephZhu/HiFA)
 
- + **ATT3D: Amortized Text-to-3D Object Synthesis** (Jun 2023)\
-Weiyu Li, Rui Chen, Xuelin Chen, et al. (ICCV 2023)\
++ **ATT3D: Amortized Text-to-3D Object Synthesis** (6 Jun 2023)<details><summary>Jonathan Lorraine, Kevin Xie, Xiaohui Zeng, et al. ICCV 2023 </summary>Jonathan Lorraine, Kevin Xie, Xiaohui Zeng, Chen-Hsuan Lin, Towaki Takikawa, Nicholas Sharp, Tsung-Yi Lin, Ming-Yu Liu, Sanja Fidler, James Lucas</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07349)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e8403af2e1e7a8f803d8df9e8daac584f99c2a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ATT3D%3A-Amortized-Text-to-3D-Object-Synthesis-Lorraine-Xie/1e8403af2e1e7a8f803d8df9e8daac584f99c2a0)
 
- + **SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D** (26 Oct 2023)\
-Weiyu Li, Rui Chen, Xuelin Chen, et al. (Arxiv 2023)\
++ **SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D** (20 Oct 2023 )<details><summary>Weiyu Li, Rui Chen, Xuelin Chen, et al.</summary>Weiyu Li, Rui Chen, Xuelin Chen, Ping Tan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02596)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F438e9fb79c9e37d43223e61bb575ebd2dae0b0a7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SweetDreamer%3A-Aligning-Geometric-Priors-in-2D-for-Li-Chen/438e9fb79c9e37d43223e61bb575ebd2dae0b0a7)
 [![Code](https://img.shields.io/github/stars/wyysf-98/SweetDreamer.svg?style=social&label=Star)](https://github.com/wyysf-98/SweetDreamer)
 
- + **Text-to-3D with Classifier Score Distillation** (26 Oct 2023)\
-Xin Yu, Yuan-Chen Guo, Yangguang Li, et al. (ICLR 2024)\
++ **Text-to-3D with Classifier Score Distillation** (26 Oct 2023 )<details><summary>Xin Yu, Yuan-Chen Guo, Yangguang Li, et al. (ICLR 2024) </summary>Xin Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Song-Hai Zhang, Xiaojuan Qi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19415)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e21879b564cc2e803b16edf0dda9f1edb91b497%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text-to-3D-with-Classifier-Score-Distillation-Yu-Guo/4e21879b564cc2e803b16edf0dda9f1edb91b497)
 [![Code](https://img.shields.io/github/stars/CVMI-Lab/Classifier-Score-Distillation.svg?style=social&label=Star)](https://github.com/CVMI-Lab/Classifier-Score-Distillation)
 
- + **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching** (26 Oct 2023)\
-Yixun Liang, Xin Yang, Jiantao Lin, et al. (CVPR 2024)\
++ **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching** (2 Dec 2023)<details><summary>Yixun Liang, Xin Yang, Jiantao Lin, et al. (CVPR 2024) </summary>Yixun Liang, Xin Yang, Jiantao Lin, Haodong Li, Xiaogang Xu, Yingcong Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11284)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f709278506813d04a074e6fa20188cce9bb927b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LucidDreamer%3A-Towards-High-Fidelity-Text-to-3D-via-Liang-Yang/6f709278506813d04a074e6fa20188cce9bb927b)
 [![Code](https://img.shields.io/github/stars/EnVision-Research/LucidDreamer.svg?style=social&label=Star)](https://github.com/EnVision-Research/LucidDreamer)
 
- + **Noise-Free Score Distillation** (26 Oct 2023])\
-Lukas Höllein, Ang Cao, Andrew Owens, et al. (ICCV 2023)\
+
++ **Noise-Free Score Distillation** (26 Oct 2023)<details><summary>Oren Katzir, Or Patashnik, Daniel Cohen-Or, et al. (ICLR 2024) </summary>Oren Katzir, Or Patashnik, Daniel Cohen-Or, Dani Lischinski</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17590)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F85a70c0a048cba4f53dcf332ee73f6032a2e53bc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Noise-Free-Score-Distillation-Katzir-Patashnik/85a70c0a048cba4f53dcf332ee73f6032a2e53bc)
 [![Code](https://img.shields.io/github/stars/orenkatzir/nfsd.svg?style=social&label=Star)](https://github.com/orenkatzir/nfsd)
 
- + **Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models** (10 Sep 2023)\
-Lukas Höllein, Ang Cao, Andrew Owens, et al. (ICCV 2023)\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11989)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95aa6fa4e42387561cff22378348d528adea37f2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text2Room%3A-Extracting-Textured-3D-Meshes-from-2D-H%C3%B6llein-Cao/95aa6fa4e42387561cff22378348d528adea37f2)
-[![Code](https://img.shields.io/github/stars/lukasHoel/text2room.svg?style=social&label=Star)](https://github.com/lukasHoel/text2room)
 
- + **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation** (24 Mar 2023)\
-Jiaxiang Tang, Jiawei Ren, Hang Zhou, et al. (CVPR 2024)\
++ **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation** (28 Sep 2023)<details><summary>Jiaxiang Tang, Jiawei Ren, Hang Zhou, et al. (ICLR 2024) </summary>Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16653)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcc1a674bb164d09a060cf5b26fe518c02fae0ddc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamGaussian%3A-Generative-Gaussian-Splatting-for-3D-Tang-Ren/cc1a674bb164d09a060cf5b26fe518c02fae0ddc)
 [![Code](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian.svg?style=social&label=Star)](https://github.com/dreamgaussian/dreamgaussian)
 
- + **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** (24 Mar 2023)\
-Taoran Yi, Jiemin Fang, Junjie Wang, et al. (CVPR 2024)\
++ **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** (12 Oct 2023 )<details><summary>Taoran Yi, Jiemin Fang, Junjie Wang, et al. (CVPR 2024) </summary>Taoran Yi, Jiemin Fang, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08529)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5e9fd131cde68c218d0ea69cd617a67c7f35d42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ProlificDreamer%3A-High-Fidelity-and-Diverse-with-Wang-Lu/c5e9fd131cde68c218d0ea69cd617a67c7f35d42)
 [![Code](https://img.shields.io/github/stars/hustvl/GaussianDreamer.svg?style=social&label=Star)](https://github.com/hustvl/GaussianDreamer)
 
- + **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation** (24 Mar 2023)\
-Zhengyi Wang, Cheng Lu, Yikai Wang, et al. (NeurIPS 2023 Spotlight)\
++ **Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models** (10 Sep 2023)<details><summary>Lukas Höllein, Ang Cao, Andrew Owens, et al. (ICCV 2023) </summary>Lukas Höllein, Ang Cao, Andrew Owens, Justin Johnson, Matthias Nießner</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11989)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95aa6fa4e42387561cff22378348d528adea37f2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text2Room%3A-Extracting-Textured-3D-Meshes-from-2D-H%C3%B6llein-Cao/95aa6fa4e42387561cff22378348d528adea37f2)
+[![Code](https://img.shields.io/github/stars/lukasHoel/text2room.svg?style=social&label=Star)](https://github.com/lukasHoel/text2room)
+
++ **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation** (25 May 2023)<details><summary>Zhengyi Wang, Cheng Lu, Yikai Wang, et al. (NeurIPS 2023 Spotlight) </summary>Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13873)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5e9fd131cde68c218d0ea69cd617a67c7f35d42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ProlificDreamer%3A-High-Fidelity-and-Diverse-with-Wang-Lu/c5e9fd131cde68c218d0ea69cd617a67c7f35d42)
 [![Code](https://img.shields.io/github/stars/KU-CVLAB/3DFuse-threestudio.svg?style=social&label=Star)](https://github.com/KU-CVLAB/3DFuse-threestudio)
 
-+ **Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation** (24 Mar 2023)\
-Rui Chen, Yongwei Chen, Ningxin Jiao, et al. (ICCV 2023)\
++ **Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation** (24 Mar 2023)<details><summary>Rui Chen, Yongwei Chen, Ningxin Jiao, et al. (ICCV 2023) </summary>Rui Chen, Yongwei Chen, Ningxin Jiao, Kui Jia</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13873)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0cbb518c364067200476a51e5ce7476a4f582770%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Fantasia3D%3A-Disentangling-Geometry-and-Appearance-Chen-Chen/0cbb518c364067200476a51e5ce7476a4f582770)
 [![Code](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/Fantasia3D.svg?style=social&label=Star)](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
 
-+ **Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond** (Mar 2023)\
-Mohammadreza Armandpour, Ali Sadeghian, Huangjie Zheng, et al. (Arxiv 2023)\
++ **Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond** (11 Apr 2023)<details><summary>Mohammadreza Armandpour, Ali Sadeghian, Huangjie Zheng, et al. </summary>Mohammadreza Armandpour, Ali Sadeghian, Huangjie Zheng, Amir Sadeghian, Mingyuan Zhou</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.04968)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb19ca192a5bebbc3473be61989baf085ff21daa5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Re-imagine-the-Negative-Prompt-Algorithm%3A-Transform-Armandpour-Sadeghian/b19ca192a5bebbc3473be61989baf085ff21daa5)
 [![Code](https://img.shields.io/github/stars/Perp-Neg/Perp-Neg-stablediffusion.svg?style=social&label=Star)](https://github.com/Perp-Neg/Perp-Neg-stablediffusion)
 
-+ **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation** (Mar 2023)\
-Junyoung Seo, Wooseok Jang, Min-Seop Kwak, et al. (ICLR 2024)\
++ **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation** (11 Apr 2023)<details><summary>Junyoung Seo, Wooseok Jang, Min-Seop Kwak, et al. (ICLR 2024) </summary>Junyoung Seo, Wooseok Jang, Min-Seop Kwak, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07937)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5356c3dac654854a0842753bcc2e3433dc4a2afd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Let-2D-Diffusion-Model-Know-3D-Consistency-for-Seo-Jang/5356c3dac654854a0842753bcc2e3433dc4a2afd)
 [![Code](https://img.shields.io/github/stars/eladrich/latent-nerf.svg?style=social&label=Star)](https://github.com/eladrich/latent-nerf)
 
-+ **Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures** (Nov 2022)\
-Gal Metzer, Elad Richardson, Or Patashnik, et al. (CVPR 2023)\
++ **Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures** (14 Nov 2022)<details><summary>Gal Metzer, Elad Richardson, Or Patashnik, et al. (CVPR 2023) </summary>Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.07600)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F793939b83e10903f58d8edbb7534963df627a1fe%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Latent-NeRF-for-Shape-Guided-Generation-of-3D-and-Metzer-Richardson/793939b83e10903f58d8edbb7534963df627a1fe)
 [![Code](https://img.shields.io/github/stars/eladrich/latent-nerf.svg?style=social&label=Star)](https://github.com/eladrich/latent-nerf)
 
-
-+ **Magic3D: High-Resolution Text-to-3D Content Creation** (2022)\
-Chen-Hsuan Lin, Jun Gao, Luming Tang, et al. (CVPR2023 HighLight)\
++ **Magic3D: High-Resolution Text-to-3D Content Creation** (18 Nov 2022)<details><summary>Chen-Hsuan Lin, Jun Gao, Luming Tang, et al. (CVPR2023 HighLight) </summary>Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Magic3D_High-Resolution_Text-to-3D_Content_Creation_CVPR_2023_paper.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbdf4af8311637c681904e71cf50f96fd0026f578%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Magic3D%3A-High-Resolution-Text-to-3D-Content-Lin-Gao/bdf4af8311637c681904e71cf50f96fd0026f578)
 
-+ **Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation** (Dec 2022)\
-Haochen Wang, Xiaodan Du, Jiahao Li, et al. (CVPR 2023)\
++ **Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation** (1 Dec 2022)<details><summary>Haochen Wang, Xiaodan Du, Jiahao Li, et al. (CVPR2023) </summary>Haochen Wang, Xiaodan Du, Jiahao Li, Raymond A. Yeh, Greg Shakhnarovich</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.00774)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc011ed5ee986332523a62d2783adee1179dc1ed%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Score-Jacobian-Chaining%3A-Lifting-Pretrained-2D-for-Wang-Du/fc011ed5ee986332523a62d2783adee1179dc1ed)
 [![Code](https://img.shields.io/github/stars/pals-ttic/sjc.svg?style=social&label=Star)](https://github.com/pals-ttic/sjc)
 
-+ **DreamFusion: Text-to-3D using 2D Diffusion** (2023)\
-Ben Poole, Ajay Jain, Jonathan T. Barron, et al. (ICLR2023 Oral)\
++ **DreamFusion: Text-to-3D using 2D Diffusion** (29 Sep 2022)<details><summary>Ben Poole, Ajay Jain, Jonathan T. Barron, et al. (ICLR2023 Oral) </summary>Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14988)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4c94d04afa4309ec2f06bdd0fe3781f91461b362%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamFusion%3A-Text-to-3D-using-2D-Diffusion-Poole-Jain/4c94d04afa4309ec2f06bdd0fe3781f91461b362)
-+ **Clip-forge: Towards zero-shot text-to-shape generation** (2022)\
-Sanghi, Aditya, et al. (CVPR 2022)\
+
++ **Clip-forge: Towards zero-shot text-to-shape generation** (28 Apr 2022)<details><summary>Aditya Sanghi, Hang Chu, Joseph G. Lambourne, et al. (CVPR 2022) </summary>Aditya Sanghi, Hang Chu, Joseph G. Lambourne, Ye Wang, Chin-Yi Cheng, Marco Fumero, Kamal Rahimi Malekshan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.02624)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F738e3e0623054da29dc57fc6aee5e6711867c4e8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-Forge%3A-Towards-Zero-Shot-Text-to-Shape-Sanghi-Chu/738e3e0623054da29dc57fc6aee5e6711867c4e8)
 [![Code](https://img.shields.io/github/stars/AutodeskAILab/Clip-Forge.svg?style=social&label=Star)](https://github.com/AutodeskAILab/Clip-Forge)
@@ -876,60 +856,37 @@ Sanghi, Aditya, et al. (CVPR 2022)\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ajayj.com/dreamfields)
 [![Code](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/)
 
-+ **X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance** (Apr 2023)\
-Yiwei Ma, Xiaioqing Zhang, Xiaoshuai Sun, et al. (ICCV 2023)\
++ **X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance** (28 Mar 2023) <details><summary>Yiwei Ma, Xiaioqing Zhang, Xiaoshuai Sun, et al. (ICCV 2023)</summary>Yiwei Ma, Xiaioqing Zhang, Xiaoshuai Sun, Jiayi Ji, Haowei Wang, Guannan Jiang, Weilin Zhuang, Rongrong Ji</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15764)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff8bf2225a2993e3ead73d886b5797378d6e53186%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/X-Mesh%3A-Towards-Fast-and-Accurate-Text-driven-3D-Ma-Zhang/f8bf2225a2993e3ead73d886b5797378d6e53186)
 [![Code](https://img.shields.io/github/stars/xmu-xiaoma666/X-Mesh.svg?style=social&label=Star)](https://github.com/xmu-xiaoma666/X-Mesh)
 
-+ **TextMesh: Generation of Realistic 3D Meshes From Text Prompts** (Mar 2023)\
-Christina Tsalicoglou, Fabian Manhardt, Alessio Tonioni, et al. (3DV 2023)\
++ **TextMesh: Generation of Realistic 3D Meshes From Text Prompts** (24 Apr 2023) <details><summary>Christina Tsalicoglou, Fabian Manhardt, Alessio Tonioni, et al. (3DV 2023)</summary>Christina Tsalicoglou, Fabian Manhardt, Alessio Tonioni, Michael Niemeyer, Federico Tombari</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12439)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd15b27edf3630728cdb40f49946365d9011641cf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TextMesh%3A-Generation-of-Realistic-3D-Meshes-From-Tsalicoglou-Manhardt/2c6392491b6a942e08db46c8fff0ef5ba1fd9de8)
 [![Code](https://img.shields.io/github/stars/threestudio-project/threestudio.svg?style=social&label=Star)](https://github.com/threestudio-project/threestudio)
 
-+ **Text2Mesh: Text-Driven Neural Stylization for Meshes** (2022)\
-Oscar Michel, Roi Bar-On, Richard Liu, et al. (CVPR 2022)\
++ **Text2Mesh: Text-Driven Neural Stylization for Meshes** (6 Dec 2021) <details><summary>Oscar Michel, Roi Bar-On, Richard Liu, et al. (CVPR 2022) </summary>Oscar Michel, Roi Bar-On, Richard Liu, Sagie Benaim, Rana Hanocka</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.02624)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd15b27edf3630728cdb40f49946365d9011641cf%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text2Mesh%3A-Text-Driven-Neural-Stylization-for-Michel-Bar-On/d15b27edf3630728cdb40f49946365d9011641cf)
 [![Code](https://img.shields.io/github/stars/threedle/text2mesh.svg?style=social&label=Star)](https://github.com/threedle/text2mesh)
 
-+ **TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition** (Nov 2022)\
-Yongwei Chen, Rui Chen, Jiabao Lei, et al. (NeurIPS 2022 Spotlight)\
++ **TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition** (20 Oct 2022) <details><summary>Yongwei Chen, Rui Chen, Jiabao Lei, et al. (NeurIPS 2022 Spotlight) </summary>Yongwei Chen, Rui Chen, Jiabao Lei, Yabin Zhang, Kui Jia</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.11277)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F44e49f72fb6b97f52c25a30f0adc68c2384430ba%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TANGO%3A-Text-driven-Photorealistic-and-Robust-3D-via-Chen-Chen/44e49f72fb6b97f52c25a30f0adc68c2384430ba)
 [![Code](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/tango.svg?style=social&label=Star)](https://github.com/Gorilla-Lab-SCUT/tango)
 
-+ **CLIP-Mesh: Generating textured meshes from text using pretrained image-text models** (Sep 2022)\
-Nasir Mohammad Khalid, Tianhao Xie, Eugene Belilovsky, et al. (SIGGRAPH ASIA 2022)\
++ **CLIP-Mesh: Generating textured meshes from text using pretrained image-text models** (24 Mar 2022) <details><summary>Nasir Mohammad Khalid, Tianhao Xie, Eugene Belilovsky, et al. (SIGGRAPH ASIA 2022) </summary>Nasir Mohammad Khalid, Tianhao Xie, Eugene Belilovsky, Tiberiu Popa</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13333)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8941e477b2f39eb92712f04400412da60d349ec1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-Mesh%3A-Generating-textured-meshes-from-text-Khalid-Xie/8941e477b2f39eb92712f04400412da60d349ec1)
 [![Code](https://img.shields.io/github/stars/NasirKhalid24/CLIP-Mesh.svg?style=social&label=Star)](https://github.com/NasirKhalid24/CLIP-Mesh)
 
-+ **MotionCLIP: Exposing Human Motion Generation to CLIP Space** (2022)\
-Guy Tevet, Brian Gordon, et al. (ECCV 2022)\
++ **MotionCLIP: Exposing Human Motion Generation to CLIP Space** (15 Mar 2022) <details><summary>Guy Tevet, Brian Gordon, Amir Hertz, et al. (ECCV 2022) </summary>Guy Tevet, Brian Gordon, Amir Hertz, Amit H. Bermano, Daniel Cohen-Or</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.08063)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe82df4b6a3628501fce67835ad8316d6525ad133%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionCLIP%3A-Exposing-Human-Motion-Generation-to-Tevet-Gordon/e82df4b6a3628501fce67835ad8316d6525ad133)
 [![Code](https://img.shields.io/github/stars/GuyTevet/MotionCLIP.svg?style=social&label=Star)](https://github.com/GuyTevet/MotionCLIP)
 
-
-+ **Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation** (2022)\
-Guy Tevet, Brian Gordon, et al. (CVPR 2022)\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.08063)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b610296563ef5ce6de78e096d9bcc52543607d6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Sketch-A-Shape%3A-Zero-Shot-Sketch-to-3D-Shape-Sanghi-Jayaraman/1b610296563ef5ce6de78e096d9bcc52543607d6)
-
-
-
-[//]: # (#### Avatar)
-
-[//]: # (+ **CLIP-Head: Text-Guided Generation of Textured Neural Parametric 3D Head Models** &#40;25 Nov 2023&#41;<details><summary>Pranav Manu, Astitva Srivastava, Avinash Sharma. SIGGRAPH Asia 2023.</summary>Pranav Manu, Astitva Srivastava, Avinash Sharma</details>)
-
-[//]: # ([![Paper]&#40;https://img.shields.io/badge/arXiv-b31b1b.svg&#41;]&#40;https://raipranav384.github.io/clip_head/static/videos/Clip_Head.pdf&#41;)
-
-[//]: # ([![citation]&#40;https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3c99ad4cf2fdd4417bcb591686bd23500b1b4a46%3Ffields%3DcitationCount&#41;]&#40;https://www.semanticscholar.org/paper/CLIP-Head%3A-Text-Guided-Generation-of-Textured-3D-Manu-Srivastava/3c99ad4cf2fdd4417bcb591686bd23500b1b4a46&#41;)
-
-[//]: # ([![Code]&#40;https://img.shields.io/github/stars/raipranav384/CLIP-Head.svg?style=social&label=Star&#41;]&#40;https://github.com/raipranav384/CLIP-Head&#41;)
-
+  
 ### Datasets
 
 
@@ -1439,69 +1396,56 @@ Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei 
 
 
 ### Non-LLM-based (Clip/T5)
- + **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation** (Nov 2023)\
-Dale Decatur, Itai Lang, Kfir Aberman, et al. CVPR 2023.\
++ **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation** (16 Nov 2023)<details><summary>Dale Decatur, Itai Lang, Kfir Aberman, et al.</summary>Dale Decatur, Itai Lang, Kfir Aberman, Rana Hanocka</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09571)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F496bdd2804a231a3336463fca8e0a4c6a46f0304%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-Paintbrush%3A-Local-Stylization-of-3D-Shapes-with-Decatur-Lang/496bdd2804a231a3336463fca8e0a4c6a46f0304)
 [![Code](https://img.shields.io/github/stars/threedle/3d-paintbrush?style=social&label=Star)](https://github.com/threedle/3d-paintbrush)
 
- + **SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field** (Mar 2023)\
-Chong Bao, Yinda Zhang, Bangbang Yang, et al. CVPR 2023.\
++ **Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields** (23 Aug 2023)<details><summary>Hyeonseop Song, Seokhun Choi, Hoseok Do, et al. </summary>Hyeonseop Song, Seokhun Choi, Hoseok Do, Chul Lee, Taehyeong Kim</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11974)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7f31e07d9b128a0f555c275bc3fdb851f725b8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blending-NeRF%3A-Text-Driven-Localized-Editing-in-Song-Choi/bf7f31e07d9b128a0f555c275bc3fdb851f725b8)
+
++ **SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field** (23 Mar 2023)<details><summary>Chong Bao, Yinda Zhang, Bangbang Yang, et al. (CVPR 2023)</summary>Chong Bao, Yinda Zhang, Bangbang Yang, Tianxing Fan, Zesong Yang, Hujun Bao, Guofeng Zhang, Zhaopeng Cui</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13277)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F222c47b81fe04598fd84fe8b9a43f694415ec7e9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SINE%3A-Semantic-driven-Image-based-NeRF-Editing-with-Bao-Zhang/222c47b81fe04598fd84fe8b9a43f694415ec7e9)
 [![Code](https://img.shields.io/github/stars/zju3dv/SINE?style=social&label=Star)](https://github.com/zju3dv/SINE)
 
- + **TextDeformer: Geometry Manipulation using Text Guidance** (Apr 2023)\
-William Gao, Noam Aigerman, Thibault Groueix, et al. TVCG 2022.\
++ **TextDeformer: Geometry Manipulation using Text Guidance** (26 Apr 2023)<details><summary>William Gao, Noam Aigerman, Thibault Groueix, et al. (TVCG 2022)</summary>William Gao, Noam Aigerman, Thibault Groueix, Vladimir G. Kim, Rana Hanocka</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.13348)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4974186c3b5b50112cfd909de115d5fbe25411fd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TextDeformer%3A-Geometry-Manipulation-using-Text-Gao-Aigerman/4974186c3b5b50112cfd909de115d5fbe25411fd)
 [![Code](https://img.shields.io/github/stars/threedle/TextDeformer.svg?style=social&label=Star)](https://github.com/threedle/TextDeformer)
 
- + **Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions** (Jun 2023)\
-Ayaan Haque, Matthew Tancik, Alexei A. Efros, et al. SIGGRAPH Asia 2023.\
++ **Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions** (22 Mar 2023)<details><summary>Ayaan Haque, Matthew Tancik, Alexei A. Efros, et al. (SIGGRAPH Asia 2023)</summary>Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12789)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26c22380282a00166273038bc5ba785d845d61ad%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Instruct-NeRF2NeRF%3A-Editing-3D-Scenes-with-Haque-Tancik/26c22380282a00166273038bc5ba785d845d61ad)
 [![Code](https://img.shields.io/github/stars/ayaanzhaque/instruct-nerf2nerf.svg?style=social&label=Star)](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 
- + **DreamEditor: Text-Driven 3D Scene Editing with Neural Fields** (Sep 2023)\
-Jingyu Zhuang, Chen Wang, Lingjie Liu, et al. SIGGRAPH Asia 2023.\
++ **DreamEditor: Text-Driven 3D Scene Editing with Neural Fields** (23 Jun 2023)<details><summary>Jingyu Zhuang, Chen Wang, Lingjie Liu, et al. (SIGGRAPH Asia 2023)</summary>Jingyu Zhuang, Chen Wang, Lingjie Liu, Liang Lin, Guanbin Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.13455)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F029f3e2c215edac138be26ade67b3d70b8f74dd7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamEditor%3A-Text-Driven-3D-Scene-Editing-with-Zhuang-Wang/029f3e2c215edac138be26ade67b3d70b8f74dd7)
 [![Code](https://img.shields.io/github/stars/zjy526223908/DreamEditor.svg?style=social&label=Star)](https://github.com/zjy526223908/DreamEditor)
 
-
- + **SKED: Sketch-guided Text-based 3D Editing** (Aug 2023)\
-Aryan Mikaeili, Or Perel, Mehdi Safaee, et al. Arxiv 2023.\
++ **SKED: Sketch-guided Text-based 3D Editing** (19 Mar 2023)<details><summary>Aryan Mikaeili, Or Perel, Mehdi Safaee, et al. (ICCV 2023)</summary>Aryan Mikaeili, Or Perel, Mehdi Safaee, Daniel Cohen-Or, Ali Mahdavi-Amiri</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.10735)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6ebec1ece44daa090158ff2531d6fabb94a4e683%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SKED%3A-Sketch-guided-Text-based-3D-Editing-Mikaeili-Perel/6ebec1ece44daa090158ff2531d6fabb94a4e683)
 [![Code](https://img.shields.io/github/stars/aryanmikaeili/SKED.svg?style=social&label=Star)](https://github.com/aryanmikaeili/SKED)
 
- + **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields** (Sep 2023)\
-Ori Gordon, Omri Avrahami, Dani Lischinski, et al. ICCVW 2023.\
++ **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields** (22 Jun 2023)<details><summary>Ori Gordon, Omri Avrahami, Dani Lischinski. (ICCVW 2023)</summary>Ori Gordon, Omri Avrahami, Dani Lischinski</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12760)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a5d4352d3dd53148a9544233bb59f88d2504910%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blended-NeRF%3A-Zero-Shot-Object-Generation-and-in-Gordon-Avrahami/3a5d4352d3dd53148a9544233bb59f88d2504910)
 
- + **Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation** (July 2023)\
-Aditya Sanghi, P. Jayaraman, et al. Arxiv 2023.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.03869)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b610296563ef5ce6de78e096d9bcc52543607d6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Sketch-A-Shape%3A-Zero-Shot-Sketch-to-3D-Shape-Sanghi-Jayaraman/1b610296563ef5ce6de78e096d9bcc52543607d6)
 
-+ **ClipFace: Text-guided Editing of Textured 3D Morphable Models** (July 2023)\
-SHIVANGI ANEJA, JUSTUS THIES, et al. SIGGRAPH 2023.\
++ **ClipFace: Text-guided Editing of Textured 3D Morphable Modelssting Neural Radiance Fields** (2 Dec 2022)<details><summary>Shivangi Aneja, Justus Thies, Angela Dai, et al. (SIGGRAPH 2023)</summary>Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nießner</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.01406)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff21e8eddf42580d1f38a11ec5acd8891c0454a1f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ClipFace%3A-Text-guided-Editing-of-Textured-3D-Models-Aneja-Thies/f21e8eddf42580d1f38a11ec5acd8891c0454a1f)
 [![Code](https://img.shields.io/github/stars/cassiePython/CLIPNeRF.svg?style=social&label=Star)](https://github.com/cassiePython/CLIPNeRF)
 
-+ **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields** (2022)\
-Can Wang, et al. CVPR 2022.\
++ **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fieldsadiance Fields** (9 Dec 2021)<details><summary>Can Wang, Menglei Chai, Mingming He, et al. (CVPR 2022)</summary>Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.05139)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0483be6c3ec6cd41ffe248f86effc7468d3ac7be%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-NeRF%3A-Text-and-Image-Driven-Manipulation-of-Wang-Chai/0483be6c3ec6cd41ffe248f86effc7468d3ac7be)
 [![Code](https://img.shields.io/github/stars/shivangi-aneja/ClipFace.svg?style=social&label=Star)](https://github.com/shivangi-aneja/ClipFace)
 
-+ **Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields** (2023)\
-Hyeonseop Song, Seokhun Choi, Hoseok Do, et al. ICCV 2023.\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11974)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7f31e07d9b128a0f555c275bc3fdb851f725b8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blending-NeRF%3A-Text-Driven-Localized-Editing-in-Song-Choi/bf7f31e07d9b128a0f555c275bc3fdb851f725b8)
+
 
 
 
@@ -1772,27 +1716,21 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 
 
 ## 3D
-
-+ **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (21 Dec 2023)\
-Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
++ **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (19 Nov 2023)<details><summary>Senqiao Yang, Jiaming Liu, Ray Zhang, et al.</summary>Senqiao Yang, Jiaming Liu, Ray Zhang, Mingjie Pan, Zoey Guo, Xiaoqi Li, Zehui Chen, Peng Gao, Yandong Guo, Shanghang Zhang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14074)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5edf706467dc76cd09319592d18db0ad4e1fb64d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LiDAR-LLM%3A-Exploring-the-Potential-of-Large-Models-Yang-Liu/5edf706467dc76cd09319592d18db0ad4e1fb64d)
 
-
-+ **3D-LLM: Injecting the 3D World into Large Language Models** (2023)\
-Yining Hong, Haoyu Zhen, Peihao Chen, et al. NeurIPS 2023 Spotlight\
++ **3D-LLM: Injecting the 3D World into Large Language Models** (24 Jul 2023)<details><summary>Yining Hong, Haoyu Zhen, Peihao Chen, et al. (NeurIPS 2023 Spotlight)</summary>Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12981)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7637ed79d30d0139901175ae4abedd822c217ab4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-LLM%3A-Injecting-the-3D-World-into-Large-Language-Hong-Zhen/7637ed79d30d0139901175ae4abedd822c217ab4)
 [![Code](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM.svg?style=social&label=Star)](https://github.com/UMass-Foundation-Model/3D-LLM)
 
-+ **PointLLM: Empowering Large Language Models to Understand Point Clouds** (2023)\
-Runsen Xu, Xiaolong Wang, Tai Wang, et al.\
++ **PointLLM: Empowering Large Language Models to Understand Point Clouds** (31 Aug 2023)<details><summary>Runsen Xu, Xiaolong Wang, Tai Wang, et al. (NeurIPS 2023 Spotlight)</summary>Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16911.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6bcc6ab9c28805d4067e99b2cdc7524550fe80e1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PointLLM%3A-Empowering-Large-Language-Models-to-Point-Xu-Wang/6bcc6ab9c28805d4067e99b2cdc7524550fe80e1)
 [![Code](https://img.shields.io/github/stars/OpenRobotLab/PointLLM.svg?style=social&label=Star)](https://github.com/OpenRobotLab/PointLLM)
 
- + **PointCLIP: Point Cloud Understanding by CLIP** (2022)\
-Zhang, Renrui and Guo, Ziyu, Zhang, Wei, et al.(CVPR2022)\
++ **PointCLIP: Point Cloud Understanding by CLIP** (31 Aug 2023)<details><summary>Renrui Zhang, Ziyu Guo, Wei Zhang,, et al. (CVPR2022)</summary>Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.02413.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PointCLIP%3A-Point-Cloud-Understanding-by-CLIP-Zhang-Guo/f3ce9ba3fcec362b70263a7ed63d9404975496a0)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/ZrrSkywalker/PointCLIP)
