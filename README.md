@@ -1692,7 +1692,13 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 
 
 ## Video Understanding
-+ **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models\
++ **MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**  (3 Dec 2023) \
+Enxin, Song, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16449)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f9b7c8cde1be2e62a503c31cac883c6d44c9d0d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MovieChat%3A-From-Dense-Token-to-Sparse-Memory-for-Song-Chai/6f9b7c8cde1be2e62a503c31cac883c6d44c9d0d)
+[![Code](https://img.shields.io/github/stars/rese1f/MovieChat.svg?style=social&label=Star)](https://github.com/rese1f/MovieChat)
+
++ **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**  (28 Nov 2023) \
 Yanwei, Li, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17043)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F486c2df78cbb770a90a55f7fa3fe19102fba2c24%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLaMA-VID%3A-An-Image-is-Worth-2-Tokens-in-Large-Li-Wang/486c2df78cbb770a90a55f7fa3fe19102fba2c24)
