@@ -1692,6 +1692,12 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 
 
 ## Video Understanding
++ **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models\
+Yanwei, Li, et al. \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17043)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F486c2df78cbb770a90a55f7fa3fe19102fba2c24%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLaMA-VID%3A-An-Image-is-Worth-2-Tokens-in-Large-Li-Wang/486c2df78cbb770a90a55f7fa3fe19102fba2c24)
+[![Code](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/dvlab-research/LLaMA-VID)
+
 + **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (27 Nov 2023)\
 Ning, Munan, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16103)
