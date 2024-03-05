@@ -514,6 +514,10 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 
 ### 🔅 LLM-based
 
+
++ **[Sora] Video generation models as world simulators** (15 Feb 2024)<details><summary>Tim Brooks, Bill Peebles, Connor Holmes, et al.</summary>Tim Brooks and Bill Peebles and Connor Holmes and Will DePue and Yufei Guo and Li Jing and David Schnurr and Joe Taylor and Troy Luhman and Eric Luhman and Clarence Ng and Ricky Wang and Aditya Ramesh</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openai.com/research/video-generation-models-as-world-simulators)
+
 + **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** (2 Jan 2024)<details><summary>Fuchen Long, Zhaofan Qiu, Ting Yao, et al.</summary>Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01256)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc84fcf269a37ed7ddcb1b0f2d7d1a00f677eaea%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDrafter%3A-Content-Consistent-Multi-Scene-Video-Long-Qiu/fc84fcf269a37ed7ddcb1b0f2d7d1a00f677eaea)
