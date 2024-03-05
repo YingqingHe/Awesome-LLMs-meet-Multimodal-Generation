@@ -4,41 +4,41 @@
 - [🤗 Introduction](#-introduction)
 - [💘 Tips](#-tips)
 - [📍 LLMs for Visual-audio Generation](#-llms-for-visual-audio-generation)
-  - [Image](#image)
+  - [Image Generation](#image)
     - [🔅 LLM-based](#-llm-based)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
     - [Datasets](#datasets)
-  - [Video](#video)
+  - [Video Generation](#video)
     - [🔅 LLM-based](#-llm-based-1)
     - [Non-LLM-based](#non-llm-based)
     - [Datasets](#datasets-1)
-  - [3D](#3d)
+  - [3D Generation](#3d)
     - [🔅 LLM-based](#-llm-based-2)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-1)
     - [Datasets](#datasets-2)
-  - [Audio](#audio)
+  - [Audio Generation](#audio)
     - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
 - [📍 LLMs for Visual-audio Editing](#-llms-for-visual-audio-editing)
-  - [Image](#image-1)
+  - [Image Editing](#image-1)
     - [🔅 LLM-based](#-llm-based-4)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
-  - [Video](#video-1)
+  - [Video Editing](#video-1)
     - [🔅 LLM-based](#-llm-based-5)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-3)
-  - [3D](#3d-1)
+  - [3D Editing](#3d-1)
     - [🔅 LLM-based](#-llm-based-6)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-4)
-  - [Audio](#audio-1)
+  - [Audio Editing](#audio-1)
     - [🔅 LLM-based](#-llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [📍 Multi-Modal Agents](#-multi-modal-agents)
 - [📍 LLMs for Visual-audio Understanding](#-llms-for-visual-audio-understanding)
-  - [Image](#image-2)
-  - [Video](#video-2)
-  - [3D](#3d-2)
-  - [Audio](#audio-2)
+  - [Image Understanding](#image-2)
+  - [Video Understanding](#video-2)
+  - [3D Understanding](#3d-2)
+  - [Audio Understanding](#audio-2)
 - [📍 Multimodal LLM Safety](#-multimodal-llm-safety)
   - [Attack](#attack)
   - [Defense and Detect](#defense-and-detect)
@@ -63,7 +63,7 @@
 
 # 📍 LLMs for Visual-audio Generation
 
-## Image
+## Image Generation
 
 ### 🔅 LLM-based
 
@@ -510,7 +510,7 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 
 
 
-## Video
+## Video Generation
 
 ### 🔅 LLM-based
 
@@ -720,7 +720,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 
 
 
-## 3D
+## 3D Generation
 
 ### 🔅 LLM-based
 
@@ -938,7 +938,7 @@ Guy Tevet, Brian Gordon, et al. (CVPR 2022)\
 
 
 
-## Audio
+## Audio Generation
 
 ### 🔅 LLM-based
 
@@ -1108,7 +1108,7 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 
 # 📍 LLMs for Visual-audio Editing
 
-## Image
+## Image Editing
 
 ### 🔅 LLM-based
 
@@ -1307,7 +1307,7 @@ Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. CVPR 2024. \
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F198b3d809594a76bc473927af37b858132ac7fdd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DiffEditor%3A-Boosting-Accuracy-and-Flexibility-on-Mou-Wang/198b3d809594a76bc473927af37b858132ac7fdd)
 [![Code](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
 
-## Video
+## Video Editing
 
 ### 🔅 LLM-based
 
@@ -1437,7 +1437,7 @@ Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei 
 
 
 
-## 3D
+## 3D Editing
 
 ### 🔅 LLM-based
 
@@ -1509,7 +1509,7 @@ Hyeonseop Song, Seokhun Choi, Hoseok Do, et al. ICCV 2023.\
 
 
 
-## Audio
+## Audio Editing
 
 ### 🔅 LLM-based
 
@@ -1606,7 +1606,7 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 
 # 📍 LLMs for Visual-audio Understanding
-## Image
+## Image Understanding
 + **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** (21 Dec 2023)<details><summary>Zhe Chen, Jiannan Wu, Wenhai Wang, et al.</summary>Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14238)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6a33e58ef961a3a0a5657518b2be86395eb7c8d0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVL%3A-Scaling-up-Vision-Foundation-Models-and-Chen-Wu/6a33e58ef961a3a0a5657518b2be86395eb7c8d0)
@@ -1691,7 +1691,7 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://llava.hliu.cc/)
 
 
-## Video
+## Video Understanding
 + **Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models** (27 Nov 2023)\
 Ning, Munan, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16103)
@@ -1765,7 +1765,7 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 
 
 
-## 3D
+## 3D Understanding
 
 + **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (21 Dec 2023)\
 Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
@@ -1793,7 +1793,7 @@ Zhang, Renrui and Guo, Ziyu, Zhang, Wei, et al.(CVPR2022)\
 
 
 
-## Audio
+## Audio Understanding
 + **Audiogpt: Understanding and generating speech, music, sound, and talking head** (25 Apr 2023)<details><summary>Rongjie Huang, Mingze Li, Dongchao Yang, et al.</summary>Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12995)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8bc617c9139648d7a92991d70c671230bac7b2e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGPT%3A-Understanding-and-Generating-Speech%2C-and-Huang-Li/8bc617c9139648d7a92991d70c671230bac7b2e2)
