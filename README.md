@@ -4,41 +4,41 @@
 - [🤗 Introduction](#-introduction)
 - [💘 Tips](#-tips)
 - [📍 LLMs for Visual-audio Generation](#-llms-for-visual-audio-generation)
-  - [Image Generation](#image)
+  - [Image Generation](#image-generation)
     - [🔅 LLM-based](#-llm-based)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
     - [Datasets](#datasets)
-  - [Video Generation](#video)
+  - [Video Generation](#video-generation)
     - [🔅 LLM-based](#-llm-based-1)
     - [Non-LLM-based](#non-llm-based)
     - [Datasets](#datasets-1)
-  - [3D Generation](#3d)
+  - [3D Generation](#3d-generation)
     - [🔅 LLM-based](#-llm-based-2)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-1)
     - [Datasets](#datasets-2)
-  - [Audio Generation](#audio)
+  - [Audio Generation](#audio-generation)
     - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
 - [📍 LLMs for Visual-audio Editing](#-llms-for-visual-audio-editing)
-  - [Image Editing](#image-1)
+  - [Image Editing](#image-editing)
     - [🔅 LLM-based](#-llm-based-4)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
-  - [Video Editing](#video-1)
+  - [Video Editing](#video-editing)
     - [🔅 LLM-based](#-llm-based-5)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-3)
-  - [3D Editing](#3d-1)
+  - [3D Editing](#3d-editing)
     - [🔅 LLM-based](#-llm-based-6)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-4)
-  - [Audio Editing](#audio-1)
+  - [Audio Editing](#audio-editing)
     - [🔅 LLM-based](#-llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [📍 Multi-Modal Agents](#-multi-modal-agents)
 - [📍 LLMs for Visual-audio Understanding](#-llms-for-visual-audio-understanding)
-  - [Image Understanding](#image-2)
-  - [Video Understanding](#video-2)
-  - [3D Understanding](#3d-2)
-  - [Audio Understanding](#audio-2)
+  - [Image Understanding](#image-understanding)
+  - [Video Understanding](#video-understanding)
+  - [3D Understanding](#3d-understanding)
+  - [Audio Understanding](#audio-understanding)
 - [📍 Multimodal LLM Safety](#-multimodal-llm-safety)
   - [Attack](#attack)
   - [Defense and Detect](#defense-and-detect)
@@ -1125,31 +1125,26 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![Code](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix.svg?style=social&label=Star)](https://github.com/timothybrooks/instruct-pix2pix)
 
 
-
-+ **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** (8 Mar 2023)\
-Wu, Chenfei, et al. \
++ **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** (8 Mar 2023) <details><summary>Chenfei Wu, Shengming Yin, Weizhen Qi, et al.</summary> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04671)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf997821231898a5f8d0fd78dad4eec526acabe5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-ChatGPT%3A-Talking%2C-Drawing-and-Editing-with-Wu-Yin/af997821231898a5f8d0fd78dad4eec526acabe5)
 [![Code](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)](https://github.com/moymix/TaskMatrix)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/microsoft/visual_chatgpt)
 
 
-+ **HIVE: Harnessing Human Feedback for Instructional Visual Editing** (16 Mar 2023)\
-Shu Zhang, Xinyi Yang, Yihao Feng, Can Qin, Chia-Chih Chen, Ning Yu, Zeyuan Chen, Huan Wang, Silvio Savarese, Stefano Ermon, Caiming Xiong, Ran Xu. ArXiv 2023. \
++ **HIVE: Harnessing Human Feedback for Instructional Visual Editing** (16 Mar 2023)<details><summary>Shu Zhang, Xinyi Yang, Yihao Feng, et al.</summary> Shu Zhang, Xinyi Yang, Yihao Feng, Can Qin, Chia-Chih Chen, Ning Yu, Zeyuan Chen, Huan Wang, Silvio Savarese, Stefano Ermon, Caiming Xiong, Ran Xu.</details>ArXiv 2023. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09618)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F372bc41602bbd21f192305775f0a58de9880e454%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HIVE%3A-Harnessing-Human-Feedback-for-Instructional-Zhang-Yang/372bc41602bbd21f192305775f0a58de9880e454)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shugerdou.github.io/hive/)
 [![Code](https://img.shields.io/github/stars/salesforce/HIVE.svg?style=social&label=Star)](https://github.com/salesforce/HIVE)
 
 
-+ **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (20 Mar 2023)\
-Cui, Xing, et al.\
++ **CHATEDIT: Towards Multi-turn Interactive Facial Image Editing via Dialogue** (20 Mar 2023)<details><summary>Xing Cui, Zekun Li, Peipei Li, et al.</summary> Xing Cui, Zekun Li, Peipei Li, Yibo Hu, Hailin Shi, Zhaofeng He</details>EMNLP 2023. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11108)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CHATEDIT%3A-Towards-Multi-turn-Interactive-Facial-via-Cui-Li/5a185965ad1e87367d044b47043706d00b85b007)
 [![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)
 
-+ **Guiding Instruction-based Image Editing via Multimodal Large Language Models** (29 Sep 2023)\
-Fu, Tsu-Jui, et al.\
++ **Guiding Instruction-based Image Editing via Multimodal Large Language Models** <details><summary>Tsu-Jui Fu, Wenze Hu, Xianzhi Du, et al.</summary> Tsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, Zhe Gan</details>ICLR 2024 (Spotlight). \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17102v1)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F092245d86b77181c36f972b1b7a17a59cd989c4a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Guiding-Instruction-based-Image-Editing-via-Large-Fu-Hu/092245d86b77181c36f972b1b7a17a59cd989c4a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mllm-ie.github.io/)
@@ -1157,21 +1152,18 @@ Fu, Tsu-Jui, et al.\
 
 
 
-+ **Emu Edit: Precise Image Editing via Recognition and Generation Tasks** (16 Nov 2023)\
-Shelly Sheynin, Adam Polyak, Uriel Singer, Yuval Kirstain, Amit Zohar, Oron Ashual, Devi Parikh, Yaniv Taigman. ArXiv 2023. \
++ **Emu Edit: Precise Image Editing via Recognition and Generation Tasks** (16 Nov 2023)<details><summary>Shelly Sheynin, Adam Polyak, Uriel Singer, et al.</summary> Shelly Sheynin, Adam Polyak, Uriel Singer, Yuval Kirstain, Amit Zohar, Oron Ashual, Devi Parikh, Yaniv Taigman</details>ArXiv 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10089)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5bcb0153dd0840113eb27d4d6f753414ef656a03%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Emu-Edit%3A-Precise-Image-Editing-via-Recognition-and-Sheynin-Polyak/5bcb0153dd0840113eb27d4d6f753414ef656a03)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://emu-edit.metademolab.com/)
 
 
-+ **Self-correcting LLM-controlled Diffusion Models** (27 Nov 2023)\
-Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell. ArXiv 2023. \
++ **Self-correcting LLM-controlled Diffusion Models** (27 Nov 2023)<details><summary>Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, et al.</summary> Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell</details>CVPR 2024. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16090)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Self-correcting-LLM-controlled-Diffusion-Models-Wu-Lian/42c4315b5d2e33d7d9a0afdf84e6a47ccd7a700e)
 
 
-+ **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** (11 Dec 2023)\
-Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan. ArXiv 2023. \
++ **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** (11 Dec 2023)<details><summary>Yuzhou Huang, Liangbin Xie, Xintao Wang, et al.</summary> Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan</details>CVPR 2024. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06739)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F388b0f44faf0a14cc402c2554ec36a868cf59129%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SmartEdit%3A-Exploring-Complex-Instruction-based-with-Huang-Xie/388b0f44faf0a14cc402c2554ec36a868cf59129)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuzhou914.github.io/SmartEdit/)
@@ -1182,8 +1174,7 @@ Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, J
 ### Non-LLM-based (Clip/T5)
 
 
-+ **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** (2 Aug 2021)\
-Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon. ICLR 2022. \
++ **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** (2 Aug 2021)<details><summary>Chenlin Meng, Yutong He, Yang Song, et al.</summary> Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon. </details>ICLR 2022. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.01073)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff671a09e3e5922e6d38cb77dda8d76d5ceac2a27%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SDEdit%3A-Guided-Image-Synthesis-and-Editing-with-Meng-He/f671a09e3e5922e6d38cb77dda8d76d5ceac2a27)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sde-image-editing.github.io/)
@@ -1197,81 +1188,69 @@ Gwanghyun Kim, Taesung Kwon, Jong Chul Ye. CVPR 2022. \
 [![Code](https://img.shields.io/github/stars/gwang-kim/DiffusionCLIP.svg?style=social&label=Star)](https://github.com/gwang-kim/DiffusionCLIP)
 
 
-+ **DiffEdit: Diffusion-based semantic image editing with mask guidance** (20 Oct 2022) \
-Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord. ICLR 2023 (notable top 25%). \
++ **DiffEdit: Diffusion-based semantic image editing with mask guidance** (20 Oct 2022) <details><summary>Guillaume Couairon, Jakob Verbeek, Holger Schwenk, et al.</summary> Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord. </details>ICLR 2023 (notable top 25%). 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.11427)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F064ccebc03d3afabaae30fe29a457c1cfcdff7e3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DiffEdit%3A-Diffusion-based-semantic-image-editing-Couairon-Verbeek/064ccebc03d3afabaae30fe29a457c1cfcdff7e3)
 <!-- [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ashmrz.github.io/WatchYourSteps/) -->
 <!-- [![Code](https://img.shields.io/github/stars/Xiang-cd/DiffEdit-stable-diffusion.svg?style=social&label=Star)](https://github.com/Xiang-cd/DiffEdit-stable-diffusion) -->
 
 
-+ **Prompt-to-Prompt Image Editing with Cross Attention Control**
-Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. ICLR 2023. \
++ **Prompt-to-Prompt Image Editing with Cross Attention Control** <details><summary>Amir Hertz, Ron Mokady, Jay Tenenbaum, et al.</summary> Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. </details>ICLR 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.01626)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F04e541391e8dce14d099d00fb2c21dbbd8afe87f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Prompt-to-Prompt-Image-Editing-with-Cross-Attention-Hertz-Mokady/04e541391e8dce14d099d00fb2c21dbbd8afe87f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://prompt-to-prompt.github.io/)
 [![Code](https://img.shields.io/github/stars/google/prompt-to-prompt.svg?style=social&label=Star)](https://github.com/google/prompt-to-prompt)
 
-+ **Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
-Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. ICLR 2023. \
++ **Null-text Inversion for Editing Real Images using Guided Diffusion Models**<details><summary>Ron Mokady, Amir Hertz, Kfir Aberman, et al.</summary> Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. </details>ICLR 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09794)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4de94949daf9bc8dd0e5161d20dfe83198d20ec1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Null-text-Inversion-for-Editing-Real-Images-using-Mokady-Hertz/4de94949daf9bc8dd0e5161d20dfe83198d20ec1)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://null-text-inversion.github.io/)
 [![Code](https://img.shields.io/github/stars/google/prompt-to-prompt.svg?style=social&label=Star)](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)
 
-+ **Imagic: Text-Based Real Image Editing with Diffusion Models** (17 Oct 2022)\
-Bahjat Kawar, Shiran Zada, Oran Lang, Omer Tov, Huiwen Chang, Tali Dekel, Inbar Mosseri, Michal Irani. CVPR 2023. \
++ **Imagic: Text-Based Real Image Editing with Diffusion Models** (17 Oct 2022)<details><summary>Bahjat Kawar, Shiran Zada, Oran Lang, et al.</summary> Bahjat Kawar, Shiran Zada, Oran Lang, Omer Tov, Huiwen Chang, Tali Dekel, Inbar Mosseri, Michal Irani. </details>CVPR 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.09276)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F23e261a20a315059b4de5492ed071c97a20c12e7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Imagic%3A-Text-Based-Real-Image-Editing-with-Models-Kawar-Zada/23e261a20a315059b4de5492ed071c97a20c12e7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://imagic-editing.github.io/)
 <!-- [![Code](https://img.shields.io/github/stars/pix2pixzero/pix2pix-zero.svg?style=social&label=Star)](https://github.com/pix2pixzero/pix2pix-zero) -->
 
 
-+ **Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation** (22 Nov 2022) \
-Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel. CVPR 2023. \
++ **Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation** (22 Nov 2022)<details><summary>Narek Tumanyan, Michal Geyer, Shai Bagon, et al.</summary> Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel. </details>CVPR 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12572)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb000d6865db824af1563708fb7a545ddd65c6b3a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Plug-and-Play-Diffusion-Features-for-Text-Driven-Tumanyan-Geyer/b000d6865db824af1563708fb7a545ddd65c6b3a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pnp-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/MichalGeyer/plug-and-play.svg?style=social&label=Star)](https://github.com/MichalGeyer/plug-and-play)
 
-+ **Interactive Image Manipulation with Complex Text Instructions** (25 Nov 2022)\
-Ryugo Morita, Zhiqiang Zhang, Man M. Ho, Jinjia Zhou. WACV 2023.\
++ **Interactive Image Manipulation with Complex Text Instructions** (25 Nov 2022)<details><summary>Ryugo Morita, Zhiqiang Zhang, Man M. Ho, et al.</summary> Ryugo Morita, Zhiqiang Zhang, Man M. Ho, Jinjia Zhou. </details>WACV 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15352)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F387144d293567408c363313aac971294e7ec8547%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Interactive-Image-Manipulation-with-Complex-Text-Morita-Zhang/387144d293567408c363313aac971294e7ec8547)
 
-+ **SINE: SINgle Image Editing with Text-to-Image Diffusion Models** (8 Dec 2022) \
-Zhixing Zhang, Ligong Han, Arnab Ghosh, Dimitris Metaxas, Jian Ren. CVPR 2023. \
++ **SINE: SINgle Image Editing with Text-to-Image Diffusion Models** (8 Dec 2022)<details><summary>Zhixing Zhang, Ligong Han, Arnab Ghosh, et al.</summary> Zhixing Zhang, Ligong Han, Arnab Ghosh, Dimitris Metaxas, Jian Ren. </details>CVPR 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.04489)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa6ad30123bef4b19ee40c3d63cfabf00d211f0ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SINE%3A-SINgle-Image-Editing-with-Text-to-Image-Zhang-Han/a6ad30123bef4b19ee40c3d63cfabf00d211f0ef)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zhang-zx.github.io/SINE/)
 [![Code](https://img.shields.io/github/stars/zhang-zx/SINE.svg?style=social&label=Star)](https://github.com/zhang-zx/SINE)
 
 
-+ **Zero-shot Image-to-Image Translation** (6 Feb 2023) \
-Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu
-. SIGGRAPH 2023. \
++ **Zero-shot Image-to-Image Translation** (6 Feb 2023)<details><summary>Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, et al.</summary> Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu. </details>SIGGRAPH 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.03027)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdaf61010eee0fbf6f9bab7db71c395ffca6f3ff3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Zero-shot-Image-to-Image-Translation-Parmar-Singh/daf61010eee0fbf6f9bab7db71c395ffca6f3ff3)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pix2pixzero.github.io/)
 [![Code](https://img.shields.io/github/stars/pix2pixzero/pix2pix-zero.svg?style=social&label=Star)](https://github.com/pix2pixzero/pix2pix-zero)
 
-+ **PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** (30 Mar 2023)\
-Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi. ArXiv 2023.\
++ **PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** (30 Mar 2023)<details><summary>Vidit Goel, Elia Peruzzo, Yifan Jiang, et al.</summary> Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi. </details>arXiv 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17546)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc614a4da924466f62ca39002af425c9d14d240a3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PAIR-Diffusion%3A-A-Comprehensive-Multimodal-Image-Goel-Peruzzo/c614a4da924466f62ca39002af425c9d14d240a3)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://vidit98.github.io/publication/conference-paper/pair_diff.html)
 [![Code](https://img.shields.io/github/stars/pix2pixzero/pix2pix-zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/PAIR-Diffusion)
 
 
-+ **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** (17 Apr 2023)\
-Mingdeng Cao, Xintao Wang, Zhongang Qi, Ying Shan, Xiaohu Qie, Yinqiang Zheng. ICCV 2023. \
++ **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** (17 Apr 2023)<details><summary>Mingdeng Cao, Xintao Wang, Zhongang Qi, et al.</summary> Mingdeng Cao, Xintao Wang, Zhongang Qi, Ying Shan, Xiaohu Qie, Yinqiang Zheng. </details>ICCV 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08947)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F85963807c11abe38e9a2797d9860e012238607ef%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MasaCtrl%3A-Tuning-Free-Mutual-Self-Attention-Control-Cao-Wang/85963807c11abe38e9a2797d9860e012238607ef)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ljzycmd.github.io/projects/MasaCtrl/)
 [![Code](https://img.shields.io/github/stars/TencentARC/MasaCtrl.svg?style=social&label=Star)](https://github.com/TencentARC/MasaCtrl)
 
-+ **Visual Instruction Inversion: Image Editing via Visual Prompting** (26 Jul 2023)\
-Thao Nguyen, Yuheng Li, Utkarsh Ojha, Yong Jae Lee. ArXiv 2023. \
++ **Visual Instruction Inversion: Image Editing via Visual Prompting** (26 Jul 2023)<details><summary>Thao Nguyen, Yuheng Li, Utkarsh Ojha, et al.</summary> Thao Nguyen, Yuheng Li, Utkarsh Ojha, Yong Jae Lee. </details>arXiv 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff4c62aa336de45273e0fdfcfbd65b3c2e552ad56%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-Instruction-Inversion%3A-Image-Editing-via-Nguyen-Li/f4c62aa336de45273e0fdfcfbd65b3c2e552ad56)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://thaoshibe.github.io/visii/)
@@ -1285,29 +1264,25 @@ Eran Levin, Ohad Fried. ArXiv 2023. \
 [![Code](https://img.shields.io/github/stars/exx8/differential-diffusion.svg?style=social&label=Star)](https://github.com/exx8/differential-diffusion)
 
 
-+ **Dragondiffusion: Enabling drag-style manipulation on diffusion models** (5 Jul 2023)\
-Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. ArXiv 2023. \
++ **Dragondiffusion: Enabling drag-style manipulation on diffusion models** (5 Jul 2023)<details><summary>Chong Mou, Xintao Wang, Jiechong Song, et al.</summary>Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. </details>ICLR 2024. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cfaa5b3571d3b75f040f6d639359a3c673f5561%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DragonDiffusion%3A-Enabling-Drag-style-Manipulation-Mou-Wang/2cfaa5b3571d3b75f040f6d639359a3c673f5561)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mc-e.github.io/project/DragonDiffusion/)
 [![Code](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
 
 
-+ **Watch Your Steps: Local Image and Scene Editing by Text Instructions** (17 Aug 2023 )\
-Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski. ArXiv 2023. \
++ **Watch Your Steps: Local Image and Scene Editing by Text Instructions** (17 Aug 2023 )<details><summary>Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, et al.</summary>Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski. </details>arXiv 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08947)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F737ad8905228cd410e3342b5cceefd4feb57d166%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Watch-Your-Steps%3A-Local-Image-and-Scene-Editing-by-Mirzaei-Aumentado-Armstrong/737ad8905228cd410e3342b5cceefd4feb57d166)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ashmrz.github.io/WatchYourSteps/)
 
 
-+ **ZONE: Zero-Shot Instruction-Guided Local Editing** (28 Dec 2023)\
-Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xuhui Liu, Jiaming Liu, Li Lin, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang. ArXiv 2023. \
++ **ZONE: Zero-Shot Instruction-Guided Local Editing** (28 Dec 2023)<details><summary>Shanglin Li, Bohan Zeng, Yutang Feng, et al.</summary>Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xuhui Liu, Jiaming Liu, Li Lin, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang. </details>arXiv 2024. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.16794)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F05eb2ad3af471c05a24abbf70258688e579cdf22%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ZONE%3A-Zero-Shot-Instruction-Guided-Local-Editing-Li-Zeng/05eb2ad3af471c05a24abbf70258688e579cdf22)
 
 
-+ **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** (4 Feb 2024)\
-Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. CVPR 2024. \
++ **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** (4 Feb 2024)<details><summary>Chong Mou, Xintao Wang, Jiechong Song, et al.</summary>Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. </details>CVPR 2024. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02583)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F198b3d809594a76bc473927af37b858132ac7fdd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DiffEditor%3A-Boosting-Accuracy-and-Flexibility-on-Mou-Wang/198b3d809594a76bc473927af37b858132ac7fdd)
 [![Code](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social&label=Star)](https://github.com/MC-E/DragonDiffusion)
@@ -1316,8 +1291,7 @@ Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. CVPR 2024. \
 
 ### 🔅 LLM-based
 
-+ **InstructVid2Vid: Controllable Video Editing with Natural Language Instructions** (21 May 2023)\
-Bosheng Qin, Juncheng Li, Siliang Tang, Tat-Seng Chua, Yueting Zhuang. arXiv 2023.\
++ **InstructVid2Vid: Controllable Video Editing with Natural Language Instructions** (21 May 2023)<details><summary>Bosheng Qin, Juncheng Li, Siliang Tang, et al.</summary>Bosheng Qin, Juncheng Li, Siliang Tang, Tat-Seng Chua, Yueting Zhuang. </details>arXiv 2023. 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.12328)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F205d2ed0906440f07a0275d7d6a63bced60951fc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InstructVid2Vid%3A-Controllable-Video-Editing-with-Qin-Li/205d2ed0906440f07a0275d7d6a63bced60951fc)
 <!-- [![Code](https://img.shields.io/github/stars/duyguceylan/pix2video.svg?style=social&label=Star)](https://github.com/duyguceylan/pix2video) -->
@@ -1332,33 +1306,28 @@ Jiaxin Cheng, Tianjun Xiao, Tong He. ArXiv 2023.\
 
 ### Non-LLM-based (Clip/T5)
 
-+ **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (2 Apr 2021)\
-Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, Miguel P. Eckstein, William Yang Wang. CVPR 2022.\
++ **M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers** (2 Apr 2021)<details><summary>Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, et al.</summary>Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, Miguel P. Eckstein, William Yang Wang. </details>CVPR 2022.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.01122)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F81349524489f8ba0812ac2529eac92ec45959782%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-based-Video-Editing-via-Multi-Modal-Fu-Wang/81349524489f8ba0812ac2529eac92ec45959782)
 
-+ **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** (22 Dec 2022)\
-Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Weixian Lei, Yuchao Gu, Yufei Shi, Wynne Hsu, Ying Shan, Xiaohu Qie, Mike Zheng Shou. ICCV 2023.\
++ **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** (22 Dec 2022)<details><summary>Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, et al.</summary>Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Weixian Lei, Yuchao Gu, Yufei Shi, Wynne Hsu, Ying Shan, Xiaohu Qie, Mike Zheng Shou. </details>ICCV 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11565)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1367dcff4ccb927a5e95c452041288b3f0dd0eff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Tune-A-Video%3A-One-Shot-Tuning-of-Image-Diffusion-Wu-Ge/1367dcff4ccb927a5e95c452041288b3f0dd0eff)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fate-zero-edit.github.io/)
 [![Code](https://img.shields.io/github/stars/showlab/Tune-A-Video.svg?style=social&label=Star)](https://tuneavideo.github.io/)
 
-+ **Dreamix: Video Diffusion Models are General Video Editors** (2 Feb 2023)\
-Eyal Molad, Eliahu Horwitz, Dani Valevski, Alex Rav Acha, Yossi Matias, Yael Pritch, Yaniv Leviathan, Yedid Hoshen. arXiv 2023.\
++ **Dreamix: Video Diffusion Models are General Video Editors** (2 Feb 2023)<details><summary>Eyal Molad, Eliahu Horwitz, Dani Valevski, et al.</summary>Eyal Molad, Eliahu Horwitz, Dani Valevski, Alex Rav Acha, Yossi Matias, Yael Pritch, Yaniv Leviathan, Yedid Hoshen. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01329)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9758ddd6ffbaac75aa0447a9664e6989811a05e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Dreamix%3A-Video-Diffusion-Models-are-General-Video-Molad-Horwitz/9758ddd6ffbaac75aa0447a9664e6989811a05e2)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamix-video-editing.github.io/)
 
-+ **Video-P2P: Video Editing with Cross-attention Control** (8 Mar 2023)\
-Shaoteng Liu, Yuechen Zhang, Wenbo Li, Zhe Lin, Jiaya Jia. arXiv 2022.\
++ **Video-P2P: Video Editing with Cross-attention Control** (8 Mar 2023)<details><summary>Shaoteng Liu, Yuechen Zhang, Wenbo Li, et al.</summary>Shaoteng Liu, Yuechen Zhang, Wenbo Li, Zhe Lin, Jiaya Jia. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04761)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6283502d6900a0b403e2454b1cb1cf16ddefd5a7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Video-P2P%3A-Video-Editing-with-Cross-attention-Liu-Zhang/6283502d6900a0b403e2454b1cb1cf16ddefd5a7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://video-p2p.github.io/)
 [![Code](https://img.shields.io/github/stars/ShaoTengLiu/Video-P2P.svg?style=social&label=Star)](https://github.com/ShaoTengLiu/Video-P2P)
 
-+ **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** (16 Mar 2023)\
-Chenyang Qi, Xiaodong Cun, Yong Zhang, Chenyang Lei, Xintao Wang, Ying Shan, Qifeng Chen. ICCV 2023 (Oral).\
++ **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** (16 Mar 2023)<details><summary>Chenyang Qi, Xiaodong Cun, Yong Zhang, et al.</summary>Chenyang Qi, Xiaodong Cun, Yong Zhang, Chenyang Lei, Xintao Wang, Ying Shan, Qifeng Chen. </details>ICCV 2023 (Oral).
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09535)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F14ccb8bcceb6de10eda6ad08bec242a4f2946497%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/FateZero%3A-Fusing-Attentions-for-Zero-shot-Video-Qi-Cun/14ccb8bcceb6de10eda6ad08bec242a4f2946497)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fate-zero-edit.github.io/)
@@ -1379,46 +1348,40 @@ Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel. arXiv 2023.\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://make-a-protagonist.github.io/)
 [![Code](https://img.shields.io/github/stars/HeliosZhao/Make-A-Protagonist.svg?style=social&label=Star)](https://github.com/HeliosZhao/Make-A-Protagonist)
 
-+ **ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing** (26 May 2023)
-Min Zhao, Rongzhen Wang, Fan Bao, Chongxuan Li, Jun Zhu. arXiv 2023.\
++ **ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing** (26 May 2023)<details><summary>Min Zhao, Rongzhen Wang, Fan Bao, et al.</summary>Min Zhao, Rongzhen Wang, Fan Bao, Chongxuan Li, Jun Zhu. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17098)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F14acc36d8c87f31f8dcbbf8433b91af70a2a516a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ControlVideo%3A-Conditional-Control-for-One-shot-and-Zhao-Wang/14acc36d8c87f31f8dcbbf8433b91af70a2a516a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ml.cs.tsinghua.edu.cn/controlvideo/)
 [![Code](https://img.shields.io/github/stars/thu-ml/controlvideo.svg?style=social&label=Star)](https://github.com/thu-ml/controlvideo)
 
-+ **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** (13 Jun 2023)\
-Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy. arXiv 2023.\
++ **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** (13 Jun 2023)<details><summary>Shuai Yang, Yifan Zhou, Ziwei Liu, et al.</summary>Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07954)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e09b83fe064826a9a1ac61a7bdc00f26be41aee%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Rerender-A-Video%3A-Zero-Shot-Text-Guided-Translation-Yang-Zhou/1e09b83fe064826a9a1ac61a7bdc00f26be41aee)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/rerender/)
 [![Code](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)](https://github.com/williamyang1991/Rerender_A_Video)
 
 
-+ **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** (19 Jul 2023) \
-Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel. arXiv 2023.\
++ **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** (19 Jul 2023) <details><summary>Michal Geyer, Omer Bar-Tal, Shai Bagon, et al.</summary>Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.10373)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4761f173965195798cd3046ef4af608a83504e4d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TokenFlow%3A-Consistent-Diffusion-Features-for-Video-Geyer-Bar-Tal/4761f173965195798cd3046ef4af608a83504e4d)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://diffusion-tokenflow.github.io/)
 [![Code](https://img.shields.io/github/stars/omerbt/TokenFlow.svg?style=social&label=Star)](https://github.com/omerbt/TokenFlow)
 
 
-+ **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** (15 Aug 2023) \
-Hao Ouyang, Qiuyu Wang, Yuxi Xiao, Qingyan Bai, Juntao Zhang, Kecheng Zheng, Xiaowei Zhou, Qifeng Chen, Yujun Shen. arXiv 2023.\
++ **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** (15 Aug 2023) <details><summary>Hao Ouyang, Qiuyu Wang, Yuxi Xiao, et al.</summary>Hao Ouyang, Qiuyu Wang, Yuxi Xiao, Qingyan Bai, Juntao Zhang, Kecheng Zheng, Xiaowei Zhou, Qifeng Chen. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07926)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc2d65fc3a7fde3f7662c6ef9448e5737d7e5551f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CoDeF%3A-Content-Deformation-Fields-for-Temporally-Hao-Wang/c2d65fc3a7fde3f7662c6ef9448e5737d7e5551f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://qiuyu96.github.io/CoDeF/)
 [![Code](https://img.shields.io/github/stars/qiuyu96/CoDeF.svg?style=social&label=Star)](https://github.com/qiuyu96/CoDeF)
 
 
-+ **StableVideo: Text-driven Consistency-aware Diffusion Video Editing** (18 Aug 2023)\
-Wenhao Chai, Xun Guo, Gaoang Wang, Yan Lu. ICCV 2023.\
++ **StableVideo: Text-driven Consistency-aware Diffusion Video Editing** (18 Aug 2023)<details><summary>Wenhao Chai, Xun Guo, Gaoang Wang, et al.</summary>Wenhao Chai, Xun Guo, Gaoang Wang, Yan Lu. </details>ICCV 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09592)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F05cbac9a5101f47a6fabad72398616506572c9fa%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/StableVideo%3A-Text-driven-Consistency-aware-Video-Chai-Guo/05cbac9a5101f47a6fabad72398616506572c9fa)
 [![Code](https://img.shields.io/github/stars/rese1f/StableVideo.svg?style=social&label=Star)](https://github.com/rese1f/StableVideo)
 
 
-+ **MagicEdit: High-Fidelity Temporally Coherent Video Editing** (28 Aug 2023) \
-Jun Hao Liew, Hanshu Yan, Jianfeng Zhang, Zhongcong Xu, Jiashi Feng. arXiv 2023.\
++ **MagicEdit: High-Fidelity Temporally Coherent Video Editing** (28 Aug 2023) <details><summary>Jun Hao Liew, Hanshu Yan, Jianfeng Zhang, et al.</summary>Jun Hao Liew, Hanshu Yan, Jianfeng Zhang, Zhongcong Xu, Jiashi Feng. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14749)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8819777e104f8c4197c262e11a01b070b50007aa%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MagicEdit%3A-High-Fidelity-and-Temporally-Coherent-Liew-Yan/8819777e104f8c4197c262e11a01b070b50007aa)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://magic-edit.github.io/)
@@ -1431,14 +1394,11 @@ Jun Hao Liew, Hanshu Yan, Jianfeng Zhang, Zhongcong Xu, Jiashi Feng. arXiv 2023.
 [![Code](https://img.shields.io/github/stars/mayuelala/MagicStick.svg?style=social&label=Star)](https://github.com/mayuelala/MagicStick)
 
 
-+ **LATENTWARP: CONSISTENT DIFFUSION LATENTS FOR ZERO-SHOT VIDEO-TO-VIDEO TRANSLATION** (1 Nov 2023)\
-Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei Yan. arXiv 2023.\
++ **LATENTWARP: CONSISTENT DIFFUSION LATENTS FOR ZERO-SHOT VIDEO-TO-VIDEO TRANSLATION** (1 Nov 2023)<details><summary>Yuxiang Bao, Di Qiu, Guoliang Kang, et al.</summary>Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei Yan. </details>arXiv 2023.
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00353)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b4323a5324ee20fe9b2ff2a65ec26550a51ec2c%3Ffields%3DcitationCount)](https://semanticscholar.org/paper/LatentWarp%3A-Consistent-Diffusion-Latents-for-Bao-Qiu/1b4323a5324ee20fe9b2ff2a65ec26550a51ec2c)
 <!-- [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://diffusion-tokenflow.github.io/) -->
 <!-- [![Code](https://img.shields.io/github/stars/omerbt/TokenFlow.svg?style=social&label=Star)](https://github.com/omerbt/TokenFlow) -->
-
-
 
 
 
