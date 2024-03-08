@@ -514,7 +514,7 @@ Rombach, Robin, et al. CVPR 2022 (Oral).\
 
 
 
-+ **[Im2Text] Describing Images Using 1 Million Captioned Photographs** (12 Dec 2011)<details>Vicente Ordonez Girish Kulkarni Tamara L Berg, NeurIPS 2011</details>
++ **[Im2Text] Describing Images Using 1 Million Captioned Photographs** (12 Dec 2011)<details><summary>Vicente Ordonez Girish Kulkarni Tamara L Berg, NeurIPS 2011</summary>Vicente Ordonez Girish Kulkarni Tamara L Berg</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://papers.nips.cc/paper_files/paper/2011/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8e080b98efbe65c02a116439205ca2344b9f7cd4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoDrafter%3A-Content-Consistent-Multi-Scene-Video-Long-Qiu/8e080b98efbe65c02a116439205ca2344b9f7cd4)
 
