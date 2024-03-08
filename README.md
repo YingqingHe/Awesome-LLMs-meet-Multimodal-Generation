@@ -916,150 +916,34 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 
 ### 🔅 LLM-based
 
-+ **Diffsound: Discrete Diffusion Model for Text-to-sound Generation** (Wed, 20 Jul 2022)<details><summary>[TASLP2022] Dongchao Yang, Jianwei Yu, Helin Wang, et al. </summary>Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.09983)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc036f75da24ba64a583e0b6d41c5b792347bffa6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffsound%3A-Discrete-Diffusion-Model-for-Generation-Yang-Yu/c036f75da24ba64a583e0b6d41c5b792347bffa6)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dongchaoyang.top/text-to-sound-synthesis-demo/)
-[![Code](https://img.shields.io/github/stars/yangdongchao/Text-to-sound-Synthesis.svg?style=social&label=Star)](https://github.com/yangdongchao/Text-to-sound-Synthesis)
++ **SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation** (27 Feb 2024)<details><summary>Shuangrui Ding, Zihan Liu, Xiaoyi Dong, et al.</summary>Shuangrui Ding, Zihan Liu, Xiaoyi Dong, Pan Zhang, Rui Qian, Conghui He, Dahua Lin, Jiaqi Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17645)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe7c8a74423a5811a3aac5f33001fce32d2e2386c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SongComposer%3A-A-Large-Language-Model-for-Lyric-and-Ding-Liu/e7c8a74423a5811a3aac5f33001fce32d2e2386c)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pjlab-songcomposer.github.io/)
+[![Code](https://img.shields.io/github/stars/pjlab-songcomposer/songcomposer.svg?style=social&label=Star)](https://github.com/pjlab-songcomposer/songcomposer)
 
-+ **Riffusion: Stable diffusion for real-time music generation** (2022)\
-Forsgren, Seth and Martiros, Hayk\
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.riffusion.com/)
++ **ChatMusician: Understanding and Generating Music Intrinsically with LLM** (25 Feb 2024)<details><summary>Ruibin Yuan, Hanfeng Lin, Yi Wang, et al.</summary>Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou, Ziyang Ma, Liumeng Xue, Ziyu Wang, Qin Liu, Tianyu Zheng, Yizhi Li, Yinghao Ma, Yiming Liang, Xiaowei Chi, Ruibo Liu, Zili Wang, Pengfei Li, Jingcheng Wu, Chenghua Lin, Qifeng Liu, Tao Jiang, Wenhao Huang, Wenhu Chen, Emmanouil Benetos, Jie Fu, Gus Xia, Roger Dannenberg, Wei Xue, Shiyin Kang, Yike Guo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.16153)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F48494aa30f35a64858644aba839c8cba38c0cf2a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ChatMusician%3A-Understanding-and-Generating-Music-Yuan-Lin/48494aa30f35a64858644aba839c8cba38c0cf2a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shanghaicannon.github.io/ChatMusician/)
+[![Code](https://img.shields.io/github/stars/hf-lin/ChatMusician.svg?style=social&label=Star)](https://github.com/hf-lin/ChatMusician)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/m-a-p/ChatMusician)
 
-+ **MusicLM: Generating Music From Text** (26 Jan 2023)<details><summary>Andrea Agostinelli, Timo I. Denk, Zalán Borsos, et al.</summary>Andrea Agostinelli, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco Tagliasacchi, Matt Sharifi, Neil Zeghidour, Christian Frank</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11325)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLM%3A-Generating-Music-From-Text-Agostinelli-Denk/428854d9e75f94f0e61f37c6887c77800437d516)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/musiclm/examples/)
++ **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling** (19 Feb 2024)<details><summary>Jun Zhan, Junqi Dai, Jiasheng Ye, et al.</summary>Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yugang Jiang, Xipeng Qiu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.12226)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F14191e9f12913ad8c7ac6e1188682afac04aad09%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AnyGPT%3A-Unified-Multimodal-LLM-with-Discrete-Zhan-Dai/14191e9f12913ad8c7ac6e1188682afac04aad09)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://junzhan2000.github.io/AnyGPT.github.io/)
+[![Code](https://img.shields.io/github/stars/OpenMOSS/AnyGPT.svg?style=social&label=Star)](https://github.com/OpenMOSS/AnyGPT)
 
-+ **Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion** (27 Jan 2023)<details><summary>Flavio Schneider, Ojasv Kamal, Zhijing Jin, et al.</summary>Flavio Schneider, Ojasv Kamal, Zhijing Jin, Bernhard Schölkopf</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11757)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5eb040156adf687d7b9a97b3b16f6f243a1a514%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mo%5C%5Eusai%3A-Text-to-Music-Generation-with-Latent-Schneider-Kamal/c5eb040156adf687d7b9a97b3b16f6f243a1a514)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://diligent-pansy-4cb.notion.site/Music-Generation-with-Diffusion-ebe6e9e528984fa1b226d408f6002d87)
-[![Code](https://img.shields.io/github/stars/archinetai/audio-diffusion-pytorch.svg?style=social&label=Star)](https://github.com/archinetai/audio-diffusion-pytorch)
++ **Boosting Large Language Model for Speech Synthesis: An Empirical Study** (30 Dec 2023)<details><summary>Hongkun Hao, Long Zhou, Shujie Liu, et al.</summary>Hongkun Hao, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.00246)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc1dd77e48dd615ee6881b2cc876a00a92cae6eac%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Boosting-Large-Language-Model-for-Speech-Synthesis%3A-Hao-Zhou/c1dd77e48dd615ee6881b2cc876a00a92cae6eac)
 
-+ **Audioldm: Text-to-audio generation with latent diffusion models** (29 Jan 2023)<details><summary>Haohe Liu, Zehua Chen, Yi Yuan, et al.</summary>Haohe Liu, Zehua Chen, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.12503)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffa0f3d8aa20e8987dbc7a516d5399cfa3dc97b1b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioLDM%3A-Text-to-Audio-Generation-with-Latent-Liu-Chen/fa0f3d8aa20e8987dbc7a516d5399cfa3dc97b1b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audioldm.github.io)
-[![Code](https://img.shields.io/github/stars/haoheliu/audioldm2.svg?style=social&label=Star)](https://github.com/haoheliu/audioldm2)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation)
-
-+ **Make-an-audio: Text-to-audio generation with prompt-enhanced diffusion models** (30 Jan 2023)<details><summary>Rongjie Huang, Jiawei Huang, Dongchao Yang, et al.</summary>Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, Luping Liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.12661)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6d1433f3342fbee85ad1e2809e62734aec5c3853%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Make-An-Audio%3A-Text-To-Audio-Generation-with-Models-Huang-Huang/6d1433f3342fbee85ad1e2809e62734aec5c3853)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://text-to-audio.github.io/)
-[![Code](https://img.shields.io/github/stars/Text-to-Audio/Make-An-Audio.svg?style=social&label=Star)](https://github.com/Text-to-Audio/Make-An-Audio)
-
-+ **Noise2music: Text-conditioned music generation with diffusion models** (8 Feb 2023)<details><summary>Qingqing Huang, Daniel S. Park, Tao Wang, et al.</summary>Qingqing Huang, Daniel S. Park, Tao Wang, Timo I. Denk, Andy Ly, Nanxin Chen, Zhengdong Zhang, Zhishuai Zhang, Jiahui Yu, Christian Frank, Jesse Engel, Quoc V. Le, William Chan, Zhifeng Chen, Wei Han</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.03917)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F02540ae926814f4b7972d3fa4dd33932fdc4b58b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Noise2Music%3A-Text-conditioned-Music-Generation-with-Huang-Park/02540ae926814f4b7972d3fa4dd33932fdc4b58b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/noise2music/)
-
-+ **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** (24 Apr 2023)<details><summary>Deepanway Ghosal, Navonil Majumder, Ambuj Mehrish, et al.</summary>Deepanway Ghosal, Navonil Majumder, Ambuj Mehrish, Soujanya Poria</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.13731)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff51bc74814a3452009ea5ca262d9768d08149ee6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text-to-Audio-Generation-using-Instruction-Tuned-Ghosal-Majumder/f51bc74814a3452009ea5ca262d9768d08149ee6)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tango-web.github.io/)
-[![Code](https://img.shields.io/github/stars/declare-lab/tango.svg?style=social&label=Star)](https://github.com/declare-lab/tango)
-
-+ **Audiogpt: Understanding and generating speech, music, sound, and talking head** (25 Apr 2023)<details><summary>Rongjie Huang, Mingze Li, Dongchao Yang, et al.</summary>Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12995)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8bc617c9139648d7a92991d70c671230bac7b2e2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGPT%3A-Understanding-and-Generating-Speech%2C-and-Huang-Li/8bc617c9139648d7a92991d70c671230bac7b2e2)
-[![Code](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)](https://github.com/AIGC-Audio/AudioGPT)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
-
-+ **Listen, Think, and Understand** (18 May 2023)<details><summary>Yuan Gong, Hongyin Luo, Alexander H. Liu, et al.</summary>Yuan Gong, Hongyin Luo, Alexander H. Liu, Leonid Karlinsky, James Glass</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10790)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4bb0b12803791764d641a4cef1e0ce39cf049542%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Listen%2C-Think%2C-and-Understand-Gong-Luo/4bb0b12803791764d641a4cef1e0ce39cf049542)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/yuangongfdu/LTU)
-
-+ **Efficient neural music generation** (25 May 2023)<details><summary>Max W. Y. Lam, Qiao Tian, Tang Li, et al.</summary>Max W. Y. Lam, Qiao Tian, Tang Li, Zongyu Yin, Siyuan Feng, Ming Tu, Yuliang Ji, Rui Xia, Mingbo Ma, Xuchen Song, Jitong Chen, Yuping Wang, Yuxuan Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15719)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F38b93d01e08ab19ada89a40051a1ed4309fbe834%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Efficient-Neural-Music-Generation-Lam-Tian/38b93d01e08ab19ada89a40051a1ed4309fbe834)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://efficient-melody.github.io/)
-
-+ **Make-An-Audio 2: Temporal-Enhanced Text-to-Audio Generation** (29 May 2023)<details><summary>Jiawei Huang, Yi Ren, Rongjie Huang, et al.</summary>Jiawei Huang, Yi Ren, Rongjie Huang, Dongchao Yang, Zhenhui Ye, Chen Zhang, Jinglin Liu, Xiang Yin, Zejun Ma, Zhou Zhao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18474)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83d4b22d803ae856cf6b308482bd504fa151d39e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Make-An-Audio-2%3A-Temporal-Enhanced-Text-to-Audio-Huang-Ren/83d4b22d803ae856cf6b308482bd504fa151d39e)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://make-an-audio-2.github.io/)
-
-+ **MuseCoco: Generating Symbolic Music from Text** (31 May 2023)<details><summary>Peiling Lu, Xin Xu, Chenfei Kang, et al.</summary>Peiling Lu, Xin Xu, Chenfei Kang, Botao Yu, Chengyi Xing, Xu Tan, Jiang Bian</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00110)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa559acac0e84319d62cefd564a5eecbf9d566ec4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MuseCoco%3A-Generating-Symbolic-Music-from-Text-Lu-Xu/a559acac0e84319d62cefd564a5eecbf9d566ec4)
-[![Code](https://img.shields.io/github/stars/microsoft/muzic/tree/main/musecoco.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musecoco)
-
-+ **Simple and Controllable Music Generation** (8 Jun 2023)<details><summary>Jade Copet, Felix Kreuk, Itai Gat, et al.</summary>Jade Copet, Felix Kreuk, Itai Gat, Tal Remez, David Kant, Gabriel Synnaeve, Yossi Adi, Alexandre Défossez</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05284)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Simple-and-Controllable-Music-Generation-Copet-Kreuk/4cc8e18f5eece0b0d8e1abcb8ee10fb33680fbb2)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ai.honu.io/papers/musicgen/)
-[![Code](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)](https://github.com/facebookresearch/audiocraft)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/facebook/MusicGen)
-
-+ **AudioPaLM: A Large Language Model That Can Speak and Listen** (22 Jun 2023)<details><summary>Paul K. Rubenstein, Chulayuth Asawaroengchai, Duc Dung Nguyen, et al.</summary>Paul K. Rubenstein, Chulayuth Asawaroengchai, Duc Dung Nguyen, Ankur Bapna, Zalán Borsos, Félix de Chaumont Quitry, Peter Chen, Dalia El Badawy, Wei Han, Eugene Kharitonov, Hannah Muckenhirn, Dirk Padfield, James Qin, Danny Rozenberg, Tara Sainath, Johan Schalkwyk, Matt Sharifi, Michelle Tadmor Ramanovich, Marco Tagliasacchi, Alexandru Tudor, Mihajlo Velimirović, Damien Vincent, Jiahui Yu, Yongqiang Wang, Vicky Zayats, Neil Zeghidour, Yu Zhang, Zhishuai Zhang, Lukas Zilka, Christian Frank</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12925)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3efb81de24eb88017d6dbcf22cb4215084223fd8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioPaLM%3A-A-Large-Language-Model-That-Can-Speak-Rubenstein-Asawaroengchai/3efb81de24eb88017d6dbcf22cb4215084223fd8)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/audiopalm/examples/)
-
-+ **Wavjourney: Compositional audio creation with large language models** (26 Jul 2023)<details><summary>Xubo Liu, Zhongkai Zhu, Haohe Liu, et al.</summary>Xubo Liu, Zhongkai Zhu, Haohe Liu, Yi Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Qiuqiang Kong, Mark D. Plumbley, Wenwu Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14335)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faa7bcd1f9453c9096ec78900a7b94e816ed0e1c5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/WavJourney%3A-Compositional-Audio-Creation-with-Large-Liu-Zhu/aa7bcd1f9453c9096ec78900a7b94e816ed0e1c5)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audio-agi.github.io/WavJourney_demopage/)
-[![Code](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)](https://github.com/Audio-AGI/WavJourney)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Audio-AGI/WavJourney)
-
-+ **MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies** (3 Aug 2023)<details><summary>Ke Chen, Yusong Wu, Haohe Liu, et al.</summary>Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, Shlomo Dubnov</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.01546)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F464edfd902f652d3ab6a25dbb6d9fa47cc3246a9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLDM%3A-Enhancing-Novelty-in-Text-to-Music-Using-Chen-Wu/464edfd902f652d3ab6a25dbb6d9fa47cc3246a9)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musicldm.github.io/)
-[![Code](https://img.shields.io/github/stars/RetroCirce/MusicLDM/.svg?style=social&label=Star)](https://github.com/RetroCirce/MusicLDM/)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/ucsd-reach/musicldm)
-
-+ **Jen-1: Text-guided universal music generation with omnidirectional diffusion models** (9 Aug 2023)<details><summary>Peike Li, Boyu Chen, Yao Yao, et al.</summary>Peike Li, Boyu Chen, Yao Yao, Yikai Wang, Allen Wang, Alex Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.04729)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F880bf72f9e2c6a99a759d3be702046e57ce2b423%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/JEN-1%3A-Text-Guided-Universal-Music-Generation-with-Li-Chen/880bf72f9e2c6a99a759d3be702046e57ce2b423)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.futureverse.com/research/jen/demos/jen1)
-
-+ **AudioLDM 2: Learning holistic audio generation with self-supervised pretraining** (10 Aug 2023)<details><summary>Haohe Liu, Qiao Tian, Yi Yuan, et al.</summary>Haohe Liu, Qiao Tian, Yi Yuan, Xubo Liu, Xinhao Mei, Qiuqiang Kong, Yuping Wang, Wenwu Wang, Yuxuan Wang, Mark D. Plumbley</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05734)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F33de773be1733347a01cb07a5bb1b6cdfa956a47%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioLDM-2%3A-Learning-Holistic-Audio-Generation-with-Liu-Tian/33de773be1733347a01cb07a5bb1b6cdfa956a47)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audioldm.github.io/audioldm2/)
-[![Code](https://img.shields.io/github/stars/haoheliu/audioldm2.svg?style=social&label=Star)](https://github.com/haoheliu/audioldm2)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music)
-
-+ **Music understanding LLaMA: Advancing text-to-music generation with question answering and captioning** (22 Aug 2023)<details><summary>Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, et al.</summary>Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, Ying Shan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11276)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa33b437618be733fea7176bd98e18b6362af0838%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Music-Understanding-LLaMA%3A-Advancing-Text-to-Music-Liu-Hussain/a33b437618be733fea7176bd98e18b6362af0838)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://crypto-code.github.io/MU-LLaMA-Demo/)
-[![Code](https://img.shields.io/github/stars/crypto-code/MU-LLaMA.svg?style=social&label=Star)](https://github.com/crypto-code/MU-LLaMA)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/mu-llama/MusicQA)
-
-+ **Audiogen: Textually guided audio generation** (30 Sep 2022)<details><summary>[ICLR 2022] Felix Kreuk, Gabriel Synnaeve, Adam Polyak, et al.</summary>Felix Kreuk, Gabriel Synnaeve, Adam Polyak, Uriel Singer, Alexandre Défossez, Jade Copet, Devi Parikh, Yaniv Taigman, Yossi Adi</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.15352)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Febb85974e06c4879b451fdfcb4f472a09471935b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGen%3A-Textually-Guided-Audio-Generation-Kreuk-Synnaeve/ebb85974e06c4879b451fdfcb4f472a09471935b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://felixkreuk.github.io/audiogen/)
-
-+ **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (18 Oct 2023)<details><summary>Dingyao Yu, Kaitao Song, Peiling Lu, et al.</summary>Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, Wei Ye, Shikun Zhang, Jiang Bian</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11954)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbeaf64df85f8204b8cd89a7f46827608e6d16922%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicAgent%3A-An-AI-Agent-for-Music-Understanding-and-Yu-Song/beaf64df85f8204b8cd89a7f46827608e6d16922)
-[![Code](https://img.shields.io/github/stars/microsoft/muzic/tree/main/musicagent.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
-
-+ **JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation** (29 Oct 2023)<details><summary>Yao Yao, Peike Li, Boyu Chen, et al.</summary>Yao Yao, Peike Li, Boyu Chen, Alex Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19180)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F53612c6896c680c9113f967d4c2dae908dd10bfe%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/JEN-1-Composer%3A-A-Unified-Framework-for-Multi-Track-Yao-Li/53612c6896c680c9113f967d4c2dae908dd10bfe)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.jenmusic.ai/audio-demos)
-
-+ **Controllable Music Production with Diffusion Models and Guidance Gradients** (1 Nov 2023)<details><summary>[NeurIPS 2023] Mark Levy, Bruno Di Giorgi, Floris Weers, et al. </summary>Mark Levy, Bruno Di Giorgi, Floris Weers, Angelos Katharopoulos, Tom Nickson</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00613)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F87e36f66b0c28ca7a327257ccb00282bdf7fe7d5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Controllable-Music-Production-with-Diffusion-Models-Levy-Giorgi/87e36f66b0c28ca7a327257ccb00282bdf7fe7d5)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://machinelearning.apple.com/research/controllable-music)
-
-+ **Music ControlNet: Multiple Time-varying Controls for Music Generation** (13 Nov 2023)<details><summary>Shih-Lun Wu, Chris Donahue, Shinji Watanabe, et al.</summary>Shih-Lun Wu, Chris Donahue, Shinji Watanabe, Nicholas J. Bryan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07069)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42239e71a712d70cd24e06ffc0cf0d22fc628a36%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Music-ControlNet%3A-Multiple-Time-varying-Controls-Wu-Donahue/42239e71a712d70cd24e06ffc0cf0d22fc628a36)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://musiccontrolnet.github.io/web/)
-
-+ **Mustango: Toward Controllable Text-to-Music Generation** (14 Nov 2023)<details><summary>Jan Melechovsky, Zixun Guo, Deepanway Ghosal, et al.</summary>Jan Melechovsky, Zixun Guo, Deepanway Ghosal, Navonil Majumder, Dorien Herremans, Soujanya Poria</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.08355)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26d51f1353353fc4e87d8cb2db0caf255e9ee434%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Mustango%3A-Toward-Controllable-Text-to-Music-Melechovsk%C3%BD-Guo/26d51f1353353fc4e87d8cb2db0caf255e9ee434)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://amaai-lab.github.io/mustango/)
-[![Code](https://img.shields.io/github/stars/amaai-lab/mustango.svg?style=social&label=Star)](https://github.com/amaai-lab/mustango)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/declare-lab/mustango)
++ **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action** (28 Dec 2023)<details><summary>Jiasen Lu, Christopher Clark, Sangho Lee, et al.</summary>Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.17172)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6c64ddd2190909de2c680dd18abc9b92e80c39f9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Unified-IO-2%3A-Scaling-Autoregressive-Multimodal-and-Lu-Clark/6c64ddd2190909de2c680dd18abc9b92e80c39f9)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://unified-io-2.allenai.org/)
+[![Code](https://img.shields.io/github/stars/allenai/unified-io-2.svg?style=social&label=Star)](https://github.com/allenai/unified-io-2)
 
 + **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** (19 Nov 2023)<details><summary>Atin Sakkeer Hussain, Shansong Liu, Chenshuo Sun, et al.</summary>Atin Sakkeer Hussain, Shansong Liu, Chenshuo Sun, Ying Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11255)
@@ -1068,13 +952,38 @@ Forsgren, Seth and Martiros, Hayk\
 [![Code](https://img.shields.io/github/stars/shansongliu/M2UGen.svg?style=social&label=Star)](https://github.com/shansongliu/M2UGen)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/M2UGen/M2UGen-Demo)
 
-+ **Audiobox: Unified Audio Generation with Natural Language Prompts** (25 Dec 2023)\
-Apoorv Vyas, Bowen Shi, Matthew Le\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15821)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff124ae1e4663359193be32adb37b07b3252d5329%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Audiobox%3A-Unified-Audio-Generation-with-Natural-Vyas-Shi/f124ae1e4663359193be32adb37b07b3252d5329)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://audiobox.metademolab.com/)
-[![Code](https://img.shields.io/github/stars/.svg?style=social&label=Star)]()
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://audiobox.metademolab.com/capabilities)
++ **LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT** (7 Oct 2023)<details><summary>Jiaming Wang, Zhihao Du, Qian Chen, et al.</summary>Jiaming Wang, Zhihao Du, Qian Chen, Yunfei Chu, Zhifu Gao, Zerui Li, Kai Hu, Xiaohuan Zhou, Jin Xu, Ziyang Ma, Wen Wang, Siqi Zheng, Chang Zhou, Zhijie Yan, Shiliang Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.04673)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fffa05cb5504ba08254f498223f613b3ebcf87692%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LauraGPT%3A-Listen%2C-Attend%2C-Understand%2C-and-Audio-GPT-Wang-Du/ffa05cb5504ba08254f498223f613b3ebcf87692)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lauragpt.github.io/)
+
++ **LLaSM: Large Language and Speech Model** (30 Aug 2023)<details><summary>Yu Shu, Siwei Dong, Guangyao Chen, et al.</summary>Yu Shu, Siwei Dong, Guangyao Chen, Wenhao Huang, Ruihua Zhang, Daochen Shi, Qiqi Xiang, Yemin Shi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15930)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b22ecd9f1ced58c1704ac6191e029b98054e330%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLaSM%3A-Large-Language-and-Speech-Model-Shu-Dong/7b22ecd9f1ced58c1704ac6191e029b98054e330)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://huggingface.co/spaces/LinkSoul/LLaSM)
+[![Code](https://img.shields.io/github/stars/LinkSoul-AI/LLaSM.svg?style=social&label=Star)](https://github.com/LinkSoul-AI/LLaSM)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/LinkSoul/LLaSM)
+
++ **AudioPaLM: A Large Language Model That Can Speak and Listen** (22 Jun 2023)<details><summary>Paul K. Rubenstein, Chulayuth Asawaroengchai, Duc Dung Nguyen, et al.</summary>Paul K. Rubenstein, Chulayuth Asawaroengchai, Duc Dung Nguyen, Ankur Bapna, Zalán Borsos, Félix de Chaumont Quitry, Peter Chen, Dalia El Badawy, Wei Han, Eugene Kharitonov, Hannah Muckenhirn, Dirk Padfield, James Qin, Danny Rozenberg, Tara Sainath, Johan Schalkwyk, Matt Sharifi, Michelle Tadmor Ramanovich, Marco Tagliasacchi, Alexandru Tudor, Mihajlo Velimirović, Damien Vincent, Jiahui Yu, Yongqiang Wang, Vicky Zayats, Neil Zeghidour, Yu Zhang, Zhishuai Zhang, Lukas Zilka, Christian Frank</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12925)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3efb81de24eb88017d6dbcf22cb4215084223fd8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioPaLM%3A-A-Large-Language-Model-That-Can-Speak-Rubenstein-Asawaroengchai/3efb81de24eb88017d6dbcf22cb4215084223fd8)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/audiopalm/examples/)
+
++ **Pengi: An Audio Language Model for Audio Tasks** (19 May 2023)<details><summary>Soham Deshmukh, Benjamin Elizalde, Rita Singh, et al.</summary>Soham Deshmukh, Benjamin Elizalde, Rita Singh, Huaming Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11834)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fad22af138fa1d1490cda0301abf8159a7c30c5a2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Pengi%3A-An-Audio-Language-Model-for-Audio-Tasks-Deshmukh-Elizalde/ad22af138fa1d1490cda0301abf8159a7c30c5a2)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/microsoft/Pengi)
+[![Code](https://img.shields.io/github/stars/microsoft/Pengi.svg?style=social&label=Star)](https://github.com/microsoft/Pengi)
+
++ **Speechgpt: Empowering large language models with intrinsic cross-modal conversational abilities** (18 May 2023)<details><summary>Dong Zhang, Shimin Li, Xin Zhang, et al.</summary>Dong Zhang, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, Xipeng Qiu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11000)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5cac6430bd379c9d2fe13137dfd6ae7721a2679f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SpeechGPT%3A-Empowering-Large-Language-Models-with-Zhang-Li/5cac6430bd379c9d2fe13137dfd6ae7721a2679f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://0nutation.github.io/SpeechGPT.github.io/)
+[![Code](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)](https://github.com/0nutation/SpeechGPT)
+
++ **Sparks of Artificial General Intelligence: Early experiments with GPT-4** (22 Mar 2023)<details><summary>Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, et al.</summary>Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12712)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F574beee702be3856d60aa482ec725168fe64fc99%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Sparks-of-Artificial-General-Intelligence%3A-Early-Bubeck-Chandrasekaran/574beee702be3856d60aa482ec725168fe64fc99)
 
 ### Non-LLM-based
 
