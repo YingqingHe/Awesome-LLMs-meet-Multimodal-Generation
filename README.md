@@ -1585,7 +1585,7 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 [![Code](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-VL)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://modelscope.cn/studios/qwen/Qwen-VL-Chat-Demo/summary)
 
-+ **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks** (18 May 2023)<details><summary>Wenhai Wang, Zhe Chen, Xiaokang Chen, et al. NeurIPS 2023.</summary>Wenhai Wang, Zhe Chen, Xiaokang Chen, Jiannan Wu, Xizhou Zhu, Gang Zeng, Ping Luo, Tong Lu, Jie Zhou, Yu Qiao, Jifeng Dai</details>
++ **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks** (18 May 2023)<details><summary>[NeurIPS 2023] Wenhai Wang, Zhe Chen, Xiaokang Chen, et al.</summary>Wenhai Wang, Zhe Chen, Xiaokang Chen, Jiannan Wu, Xizhou Zhu, Gang Zeng, Ping Luo, Tong Lu, Jie Zhou, Yu Qiao, Jifeng Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11175)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F42a30dc5470f54ec249f25d3c31e05d7c376c8e3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VisionLLM%3A-Large-Language-Model-is-also-an-Decoder-Wang-Chen/42a30dc5470f54ec249f25d3c31e05d7c376c8e3)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/VisionLLM)
@@ -1603,7 +1603,7 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 [![Code](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2)
 
-+ **Visual Instruction Tuning** (17 Apr 2023)<details><summary>Liu, Haotian, et al. NeurIPS 2023 (Oral).</summary>Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee</details>
++ **Visual Instruction Tuning** (17 Apr 2023)<details><summary>[NeurIPS 2023 (Oral)] Liu, Haotian, et al.</summary>Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08485)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1a8eb2cae1833df3bf12fe3b41b03d60b4a4a98d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Visual-Instruction-Tuning-Liu-Li/1a8eb2cae1833df3bf12fe3b41b03d60b4a4a98d)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llava-vl.github.io/)
@@ -1709,17 +1709,17 @@ Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14074)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5edf706467dc76cd09319592d18db0ad4e1fb64d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LiDAR-LLM%3A-Exploring-the-Potential-of-Large-Models-Yang-Liu/5edf706467dc76cd09319592d18db0ad4e1fb64d)
 
-+ **3D-LLM: Injecting the 3D World into Large Language Models** (24 Jul 2023)<details><summary>Yining Hong, Haoyu Zhen, Peihao Chen, et al. (NeurIPS 2023 Spotlight)</summary>Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan</details>
++ **3D-LLM: Injecting the 3D World into Large Language Models** (24 Jul 2023)<details><summary>[NeurIPS 2023 Spotlight] Yining Hong, Haoyu Zhen, Peihao Chen, et al.</summary>Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.12981)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7637ed79d30d0139901175ae4abedd822c217ab4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/3D-LLM%3A-Injecting-the-3D-World-into-Large-Language-Hong-Zhen/7637ed79d30d0139901175ae4abedd822c217ab4)
 [![Code](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM.svg?style=social&label=Star)](https://github.com/UMass-Foundation-Model/3D-LLM)
 
-+ **PointLLM: Empowering Large Language Models to Understand Point Clouds** (31 Aug 2023)<details><summary>Runsen Xu, Xiaolong Wang, Tai Wang, et al. (NeurIPS 2023 Spotlight)</summary>Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin</details>
++ **PointLLM: Empowering Large Language Models to Understand Point Clouds** (31 Aug 2023)<details><summary>[NeurIPS 2023 Spotlight] Runsen Xu, Xiaolong Wang, Tai Wang, et al.</summary>Runsen Xu, Xiaolong Wang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2308.16911.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6bcc6ab9c28805d4067e99b2cdc7524550fe80e1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PointLLM%3A-Empowering-Large-Language-Models-to-Point-Xu-Wang/6bcc6ab9c28805d4067e99b2cdc7524550fe80e1)
 [![Code](https://img.shields.io/github/stars/OpenRobotLab/PointLLM.svg?style=social&label=Star)](https://github.com/OpenRobotLab/PointLLM)
 
-+ **PointCLIP: Point Cloud Understanding by CLIP** (31 Aug 2023)<details><summary>Renrui Zhang, Ziyu Guo, Wei Zhang,, et al. (CVPR2022)</summary>Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li</details>
++ **PointCLIP: Point Cloud Understanding by CLIP** (31 Aug 2023)<details><summary>[CVPR 2022] Renrui Zhang, Ziyu Guo, Wei Zhang,, et al. </summary>Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2112.02413.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PointCLIP%3A-Point-Cloud-Understanding-by-CLIP-Zhang-Guo/f3ce9ba3fcec362b70263a7ed63d9404975496a0)
 [![Code](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP.svg?style=social&label=Star)](https://github.com/ZrrSkywalker/PointCLIP)
@@ -1963,7 +1963,7 @@ Minh-Hao Van, Xintao Wu\
 [![Code](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 
-+ **Multimodal Large Language Models: A Survey** (22 Nov 2023)<details><summary>Jiayang Wu, Wensheng Gan, Zefeng Chen, et al. [IEEE BigData 2023]</summary>Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, Philip S. Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13165)
++ **Multimodal Large Language Models: A Survey** (22 Nov 2023)<details><summary>[IEEE BigData 2023] Jiayang Wu, Wensheng Gan, Zefeng Chen, et al.</summary>Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, Philip S. Yu</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13165)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F52941cadbd340344f3e0a6f50719fe55b3de5088%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Multimodal-Large-Language-Models%3A-A-Survey-Wu-Gan/52941cadbd340344f3e0a6f50719fe55b3de5088)
 
 
@@ -1979,6 +1979,6 @@ Minh-Hao Van, Xintao Wu\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6487ec82f6d8082a5b402a5416ea03009acb1679%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/State-of-the-Art-on-Diffusion-Models-for-Visual-Po-Yifan/6487ec82f6d8082a5b402a5416ea03009acb1679)
 [![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
 
-+ **Diffusion Models in Vision: A Survey** (10 Sep 2022)<details><summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, et al. [TPAMI 2023]</summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
++ **Diffusion Models in Vision: A Survey** (10 Sep 2022)<details><summary>[TPAMI 2023] Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, et al. </summary>Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffusion-Models-in-Vision%3A-A-Survey-Croitoru-Hondru/efa1647594b236361610a20d507127f0586a379b)
 [![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
