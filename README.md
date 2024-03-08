@@ -1385,42 +1385,42 @@ Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11974)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf7f31e07d9b128a0f555c275bc3fdb851f725b8%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blending-NeRF%3A-Text-Driven-Localized-Editing-in-Song-Choi/bf7f31e07d9b128a0f555c275bc3fdb851f725b8)
 
-+ **SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field** (23 Mar 2023)<details><summary>Chong Bao, Yinda Zhang, Bangbang Yang, et al. (CVPR 2023)</summary>Chong Bao, Yinda Zhang, Bangbang Yang, Tianxing Fan, Zesong Yang, Hujun Bao, Guofeng Zhang, Zhaopeng Cui</details>
++ **SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field** (23 Mar 2023)<details><summary>[CVPR 2023] Chong Bao, Yinda Zhang, Bangbang Yang, et al.</summary>Chong Bao, Yinda Zhang, Bangbang Yang, Tianxing Fan, Zesong Yang, Hujun Bao, Guofeng Zhang, Zhaopeng Cui</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13277)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F222c47b81fe04598fd84fe8b9a43f694415ec7e9%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SINE%3A-Semantic-driven-Image-based-NeRF-Editing-with-Bao-Zhang/222c47b81fe04598fd84fe8b9a43f694415ec7e9)
 [![Code](https://img.shields.io/github/stars/zju3dv/SINE?style=social&label=Star)](https://github.com/zju3dv/SINE)
 
-+ **TextDeformer: Geometry Manipulation using Text Guidance** (26 Apr 2023)<details><summary>William Gao, Noam Aigerman, Thibault Groueix, et al. (TVCG 2022)</summary>William Gao, Noam Aigerman, Thibault Groueix, Vladimir G. Kim, Rana Hanocka</details>
++ **TextDeformer: Geometry Manipulation using Text Guidance** (26 Apr 2023)<details><summary> [TVCG 2022] William Gao, Noam Aigerman, Thibault Groueix, et al.</summary>William Gao, Noam Aigerman, Thibault Groueix, Vladimir G. Kim, Rana Hanocka</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.13348)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4974186c3b5b50112cfd909de115d5fbe25411fd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TextDeformer%3A-Geometry-Manipulation-using-Text-Gao-Aigerman/4974186c3b5b50112cfd909de115d5fbe25411fd)
 [![Code](https://img.shields.io/github/stars/threedle/TextDeformer.svg?style=social&label=Star)](https://github.com/threedle/TextDeformer)
 
-+ **Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions** (22 Mar 2023)<details><summary>Ayaan Haque, Matthew Tancik, Alexei A. Efros, et al. (SIGGRAPH Asia 2023)</summary>Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa</details>
++ **Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions** (22 Mar 2023)<details><summary>[SIGGRAPH Asia 2023] Ayaan Haque, Matthew Tancik, Alexei A. Efros, et al. </summary>Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12789)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26c22380282a00166273038bc5ba785d845d61ad%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Instruct-NeRF2NeRF%3A-Editing-3D-Scenes-with-Haque-Tancik/26c22380282a00166273038bc5ba785d845d61ad)
 [![Code](https://img.shields.io/github/stars/ayaanzhaque/instruct-nerf2nerf.svg?style=social&label=Star)](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 
-+ **DreamEditor: Text-Driven 3D Scene Editing with Neural Fields** (23 Jun 2023)<details><summary>Jingyu Zhuang, Chen Wang, Lingjie Liu, et al. (SIGGRAPH Asia 2023)</summary>Jingyu Zhuang, Chen Wang, Lingjie Liu, Liang Lin, Guanbin Li</details>
++ **DreamEditor: Text-Driven 3D Scene Editing with Neural Fields** (23 Jun 2023)<details><summary>[SIGGRAPH Asia 2023] Jingyu Zhuang, Chen Wang, Lingjie Liu, et al. </summary>Jingyu Zhuang, Chen Wang, Lingjie Liu, Liang Lin, Guanbin Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.13455)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F029f3e2c215edac138be26ade67b3d70b8f74dd7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamEditor%3A-Text-Driven-3D-Scene-Editing-with-Zhuang-Wang/029f3e2c215edac138be26ade67b3d70b8f74dd7)
 [![Code](https://img.shields.io/github/stars/zjy526223908/DreamEditor.svg?style=social&label=Star)](https://github.com/zjy526223908/DreamEditor)
 
-+ **SKED: Sketch-guided Text-based 3D Editing** (19 Mar 2023)<details><summary>Aryan Mikaeili, Or Perel, Mehdi Safaee, et al. (ICCV 2023)</summary>Aryan Mikaeili, Or Perel, Mehdi Safaee, Daniel Cohen-Or, Ali Mahdavi-Amiri</details>
++ **SKED: Sketch-guided Text-based 3D Editing** (19 Mar 2023)<details><summary>[ICCV 2023] Aryan Mikaeili, Or Perel, Mehdi Safaee, et al.</summary>Aryan Mikaeili, Or Perel, Mehdi Safaee, Daniel Cohen-Or, Ali Mahdavi-Amiri</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.10735)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6ebec1ece44daa090158ff2531d6fabb94a4e683%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SKED%3A-Sketch-guided-Text-based-3D-Editing-Mikaeili-Perel/6ebec1ece44daa090158ff2531d6fabb94a4e683)
 [![Code](https://img.shields.io/github/stars/aryanmikaeili/SKED.svg?style=social&label=Star)](https://github.com/aryanmikaeili/SKED)
 
-+ **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields** (22 Jun 2023)<details><summary>Ori Gordon, Omri Avrahami, Dani Lischinski. (ICCVW 2023)</summary>Ori Gordon, Omri Avrahami, Dani Lischinski</details>
++ **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields** (22 Jun 2023)<details><summary>[ICCVW 2023] Ori Gordon, Omri Avrahami, Dani Lischinski.</summary>Ori Gordon, Omri Avrahami, Dani Lischinski</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12760)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3a5d4352d3dd53148a9544233bb59f88d2504910%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Blended-NeRF%3A-Zero-Shot-Object-Generation-and-in-Gordon-Avrahami/3a5d4352d3dd53148a9544233bb59f88d2504910)
 
 
-+ **ClipFace: Text-guided Editing of Textured 3D Morphable Modelssting Neural Radiance Fields** (2 Dec 2022)<details><summary>Shivangi Aneja, Justus Thies, Angela Dai, et al. (SIGGRAPH 2023)</summary>Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nießner</details>
++ **ClipFace: Text-guided Editing of Textured 3D Morphable Modelssting Neural Radiance Fields** (2 Dec 2022)<details><summary>[SIGGRAPH 2023] Shivangi Aneja, Justus Thies, Angela Dai, et al. </summary>Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nießner</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.01406)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff21e8eddf42580d1f38a11ec5acd8891c0454a1f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ClipFace%3A-Text-guided-Editing-of-Textured-3D-Models-Aneja-Thies/f21e8eddf42580d1f38a11ec5acd8891c0454a1f)
 [![Code](https://img.shields.io/github/stars/cassiePython/CLIPNeRF.svg?style=social&label=Star)](https://github.com/cassiePython/CLIPNeRF)
 
-+ **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fieldsadiance Fields** (9 Dec 2021)<details><summary>Can Wang, Menglei Chai, Mingming He, et al. (CVPR 2022)</summary>Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao</details>
++ **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fieldsadiance Fields** (9 Dec 2021)<details><summary>[CVPR 2022] Can Wang, Menglei Chai, Mingming He, et al. </summary>Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.05139)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0483be6c3ec6cd41ffe248f86effc7468d3ac7be%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CLIP-NeRF%3A-Text-and-Image-Driven-Manipulation-of-Wang-Chai/0483be6c3ec6cd41ffe248f86effc7468d3ac7be)
 [![Code](https://img.shields.io/github/stars/shivangi-aneja/ClipFace.svg?style=social&label=Star)](https://github.com/shivangi-aneja/ClipFace)
