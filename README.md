@@ -92,7 +92,7 @@
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VL-GPT.svg?style=social&label=Star)](https://github.com/AILab-CVC/VL-GPT)
 
 
-+ **StoryGPT-V: Large Language Models as Consistent Story Visualizers** (13 Dec 2023)<details>Xiaoqian Shen, Mohamed Elhoseiny</details>
++ **StoryGPT-V: Large Language Models as Consistent Story Visualizers** (13 Dec 2023)<details><summary>Xiaoqian Shen, Mohamed Elhoseiny</summary> Xiaoqian Shen, Mohamed Elhoseiny</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02252)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe49cb2ab3a7990e3d05042197ae8b3fd934453de%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VL-GPT%3A-A-Generative-Pre-trained-Transformer-for-Zhu-Ding/e49cb2ab3a7990e3d05042197ae8b3fd934453de)
 
