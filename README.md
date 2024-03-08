@@ -37,6 +37,7 @@
 - [📍 LLMs for Visual-audio Understanding](#-llms-for-visual-audio-understanding)
   - [Image Understanding](#image-understanding)
   - [Video Understanding](#video-understanding)
+  - [3D](#3d)
   - [3D Understanding](#3d-understanding)
   - [Audio Understanding](#audio-understanding)
 - [📍 Multimodal LLM Safety](#-multimodal-llm-safety)
@@ -165,7 +166,7 @@ Tags: `customization`
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F58b77dc0603eb52559d98a383bf9649fd31d0bc5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TEAL%3A-Tokenize-and-Embed-ALL-for-Multi-modal-Large-Yang-Zhang/58b77dc0603eb52559d98a383bf9649fd31d0bc5)
 
 
-+ **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** (16 Oct 2023)<details><summary>Hanan Gani, Shariq Farooq Bhat, Muzammal Naseer, et al. ICLR 2024</summary>Hanan Gani, Shariq Farooq Bhat, Muzammal Naseer, Salman Khan, Peter Wonka</details>
++ **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** (16 Oct 2023)<details><summary>[ICLR 2024] Hanan Gani, Shariq Farooq Bhat, Muzammal Naseer, et al.</summary>Hanan Gani, Shariq Farooq Bhat, Muzammal Naseer, Salman Khan, Peter Wonka</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10640)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4cb2c262ce34f41974f1b1623fc5a6e32956ded3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LLM-Blueprint%3A-Enabling-Text-to-Image-Generation-Gani-Bhat/4cb2c262ce34f41974f1b1623fc5a6e32956ded3)
 [![Code](https://img.shields.io/github/stars/hananshafi/llmblueprint.svg?style=social&label=Star)](https://github.com/hananshafi/llmblueprint)
@@ -242,7 +243,7 @@ Kaizhi Zheng, Xuehai He, Xin Eric Wang.\
 
 
 
-+ **DreamLLM: Synergistic Multimodal Comprehension and Creation** (20 Sep 2023)<details><summary>Runpei Dong, Chunrui Han, Yuang Peng, et al. ICLR 2024</summary>Runpei Dong, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, Jinrong Yang, Liang Zhao, Jianjian Sun, Hongyu Zhou, Haoran Wei, Xiangwen Kong, Xiangyu Zhang, Kaisheng Ma, Li Yi</details>
++ **DreamLLM: Synergistic Multimodal Comprehension and Creation** (20 Sep 2023)<details><summary>[ICLR 2024] Runpei Dong, Chunrui Han, Yuang Peng, et al.</summary>Runpei Dong, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, Jinrong Yang, Liang Zhao, Jianjian Sun, Hongyu Zhou, Haoran Wei, Xiangwen Kong, Xiangyu Zhang, Kaisheng Ma, Li Yi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b689adb8c156d6158660f90d1c86888ee281f63%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamLLM%3A-Synergistic-Multimodal-Comprehension-and-Dong-Han/7b689adb8c156d6158660f90d1c86888ee281f63)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamllm.github.io/)
@@ -343,7 +344,7 @@ Koh, Jing Yu, Ruslan Salakhutdinov, and Daniel Fried. ICML 2023.\
 [![Code](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage)
 
 ### Non-LLM-based (Clip/T5)
-+ **PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (30 Sep 2023)<details><summary>Junsong Chen, Jincheng Yu, Chongjian Ge, et al. ICLR 2024.</summary>Junsong Chen, Jincheng Yu, Chongjian Ge, Lewei Yao, Enze Xie, Yue Wu, Zhongdao Wang, James Kwok, Ping Luo, Huchuan Lu, Zhenguo Li</details>
++ **PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (30 Sep 2023)<details><summary>[ICLR 2024] Junsong Chen, Jincheng Yu, Chongjian Ge, et al.</summary>Junsong Chen, Jincheng Yu, Chongjian Ge, Lewei Yao, Enze Xie, Yue Wu, Zhongdao Wang, James Kwok, Ping Luo, Huchuan Lu, Zhenguo Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00426)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F144eca44e250cc462f6fc3a172abb865978f66f5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/PixArt-%CE%B1%3A-Fast-Training-of-Diffusion-Transformer-Chen-Yu/7dfe1c9f1d7120102499c7e561efc2326e7a0358)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pixart-alpha.github.io/)
@@ -657,7 +658,7 @@ Luo, Zhengxiong, et al. CVPR 2023.\
 
 ### Datasets
 
-+ **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)<details><summary>Yi Wang, Yinan He, Yizhuo Li, et al. [ICLR 2024 Spotlight]</summary>Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Conghui He, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao</details>
++ **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)<details><summary>[ICLR 2024 Spotlight] Yi Wang, Yinan He, Yizhuo Li, et al.</summary>Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Conghui He, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F369b449415d50387fba048bbd4d26ee890df84b5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/InternVid%3A-A-Large-scale-Video-Text-Dataset-for-and-Wang-He/369b449415d50387fba048bbd4d26ee890df84b5)
 [![Code](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo)
@@ -780,7 +781,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe88d5399956c9d9519a5cfd49308b7d439167543%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamPropeller%3A-Supercharge-Text-to-3D-Generation-Zhou-Shih/e88d5399956c9d9519a5cfd49308b7d439167543)
 [![Code](https://img.shields.io/github/stars/alexzhou907/DreamPropeller.svg?style=social&label=Star)](https://github.com/alexzhou907/DreamPropeller)
 
-+ **HiFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance** (28 Nov 2023)<details><summary>Junzhe Zhu, Peiye Zhuang. ICLR2024 </summary>Junzhe Zhu, Peiye Zhuang</details>
++ **HiFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance** (28 Nov 2023)<details><summary>[ICLR 2024] Junzhe Zhu, Peiye Zhuang. </summary>Junzhe Zhu, Peiye Zhuang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18766)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdaf3b117f789b2b95223e58592979fb57627515e%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/HiFA%3A-High-fidelity-Text-to-3D-Generation-with-Zhu-Zhuang/daf3b117f789b2b95223e58592979fb57627515e)
 [![Code](https://img.shields.io/github/stars/JunzheJosephZhu/HiFA.svg?style=social&label=Star)](https://github.com/JunzheJosephZhu/HiFA)
@@ -794,7 +795,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F438e9fb79c9e37d43223e61bb575ebd2dae0b0a7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SweetDreamer%3A-Aligning-Geometric-Priors-in-2D-for-Li-Chen/438e9fb79c9e37d43223e61bb575ebd2dae0b0a7)
 [![Code](https://img.shields.io/github/stars/wyysf-98/SweetDreamer.svg?style=social&label=Star)](https://github.com/wyysf-98/SweetDreamer)
 
-+ **Text-to-3D with Classifier Score Distillation** (26 Oct 2023 )<details><summary>Xin Yu, Yuan-Chen Guo, Yangguang Li, et al. (ICLR 2024) </summary>Xin Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Song-Hai Zhang, Xiaojuan Qi</details>
++ **Text-to-3D with Classifier Score Distillation** (26 Oct 2023 )<details><summary>[ICLR 2024] Xin Yu, Yuan-Chen Guo, Yangguang Li, et al. </summary>Xin Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Song-Hai Zhang, Xiaojuan Qi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19415)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e21879b564cc2e803b16edf0dda9f1edb91b497%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Text-to-3D-with-Classifier-Score-Distillation-Yu-Guo/4e21879b564cc2e803b16edf0dda9f1edb91b497)
 [![Code](https://img.shields.io/github/stars/CVMI-Lab/Classifier-Score-Distillation.svg?style=social&label=Star)](https://github.com/CVMI-Lab/Classifier-Score-Distillation)
@@ -805,13 +806,13 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 [![Code](https://img.shields.io/github/stars/EnVision-Research/LucidDreamer.svg?style=social&label=Star)](https://github.com/EnVision-Research/LucidDreamer)
 
 
-+ **Noise-Free Score Distillation** (26 Oct 2023)<details><summary>Oren Katzir, Or Patashnik, Daniel Cohen-Or, et al. (ICLR 2024) </summary>Oren Katzir, Or Patashnik, Daniel Cohen-Or, Dani Lischinski</details>
++ **Noise-Free Score Distillation** (26 Oct 2023)<details><summary>[ICLR 2024] Oren Katzir, Or Patashnik, Daniel Cohen-Or, et al.</summary>Oren Katzir, Or Patashnik, Daniel Cohen-Or, Dani Lischinski</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17590)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F85a70c0a048cba4f53dcf332ee73f6032a2e53bc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Noise-Free-Score-Distillation-Katzir-Patashnik/85a70c0a048cba4f53dcf332ee73f6032a2e53bc)
 [![Code](https://img.shields.io/github/stars/orenkatzir/nfsd.svg?style=social&label=Star)](https://github.com/orenkatzir/nfsd)
 
 
-+ **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation** (28 Sep 2023)<details><summary>Jiaxiang Tang, Jiawei Ren, Hang Zhou, et al. (ICLR 2024) </summary>Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng</details>
++ **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation** (28 Sep 2023)<details><summary>[ICLR 2024] Jiaxiang Tang, Jiawei Ren, Hang Zhou, et al.</summary>Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16653)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcc1a674bb164d09a060cf5b26fe518c02fae0ddc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamGaussian%3A-Generative-Gaussian-Splatting-for-3D-Tang-Ren/cc1a674bb164d09a060cf5b26fe518c02fae0ddc)
 [![Code](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian.svg?style=social&label=Star)](https://github.com/dreamgaussian/dreamgaussian)
@@ -841,7 +842,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb19ca192a5bebbc3473be61989baf085ff21daa5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Re-imagine-the-Negative-Prompt-Algorithm%3A-Transform-Armandpour-Sadeghian/b19ca192a5bebbc3473be61989baf085ff21daa5)
 [![Code](https://img.shields.io/github/stars/Perp-Neg/Perp-Neg-stablediffusion.svg?style=social&label=Star)](https://github.com/Perp-Neg/Perp-Neg-stablediffusion)
 
-+ **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation** (11 Apr 2023)<details><summary>Junyoung Seo, Wooseok Jang, Min-Seop Kwak, et al. (ICLR 2024) </summary>Junyoung Seo, Wooseok Jang, Min-Seop Kwak, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim</details>
++ **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation** (11 Apr 2023)<details><summary>[ICLR 2024] Junyoung Seo, Wooseok Jang, Min-Seop Kwak, et al.</summary>Junyoung Seo, Wooseok Jang, Min-Seop Kwak, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07937)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5356c3dac654854a0842753bcc2e3433dc4a2afd%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Let-2D-Diffusion-Model-Know-3D-Consistency-for-Seo-Jang/5356c3dac654854a0842753bcc2e3433dc4a2afd)
 [![Code](https://img.shields.io/github/stars/eladrich/latent-nerf.svg?style=social&label=Star)](https://github.com/eladrich/latent-nerf)
@@ -860,7 +861,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>Hongwei X
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc011ed5ee986332523a62d2783adee1179dc1ed%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Score-Jacobian-Chaining%3A-Lifting-Pretrained-2D-for-Wang-Du/fc011ed5ee986332523a62d2783adee1179dc1ed)
 [![Code](https://img.shields.io/github/stars/pals-ttic/sjc.svg?style=social&label=Star)](https://github.com/pals-ttic/sjc)
 
-+ **DreamFusion: Text-to-3D using 2D Diffusion** (29 Sep 2022)<details><summary>Ben Poole, Ajay Jain, Jonathan T. Barron, et al. (ICLR2023 Oral) </summary>Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall</details>
++ **DreamFusion: Text-to-3D using 2D Diffusion** (29 Sep 2022)<details><summary>[ICLR 2023 Oral]Ben Poole, Ajay Jain, Jonathan T. Barron, et al.</summary>Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.14988)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4c94d04afa4309ec2f06bdd0fe3781f91461b362%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamFusion%3A-Text-to-3D-using-2D-Diffusion-Poole-Jain/4c94d04afa4309ec2f06bdd0fe3781f91461b362)
 
@@ -1029,7 +1030,7 @@ Forsgren, Seth and Martiros, Hayk\
 [![Code](https://img.shields.io/github/stars/crypto-code/MU-LLaMA.svg?style=social&label=Star)](https://github.com/crypto-code/MU-LLaMA)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/mu-llama/MusicQA)
 
-+ **Audiogen: Textually guided audio generation** (30 Sep 2022)<details><summary>Felix Kreuk, Gabriel Synnaeve, Adam Polyak, et al. (ICLR 2022)</summary>Felix Kreuk, Gabriel Synnaeve, Adam Polyak, Uriel Singer, Alexandre Défossez, Jade Copet, Devi Parikh, Yaniv Taigman, Yossi Adi</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.15352)
++ **Audiogen: Textually guided audio generation** (30 Sep 2022)<details><summary>[ICLR 2022] Felix Kreuk, Gabriel Synnaeve, Adam Polyak, et al.</summary>Felix Kreuk, Gabriel Synnaeve, Adam Polyak, Uriel Singer, Alexandre Défossez, Jade Copet, Devi Parikh, Yaniv Taigman, Yossi Adi</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.15352)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Febb85974e06c4879b451fdfcb4f472a09471935b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/AudioGen%3A-Textually-Guided-Audio-Generation-Kreuk-Synnaeve/ebb85974e06c4879b451fdfcb4f472a09471935b)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://felixkreuk.github.io/audiogen/)
 
@@ -1111,7 +1112,7 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CHATEDIT%3A-Towards-Multi-turn-Interactive-Facial-via-Cui-Li/5a185965ad1e87367d044b47043706d00b85b007)
 [![Code](https://img.shields.io/github/stars/cuixing100876/ChatEdit.svg?style=social&label=Star)](https://github.com/cuixing100876/ChatEdit)
 
-+ **Guiding Instruction-based Image Editing via Multimodal Large Language Models** <details><summary>Tsu-Jui Fu, Wenze Hu, Xianzhi Du, et al.</summary> Tsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, Zhe Gan</details>ICLR 2024 (Spotlight). \
++ **Guiding Instruction-based Image Editing via Multimodal Large Language Models** <details><summary>[ICLR 2024 (Spotlight)] Tsu-Jui Fu, Wenze Hu, Xianzhi Du, et al.</summary> Tsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, Zhe Gan</details> \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17102v1)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F092245d86b77181c36f972b1b7a17a59cd989c4a%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Guiding-Instruction-based-Image-Editing-via-Large-Fu-Hu/092245d86b77181c36f972b1b7a17a59cd989c4a)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mllm-ie.github.io/)
@@ -1141,7 +1142,7 @@ Brooks, Tim, Aleksander Holynski, and Alexei A. Efros. CVPR 2023 (Highlight).\
 ### Non-LLM-based (Clip/T5)
 
 
-+ **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** (2 Aug 2021)<details><summary>Chenlin Meng, Yutong He, Yang Song, et al.</summary> Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon. </details>ICLR 2022. 
++ **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** (2 Aug 2021)<details><summary>[ICLR 2022] Chenlin Meng, Yutong He, Yang Song, et al.</summary> Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon. </details> 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.01073)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff671a09e3e5922e6d38cb77dda8d76d5ceac2a27%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SDEdit%3A-Guided-Image-Synthesis-and-Editing-with-Meng-He/f671a09e3e5922e6d38cb77dda8d76d5ceac2a27)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sde-image-editing.github.io/)
@@ -1155,20 +1156,20 @@ Gwanghyun Kim, Taesung Kwon, Jong Chul Ye. CVPR 2022. \
 [![Code](https://img.shields.io/github/stars/gwang-kim/DiffusionCLIP.svg?style=social&label=Star)](https://github.com/gwang-kim/DiffusionCLIP)
 
 
-+ **DiffEdit: Diffusion-based semantic image editing with mask guidance** (20 Oct 2022) <details><summary>Guillaume Couairon, Jakob Verbeek, Holger Schwenk, et al.</summary> Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord. </details>ICLR 2023 (notable top 25%). 
++ **DiffEdit: Diffusion-based semantic image editing with mask guidance** (20 Oct 2022) <details><summary>[ICLR 2023] Guillaume Couairon, Jakob Verbeek, Holger Schwenk, et al.</summary> Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord. </details> 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.11427)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F064ccebc03d3afabaae30fe29a457c1cfcdff7e3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DiffEdit%3A-Diffusion-based-semantic-image-editing-Couairon-Verbeek/064ccebc03d3afabaae30fe29a457c1cfcdff7e3)
 <!-- [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ashmrz.github.io/WatchYourSteps/) -->
 <!-- [![Code](https://img.shields.io/github/stars/Xiang-cd/DiffEdit-stable-diffusion.svg?style=social&label=Star)](https://github.com/Xiang-cd/DiffEdit-stable-diffusion) -->
 
 
-+ **Prompt-to-Prompt Image Editing with Cross Attention Control** <details><summary>Amir Hertz, Ron Mokady, Jay Tenenbaum, et al.</summary> Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. </details>ICLR 2023. 
++ **Prompt-to-Prompt Image Editing with Cross Attention Control** <details><summary>[ICLR 2023] Amir Hertz, Ron Mokady, Jay Tenenbaum, et al.</summary> Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.01626)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F04e541391e8dce14d099d00fb2c21dbbd8afe87f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Prompt-to-Prompt-Image-Editing-with-Cross-Attention-Hertz-Mokady/04e541391e8dce14d099d00fb2c21dbbd8afe87f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://prompt-to-prompt.github.io/)
 [![Code](https://img.shields.io/github/stars/google/prompt-to-prompt.svg?style=social&label=Star)](https://github.com/google/prompt-to-prompt)
 
-+ **Null-text Inversion for Editing Real Images using Guided Diffusion Models**<details><summary>Ron Mokady, Amir Hertz, Kfir Aberman, et al.</summary> Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. </details>ICLR 2023. 
++ **Null-text Inversion for Editing Real Images using Guided Diffusion Models**<details><summary>[ICLR 2023] Ron Mokady, Amir Hertz, Kfir Aberman, et al.</summary> Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or. </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09794)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4de94949daf9bc8dd0e5161d20dfe83198d20ec1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Null-text-Inversion-for-Editing-Real-Images-using-Mokady-Hertz/4de94949daf9bc8dd0e5161d20dfe83198d20ec1)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://null-text-inversion.github.io/)
@@ -1224,14 +1225,14 @@ Gwanghyun Kim, Taesung Kwon, Jong Chul Ye. CVPR 2022. \
 [![Code](https://img.shields.io/github/stars/thaoshibe/visii.svg?style=social&label=Star)](https://github.com/thaoshibe/visii)
 
 + **Differential Diffusion: Giving Each Pixel Its Strength** (1 Jun 2023)\
-Eran Levin, Ohad Fried. ArXiv 2023. \
+[ArXiv 2023] Eran Levin, Ohad Fried. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6e5760e5d4b468bbf01a95a6f64bd65c3aa3d798%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Differential-Diffusion%3A-Giving-Each-Pixel-Its-Levin-Fried/6e5760e5d4b468bbf01a95a6f64bd65c3aa3d798)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://differential-diffusion.github.io/)
 [![Code](https://img.shields.io/github/stars/exx8/differential-diffusion.svg?style=social&label=Star)](https://github.com/exx8/differential-diffusion)
 
 
-+ **Dragondiffusion: Enabling drag-style manipulation on diffusion models** (5 Jul 2023)<details><summary>Chong Mou, Xintao Wang, Jiechong Song, et al.</summary>Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. </details>ICLR 2024. 
++ **Dragondiffusion: Enabling drag-style manipulation on diffusion models** (5 Jul 2023)<details><summary>[ICLR 2024] Chong Mou, Xintao Wang, Jiechong Song, et al.</summary>Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14331)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cfaa5b3571d3b75f040f6d639359a3c673f5561%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DragonDiffusion%3A-Enabling-Drag-style-Manipulation-Mou-Wang/2cfaa5b3571d3b75f040f6d639359a3c673f5561)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mc-e.github.io/project/DragonDiffusion/)
