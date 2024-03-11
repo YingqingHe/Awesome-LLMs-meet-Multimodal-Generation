@@ -763,7 +763,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5a185965ad1e87367d044b47043706d00b85b007%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ShapeGPT%3A-3D-Shape-Generation-with-A-Unified-Model-Yin-Chen/09157a8c0e7d7263ac035690118ddcbe295cee5c)
 [![Code](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star)](https://github.com/OpenShapeLab/ShapeGPT)
 
-+ **MotionGPT: Human Motion as a Foreign Language** (20 Jul 2023 )<details><summary>Biao Jiang, Xin Chen, Wen Liu, et al. </summary>Biao Jiang, Xin Chen, Wen Liu, Jingyi Yu, Gang Yu, Tao Chen</details>
++ **MotionGPT: Human Motion as a Foreign Language** (20 Jul 2023)<details><summary>Biao Jiang, Xin Chen, Wen Liu, et al. </summary>Biao Jiang, Xin Chen, Wen Liu, Jingyi Yu, Gang Yu, Tao Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.14795)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd212fa27f5868f0fd106e1a7bba908fd47da0816%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MotionGPT%3A-Human-Motion-as-a-Foreign-Language-Jiang-Chen/d212fa27f5868f0fd106e1a7bba908fd47da0816)
 [![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT.svg?style=social&label=Star)](https://github.com/OpenMotionLab/MotionGPT)
@@ -818,7 +818,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcc1a674bb164d09a060cf5b26fe518c02fae0ddc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DreamGaussian%3A-Generative-Gaussian-Splatting-for-3D-Tang-Ren/cc1a674bb164d09a060cf5b26fe518c02fae0ddc)
 [![Code](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian.svg?style=social&label=Star)](https://github.com/dreamgaussian/dreamgaussian)
 
-+ **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** (12 Oct 2023 )<details><summary>[CVPR 2024] Taoran Yi, Jiemin Fang, Junjie Wang, et al. </summary>Taoran Yi, Jiemin Fang, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang</details>
++ **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** (12 Oct 2023)<details><summary>[CVPR 2024] Taoran Yi, Jiemin Fang, Junjie Wang, et al. </summary>Taoran Yi, Jiemin Fang, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08529)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5e9fd131cde68c218d0ea69cd617a67c7f35d42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ProlificDreamer%3A-High-Fidelity-and-Diverse-with-Wang-Lu/c5e9fd131cde68c218d0ea69cd617a67c7f35d42)
 [![Code](https://img.shields.io/github/stars/hustvl/GaussianDreamer.svg?style=social&label=Star)](https://github.com/hustvl/GaussianDreamer)
@@ -910,8 +910,17 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
   
 ### Datasets
 
++ **Objaverse-XL: A Universe of 10M+ 3D Objects** (11 Jul 2023) <details><summary>Matt Deitke, Dustin Schwenk, Jordi Salvador, et al. </summary>Matt Deitke, Ruoshi Liu, Matthew Wallingford, Huong Ngo, Oscar Michel, Aditya Kusupati, Alan Fan, Christian Laforte, Vikram Voleti, Samir Yitzhak Gadre, Eli VanderBilt, Aniruddha Kembhavi, Carl Vondrick, Georgia Gkioxari, Kiana Ehsani, Ludwig Schmidt, Ali Farhadi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05663)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b90e9e9734bed6b379ae87d688cb3b887baf597%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Objaverse-XL%3A-A-Universe-of-10M%2B-3D-Objects-Deitke-Liu/1b90e9e9734bed6b379ae87d688cb3b887baf597)
+[![Code](https://img.shields.io/github/stars/allenai/objaverse-xl.svg?style=social&label=Star)](https://github.com/allenai/objaverse-xl)
 
++ **Objaverse: A Universe of Annotated 3D Objects** (15 Dec 2022) <details><summary>[CVPR 2023] Matt Deitke, Dustin Schwenk, Jordi Salvador, et al. </summary>Matt Deitke, Dustin Schwenk, Jordi Salvador, Luca Weihs, Oscar Michel, Eli VanderBilt, Ludwig Schmidt, Kiana Ehsani, Aniruddha Kembhavi, Ali Farhadi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.08051)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b31dbf44e68b698120552366df03e6e35a1e428%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Objaverse%3A-A-Universe-of-Annotated-3D-Objects-Deitke-Schwenk/1b31dbf44e68b698120552366df03e6e35a1e428)
+[![Code](https://img.shields.io/github/stars/allenai/objaverse-xl.svg?style=social&label=Star)](https://github.com/allenai/objaverse-xl)
 
+ 
 ## Audio Generation
 
 ### 🔅 LLM-based
