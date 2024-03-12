@@ -45,7 +45,7 @@
   - [Defense and Detect](#defense-and-detect)
   - [Alignment](#alignment)
   - [Datasets](#datasets-4)
-  - [3D, Video and Audio Safety](#3d,-video-and-audio-safety)
+  - [3D, Video and Audio Safety](#3d-video-and-audio-safety)
 - [📍 Related Surveys](#-related-surveys)
   - [LLM](#llm)
   - [Vision](#vision)
