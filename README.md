@@ -1904,199 +1904,236 @@ Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
 
 
 
-# 📍 Multimodal LLM Safety
+# Multimodal LLM Safety
 ## Attack
+
++ **Jailbreaking gpt-4v via self-adversarial attacks with system prompts.** (20 Jan 2024)"Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09127.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a8b97d75a87e8fef07542d8875d4a62b553744?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Jailbreaking-GPT-4V-via-Self-Adversarial-Attacks-Wu-Li/18a8b97d75a87e8fef07542d8875d4a62b553744?utm_source=direct_link)
+<!-- [![Code](https://img.shields.io/github/stars/ThuCCSLab/lm-ssp.svg?style=social&label=Star)](https://github.com/ThuCCSLab/lm-ssp) -->
+
++ **Defending chatgpt against jailbreak attack via self-reminders.** (1 Dec 2023)"Yueqi Xie, Jingwei Yi, Jiawei Shao, Justin Curl, Lingjuan Lyu, Qifeng Chen, Xing Xie, Fangzhao Wu"
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe762f92273cd96f63b7788c0173b9b6450adedd7?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Defending-ChatGPT-against-jailbreak-attack-via-Xie-Yi/e762f92273cd96f63b7788c0173b9b6450adedd7?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/yjw1029/Self-Reminder.svg?style=social&label=Star)](https://github.com/yjw1029/Self-Reminder)
+
++ **Misusing Tools in Large Language Models With Visual Adversarial Examples** (4 Oct 2023)"Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K. Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Earlence Fernandes"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.03185.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fac5b4df0e398ca48388330ac5c795b6fe708793c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Misusing-Tools-in-Large-Language-Models-With-Visual-Fu-Wang/ac5b4df0e398ca48388330ac5c795b6fe708793c)
+
++ **Image Hijacks: Adversarial Images can Control Generative Models at Runtime.** (18 Sep 2023)"Luke Bailey, Euan Ong, Stuart Russell, Scott Emmons"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.00236.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5bdaadb84db0cbf72aaebda9f55f4288b63c6e9b?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Image-Hijacks%3A-Adversarial-Images-can-Control-at-Bailey-Ong/5bdaadb84db0cbf72aaebda9f55f4288b63c6e9b?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/euanong/image-hijacks.svg?style=social&label=Star)](https://github.com/euanong/image-hijacks)
+
++ **Universal and Transferable Adversarial Attacks on Aligned Language Models** (27 Jul 2023)"Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, Matt Fredrikson"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.15043.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F47030369e97cc44d4b2e3cf1be85da0fd134904a?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Universal-and-Transferable-Adversarial-Attacks-on-Zou-Wang/47030369e97cc44d4b2e3cf1be85da0fd134904a?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/llm-attacks/llm-attacks.svg?style=social&label=Star)](https://github.com/llm-attacks/llm-attacks)
+
++ **Prompt injection attack against llm-integrated applications** (8 Jun 2023)"Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, Yang Liu"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05499.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdb4cf9f6a653d5c15973e836c800ea47743251ae?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Prompt-Injection-attack-against-LLM-integrated-Liu-Deng/db4cf9f6a653d5c15973e836c800ea47743251ae?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/LLMSecurity/HouYi.svg?style=social&label=Star)](https://github.com/LLMSecurity/HouYi)
+
++ **Automatically Auditing Large Language Models via Discrete Optimization** (8 Mar 2023)"Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.04381.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2f94f03fdac62d05f0f416b7b3855d1f597afee9?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Automatically-Auditing-Large-Language-Models-via-Jones-Dragan/2f94f03fdac62d05f0f416b7b3855d1f597afee9?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/ejones313/auditing-llms.svg?style=social&label=Star)](https://github.com/ejones313/auditing-llms)
+
++ **Poisoning Web-Scale Training Datasets is Practical** (20 Feb 2023)"Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, Florian Tram  r"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10149.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cf43a61d0937ad25f23eaef7c90253ab799b3c7?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Poisoning-Web-Scale-Training-Datasets-is-Practical-Carlini-Jagielski/2cf43a61d0937ad25f23eaef7c90253ab799b3c7?utm_source=direct_link)
+
++ **Exploiting programmatic behavior of llms: Dual-use through standard security attacks.** (11 Feb 2023)"Daniel Kang, Xuechen Li, Ion Stoica, Carlos Guestrin, Matei Zaharia, Tatsunori Hashimoto"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.05733.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0cf694b8f85ab2e11d45595de211a15cfbadcd22?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Exploiting-Programmatic-Behavior-of-LLMs%3A-Dual-Use-Kang-Li/0cf694b8f85ab2e11d45595de211a15cfbadcd22?utm_source=direct_link)
+
 + **Ignore previous prompt: Attack techniques for language models** (17 Nov 2022)\
-Fábio Perez, Ian Ribeiro\
+"F  bio Perez, Ian Ribeiro"
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09527.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8fdd34153d1035d09dd4a6efa9cb0c91d23d0045?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/More-than-you%27ve-asked-for%3A-A-Comprehensive-of-to-Greshake-Abdelnabi/8fdd34153d1035d09dd4a6efa9cb0c91d23d0045?utm_source=direct_link)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9716a2876d08fce9d8e5c5ba4d7b1a9af44806d6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Ignore-Previous-Prompt%3A-Attack-Techniques-For-Perez-Ribeiro/9716a2876d08fce9d8e5c5ba4d7b1a9af44806d6)
 [![Code](https://img.shields.io/github/stars/agencyenterprise/PromptInject.svg?style=social&label=Star)](https://github.com/agencyenterprise/PromptInject)
 
++ **Universal Adversarial Triggers for Attacking and Analyzing NLP** (20 Aug 2019)"Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1908.07125.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a1c21f35153c45d0ef30c564bffb7d70a13ccc?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Universal-Adversarial-Triggers-for-Attacking-and-Wallace-Feng/18a1c21f35153c45d0ef30c564bffb7d70a13ccc?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/Eric-Wallace/universal-triggers.svg?style=social&label=Star)](https://github.com/Eric-Wallace/universal-triggers)
+
 + **Adversarial Examples for Evaluating Reading Comprehension Systems** (23 Jul 2017)\
-Robin Jia, Percy Liang\
+"Robin Jia, Percy Liang"
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.07328.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Systems-Jia-Liang/ffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/robinjia/adversarial-squad.svg?style=social&label=Star)](https://github.com/robinjia/adversarial-squad)
 
-+ **Prompt injection attack against llm-integrated applications** (8 Jun 2023)<details><summary>Yi Liu, Gelei Deng, Yuekang Li, et al.</summary>Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, Yang Liu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.05499.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdb4cf9f6a653d5c15973e836c800ea47743251ae?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Prompt-Injection-attack-against-LLM-integrated-Liu-Deng/db4cf9f6a653d5c15973e836c800ea47743251ae?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection.svg?style=social&label=Star)](https://github.com/liu00222/Open-Prompt-Injection)
-
-+ **Defending chatgpt against jailbreak attack via self-reminders.** (Dec 2023)<details><summary>Yueqi Xie, Jingwei Yi, Jiawei Shao, et al.</summary>Yueqi Xie, Jingwei Yi, Jiawei Shao, Justin Curl, Lingjuan Lyu, Qifeng Chen, Xing Xie, Fangzhao Wu </details>
-[![Code](https://img.shields.io/github/stars/yjw1029/Self-Reminder.svg?style=social&label=Star)](https://github.com/yjw1029/Self-Reminder)
-
-+ **Exploiting programmatic behavior of llms: Dual-use through standard security attacks.** (11 Feb 2023)<details><summary>Daniel Kang, Xuechen Li, Ion Stoica, et al.</summary>Daniel Kang, Xuechen Li, Ion Stoica, Carlos Guestrin, Matei Zaharia, Tatsunori Hashimoto</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.05733.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0cf694b8f85ab2e11d45595de211a15cfbadcd22?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Exploiting-Programmatic-Behavior-of-LLMs%3A-Dual-Use-Kang-Li/0cf694b8f85ab2e11d45595de211a15cfbadcd22?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/chawins/llm-sp.svg?style=social&label=Star)](https://github.com/chawins/llm-sp)
-
-+ **Universal Adversarial Triggers for Attacking and Analyzing NLP** (20 Aug 2019)<details><summary>Eric Wallace, Shi Feng, Nikhil Kandpal, et al.</summary>Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1908.07125.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a1c21f35153c45d0ef30c564bffb7d70a13ccc?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Universal-Adversarial-Triggers-for-Attacking-and-Wallace-Feng/18a1c21f35153c45d0ef30c564bffb7d70a13ccc?utm_source=direct_link)
++ **Adversarial Examples for Evaluating Reading Comprehension Systems** (23 Jul 2017)\
+"Robin Jia, Percy Liang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.07328.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Systems-Jia-Liang/ffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/robinjia/adversarial-squad.svg?style=social&label=Star)](https://github.com/robinjia/adversarial-squad)
-
-+ **Automatically Auditing Large Language Models via Discrete Optimization** (8 Mar 2023)<details><summary>Erik Jones, Anca Dragan, Aditi Raghunathan, et al.</summary>Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.04381.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2f94f03fdac62d05f0f416b7b3855d1f597afee9?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Automatically-Auditing-Large-Language-Models-via-Jones-Dragan/2f94f03fdac62d05f0f416b7b3855d1f597afee9?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/ejones313/auditing-llms.svg?style=social&label=Star)](https://github.com/ejones313/auditing-llms)
-
-+ **Universal and Transferable Adversarial Attacks on Aligned Language Models** (27 Jul 2023)<details><summary>Andy Zou, Zifan Wang, Nicholas Carlini, et al.</summary>Andy Zou, Zifan Wang, Nicholas Carlini, Milad Nasr, J. Zico Kolter, Matt Fredrikson</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.15043.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F47030369e97cc44d4b2e3cf1be85da0fd134904a?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Universal-and-Transferable-Adversarial-Attacks-on-Zou-Wang/47030369e97cc44d4b2e3cf1be85da0fd134904a?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/llm-attacks/llm-attacks.svg?style=social&label=Star)](https://github.com/llm-attacks/llm-attacks)
-
-+ **Misusing Tools in Large Language Models With Visual Adversarial Examples** (4 Oct 2023)<details><summary>Xiaohan Fu, Zihan Wang, Shuheng Li, et al.</summary>Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K. Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Earlence Fernandes</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.03185.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F142e934dd5d6c53f877c30243d436255e3a0dde7?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Visual-Adversarial-Examples-Jailbreak-Aligned-Large-Qi-Huang/142e934dd5d6c53f877c30243d436255e3a0dde7?utm_source=direct_link)
-
-+ **Image Hijacks: Adversarial Images can Control Generative Models at Runtime.** (18 Sep 2023)<details><summary>Luke Bailey, Euan Ong, Stuart Russell, et al.</summary>Luke Bailey, Euan Ong, Stuart Russell, Scott Emmons</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.00236.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F92b9d8b8c81c4c53ea62000c0924500b2dd11bce?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Jailbreak-in-pieces%3A-Compositional-Adversarial-on-Shayegani-Dong/92b9d8b8c81c4c53ea62000c0924500b2dd11bce?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/euanong/image-hijacks.svg?style=social&label=Star)](https://github.com/euanong/image-hijacks)
-
-+ **Jailbreaking gpt-4v via self-adversarial attacks with system prompts.** (20 Jan 2024)<details><summary>Yuanwei Wu, Xiang Li, Yixin Liu, et al.</summary>Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.09127.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18a8b97d75a87e8fef07542d8875d4a62b553744?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Jailbreaking-GPT-4V-via-Self-Adversarial-Attacks-Wu-Li/18a8b97d75a87e8fef07542d8875d4a62b553744?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/ThuCCSLab/lm-ssp.svg?style=social&label=Star)](https://github.com/ThuCCSLab/lm-ssp)
-
-+ **Poisoning Web-Scale Training Datasets is Practical** (20 Feb 2023)<details><summary>Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, et al.</summary>Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, Florian Tramèr</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.10149.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cf43a61d0937ad25f23eaef7c90253ab799b3c7?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Poisoning-Web-Scale-Training-Datasets-is-Practical-Carlini-Jagielski/2cf43a61d0937ad25f23eaef7c90253ab799b3c7?utm_source=direct_link)
-
 
 
 ## Defense and Detect
++ **Detecting and correcting hate speech in multimodal memes with large visual language model.** (12 Nov 2023)\
+"Minh-Hao Van, Xintao Wu"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.06737.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F60f4dc690ea42fb77b04fc685e9d9c3a1e209319?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Detecting-and-Correcting-Hate-Speech-in-Multimodal-Van-Wu/60f4dc690ea42fb77b04fc685e9d9c3a1e209319?utm_source=direct_link)
 
-
-+ **Smoothllm: Defending large language models against jailbreaking attacks.** (5 Oct 2023)<details><summary>Alexander Robey, Eric Wong, Hamed Hassani, et al.</summary>Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.03684.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8cf9b49698fdb1b754df2556576412a7b44929f6?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/SmoothLLM%3A-Defending-Large-Language-Models-Against-Robey-Wong/8cf9b49698fdb1b754df2556576412a7b44929f6?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/chawins/llm-sp.svg?style=social&label=Star)](https://github.com/chawins/llm-sp)
-
-+ **Jailbreak and guard aligned language models with only few in-context demonstrations** (10 Oct 2023)\
-Zeming Wei, Yifei Wang, Yisen Wang\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.06387.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8fd29e810540c40846cddce3cbdf5060cd59fb57?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Intention-Analysis-Makes-LLMs-A-Good-Jailbreak-Zhang-Ding/8fd29e810540c40846cddce3cbdf5060cd59fb57?utm_source=direct_link)
-
-+ **Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models** (23 May 2023)<details><summary>Yiting Qu, Xinyue Shen, Xinlei He, et al.</summary>Yiting Qu, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.13873.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F91d85905a8e9ae6ba62e562bba32d61c619a8155?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Groot%3A-Adversarial-Testing-for-Generative-Models-Liu-Yang/91d85905a8e9ae6ba62e562bba32d61c619a8155?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/YitingQu/unsafe-diffusion.svg?style=social&label=Star)](https://github.com/YitingQu/unsafe-diffusion)
-
-+ **Mitigating Inappropriate Degeneration in Diffusion Models** (9 Nov 2022)<details><summary>Patrick Schramowski, Manuel Brack, Björn Deiseroth, et al.</summary>Patrick Schramowski, Manuel Brack, Björn Deiseroth, Kristian Kersting</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2211.05105.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F35805599dcc62ab5f02257c94977092a3b993b54?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Self-Discovering-Interpretable-Diffusion-Latent-for-Li-Shen/35805599dcc62ab5f02257c94977092a3b993b54?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/ml-research/safe-latent-diffusion.svg?style=social&label=Star)](https://github.com/ml-research/safe-latent-diffusion)
-
-+ **A Watermark for Large Language Models** (6 Jun 2023)<details><summary>John Kirchenbauer, Jonas Geiping, Yuxin Wen, et al.</summary>John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2301.10226.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcb5b71a622aff47014d4f28a958679629a8b6363?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/A-Watermark-for-Large-Language-Models-Kirchenbauer-Geiping/cb5b71a622aff47014d4f28a958679629a8b6363?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/BrianPulfer/LMWatermark.svg?style=social&label=Star)](https://github.com/BrianPulfer/LMWatermark)
-
-+ **TRAK: Attributing Model Behavior at Scale** (3 Apr 2023)<details><summary>Sung Min Park, Kristian Georgiev, Andrew Ilyas, et al.</summary>Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14186.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4f2ae5fa2dc74af9c36ee57b359a4b3241006a92?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/TRAK%3A-Attributing-Model-Behavior-at-Scale-Park-Georgiev/4f2ae5fa2dc74af9c36ee57b359a4b3241006a92?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/MadryLab/trak.svg?style=social&label=Star)](https://github.com/MadryLab/trak)
-
-+ **Extracting Training Data from Large Language Models** (15 Jun 2021)<details><summary>Nicholas Carlini, Florian Tramer, Eric Wallace, et al.</summary>Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea, Colin Raffel</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.07805.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf7d26339adf4eb0c07160947b9d2973c24911ba?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Extracting-Training-Data-from-Large-Language-Models-Carlini-Tram%C3%A8r/df7d26339adf4eb0c07160947b9d2973c24911ba?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/weichen-yu/LM-Extraction.svg?style=social&label=Star)](https://github.com/weichen-yu/LM-Extraction)
-
-+ **Detecting Pretraining Data from Large Language Models** (3 Nov 2023)<details><summary>Weijia Shi, Anirudh Ajith, Mengzhou Xia, et al.</summary>Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, Luke Zettlemoyer</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.16789.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3422d5e0cdfdc935d6a84a1e3d3f96659265fe3a?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Detecting-Pretraining-Data-from-Large-Language-Shi-Ajith/3422d5e0cdfdc935d6a84a1e3d3f96659265fe3a?utm_source=direct_link)
++ **Detecting Pretraining Data from Large Language Models** (3 Nov 2023)"Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, Luke Zettlemoyer"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16789.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3422d5e0cdfdc935d6a84a1e3d3f96659265fe3a?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Detecting-Pretraining-Data-from-Large-Language-Shi-Ajith/3422d5e0cdfdc935d6a84a1e3d3f96659265fe3a?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/swj0419/detect-pretrain-code.svg?style=social&label=Star)](https://github.com/swj0419/detect-pretrain-code)
 
-+ **Detecting and correcting hate speech in multimodal memes with large visual language model.** (12 Nov 2023)\
-Minh-Hao Van, Xintao Wu\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.06737.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F60f4dc690ea42fb77b04fc685e9d9c3a1e209319?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Detecting-and-Correcting-Hate-Speech-in-Multimodal-Van-Wu/60f4dc690ea42fb77b04fc685e9d9c3a1e209319?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/harjeet-blue/Multimodal-hateful-meme-detection.svg?style=social&label=Star)](https://github.com/harjeet-blue/Multimodal-hateful-meme-detection)
++ **Jailbreak and guard aligned language models with only few in-context demonstrations** (10 Oct 2023)\
+"Zeming Wei, Yifei Wang, Yisen Wang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.06387.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b135e922a0c673aeb0b05c5aeecdb6c794791c6?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Jailbreak-and-Guard-Aligned-Language-Models-with-Wei-Wang/6b135e922a0c673aeb0b05c5aeecdb6c794791c6?utm_source=direct_link)
 
++ **Smoothllm: Defending large language models against jailbreaking attacks.** (5 Oct 2023)"Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.03684.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8cf9b49698fdb1b754df2556576412a7b44929f6?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SmoothLLM%3A-Defending-Large-Language-Models-Against-Robey-Wong/8cf9b49698fdb1b754df2556576412a7b44929f6?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/arobey1/smooth-llm.svg?style=social&label=Star)](https://github.com/arobey1/smooth-llm)
 
++ **A Watermark for Large Language Models** (6 Jun 2023)"John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.10226.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcb5b71a622aff47014d4f28a958679629a8b6363?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Watermark-for-Large-Language-Models-Kirchenbauer-Geiping/cb5b71a622aff47014d4f28a958679629a8b6363?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/BrianPulfer/LMWatermark.svg?style=social&label=Star)](https://github.com/BrianPulfer/LMWatermark)
+
++ **Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models** (23 May 2023)"Yiting Qu, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13873.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc9e548d72f5ad72215025602be36f72042219baf?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Unsafe-Diffusion%3A-On-the-Generation-of-Unsafe-and-Qu-Shen/c9e548d72f5ad72215025602be36f72042219baf?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/YitingQu/unsafe-diffusion.svg?style=social&label=Star)](https://github.com/YitingQu/unsafe-diffusion)
+
++ **TRAK: Attributing Model Behavior at Scale** (3 Apr 2023)"Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14186.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4f2ae5fa2dc74af9c36ee57b359a4b3241006a92?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/TRAK%3A-Attributing-Model-Behavior-at-Scale-Park-Georgiev/4f2ae5fa2dc74af9c36ee57b359a4b3241006a92?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/MadryLab/trak.svg?style=social&label=Star)](https://github.com/MadryLab/trak)
+
++ **Poisoning Web-Scale Training Datasets is Practical** (20 Feb 2023)"Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, Florian Tram  r"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10149.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cf43a61d0937ad25f23eaef7c90253ab799b3c7?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Poisoning-Web-Scale-Training-Datasets-is-Practical-Carlini-Jagielski/2cf43a61d0937ad25f23eaef7c90253ab799b3c7?utm_source=direct_link)
+
++ **Mitigating Inappropriate Degeneration in Diffusion Models** (9 Nov 2022)"Patrick Schramowski, Manuel Brack, Bj?rn Deiseroth, Kristian Kersting"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.05105.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0231f2aed9a96cb516242fb57f2cb63f5651c4d8?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Safe-Latent-Diffusion%3A-Mitigating-Inappropriate-in-Schramowski-Brack/0231f2aed9a96cb516242fb57f2cb63f5651c4d8?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/ml-research/safe-latent-diffusion.svg?style=social&label=Star)](https://github.com/ml-research/safe-latent-diffusion)
+
++ **Extracting Training Data from Large Language Models** (15 Jun 2021)"Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea, Colin Raffel"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.07805.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf7d26339adf4eb0c07160947b9d2973c24911ba?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Extracting-Training-Data-from-Large-Language-Models-Carlini-Tram%C3%A8r/df7d26339adf4eb0c07160947b9d2973c24911ba?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/shreyansh26/Extracting-Training-Data-from-Large-Langauge-Models.svg?style=social&label=Star)](https://github.com/shreyansh26/Extracting-Training-Data-from-Large-Langauge-Models)
 
 
 ## Alignment
++ **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** (13 Dec 2023)"Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18290.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0d1c76d45afa012ded7ab741194baf142117c495?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Direct-Preference-Optimization%3A-Your-Language-Model-Rafailov-Sharma/0d1c76d45afa012ded7ab741194baf142117c495?utm_source=direct_link)
 
-+ **Scalable agent alignment via reward modeling: a research direction** (19 Nov 2018)<details><summary>Jan Leike, David Krueger, Tom Everitt, et al.</summary>Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1811.07871.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc6f913e4baa7f2c85363c0625c87003ad3b3a14c?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Scalable-agent-alignment-via-reward-modeling%3A-a-Leike-Krueger/c6f913e4baa7f2c85363c0625c87003ad3b3a14c?utm_source=direct_link)
++ **Raft: Reward ranked fine tuning for generative foundation model alignment** (1 Dec 2023)"Hanze Dong, Wei Xiong, Deepanshu Goyal, Yihan Zhang, Winnie Chow, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06767.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3ab661db57d924f4ff1706e05ac807873ca00e0a?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/RAFT%3A-Reward-rAnked-FineTuning-for-Generative-Model-Dong-Xiong/3ab661db57d924f4ff1706e05ac807873ca00e0a?utm_source=direct_link)
 
-+ **Proximal policy optimization algorithms** (20 Jul 2017)<details><summary>John Schulman, Filip Wolski, Prafulla Dhariwal, et al.</summary>John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1707.06347.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdce6f9d4017b1785979e7520fd0834ef8cf02f4b?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Proximal-Policy-Optimization-Algorithms-Schulman-Wolski/dce6f9d4017b1785979e7520fd0834ef8cf02f4b?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/morikatron/PPO.svg?style=social&label=Star)](https://github.com/morikatron/PPO)
-
-+ **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** (13 Dec 2023)<details><summary>Rafael Rafailov, Archit Sharma, Eric Mitchell, et al.</summary>Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.18290.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0d1c76d45afa012ded7ab741194baf142117c495?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Direct-Preference-Optimization%3A-Your-Language-Model-Rafailov-Sharma/0d1c76d45afa012ded7ab741194baf142117c495?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/lucidrains/self-rewarding-lm-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/self-rewarding-lm-pytorch)
-
-+ **Better aligning text-to-image models with human preference** (22 Aug 2023)<details><summary>Xiaoshi Wu, Keqiang Sun, Feng Zhu, et al.</summary>Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2303.14420.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F14c3cf58192774b9b6fc6188df99efd6ab5fc739?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Better-Aligning-Text-to-Image-Models-with-Human-Wu-Sun/14c3cf58192774b9b6fc6188df99efd6ab5fc739?utm_source=direct_link)
++ **Better aligning text-to-image models with human preference** (22 Aug 2023)"Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14420.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F14c3cf58192774b9b6fc6188df99efd6ab5fc739?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Better-Aligning-Text-to-Image-Models-with-Human-Wu-Sun/14c3cf58192774b9b6fc6188df99efd6ab5fc739?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/tgxs002/align_sd.svg?style=social&label=Star)](https://github.com/tgxs002/align_sd)
 
-+ **Raft: Reward ranked fine tuning for generative foundation model alignment** (1 Dec 2023)<details><summary>Hanze Dong, Wei Xiong, Deepanshu Goyal, et al.</summary>Hanze Dong, Wei Xiong, Deepanshu Goyal, Yihan Zhang, Winnie Chow, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.06767.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3ab661db57d924f4ff1706e05ac807873ca00e0a?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/RAFT%3A-Reward-rAnked-FineTuning-for-Generative-Model-Dong-Xiong/3ab661db57d924f4ff1706e05ac807873ca00e0a?utm_source=direct_link)
-<!-- [![Code](https://img.shields.io/github/stars/https://optimalscale.github.io/LMFlow/examples/raft.html.svg?style=social&label=Star)](https://optimalscale.github.io/LMFlow/examples/raft.html) -->
++ **Scalable agent alignment via reward modeling: a research direction** (19 Nov 2018)"Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1811.07871.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc6f913e4baa7f2c85363c0625c87003ad3b3a14c?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Scalable-agent-alignment-via-reward-modeling%3A-a-Leike-Krueger/c6f913e4baa7f2c85363c0625c87003ad3b3a14c?utm_source=direct_link)
+
++ **Proximal policy optimization algorithms** (20 Jul 2017)"John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.06347.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdce6f9d4017b1785979e7520fd0834ef8cf02f4b?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Proximal-Policy-Optimization-Algorithms-Schulman-Wolski/dce6f9d4017b1785979e7520fd0834ef8cf02f4b?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/morikatron/PPO.svg?style=social&label=Star)](https://github.com/morikatron/PPO)
 
 ## Datasets
-
-+ **Can pre-trained vision and language models answer visual information-seeking questions?** (17 Oct 2023)<details><summary>Yang Chen, Hexiang Hu, Yi Luan, et al.</summary>Yang Chen, Hexiang Hu, Yi Luan, Haitian Sun, Soravit Changpinyo, Alan Ritter, Ming-Wei Chang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2302.11713.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff890b4dfe915174b23db909b07c515d465eaeff2?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Can-Pre-trained-Vision-and-Language-Models-Answer-Chen-Hu/f890b4dfe915174b23db909b07c515d465eaeff2?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/edchengg/infoseek_eval.svg?style=social&label=Star)](https://github.com/edchengg/infoseek_eval)
-
-+ **Can language models be instructed to protect personal information?** (3 Oct 2023)<details><summary>Yang Chen, Ethan Mendes, Sauvik Das, et al.</summary>Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.02224.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2403c8e72a90d9c778970fc0812ecdcc58800c5d?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/Can-Language-Models-be-Instructed-to-Protect-Chen-Mendes/2403c8e72a90d9c778970fc0812ecdcc58800c5d?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/ethanm88/llm-access-control.svg?style=social&label=Star)](https://github.com/ethanm88/llm-access-control)
-
-+ **Goat-bench: Safety insights to large multimodal models through meme-based social abuse.** (7 Jan 2024)<details><summary>Hongzhan Lin, Ziyang Luo, Bo Wang, et al.</summary>Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.01523.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd98aa44f79fe798ad5ff0cac6e7bf32ee30bd156?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/GOAT-Bench%3A-Safety-Insights-to-Large-Multimodal-Lin-Luo/d98aa44f79fe798ad5ff0cac6e7bf32ee30bd156?utm_source=direct_link)
++ **Goat-bench: Safety insights to large multimodal models through meme-based social abuse.** (7 Jan 2024)"Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01523.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd98aa44f79fe798ad5ff0cac6e7bf32ee30bd156?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/GOAT-Bench%3A-Safety-Insights-to-Large-Multimodal-Lin-Luo/d98aa44f79fe798ad5ff0cac6e7bf32ee30bd156?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/isXinLiu/MLLM-Safety-Collection.svg?style=social&label=Star)](https://github.com/isXinLiu/MLLM-Safety-Collection)
 
-+ **Safety assessment of chinese large language models** (20 Apr 2023)<details><summary>Hao Sun, Zhexin Zhang, Jiawen Deng, et al.</summary>Hao Sun, Zhexin Zhang, Jiawen Deng, Jiale Cheng, Minlie Huang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.10436.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4f0c7f4df04f07609bdb67944af2a529d5a4517b?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/paper/A-Survey-of-Safety-and-Trustworthiness-of-Large-the-Huang-Ruan/4f0c7f4df04f07609bdb67944af2a529d5a4517b?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/thu-coai/Safety-Prompts.svg?style=social&label=Star)](https://github.com/thu-coai/Safety-Prompts)
-
-+ **Beavertails: Towards improved safety alignment of llm via a human-preference dataset** (7 Nov 2023)<details><summary>Jiaming Ji, Mickel Liu, Juntao Dai, et al.</summary>Jiaming Ji, Mickel Liu, Juntao Dai, Xuehai Pan, Chi Zhang, Ce Bian, Chi Zhang, Ruiyang Sun, Yizhou Wang, Yaodong Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2307.04657.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F92930ed3560ea6c86d53cf52158bc793b089054d?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/BeaverTails%3A-Towards-Improved-Safety-Alignment-of-a-Ji-Liu/92930ed3560ea6c86d53cf52158bc793b089054d?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/Yangyi-Chen/Multimodal-AND-Large-Language-Models.svg?style=social&label=Star)](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
-
-+ **Safetybench: Evaluating the safety of large language models with multiple choice questions** (13 Sep 2023)<details><summary>Zhexin Zhang, Leqi Lei, Lindong Wu, et al.</summary>Zhexin Zhang, Leqi Lei, Lindong Wu, Rui Sun, Yongkang Huang, Chong Long, Xiao Liu, Xuanyu Lei, Jie Tang, Minlie Huang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.07045.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9b9a4fa3ed510fc6eb1bf831979235f3d9f8b556?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SafetyBench%3A-Evaluating-the-Safety-of-Large-Models-Zhang-Lei/9b9a4fa3ed510fc6eb1bf831979235f3d9f8b556?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/thu-coai/SafetyBench.svg?style=social&label=Star)](https://github.com/thu-coai/SafetyBench)
-
-+ **Tovilag: Your visual-language generative model is also an evildoer.** (13 Dec 2023)<details><summary>Xinpeng Wang, Xiaoyuan Yi, Han Jiang, et al.</summary>Xinpeng Wang, Xiaoyuan Yi, Han Jiang, Shanlin Zhou, Zhihua Wei, Xing Xie</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://export.arxiv.org/pdf/2312.11523)
++ **Tovilag: Your visual-language generative model is also an evildoer.** (13 Dec 2023)"Xinpeng Wang, Xiaoyuan Yi, Han Jiang, Shanlin Zhou, Zhihua Wei, Xing Xie"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://export.arxiv.org/abs/2312.11523)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10280c290825fc0b0c884e988f4f1dedb80e4e80?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ToViLaG%3A-Your-Visual-Language-Generative-Model-is-Wang-Yi/10280c290825fc0b0c884e988f4f1dedb80e4e80?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/victorup/ToViLaG.svg?style=social&label=Star)](https://github.com/victorup/ToViLaG)
 
-+ **Figstep: Jailbreaking large vision-language models via typographic visual prompts.** (13 Dec 2023)<details><summary>Yichen Gong, Delong Ran, Jinyuan Liu, et al.</summary>Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.05608.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2313afae52d98e569da2dedbf14daf9efc74e7cf?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/CogVLM%3A-Visual-Expert-for-Pretrained-Language-Wang-Lv/2313afae52d98e569da2dedbf14daf9efc74e7cf?utm_source=direct_link)
++ **Figstep: Jailbreaking large vision-language models via typographic visual prompts.** (13 Dec 2023)"Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.05608.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb78b5ce5f21f46d8149824463f8eebd6103d49aa?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/FigStep%3A-Jailbreaking-Large-Vision-language-Models-Gong-Ran/b78b5ce5f21f46d8149824463f8eebd6103d49aa?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/ThuCCSLab/FigStep.svg?style=social&label=Star)](https://github.com/ThuCCSLab/FigStep)
 
-+ **Query-relevant images jailbreak large multi-modal models.** (29 Nov 2023)<details><summary>Xin Liu, Yichen Zhu, Yunshi Lan, et al.</summary>Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17600.pdf)
++ **Query-relevant images jailbreak large multi-modal models.** (29 Nov 2023)"Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17600.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F74423a9ee66085e74cd2b2e42303f28359c74eb6?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Query-Relevant-Images-Jailbreak-Large-Multi-Modal-Liu-Zhu/74423a9ee66085e74cd2b2e42303f28359c74eb6?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/isXinLiu/MM-SafetyBench.svg?style=social&label=Star)](https://github.com/isXinLiu/MM-SafetyBench)
 
-+ **Dress: Instructing large vision-language models to align and interact with humans via natural language feedback.** (16 Nov 2023)<details><summary>Yangyi Chen, Karan Sikka, Michael Cogswell, et al.</summary>Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.10081.pdf)
++ **Large Language Models as Automated Aligners for benchmarking Vision-Language Models.** (24 Nov 2023)"Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Ping Luo"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07036)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb754ff078bb45131aef0b8bd7aa1bebd238560da?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Large-Language-Models-as-Automated-Aligners-for-Ji-Ge/b754ff078bb45131aef0b8bd7aa1bebd238560da?utm_source=direct_link)
+
++ **Dress: Instructing large vision-language models to align and interact with humans via natural language feedback.** (16 Nov 2023)"Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10081.pdf)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F391eaeb1092c2b145ff0e5a2fa61637a42921fce?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/DRESS%3A-Instructing-Large-Vision-Language-Models-to-Chen-Sikka/391eaeb1092c2b145ff0e5a2fa61637a42921fce?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/isXinLiu/MLLM-Safety-Collection.svg?style=social&label=Star)](https://github.com/isXinLiu/MLLM-Safety-Collection)
+
++ **Beavertails: Towards improved safety alignment of llm via a human-preference dataset** (7 Nov 2023)"Jiaming Ji, Mickel Liu, Juntao Dai, Xuehai Pan, Chi Zhang, Ce Bian, Chi Zhang, Ruiyang Sun, Yizhou Wang, Yaodong Yang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04657.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F92930ed3560ea6c86d53cf52158bc793b089054d?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/BeaverTails%3A-Towards-Improved-Safety-Alignment-of-a-Ji-Liu/92930ed3560ea6c86d53cf52158bc793b089054d?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/GaryYufei/AlignLLMHumanSurvey.svg?style=social&label=Star)](https://github.com/GaryYufei/AlignLLMHumanSurvey)
+
++ **Can pre-trained vision and language models answer visual information-seeking questions?** (17 Oct 2023)"Yang Chen, Hexiang Hu, Yi Luan, Haitian Sun, Soravit Changpinyo, Alan Ritter, Ming-Wei Chang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11713.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff890b4dfe915174b23db909b07c515d465eaeff2?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Can-Pre-trained-Vision-and-Language-Models-Answer-Chen-Hu/f890b4dfe915174b23db909b07c515d465eaeff2?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/edchengg/infoseek_eval.svg?style=social&label=Star)](https://github.com/edchengg/infoseek_eval)
+
++ **Can language models be instructed to protect personal information?** (3 Oct 2023)"Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02224.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2403c8e72a90d9c778970fc0812ecdcc58800c5d?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Can-Language-Models-be-Instructed-to-Protect-Chen-Mendes/2403c8e72a90d9c778970fc0812ecdcc58800c5d?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/ethanm88/llm-access-control.svg?style=social&label=Star)](https://github.com/ethanm88/llm-access-control)
+
++ **Safetybench: Evaluating the safety of large language models with multiple choice questions** (13 Sep 2023)"Zhexin Zhang, Leqi Lei, Lindong Wu, Rui Sun, Yongkang Huang, Chong Long, Xiao Liu, Xuanyu Lei, Jie Tang, Minlie Huang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.07045.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9b9a4fa3ed510fc6eb1bf831979235f3d9f8b556?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SafetyBench%3A-Evaluating-the-Safety-of-Large-Models-Zhang-Lei/9b9a4fa3ed510fc6eb1bf831979235f3d9f8b556?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/thu-coai/SafetyBench.svg?style=social&label=Star)](https://github.com/thu-coai/SafetyBench)
+
++ **Safety assessment of chinese large language models** (20 Apr 2023)"Hao Sun, Zhexin Zhang, Jiawen Deng, Jiale Cheng, Minlie Huang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10436.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59fc49dfd81b92661437eaf7e339c0792ccd8755?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Safety-Assessment-of-Chinese-Large-Language-Models-Sun-Zhang/59fc49dfd81b92661437eaf7e339c0792ccd8755?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/thu-coai/Safety-Prompts.svg?style=social&label=Star)](https://github.com/thu-coai/Safety-Prompts)
 
 
+## 3D, Video & Audio Safety
+
++ **Not My Voice! A Taxonomy of Ethical and Safety Harms of Speech Generators** (25 Jan 2024)\
+"Wiebke Hutiri, Oresiti Papakyriakopoulos, Alice Xiang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.01708)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9c70b8ca18bc38ac3ebf22129aa0ed33b2c25e89?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Not-My-Voice!-A-Taxonomy-of-Ethical-an
+
++ **Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF** (4 Sep 2023)\
+"Leheng Li, Qing Lian, Ying-Cong Chen"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.01351)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdaa6a6b2c495d002d72075c6203c98061d1e35f9?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Adv3D%3A-Generating-3D-Adversarial-Examples-in-with-Li-Lian/daa6a6b2c495d002d72075c6203c98061d1e35f9?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/EnVision-Research/Adv3D.svg?style=social&label=Star)](https://github.com/EnVision-Research/Adv3D)
+
++ **Deepfake Video Detection Using Generative Convolutional Vision Transformer** (13 Jul 2023)\
+"Deressa Wodajo, Solomon Atnafu, Zahid Akhtar"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07036)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F86301139cc02eb53247e63fca91b916348591505?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Deepfake-Video-Detection-Using-Generative-Vision-Wodajo-Atnafu/86301139cc02eb53247e63fca91b916348591505?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/erprogs/GenConViT.svg?style=social&label=Star)](https://github.com/erprogs/GenConViT)
+
++ **M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection** (19 Apr 2022)"Junke Wang, Zuxuan Wu, Wenhao Ouyang, Xintong Han, Jingjing Chen, Ser-Nam Lim, Yu-Gang Jiang"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.09770)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F21e0858665cddf51689fc680f72ec4e00b68ae04?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/M2TR%3A-Multi-modal-Multi-scale-Transformers-for-Wang-Wu/21e0858665cddf51689fc680f72ec4e00b68ae04?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection.svg?style=social&label=Star)](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)
+
++ **Deepfake Video Detection Using Convolutional Vision Transformer** (11 Mar 2021)\
+"Deressa Wodajo, Solomon Atnafu"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.11126)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F86301139cc02eb53247e63fca91b916348591505?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Deepfake-Video-Detection-Using-Generative-Vision-Wodajo-Atnafu/86301139cc02eb53247e63fca91b916348591505?utm_source=direct_link)
+[![Code](https://img.shields.io/github/stars/erprogs/GenConViT.svg?style=social&label=Star)](https://github.com/erprogs/GenConViT)
+
++ **"Deepfakes Generation and Detection: State-of-the-art, open challenges, countermeasures, and way forward"** (25 Feb 2021)"Momina Masood, Marriam Nawaz, Khalid Mahmood Malik, Ali Javed, Aun Irtaza"
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.00484)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe8f1c51c4e881345c0588bec8aa8bc6d9164a535?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Deepfakes-generation-and-detection%3A-open-and-way-Masood-Nawaz/e8f1c51c4e881345c0588bec8aa8bc6d9164a535?utm_source=direct_link)
 
 
 
