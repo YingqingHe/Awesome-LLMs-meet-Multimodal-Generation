@@ -45,6 +45,7 @@
   - [Defense and Detect](#defense-and-detect)
   - [Alignment](#alignment)
   - [Datasets](#datasets-4)
+  - [3D, Video and Audio Safety](#3d,-video-and-audio-safety)
 - [📍 Related Surveys](#-related-surveys)
   - [LLM](#llm)
   - [Vision](#vision)
@@ -1904,7 +1905,7 @@ Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
 
 
 
-# Multimodal LLM Safety
+# 📍 Multimodal LLM Safety
 ## Attack
 
 + **Jailbreaking gpt-4v via self-adversarial attacks with system prompts.** (20 Jan 2024)"Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun"
@@ -2101,7 +2102,7 @@ Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
 [![Code](https://img.shields.io/github/stars/thu-coai/Safety-Prompts.svg?style=social&label=Star)](https://github.com/thu-coai/Safety-Prompts)
 
 
-## 3D, Video & Audio Safety
+## 3D, Video and Audio Safety
 
 + **Not My Voice! A Taxonomy of Ethical and Safety Harms of Speech Generators** (25 Jan 2024)\
 "Wiebke Hutiri, Oresiti Papakyriakopoulos, Alice Xiang"
