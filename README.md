@@ -384,13 +384,13 @@ Tags: `customization`
 Tags: `customization`
 
 + **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** (23 May 2022)\
-[NeurIPS 2022] Saharia, Chitwan, et al.\
+[NeurIPS 2022] <details><summary>Saharia, Chitwan Chan, William Saxena, Saurabh Li, Lala Whang, Jay Denton, Emily L Ghasemipour, Kamyar Gontijo Lopes, Raphael Karagol Ayan, Burcu Salimans, Tim others</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9695824d7a01fad57ba9c01d7d76a519d78d65e7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Photorealistic-Text-to-Image-Diffusion-Models-with-Saharia-Chan/9695824d7a01fad57ba9c01d7d76a519d78d65e7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://imagen.research.google/) 
 
 + **High-Resolution Image Synthesis with Latent Diffusion Models** (20 Dec 2021)\
-[CVPR 2022 (Oral)] Rombach, Robin, et al.\
+[CVPR 2022 (Oral)] <details><summary>Rombach, Robin Blattmann, Andreas Lorenz, et al. </summary>Rombach, Robin Blattmann, Andreas Lorenz, Dominik Esser, Patrick Ommer, Bj{\"o}rn</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc10075b3746a9f3dd5811970e93c8ca3ad39b39d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/High-Resolution-Image-Synthesis-with-Latent-Models-Rombach-Blattmann/c10075b3746a9f3dd5811970e93c8ca3ad39b39d)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ommer-lab.com/research/latent-diffusion-models/)
