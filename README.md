@@ -633,23 +633,20 @@ Tags: `human motion generation`
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/Animate-A-Story/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/Animate-A-Story.svg?style=social&label=Star)](https://github.com/AILab-CVC/Animate-A-Story)
 
-+ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (1 Jun 2023)\
-Xing, Jinbo, et al.\
++ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (1 Jun 2023)<details><summary>Jinbo Xing, Menghan Xia, Yuxin Liu, et al.</summary>Jinbo Xing, Menghan Xia, Yuxin Liu, Yuechen Zhang, Yong Zhang, Yingqing He, Hanyuan Liu, Haoxin Chen, Xiaodong Cun, Xintao Wang, Ying Shan, Tien-Tsin Wong</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00943)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F52b10ae66d025e99fbb602935e155f97f4f0696f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Make-Your-Video%3A-Customized-Video-Generation-Using-Xing-Xia/52b10ae66d025e99fbb602935e155f97f4f0696f)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/Make-Your-Video/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/Make-Your-Video.svg?style=social&label=Star)](https://github.com/AILab-CVC/Make-Your-Video)
 
-+ **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023)\
-Ma, Yue, et al.\
++ **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023)<details><summary>Yue Ma, Yingqing He, Xiaodong Cun, et al.</summary>Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fee73edebd42626d9c2d91e35fd2ed3cdb0fb26d0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Follow-Your-Pose%3A-Pose-Guided-Text-to-Video-using-Ma-He/ee73edebd42626d9c2d91e35fd2ed3cdb0fb26d0)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-pose.github.io/)
 [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/YueMafighting/FollowYourPose)
 
-+ **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (15 Mar 2023)\
-[CVPR 2023] Luo, Zhengxiong, et al.\
++ **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (15 Mar 2023)<details><summary>Zhengxiong Luo, Dayou Chen, Yingya Zhang, et al.</summary>Zhengxiong Luo, Dayou Chen, Yingya Zhang, Yan Huang, Liang Wang, Yujun Shen, Deli Zhao, Jingren Zhou, Tieniu Tan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F26c6090b7e7ba4513f82aa28d41360c60770c618%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/VideoFusion%3A-Decomposed-Diffusion-Models-for-Video-Luo-Chen/26c6090b7e7ba4513f82aa28d41360c60770c618)
 
