@@ -1991,7 +1991,7 @@ Zeming Wei, Yifei Wang, Yisen Wang\
 
 
 
-## 3D, Video & Audio Safety
+## 3D, Video and Audio Safety
 
 + **Not My Voice! A Taxonomy of Ethical and Safety Harms of Speech Generators** (25 Jan 2024)\
 Wiebke Hutiri, Oresiti Papakyriakopoulos, Alice Xiang\
