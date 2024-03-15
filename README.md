@@ -1857,13 +1857,6 @@ Robin Jia, Percy Liang (EMNLP 2017)\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Systems-Jia-Liang/ffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link)
 [![Code](https://img.shields.io/github/stars/robinjia/adversarial-squad.svg?style=social&label=Star)](https://github.com/robinjia/adversarial-squad)
 
-+ **Adversarial Examples for Evaluating Reading Comprehension Systems** (23 Jul 2017)\
-Robin Jia, Percy Liang (EMNLP 2017)\
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.07328.pdf)
-[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Systems-Jia-Liang/ffb949d3493c3b2f3c9acf9c75cb03938933ddf0?utm_source=direct_link)
-[![Code](https://img.shields.io/github/stars/robinjia/adversarial-squad.svg?style=social&label=Star)](https://github.com/robinjia/adversarial-squad)
-
-
 
 
 ## Defense and Detect
