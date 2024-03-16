@@ -1093,6 +1093,49 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F428854d9e75f94f0e61f37c6887c77800437d516%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicLM%3A-Generating-Music-From-Text-Agostinelli-Denk/428854d9e75f94f0e61f37c6887c77800437d516)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://google-research.github.io/seanet/musiclm/examples/)
 ### Datasets
++ **Libriheavy: a 50,000 hours ASR corpus with punctuation casing and context** (15 Sep 2023)<details><summary>Wei Kang, Xiaoyu Yang, Zengwei Yao, et al.</summary>Wei Kang, Xiaoyu Yang, Zengwei Yao, Fangjun Kuang, Yifan Yang, Liyong Guo, Long Lin, Daniel Povey</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.08105)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe99b45179686982401d2d6ec919e42b327f04c0b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Libriheavy%3A-a-50%2C-000-hours-ASR-corpus-with-casing-Kang-Yang/e99b45179686982401d2d6ec919e42b327f04c0b)
+
++ **WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition** (7 Oct 2021)<details><summary>BinBin Zhang, Hang Lv, Pengcheng Guo, et al.</summary>BinBin Zhang, Hang Lv, Pengcheng Guo, Qijie Shao, Chao Yang, Lei Xie, Xin Xu, Hui Bu, Xiaoyu Chen, Chenchen Zeng, Di wu, Zhendong Peng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.03370)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9de3ac21af795dac56f6031e73db8198716bb352%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/WENETSPEECH%3A-A-10000%2B-Hours-Multi-Domain-Mandarin-Zhang-Lv/9de3ac21af795dac56f6031e73db8198716bb352)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wenet.org.cn/WenetSpeech/)
+
++ **Vggsound: A large-scale audio-visual dataset** (29 Apr 2020)<details><summary>Honglie Chen, Weidi Xie, Andrea Vedaldi, et al. (ICASSP)</summary>Honglie Chen, Weidi Xie, Andrea Vedaldi, Andrew Zisserman</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.14368)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F66831f683141c11ed7e20b0f2e8b40700740c164%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Vggsound%3A-A-Large-Scale-Audio-Visual-Dataset-Chen-Xie/66831f683141c11ed7e20b0f2e8b40700740c164)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)
+
++ **Libri-Light: A Benchmark for ASR with Limited or No Supervision** (17 Dec 2019 )<details><summary>Jacob Kahn, Morgane Rivière, Weiyi Zheng, et al. (ICASSP)</summary>Jacob Kahn, Morgane Rivière, Weiyi Zheng, Evgeny Kharitonov, Qiantong Xu, Pierre-Emmanuel Mazaré, Julien Karadayi, Vitaliy Liptchinsky, Ronan Collobert, Christian Fuegen, Tatiana Likhomanenko, Gabriel Synnaeve, Armand Joulin, Abdel-rahman Mohamed, Emmanuel Dupoux</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/9052942?casa_token=lrlqiDak4dkAAAAA:VfCRwwWhLiJyb61NkesOfzpobk4zjac1boi4PoJ7llh1SKSi5YJDt4DaozUQw_o8X4LvO1bK)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff59c038dee828e0a8c2fc28130d12e39ee4952d6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Libri-Light%3A-A-Benchmark-for-ASR-with-Limited-or-No-Kahn-Rivi%C3%A8re/f59c038dee828e0a8c2fc28130d12e39ee4952d6)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/facebookresearch/libri-light)
+
++ **The mtg-jamendo dataset for automatic music tagging** (15 Jun 2019)<details><summary>Dmitry Bogdanov, Minz Won, Philip Tovstogan, et al. (ICML)</summary>Dmitry Bogdanov, Minz Won, Philip Tovstogan, Alastair Porter, Xavier Serra</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://repositori.upf.edu/bitstream/handle/10230/42015/bogdanov_ICML2019__Jamendo.pdf?sequence=1&isAllowed=y)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F23037085b0815455e6d47333089b925c8c0e21d5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/The-MTG-Jamendo-Dataset-for-Automatic-Music-Tagging-Bogdanov-Won/23037085b0815455e6d47333089b925c8c0e21d5)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mtg.github.io/mtg-jamendo-dataset/)
+[![Code](https://img.shields.io/github/stars/MTG/mtg-jamendo-dataset.svg?style=social&label=Star)](https://github.com/MTG/mtg-jamendo-dataset)
+
++ **LibriTTS: A Corpus Derived from LibriSpeech for Text-to-Speech** (5 Apr 2019)<details><summary>Heiga Zen, Viet Dang, Rob Clark, et al.</summary>Heiga Zen, Viet Dang, Rob Clark, Yu Zhang, Ron J. Weiss, Ye Jia, Zhifeng Chen, Yonghui Wu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02882)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2789b6c84ba1422746246685001accba5563e7c1%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/LibriTTS%3A-A-Corpus-Derived-from-LibriSpeech-for-Zen-Dang/2789b6c84ba1422746246685001accba5563e7c1)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.openslr.org/60/)
+
++ **Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset** (29 Oct 2018)<details><summary>Curtis Hawthorne, Andriy Stasyuk, Adam Roberts, et al.</summary>Curtis Hawthorne, Andriy Stasyuk, Adam Roberts, Ian Simon, Cheng-Zhi Anna Huang, Sander Dieleman, Erich Elsen, Jesse Engel, Douglas Eck</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1810.12247)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2603a68b4503ba949c91c7e00cd342624b4aae2f%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Enabling-Factorized-Piano-Music-Modeling-and-with-Hawthorne-Stasyuk/2603a68b4503ba949c91c7e00cd342624b4aae2f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://magenta.tensorflow.org/datasets/maestro)
+
++ **Audio Set: An ontology and human-labeled dataset for audio events** (05 Mar 2017)<details><summary>Jort F. Gemmeke, Daniel P. W. Ellis, Dylan Freedman, et al. (TASLP)</summary>Jort F. Gemmeke, Daniel P. W. Ellis, Dylan Freedman, Aren Jansen, Wade Lawrence, R. Channing Moore, Manoj Plakal, Marvin Ritter</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45857.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5ba2218b708ca64ab556e39d5997202e012717d5%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Audio-Set%3A-An-ontology-and-human-labeled-dataset-Gemmeke-Ellis/5ba2218b708ca64ab556e39d5997202e012717d5)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.google.com/audioset/index.html)
+
++ **Librispeech: An ASR corpus based on public domain audio books** (19 Apr2015)<details><summary>Vassil Panayotov, Guoguo Chen, Daniel Povey, et al. (ICASSP)</summary>Vassil Panayotov, Guoguo Chen, Daniel Povey, Sanjeev Khudanpur</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/7178964)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F34038d9424ce602d7ac917a4e582d977725d4393%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Librispeech%3A-An-ASR-corpus-based-on-public-domain-Panayotov-Chen/34038d9424ce602d7ac917a4e582d977725d4393)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.openslr.org/12)
+
++ **Evaluation of Algorithms Using Games: The Case of Music Tagging** (26 Oct 2009)<details><summary>Edith Law, Kris West, Michael Mandel, et al. (ISMIR)</summary>Edith Law, Kris West, Michael Mandel, Mert Bay J. Stephen Downie</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ismir2009.ismir.net/proceedings/OS5-5.pdf)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8a1384e041cc6ea2735b01c734aeef666dc92884%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Evaluation-of-Algorithms-Using-Games%3A-The-Case-of-Law-West/8a1384e041cc6ea2735b01c734aeef666dc92884)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
 # 📍 LLMs for Visual-audio Editing
 
