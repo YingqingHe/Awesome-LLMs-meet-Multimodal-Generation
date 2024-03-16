@@ -936,6 +936,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 + **SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation** (27 Feb 2024)<details><summary>Shuangrui Ding, Zihan Liu, Xiaoyi Dong, et al.</summary>Shuangrui Ding, Zihan Liu, Xiaoyi Dong, Pan Zhang, Rui Qian, Conghui He, Dahua Lin, Jiaqi Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17645)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe7c8a74423a5811a3aac5f33001fce32d2e2386c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/SongComposer%3A-A-Large-Language-Model-for-Lyric-and-Ding-Liu/e7c8a74423a5811a3aac5f33001fce32d2e2386c)
+[![citation](https://img.shields.io/badge/citation-10-blue.svg)]
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pjlab-songcomposer.github.io/)
 [![Code](https://img.shields.io/github/stars/pjlab-songcomposer/songcomposer.svg?style=social&label=Star)](https://github.com/pjlab-songcomposer/songcomposer)
 
