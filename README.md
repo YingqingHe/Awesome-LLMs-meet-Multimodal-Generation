@@ -1019,12 +1019,12 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12404)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcca4218dd7c10c1614bbd84aa7cd7e00027bdc7c%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Loop-Copilot%3A-Conducting-AI-Ensembles-for-Music-and-Zhang-Maezawa/cca4218dd7c10c1614bbd84aa7cd7e00027bdc7c)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/loop-copilot)
-[![Code](https://img.shields.io/github/stars/ldzhangyx/loop-copilot/.svg?style=social&label=Star)](https://github.com/ldzhangyx/loop-copilot/)
+[![Code](https://img.shields.io/github/stars/ldzhangyx/loop-copilot.svg?style=social&label=Star)](https://github.com/ldzhangyx/loop-copilot/)
 
 + **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (18 Oct 2023)<details><summary>Dingyao Yu, Kaitao Song, Peiling Lu, et al.</summary>Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, Wei Ye, Shikun Zhang, Jiang Bian</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11954)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbeaf64df85f8204b8cd89a7f46827608e6d16922%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicAgent%3A-An-AI-Agent-for-Music-Understanding-and-Yu-Song/beaf64df85f8204b8cd89a7f46827608e6d16922)
-[![Code](https://img.shields.io/github/stars/microsoft/muzic/tree/main/musicagent/.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
+[![Code](https://img.shields.io/github/stars/microsoft/muzic/tree/main/musicagent.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
 
 + **UniAudio: An Audio Foundation Model Toward Universal Audio Generation** (1 Oct 2023)\
 Dongchao Yang, Jinchuan Tian, Xu Tan\
