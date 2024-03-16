@@ -72,6 +72,10 @@
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15391v1) -->
 
 
+
+
+
+
 + **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** (8 Mar 2024)<details><summary>Xiwei Hu, Rui Wang, Yixiao Fang, et al.</summary> Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05135)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fda0d382c7fa981ba185ca633868442b75cb76de6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/StarVector%3A-Generating-Scalable-Vector-Graphics-Rodriguez-Agarwal/da0d382c7fa981ba185ca633868442b75cb76de6)
@@ -149,6 +153,13 @@ Tags: `customization`
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jingyechen.github.io/textdiffuser2/)
 [![Code](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser-2)
+
++ **LLMGA: Multimodal Large Language Model based Generation Assistant** (27 Nov 2023)<details><summary>Bin Xia, Shiyin Wang, Yingfan Tao, et al.</summary> Bin Xia, Shiyin Wang, Yingfan Tao, Yitong Wang, Jiaya Jia</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16500)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F769a924d0af014acec326f50c15c5d70d258a969%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/StarVector%3A-Generating-Scalable-Vector-Graphics-Rodriguez-Agarwal/769a924d0af014acec326f50c15c5d70d258a969)
+[![Code](https://img.shields.io/github/stars/dvlab-research/LLMGA.svg?style=social&label=Star)](https://github.com/dvlab-research/LLMGA)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://llmga.github.io/)
+
 
 
 
