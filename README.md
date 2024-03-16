@@ -1024,7 +1024,7 @@ Apoorv Vyas, Bowen Shi, Matthew Le\
 + **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** (18 Oct 2023)<details><summary>Dingyao Yu, Kaitao Song, Peiling Lu, et al.</summary>Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, Wei Ye, Shikun Zhang, Jiang Bian</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11954)
 [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbeaf64df85f8204b8cd89a7f46827608e6d16922%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/MusicAgent%3A-An-AI-Agent-for-Music-Understanding-and-Yu-Song/beaf64df85f8204b8cd89a7f46827608e6d16922)
-[![Code](https://img.shields.io/github/stars/microsoft/muzic/tree/main/musicagent.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
+[![Code](https://img.shields.io/github/stars/microsoft/muzic/tree/main/musicagent/.svg?style=social&label=Star)](https://github.com/microsoft/muzic/tree/main/musicagent)
 
 + **UniAudio: An Audio Foundation Model Toward Universal Audio Generation** (1 Oct 2023)\
 Dongchao Yang, Jinchuan Tian, Xu Tan\
