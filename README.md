@@ -767,25 +767,16 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12634)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=816792e66f463be2aa1888e4ecb51f8fb2b4dd79)](https://www.semanticscholar.org/paper/816792e66f463be2aa1888e4ecb51f8fb2b4dd79)
 
-+ **HOLODECK: Language Guided Generation of 3D Embodied AI Environments** (19 Dec 2023)<details><summary>Yue Yang, Fan-Yun Sun, Luca Weihs, et al. </summary>Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark</details>
++ **HOLODECK: Language Guided Generation of 3D Embodied AI Environments** (19 Dec 2023)<details><summary>[CVPR 2024]Yue Yang, Fan-Yun Sun, Luca Weihs, et al. </summary>Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09067)
 [![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=1dbc2cdcae3e17c3d721d12a5a2d98ced727681a)](https://www.semanticscholar.org/paper/1dbc2cdcae3e17c3d721d12a5a2d98ced727681a)
 [![Code](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star)](https://github.com/allenai/Holodeck)
 
-+ **PoseGPT: Chatting about 3D Human Pose** (30 Nov 2023)<details><summary>Yao Feng, Jing Lin, Sai Kumar Dwivedi, et al. </summary>Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black</details>
++ **PoseGPT: Chatting about 3D Human Pose** (30 Nov 2023)<details><summary>Yao Feng, Jing Lin, Sai Kumar Dwivedi, et al. </summary>[CVPR 2024] Yao Feng, Jing Lin, Sai Kumar Dwivedi, Yu Sun, Priyanka Patel, Michael J. Black</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18836)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=4673c2ac4abb4b055da87171231acb60801ffe74)](https://www.semanticscholar.org/paper/4673c2ac4abb4b055da87171231acb60801ffe74)
 [![Code](https://img.shields.io/github/stars/yfeng95/PoseGPT.svg?style=social&label=Star)](https://github.com/yfeng95/PoseGPT)
 
-+ **ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model** (1 Dec 2023)<details><summary>Fukun Yin, Xin Chen, Chi Zhang, et al. </summary>Fukun Yin, Xin Chen, Chi Zhang, Biao Jiang, Zibo Zhao, Jiayuan Fan, Gang Yu, Taihao Li, Tao Chen</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17618)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=09157a8c0e7d7263ac035690118ddcbe295cee5c)](https://www.semanticscholar.org/paper/09157a8c0e7d7263ac035690118ddcbe295cee5c)
-[![Code](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star)](https://github.com/OpenShapeLab/ShapeGPT)
-
-+ **MotionGPT: Human Motion as a Foreign Language** (20 Jul 2023)<details><summary>Biao Jiang, Xin Chen, Wen Liu, et al. </summary>Biao Jiang, Xin Chen, Wen Liu, Jingyi Yu, Gang Yu, Tao Chen</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.14795)
-[![citation](https://img.shields.io/badge/citation-47-blue.svg?paper=d212fa27f5868f0fd106e1a7bba908fd47da0816)](https://www.semanticscholar.org/paper/d212fa27f5868f0fd106e1a7bba908fd47da0816)
-[![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT.svg?style=social&label=Star)](https://github.com/OpenMotionLab/MotionGPT)
 
 + **3D-GPT: Procedural 3D MODELING WITH LARGE LANGUAGE MODELS** (19 Oct 2023)<details><summary>Chunyi Sun*, Junlin Han*, Weijian Deng, et al. </summary>Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12945)
@@ -796,6 +787,17 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 
 
 ### Non-LLM-based (Clip/T5)
++ **Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior** (12 Mar 2024)<details><summary>Zike Wu, Pan Zhou, Xuanyu Yi, et al. </summary>[CVPR 2024]Zike Wu, Pan Zhou, Xuanyu Yi, Xiaoding Yuan, Hanwang Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09050)
+[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=834f595fb25b8306b46f9e744ef8150f4971322f)](https://www.semanticscholar.org/paper/834f595fb25b8306b46f9e744ef8150f4971322f)
+[![Code](https://img.shields.io/github/stars/sail-sg/Consistent3D.svg?style=social&label=Star)](https://github.com/sail-sg/Consistent3D)
+
++ **AToM: Amortized Text-to-Mesh using 2D Diffusion** (1 Feb 2024)<details><summary>Guocheng Qian, Junli Cao, Aliaksandr Siarohin, et al. </summary>Guocheng Qian, Junli Cao, Aliaksandr Siarohin, Yash Kant, Chaoyang Wang, Michael Vasilkovsky, Hsin-Ying Lee, Yuwei Fang, Ivan Skorokhodov, Peiye Zhuang, Igor Gilitschenski, Jian Ren, Bernard Ghanem, Kfir Aberman, Sergey Tulyakov</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00867)
+[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=ce2edcc6a0ef7592c385c5d8fd0924f79707e223)](https://www.semanticscholar.org/paper/ce2edcc6a0ef7592c385c5d8fd0924f79707e223)
+[![Code](https://img.shields.io/github/stars/snap-research/AToM.svg?style=social&label=Star)](https://github.com/snap-research/AToM)
+
+
 + **DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior** ( 12 Mar 2024)<details><summary>Tianyu Huang, Yihan Zeng, Zhilu Zhang, et al. </summary>[CVPR 2024]Tianyu Huang, Yihan Zeng, Zhilu Zhang, Wan Xu, Hang Xu, Songcen Xu, Rynson W. H. Lau, Wangmeng Zuo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06439)
 [![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=c15380dcda5a010827e3b014dcebe95b1218c680)](https://www.semanticscholar.org/paper/c15380dcda5a010827e3b014dcebe95b1218c680)
@@ -831,6 +833,11 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18766)
 [![citation](https://img.shields.io/badge/citation-17-blue.svg?paper=daf3b117f789b2b95223e58592979fb57627515e)](https://www.semanticscholar.org/paper/daf3b117f789b2b95223e58592979fb57627515e)
 [![Code](https://img.shields.io/github/stars/JunzheJosephZhu/HiFA.svg?style=social&label=Star)](https://github.com/JunzheJosephZhu/HiFA)
+
++ **MVDream: Multi-view Diffusion for 3D Generation** (31 Aug 2023)<details><summary>[ICLR 2024] Yichun Shi, Peng Wang, Jianglong Ye, et al. </summary>Yichun Shi, Peng Wang, Jianglong Ye, Mai Long, Kejie Li, Xiao Yang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.16512)
+[![citation](https://img.shields.io/badge/citation-154-blue.svg?paper=9aa01997226b5c4d705ae2e2f52c32681006654b)](https://www.semanticscholar.org/paper/9aa01997226b5c4d705ae2e2f52c32681006654b)
+[![Code](https://img.shields.io/github/stars/bytedance/MVDream.svg?style=social&label=Star)](https://github.com/bytedance/MVDream)
 
 + **ATT3D: Amortized Text-to-3D Object Synthesis** (6 Jun 2023)<details><summary>[ICCV 2023] Jonathan Lorraine, Kevin Xie, Xiaohui Zeng, et al. </summary>Jonathan Lorraine, Kevin Xie, Xiaohui Zeng, Chen-Hsuan Lin, Towaki Takikawa, Nicholas Sharp, Tsung-Yi Lin, Ming-Yu Liu, Sanja Fidler, James Lucas</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07349)
@@ -1789,6 +1796,10 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 
   
 ## 3D Understanding
++ **LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning** (30 Nov 2023)<details><summary>[CVPR2024]Sijin Chen, Xin Chen, Chi Zhang, et al. </summary>[CVPR 2024] Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, Hao Fei, Hongyuan Zhu, Jiayuan Fan, Tao Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18651)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=fc53f8f3a84f1fc4993689d8f98cf6551d07a22d)](https://www.semanticscholar.org/paper/fc53f8f3a84f1fc4993689d8f98cf6551d07a22d)
+[![Code](https://img.shields.io/github/stars/Open3DA/LL3DA.svg?style=social&label=Star)](https://github.com/Open3DA/LL3DA)
 
 + **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (21 Dec 2023)\
 Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
