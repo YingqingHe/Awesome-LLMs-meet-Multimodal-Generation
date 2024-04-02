@@ -565,6 +565,10 @@ Tags: `customization`
 [![citation](https://img.shields.io/badge/citation-18-blue.svg?paper=0c4f46e4dcae5527018e6432fb60cfe8c3354e97)](https://www.semanticscholar.org/paper/0c4f46e4dcae5527018e6432fb60cfe8c3354e97)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.research.google/videopoet/)
 
++ **FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax** (27 Nov 2023)<details><summary>[arXiv 2023] Yu Lu, Linchao Zhu, Hehe Fan, et al.</summary>Yu Lu, Linchao Zhu, Hehe Fan, Yi Yang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15813)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9cdb7e415a96795dc6705e66f3b798238b4dec2c)](https://www.semanticscholar.org/paper/8feb33300c04fffa050e0dca59c3fdcafc920a3b)
+
 + **InterControl: Generate Human Motion Interactions by Controlling Every Joint** (27 Nov 2023)<details><summary>Zhenzhi Wang, Jingbo Wang, Dahua Lin, et al.</summary>Zhenzhi Wang, Jingbo Wang, Dahua Lin, Bo Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15864)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9cdb7e415a96795dc6705e66f3b798238b4dec2c)](https://www.semanticscholar.org/paper/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
