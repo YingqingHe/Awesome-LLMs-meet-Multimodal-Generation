@@ -1,7 +1,16 @@
 
-# Contents
-- [Contents](#contents)
+
+# 🤗 Introduction
+- This repository contains a curated list of **LLMs meet multimodal generation**. Modalities consist of visual (including image, video and 3D) and audio (including sound, speech and music). The survey paper will be released soon.
+  <p align="center">
+  <img src="assets/fig.jpg" width=500"">
+</p>
+
+- We welcome contributions to our repository or the addition of your own work. 
+
+# 📖 Contents
 - [🤗 Introduction](#-introduction)
+- [� Contents](#-contents)
 - [💘 Tips](#-tips)
 - [📍 LLMs for Visual-audio Generation](#-llms-for-visual-audio-generation)
   - [Image Generation](#image-generation)
@@ -48,11 +57,6 @@
 - [📍 Related Surveys](#-related-surveys)
   - [LLM](#llm)
   - [Vision](#vision)
-
-# 🤗 Introduction
-- This repository contains a curated list of LLM-based methods for visual and audio generation.
-- The visual generation includes image, video, and 3D modalities based on the text prompts. 
-- We welcome contributions to our repository or the addition of your own work. 
 
 
 
