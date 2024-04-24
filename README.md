@@ -796,6 +796,8 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 
 
 ### Non-LLM-based (Clip/T5)
+
+
 + **Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior** (12 Mar 2024)<details><summary>Zike Wu, Pan Zhou, Xuanyu Yi, et al. </summary>[CVPR 2024]Zike Wu, Pan Zhou, Xuanyu Yi, Xiaoding Yuan, Hanwang Zhang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09050)
 [![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=834f595fb25b8306b46f9e744ef8150f4971322f)](https://www.semanticscholar.org/paper/834f595fb25b8306b46f9e744ef8150f4971322f)
@@ -872,7 +874,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17590)
 [![citation](https://img.shields.io/badge/citation-14-blue.svg?paper=85a70c0a048cba4f53dcf332ee73f6032a2e53bc)](https://www.semanticscholar.org/paper/85a70c0a048cba4f53dcf332ee73f6032a2e53bc)
 [![Code](https://img.shields.io/github/stars/orenkatzir/nfsd.svg?style=social&label=Star)](https://github.com/orenkatzir/nfsd)
-+ 
+
 + **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** (12 Oct 2023)<details><summary>[CVPR 2024] Taoran Yi, Jiemin Fang, Junjie Wang, et al. </summary>Taoran Yi, Jiemin Fang, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08529)
 [![citation](https://img.shields.io/badge/citation-230-blue.svg?paper=c5e9fd131cde68c218d0ea69cd617a67c7f35d42)](https://www.semanticscholar.org/paper/c5e9fd131cde68c218d0ea69cd617a67c7f35d42)
@@ -925,7 +927,7 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07937)
 [![citation](https://img.shields.io/badge/citation-81-blue.svg?paper=5356c3dac654854a0842753bcc2e3433dc4a2afd)](https://www.semanticscholar.org/paper/5356c3dac654854a0842753bcc2e3433dc4a2afd)
 [![Code](https://img.shields.io/github/stars/eladrich/latent-nerf.svg?style=social&label=Star)](https://github.com/eladrich/latent-nerf)
-+ 
+
 + **Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation** (24 Mar 2023)<details><summary>[ICCV 2023] Rui Chen, Yongwei Chen, Ningxin Jiao, et al. </summary>Rui Chen, Yongwei Chen, Ningxin Jiao, Kui Jia</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13873)
 [![citation](https://img.shields.io/badge/citation-202-blue.svg?paper=0cbb518c364067200476a51e5ce7476a4f582770)](https://www.semanticscholar.org/paper/0cbb518c364067200476a51e5ce7476a4f582770)
@@ -1504,9 +1506,20 @@ Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel.\
 ## 3D Editing
 
 ### 🔅 LLM-based
++ **SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code** (2 Mar 2024)<details><summary>Ziniu Hu, Ahmet Iscen, Aashi Jain, et al. </summary>Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Cordelia Schmid, Alireza Fathi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01248v1)
 
++ **3D-GPT: Procedural 3D MODELING WITH LARGE LANGUAGE MODELS** (19 Oct 2023)<details><summary>Chunyi Sun*, Junlin Han*, Weijian Deng, et al. </summary>Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12945)
+[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=588930cdd801f335b5e524d13f99aa94136a20a0)](https://www.semanticscholar.org/paper/588930cdd801f335b5e524d13f99aa94136a20a0)
+[![Code](https://img.shields.io/github/stars/Chuny1/3DGPT.svg?style=social&label=Star)](https://github.com/Chuny1/3DGPT)
 
 ### Non-LLM-based (Clip/T5)
++ **Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models** (16 Nov 2023)<details><summary>Xianfang Zeng, Xin Chen, Zhongqi Qi, et al.</summary>Xianfang Zeng, Xin Chen, Zhongqi Qi, Wen Liu, Zibo Zhao, Zhibin Wang, Bin Fu, Yong Liu, Gang Yu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13913)
+[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=e90883da4ee8c947a8b97422c95bde905a257a74)](https://www.semanticscholar.org/paper/e90883da4ee8c947a8b97422c95bde905a257a74)
+[![Code](https://img.shields.io/github/stars/OpenTexture/Paint3D?style=social&label=Star)](https://github.com/OpenTexture/Paint3D)
+
 + **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation** (16 Nov 2023)<details><summary>Dale Decatur, Itai Lang, Kfir Aberman, et al.</summary>Dale Decatur, Itai Lang, Kfir Aberman, Rana Hanocka</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09571)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=496bdd2804a231a3336463fca8e0a4c6a46f0304)](https://www.semanticscholar.org/paper/496bdd2804a231a3336463fca8e0a4c6a46f0304)
