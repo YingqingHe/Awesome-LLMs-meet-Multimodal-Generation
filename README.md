@@ -3,10 +3,11 @@
 # 🤗 Introduction
 - This repository contains a curated list of **LLMs meet multimodal generation**. Modalities consist of visual (including image, video and 3D) and audio (including sound, speech and music). The survey paper will be released soon.
   <p align="center">
-  <img src="assets/fig.jpg" width=500"">
+  <img src="assets/fig.jpg" width=300"">
 </p>
 
-- We welcome contributions to our repository or the addition of your own work. 
+- We welcome any contributions and suggestions to our repository or the addition of your own work. Feel free to make a pull request or leave your comments!!
+
 
 # 📋 Contents
 - [🤗 Introduction](#-introduction)
@@ -57,6 +58,8 @@
 - [📍 Related Surveys](#-related-surveys)
   - [LLM](#llm)
   - [Vision](#vision)
+- [👨‍💻 Team](#-team)
+- [⭐️ Star History](#️-star-history)
 
 
 
@@ -2254,6 +2257,25 @@ Momina Masood, Marriam Nawaz, Khalid Mahmood Malik, Ali Javed, Aun Irtaza\
 [![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
 
 
-# Star History
+
+
+# 👨‍💻 Team
+
+Here is the list of our contributors in each modality of this repository.
+
+| Modality/Task                      |  Contributors                                                 |
+| ----------------------------- | -------------------------------------------------------------------- |
+| Image Generation | Jingye Chen, Xiaowei Chi, Yingqing He                                       |
+| Video Generation | Yingqing He, Xiaowei Chi, Jingye Chen           |
+| Image and Video Editing           | Yazhou Xing |
+| 3D Generation and Editing            | Hongyu Liu |
+| Audio Generation and Editing         | Zeyue Tian, Ruibin Yuan                            |
+| LLM Agent           | Zhaoyang Liu                         |
+| Safety           | Runtao Liu                         |
+| Leaders               | Yingqing He, Zhaoyang Liu                                                   |
+
+
+
+# ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=YingqingHe/Awesome-LLMs-meet-Multimodal-Generation&type=Date)](https://star-history.com/#YingqingHe/Awesome-LLMs-meet-Multimodal-Generation&Date)
