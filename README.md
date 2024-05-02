@@ -100,6 +100,11 @@
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ella-diffusion.github.io/)
 
 
++ **StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis** (30 Jan 2024)<details><summary>Zecheng Tang, Chenfei Wu, Zekai Zhang, et al.</summary>Zecheng Tang, Chenfei Wu, Zekai Zhang, Mingheng Ni, Shengming Yin, Yu Liu, Zhengyuan Yang, Lijuan Wang, Zicheng Liu, Juntao Li, Nan Duan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.17093)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=b2f6830afe63eb477294f17f0d3a6923135950f9)](https://www.semanticscholar.org/paper/StrokeNUWA%3A-Tokenizing-Strokes-for-Vector-Graphic-Tang-Wu/b2f6830afe63eb477294f17f0d3a6923135950f9)
+
+
 + **DiffusionGPT: LLM-Driven Text-to-Image Generation System** (18 Jan 2024)<details><summary>Jie Qin, Jie Wu, Weifeng Chen, et al.</summary> Jie Qin, Jie Wu, Weifeng Chen, Yuxi Ren, Huixia Li, Hefeng Wu, Xuefeng Xiao, Rui Wang, Shilei Wen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10061)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=d4b1a1c62a03ccffcf24983eb4fe22335cbb89b6)](https://www.semanticscholar.org/paper/d4b1a1c62a03ccffcf24983eb4fe22335cbb89b6)
