@@ -1782,6 +1782,13 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 
 
 ## Video Understanding
+
+
++ **PLLaVA: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning**  (25 Apr 2024)<details><summary>Lin Xu, Yilin Zhao, Daquan Zhou, et al.</summary>Lin Xu, Yilin Zhao, Daquan Zhou, Zhijie Lin, See Kiong Ng, Jiashi Feng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://pllava.github.io/)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9d29da83aba362c728c36f4dea9dde678ae3e2b2)](https://www.semanticscholar.org/paper/PLLaVA-%3A-Parameter-free-LLaVA-Extension-from-Images-Xu-Zhao/9d29da83aba362c728c36f4dea9dde678ae3e2b2)
+[![Code](https://img.shields.io/github/stars/magic-research/PLLaVA.svg?style=social&label=Star)](https://github.com/magic-research/PLLaVA?tab=readme-ov-file)
+
 + **MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**  (3 Dec 2023) \
 Enxin, Song, et al. \
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16449)
