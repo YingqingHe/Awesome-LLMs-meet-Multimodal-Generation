@@ -13,7 +13,7 @@
 - [🤗 Introduction](#-introduction)
 - [📋 Contents](#-contents)
 - [💘 Tips](#-tips)
-- [📍 LLMs for Visual-audio Generation](#-llms-for-visual-audio-generation)
+- [📍 Multimodal Generation](#-multimodal-generation)
   - [Image Generation](#image-generation)
     - [🔅 LLM-based](#-llm-based)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5)
@@ -30,7 +30,7 @@
     - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
-- [📍 LLMs for Visual-audio Editing](#-llms-for-visual-audio-editing)
+- [📍 Multimodal Editing](#-multimodal-editing)
   - [Image Editing](#image-editing)
     - [🔅 LLM-based](#-llm-based-4)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
@@ -43,8 +43,8 @@
   - [Audio Editing](#audio-editing)
     - [🔅 LLM-based](#-llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
-- [📍 Multi-Modal Agents](#-multi-modal-agents)
-- [📍 LLMs for Visual-audio Understanding](#-llms-for-visual-audio-understanding)
+- [📍 Multimodal Agents](#-multimodal-agents)
+- [📍 Multimodal Understanding with LLMs](#-multimodal-understanding-with-llms)
   - [Image Understanding](#image-understanding)
   - [Video Understanding](#video-understanding)
   - [3D Understanding](#3d-understanding)
@@ -69,7 +69,7 @@
 - **✅ Paper searching via tag**: You can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation`. (More tags are ongoing)
 
 
-# 📍 LLMs for Visual-audio Generation
+# 📍 Multimodal Generation
 
 ## Image Generation
 
@@ -1269,7 +1269,7 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![citation](https://img.shields.io/badge/citation-214-blue.svg?paper=8a1384e041cc6ea2735b01c734aeef666dc92884)](https://www.semanticscholar.org/paper/8a1384e041cc6ea2735b01c734aeef666dc92884)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
-# 📍 LLMs for Visual-audio Editing
+# 📍 Multimodal Editing
 
 ## Image Editing
 
@@ -1647,7 +1647,7 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 ### Non-LLM-based (Clip/T5)
 
-# 📍 Multi-Modal Agents
+# 📍 Multimodal Agents
 
 + **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing** (1 Nov 2023) <details><summary>Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, et al.</summary> Wei-Ge Chen, Irina Spiridonova, Jianwei Yang, Jianfeng Gao, Chunyuan Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00571)
@@ -1700,7 +1700,7 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![Code](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/AutoGPT)
 
 
-# 📍 LLMs for Visual-audio Understanding
+# 📍 Multimodal Understanding with LLMs
 ## Image Understanding
 + **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** (21 Dec 2023)<details><summary>Zhe Chen, Jiannan Wu, Wenhai Wang, et al.</summary>Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14238)
