@@ -84,9 +84,13 @@
 [![Code](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star)](https://github.com/graphic-design-ai/graphist)
 
 
++ **PMG : Personalized Multimodal Generation with Large Language Models** (7 Apr 2024)<details><summary>Xiaoteng Shen, Rui Zhang, Xiaoyan Zhao, et al.</summary>Xiaoteng Shen, Rui Zhang, Xiaoyan Zhao, Jieming Zhu, Xi Xiao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.08677)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=cfb9eba1b5c55bb0052df41eaaff8716f9c420bd)](https://www.semanticscholar.org/paper/PMG-%3A-Personalized-Multimodal-Generation-with-Large-Shen-Zhang/cfb9eba1b5c55bb0052df41eaaff8716f9c420bd)
 
-+ **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control** (19 Mar 2024)<details><summary>Enshen Zhou, Yiran Qin, Zhenfei Yin, Yuzhou Huang, Ruimao Zhang, Lu Sheng, Yu Qiao, Jing Shao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2403.12037.pdf)
+
++ **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control** (19 Mar 2024)<details><summary>Enshen Zhou, Yiran Qin, Zhenfei Yin, et al.</summary>Enshen Zhou, Yiran Qin, Zhenfei Yin, Yuzhou Huang, Ruimao Zhang, Lu Sheng, Yu Qiao, Jing Shao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12037)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=ae06df762adcc4221162e83a737ea63cff47e65d)](https://www.semanticscholar.org/paper/ae06df762adcc4221162e83a737ea63cff47e65d)
 [![Code](https://img.shields.io/github/stars/Zhoues/MineDreamer.svg?style=social&label=Star)](https://github.com/Zhoues/MineDreamer)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/minedreamer/main)
@@ -562,6 +566,12 @@ Tags: `customization`
 ## Video Generation
 
 ### 🔅 LLM-based
+
+
++ **DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation** (11 Mar 2024)<details><summary>Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, et al.</summary>Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, Xinze Chen, Guan Huang, Xiaoyi Bao, Xingang Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06845)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=b34fb645165da381e27077282d69ff224dd2d5f5)](https://www.semanticscholar.org/paper/DriveDreamer-2%3A-LLM-Enhanced-World-Models-for-Video-Zhao-Wang/b34fb645165da381e27077282d69ff224dd2d5f5)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://drivedreamer2.github.io/)
 
 
 + **[Sora] Video generation models as world simulators** (15 Feb 2024)<details><summary>Tim Brooks, Bill Peebles, Connor Holmes, et al.</summary>Tim Brooks and Bill Peebles and Connor Holmes and Will DePue and Yufei Guo and Li Jing and David Schnurr and Joe Taylor and Troy Luhman and Eric Luhman and Clarence Ng and Ricky Wang and Aditya Ramesh</details>
