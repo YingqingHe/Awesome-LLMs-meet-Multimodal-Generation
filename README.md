@@ -30,18 +30,21 @@
     - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
+  - [Generation with Multiple Modalies](#generation-with-multiple-modalies)
+    - [🔅 LLM-based](#-llm-based-4)
+    - [Non-LLM-based](#non-llm-based-2)
 - [📍 Multimodal Editing](#-multimodal-editing)
   - [Image Editing](#image-editing)
-    - [🔅 LLM-based](#-llm-based-4)
+    - [🔅 LLM-based](#-llm-based-5)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-2)
   - [Video Editing](#video-editing)
-    - [🔅 LLM-based](#-llm-based-5)
+    - [🔅 LLM-based](#-llm-based-6)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-3)
   - [3D Editing](#3d-editing)
-    - [🔅 LLM-based](#-llm-based-6)
+    - [🔅 LLM-based](#-llm-based-7)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-4)
   - [Audio Editing](#audio-editing)
-    - [🔅 LLM-based](#-llm-based-7)
+    - [🔅 LLM-based](#-llm-based-8)
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [📍 Multimodal Agents](#-multimodal-agents)
 - [📍 Multimodal Understanding with LLMs](#-multimodal-understanding-with-llms)
@@ -656,6 +659,7 @@ Tags: `human motion generation`
 [![Code](https://img.shields.io/github/stars/KU-CVLAB/DirecT2V.svg?style=social&label=Star)](https://github.com/KU-CVLAB/DirecT2V)
 
 ### Non-LLM-based
+
 
 
 + **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text** (21 Mar 2024)<details><summary>Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, et al.</summary>Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, Hayk Poghosyan, Vahram Tadevosyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi</details>
@@ -1279,6 +1283,35 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![citation](https://img.shields.io/badge/citation-214-blue.svg?paper=8a1384e041cc6ea2735b01c734aeef666dc92884)](https://www.semanticscholar.org/paper/8a1384e041cc6ea2735b01c734aeef666dc92884)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
+## Generation with Multiple Modalies
+### 🔅 LLM-based
+
++ **NExT-GPT: Any-to-Any Multimodal LLM** (11 Sep 2023)<details><summary>Shengqiong Wu, Hao Fei, Leigang Qu, et al.</summary>Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
+[![citation](https://img.shields.io/badge/citation-94-blue.svg?paper=fa75a55760e6ea49b39b83cb85c99a22e1088254)](https://www.semanticscholar.org/paper/fa75a55760e6ea49b39b83cb85c99a22e1088254)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://next-gpt.github.io/)
+[![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
+
+### Non-LLM-based
+
+
++ **TAVGBench: Benchmarking Text to Audible-Video Generation** (22 Apr 2024)<details><summary>Yuxin Mao, Xuyang Shen, Jing Zhang, et al.</summary>Yuxin Mao, Xuyang Shen, Jing Zhang, Zhen Qin, Jinxing Zhou, Mochu Xiang, Yiran Zhong, Yuchao Dai</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14381)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=21a77ed349c8621d0a0ef8407eb744e3de3b13c5)](https://www.semanticscholar.org/paper/TAVGBench%3A-Benchmarking-Text-to-Audible-Video-Mao-Shen/4ba90678411ddc0a2eb997e1184b059bdc955fd5)
+[![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/OpenNLPLab/TAVGBench)
+
+
++ **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** (27 Feb 2024)<details><summary>[CVPR 2024] Yazhou Xing, Yingqing He, Zeyue Tian, et al.</summary>Yazhou Xing, Yingqing He, Zeyue Tian, Xintao Wang, Qifeng Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17723)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=21a77ed349c8621d0a0ef8407eb744e3de3b13c5)](https://www.semanticscholar.org/paper/Seeing-and-Hearing%3A-Open-domain-Visual-Audio-with-Xing-He/d9822d11ae4ead1f1d32c43124a6a0eb80ea4f0c)
+[![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/yzxing87/Seeing-and-Hearing)
+
+
+
+
+
+
 # 📍 Multimodal Editing
 
 ## Image Editing
@@ -1755,13 +1788,6 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.04669)
 [![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=bcac614f9774488447221ebb4f16f05e3975ec1e)](https://www.semanticscholar.org/paper/bcac614f9774488447221ebb4f16f05e3975ec1e)
 [![Code](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT)
-
-+ **NExT-GPT: Any-to-Any Multimodal LLM** (11 Sep 2023)<details><summary>Shengqiong Wu, Hao Fei, Leigang Qu, et al.</summary>Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
-[![citation](https://img.shields.io/badge/citation-94-blue.svg?paper=fa75a55760e6ea49b39b83cb85c99a22e1088254)](https://www.semanticscholar.org/paper/fa75a55760e6ea49b39b83cb85c99a22e1088254)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://next-gpt.github.io/)
-[![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
 
 + **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** (24 Aug 2023)<details><summary>Jinze Bai, Shuai Bai, Shusheng Yang, et al.</summary>Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12966)
