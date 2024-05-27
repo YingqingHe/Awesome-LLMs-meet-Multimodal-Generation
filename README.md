@@ -30,7 +30,7 @@
     - [🔅 LLM-based](#-llm-based-3)
     - [Non-LLM-based](#non-llm-based-1)
     - [Datasets](#datasets-3)
-  - [Generation with Multiple Modalies](#generation-with-multiple-modalies)
+  - [Generation with Multiple Modalities](#generation-with-multiple-modalities)
     - [🔅 LLM-based](#-llm-based-4)
     - [Non-LLM-based](#non-llm-based-2)
 - [📍 Multimodal Editing](#-multimodal-editing)
@@ -147,13 +147,6 @@ Data Generator** (11 Dec 2023)<details><summary>Henry Hengyuan Zhao, Pan Zhou, M
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=f30bb09dbd95845d792bdac217a9a652635ee8a5)](https://www.semanticscholar.org/paper/f30bb09dbd95845d792bdac217a9a652635ee8a5)
 Tags: `customization`
 
-
-
-+ **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation** (30 Nov 2023) <details><summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, et al.</summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18775)
-[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=78582ad19779a69d97b797a3c6eb2397f99398b6)](https://www.semanticscholar.org/paper/78582ad19779a69d97b797a3c6eb2397f99398b6)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-2.github.io/)
-[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/CoDi-2)
 
 
 + **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model** (29 Nov 2023) <details><summary>Xiaowei Chi, Yijiang Liu, Zhengkai Jiang, et al.</summary> Xiaowei Chi, Yijiang Liu, Zhengkai Jiang, Rongyu Zhang, Ziyi Lin, Renrui Zhang, Peng Gao, Chaoyou Fu, Shanghang Zhang, Qifeng Liu, Yike Guo</details>
@@ -363,13 +356,6 @@ Wang, Xinyu, Bohan Zhuang, and Qi Wu.\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.12799)
 [![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=43a55dbd95c9d5cd82de8db276f41adeec4a937d)](https://www.semanticscholar.org/paper/43a55dbd95c9d5cd82de8db276f41adeec4a937d)
 [![Code](https://img.shields.io/github/stars/Yuqifan1117/Labal-Anything-Pipeline.svg?style=social&label=Star)](https://github.com/Yuqifan1117/Labal-Anything-Pipeline)
-
-+ **CoDi: Any-to-Any Generation via Composable Diffusion** (19 May 2023)<details><summary>[NeurIPS 2023] Zineng Tang, Ziyi Yang, Chenguang Zhu, et al.</summary>Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11846)
-[![citation](https://img.shields.io/badge/citation-41-blue.svg?paper=9f411fda2ad5b141a3115f707bcf5ee865b3fb94)](https://www.semanticscholar.org/paper/9f411fda2ad5b141a3115f707bcf5ee865b3fb94)
-[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-gen.github.io/)
-
 
 + **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation** (18 May 2023)<details><summary>[NeurIPS 2023] Yujie Lu, Xianjun Yang, Xiujun Li, et al.</summary>Yujie Lu, Xianjun Yang, Xiujun Li, Xin Eric Wang, William Yang Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11116)
@@ -1283,8 +1269,23 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![citation](https://img.shields.io/badge/citation-214-blue.svg?paper=8a1384e041cc6ea2735b01c734aeef666dc92884)](https://www.semanticscholar.org/paper/8a1384e041cc6ea2735b01c734aeef666dc92884)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
-## Generation with Multiple Modalies
+## Generation with Multiple Modalities
 ### 🔅 LLM-based
+
+
++ **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation** (30 Nov 2023) <details><summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, et al.</summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18775)
+[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=78582ad19779a69d97b797a3c6eb2397f99398b6)](https://www.semanticscholar.org/paper/78582ad19779a69d97b797a3c6eb2397f99398b6)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-2.github.io/)
+[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/CoDi-2)
+
+
+
++ **TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models** (8 Nov 2023)<details><summary>Zhen Yang, Yingxue Zhang, Fandong Meng, et al.</summary>Zhen Yang, Yingxue Zhang, Fandong Meng, Jie Zhou</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04589)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9f411fda2ad5b141a3115f707bcf5ee865b3fb94)](https://www.semanticscholar.org/paper/TEAL%3A-Tokenize-and-Embed-ALL-for-Multi-modal-Large-Yang-Zhang/59d716b442ab760a78f58de6748c0fa1d507bfc1)
+
+
 
 + **NExT-GPT: Any-to-Any Multimodal LLM** (11 Sep 2023)<details><summary>Shengqiong Wu, Hao Fei, Leigang Qu, et al.</summary>Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05519)
@@ -1292,6 +1293,15 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://next-gpt.github.io/)
 [![Code](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://1ca8b1601858a12830.gradio.live/)
+
+
++ **CoDi: Any-to-Any Generation via Composable Diffusion** (19 May 2023)<details><summary>[NeurIPS 2023] Zineng Tang, Ziyi Yang, Chenguang Zhu, et al.</summary>Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11846)
+[![citation](https://img.shields.io/badge/citation-41-blue.svg?paper=9f411fda2ad5b141a3115f707bcf5ee865b3fb94)](https://www.semanticscholar.org/paper/9f411fda2ad5b141a3115f707bcf5ee865b3fb94)
+[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://codi-gen.github.io/)
+
+
 
 ### Non-LLM-based
 
@@ -1304,11 +1314,8 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 + **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** (27 Feb 2024)<details><summary>[CVPR 2024] Yazhou Xing, Yingqing He, Zeyue Tian, et al.</summary>Yazhou Xing, Yingqing He, Zeyue Tian, Xintao Wang, Qifeng Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17723)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=21a77ed349c8621d0a0ef8407eb744e3de3b13c5)](https://www.semanticscholar.org/paper/Seeing-and-Hearing%3A-Open-domain-Visual-Audio-with-Xing-He/d9822d11ae4ead1f1d32c43124a6a0eb80ea4f0c)
+[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=21a77ed349c8621d0a0ef8407eb744e3de3b13c5)](https://www.semanticscholar.org/paper/Seeing-and-Hearing%3A-Open-domain-Visual-Audio-with-Xing-He/d9822d11ae4ead1f1d32c43124a6a0eb80ea4f0c)
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/yzxing87/Seeing-and-Hearing)
-
-
-
 
 
 
