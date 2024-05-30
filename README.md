@@ -2335,7 +2335,16 @@ Here is the list of our contributors in each modality of this repository.
 | Safety           | Runtao Liu                         |
 | Leaders               | Yingqing He, Zhaoyang Liu                                                   |
 
-
+# 😉 Citation
+If you find this work useful in your research, Please cite the paper as below:
+```bib
+@article{he2024llms,
+    title={LLMs Meet Multimodal Generation and Editing: A Survey},
+    author={He, Yingqing and Liu, Zhaoyang and Chen, Jingye and Tian, Zeyue and Liu, Hongyu and Chi, Xiaowei and Liu, Runtao and Yuan, Ruibin and Xing, Yazhou and Wang, Wenhai and Dai, Jifeng and Zhang, Yong and Xue, Wei and Liu, Qifeng and Guo, Yike and Chen, Qifeng},
+    journal={arXiv preprint arXiv:2405.19334},
+    year={2024},
+}
+```
 
 # ⭐️ Star History
 
