@@ -62,6 +62,7 @@
   - [LLM](#llm)
   - [Vision](#vision)
 - [👨‍💻 Team](#-team)
+- [😉 Citation](#-citation)
 - [⭐️ Star History](#️-star-history)
 
 
@@ -378,6 +379,17 @@ Wang, Xinyu, Bohan Zhuang, and Qi Wu.\
 [![citation](https://img.shields.io/badge/citation-35-blue.svg?paper=6173520a1eb2814d067e8c5fd16212b7cbf6ee78)](https://www.semanticscholar.org/paper/6173520a1eb2814d067e8c5fd16212b7cbf6ee78)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jykoh.com/fromage)
 [![Code](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage)
+
++ **Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs** (22 Jan 2024) <details><summary>[ICML 2024] Ling Yang, Zhaochen Yu, Chenlin Meng, et al.</summary>Ling Yang, Zhaochen Yu, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.11708)
+[![citation](https://img.shields.io/badge/citation-23-blue.svg?paper=140cfda71bfff852c3e205b7ad61854b78c76982)](https://www.semanticscholar.org/paper/140cfda71bfff852c3e205b7ad61854b78c76982)
+[![Code](https://img.shields.io/github/stars/YangLing0818/RPG-DiffusionMaster.svg?style=social&label=Star)](https://github.com/YangLing0818/RPG-DiffusionMaster)
+
++ **RealCompo: Balancing Realism and Compositionality Improves Text-to-Image Diffusion Models** (20 Feb 2024)<details><summary>Xinchen Zhang, Ling Yang, Yaqi Cai, et al.</summary>Xinchen Zhang, Ling Yang, Yaqi Cai, Zhaochen Yu, Kai-Ni Wang, Jiake Xie, Ye Tian, Minkai Xu, Yong Tang, Yujiu Yang, Bin Cui</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.12908)
+[![citation](https://img.shields.io/badge/citation-6-blue.svg?paper=9c2ba04c376f127da506b63c566887fca2861b25)](https://www.semanticscholar.org/paper/9c2ba04c376f127da506b63c566887fca2861b25)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cominclip.github.io/RealCompo_Page/)
+[![Code](https://img.shields.io/github/stars/YangLing0818/RealCompo.svg?style=social&label=Star)](https://github.com/YangLing0818/RealCompo)
 
 ### Non-LLM-based (Clip/T5)
 + **PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (30 Sep 2023)<details><summary>[ICLR 2024] Junsong Chen, Jincheng Yu, Chongjian Ge, et al.</summary>Junsong Chen, Jincheng Yu, Chongjian Ge, Lewei Yao, Enze Xie, Yue Wu, Zhongdao Wang, James Kwok, Ping Luo, Huchuan Lu, Zhenguo Li</details>
