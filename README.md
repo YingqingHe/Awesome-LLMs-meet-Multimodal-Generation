@@ -606,7 +606,11 @@ Tags: `customization`
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9cdb7e415a96795dc6705e66f3b798238b4dec2c)](https://www.semanticscholar.org/paper/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
 [![Code](https://img.shields.io/github/stars/zhenzhiwang/intercontrol.svg?style=social&label=Star)](https://github.com/zhenzhiwang/intercontrol)\
 Tags: `human motion generation`
-
++ **MotionLLM: Multimodal Motion-Language Learning with Large Language Models** (27 May 2024)<details><summary>Qi Wu, Yubo Zhao, Yifan Wang, et al.</summary>Qi Wu, Yubo Zhao, Yifan Wang, Yu-Wing Tai, Chi-Keung Tang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17013)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=480da1ac2d39b5e036ce786af081366c23f08d1b)](https://www.semanticscholar.org/paper/480da1ac2d39b5e036ce786af081366c23f08d1b)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://knoxzhao.github.io/MotionLLM/)
+Tags: `general human motion generation`
 + **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning** (21 Nov 2023)<details><summary>Jiaxi Lv, Yi Huang, Mingfu Yan, et al.</summary>Jiaxi Lv, Yi Huang, Mingfu Yan, Jiancheng Huang, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12631)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9cdb7e415a96795dc6705e66f3b798238b4dec2c)](https://www.semanticscholar.org/paper/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
