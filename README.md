@@ -1,4 +1,8 @@
 
+<div align="center">
+<h2> LLMs Meet Multimodal Generation and Editing: A Survey </h2> 
+<a href='https://arxiv.org/abs/2405.19334'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a>
+</div>
 
 # 🤗 Introduction
 - This repository contains a curated list of **LLMs meet multimodal generation**. Modalities consist of visual (including image, video and 3D) and audio (including sound, speech and music). The survey paper will be released soon.
