@@ -1328,6 +1328,12 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 ### Non-LLM-based
 
 
++ **DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation** (9 Jan 2024)<details><summary>[CVPR 2024] Junming Chen, et al.</summary>Junming Chen, Yunfei Liu, Jianan Wang, Ailing Zeng, Yu Li, Qifeng Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04747)
+[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=1370d74ff6f7857a84da952e2f4cb6f42da40615)](https://www.semanticscholar.org/paper/1370d74ff6f7857a84da952e2f4cb6f42da40615)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jeremycjm.github.io/proj/DiffSHEG/)
+[![Code](https://img.shields.io/github/stars/JeremyCJM/DiffSHEG.svg?style=social&label=Star)](https://github.com/JeremyCJM/DiffSHEG) 
+
 + **TAVGBench: Benchmarking Text to Audible-Video Generation** (22 Apr 2024)<details><summary>Yuxin Mao, Xuyang Shen, Jing Zhang, et al.</summary>Yuxin Mao, Xuyang Shen, Jing Zhang, Zhen Qin, Jinxing Zhou, Mochu Xiang, Yiran Zhong, Yuchao Dai</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14381)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=21a77ed349c8621d0a0ef8407eb744e3de3b13c5)](https://www.semanticscholar.org/paper/TAVGBench%3A-Benchmarking-Text-to-Audible-Video-Mao-Shen/4ba90678411ddc0a2eb997e1184b059bdc955fd5)
