@@ -677,7 +677,10 @@ Tags: `general human motion generation`
 
 ### Non-LLM-based
 
-
++ **[MCM] Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation** (11 Jun 2024)<details><summary>Yuanhao Zhai, Kevin Lin, Zhengyuan Yang, et al.</summary>Yuanhao Zhai, Kevin Lin, Zhengyuan Yang, Linjie Li, Jianfeng Wang, Chung-Ching Lin, David Doermann, Junsong Yuan, Lijuan Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06890v1)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yhzhai.github.io/mcm/)
+[![Code](https://img.shields.io/github/stars/yhZhai/mcm.svg?style=social&label=Star)](https://github.com/yhZhai/mcm)
 
 + **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text** (21 Mar 2024)<details><summary>Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, et al.</summary>Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, Hayk Poghosyan, Vahram Tadevosyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14773)
@@ -1302,6 +1305,13 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 ## Generation with Multiple Modalities
 ### 🔅 LLM-based
+
+
+
++ **C3LLM: Conditional Multimodal Content Generation Using Large Language Models** (25 May 2024) <details><summary>Zixuan Wang, Qinkai Duan, Yu-Wing Tai, et al.</summary>Zixuan Wang, Qinkai Duan, Yu-Wing Tai, Chi-Keung Tang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16136)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=78582ad19779a69d97b797a3c6eb2397f99398b6)](https://www.semanticscholar.org/paper/C3LLM%3A-Conditional-Multimodal-Content-Generation-Wang-Duan/f9151b94ff5476cf155c085cf4c3280715cf9bde)
+
 
 
 + **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation** (30 Nov 2023) <details><summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, et al.</summary>Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal</details>
