@@ -1918,7 +1918,7 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 + **VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**  (25 Apr 2024)<details><summary>Zesen Cheng, Sicong Leng, Hang Zhang, et al.</summary>Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07476)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=7115e1f6cdd91ef09737d5a13664d9489fe27e08)](https://www.semanticscholar.org/paper/VideoLLaMA-2%3A-Advancing-Spatial-Temporal-Modeling-Cheng-Leng/7115e1f6cdd91ef09737d5a13664d9489fe27e08)
-[![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2).svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
+[![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
 
 + **PLLaVA: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning**  (25 Apr 2024)<details><summary>Lin Xu, Yilin Zhao, Daquan Zhou, et al.</summary>Lin Xu, Yilin Zhao, Daquan Zhou, Zhijie Lin, See Kiong Ng, Jiashi Feng</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://pllava.github.io/)
