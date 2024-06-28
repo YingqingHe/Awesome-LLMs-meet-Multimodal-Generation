@@ -786,10 +786,50 @@ Tags: `general human motion generation`
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yhzhai.github.io/mcm/)
 [![Code](https://img.shields.io/github/stars/yhZhai/mcm.svg?style=social&label=Star)](https://github.com/yhZhai/mcm)
 
+
++ **Searching Priors Makes Text-to-Video Synthesis Better** (5 Jun 2024)<details><summary>Haoran Cheng, Liang Peng, Linxuan Xia, et al.</summary>Haoran Cheng, Liang Peng, Linxuan Xia, Yuepeng Hu, Hengjia Li, Qinglin Lu, Xiaofei He, Boxi Wu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03215)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=0dd0e0bdff37973e102a042f82cd882b890476cc)](https://www.semanticscholar.org/paper/Searching-Priors-Makes-Text-to-Video-Synthesis-Cheng-Peng/0dd0e0bdff37973e102a042f82cd882b890476cc)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hrcheng98.github.io/Search_T2V/)
+
++ **ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation** (3 Jun 2024)<details><summary>Shaoshu Yang, Yong Zhang, Xiaodong Cun, et al.</summary>Shaoshu Yang, Yong Zhang, Xiaodong Cun, Ying Shan, Ran He</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.00908v1)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=2917706886df4e3bf57acd0b41bd4e396be77506)](https://www.semanticscholar.org/paper/ZeroSmooth%3A-Training-free-Diffuser-Adaptation-for-Yang-Zhang/2917706886df4e3bf57acd0b41bd4e396be77506#cited-papers)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ssyang2020.github.io/zerosmooth.github.io/)
+
++ **CV-VAE: A Compatible Video VAE for Latent Generative Video Models** (29 May 2024)<details><summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, et al.</summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=40122a222374504fda4997ef6204dcdcee1678da)](https://www.semanticscholar.org/paper/EasyAnimate%3A-A-High-Performance-Long-Video-Method-Xu-Zou/40122a222374504fda4997ef6204dcdcee1678da)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ssyang2020.github.io/zerosmooth.github.io/)
+[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
+
+
++ **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture** (30 May 2024)<details><summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, et al.</summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, Xiaoyu Li, Wenbo Hu, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=70569a07d841f86faf8914aea435a1696f911a32)](https://www.semanticscholar.org/paper/CV-VAE%3A-A-Compatible-Video-VAE-for-Latent-Video-Zhao-Zhang/70569a07d841f86faf8914aea435a1696f911a32)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/cvvae/index.html)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/CV-VAE.svg?style=social&label=Star)](https://github.com/AILab-CVC/CV-VAE)
+
++ **[MOFT] Video Diffusion Models are Training-free Motion Interpreter and Controller** (23 Mar 2024)<details><summary>Zeqi Xiao, Yifan Zhou, Shuai Yang, et al.</summary>Zeqi Xiao, Yifan Zhou, Shuai Yang, Xingang Pan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14864)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=4f3e62c0fea3dc43f345e775192c972760b9d113)](https://www.semanticscholar.org/paper/Video-Diffusion-Models-are-Training-free-Motion-and-Xiao-Zhou/4f3e62c0fea3dc43f345e775192c972760b9d113)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xizaoqu.github.io/moft/)
+
 + **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text** (21 Mar 2024)<details><summary>Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, et al.</summary>Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, Hayk Poghosyan, Vahram Tadevosyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14773)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=21a77ed349c8621d0a0ef8407eb744e3de3b13c5)](https://www.semanticscholar.org/paper/StreamingT2V%3A-Consistent%2C-Dynamic%2C-and-Extendable-Henschel-Khachatryan/21a77ed349c8621d0a0ef8407eb744e3de3b13c5)
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/StreamingT2V)
+
++ **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis** (22 Feb 2024)<details><summary>Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, et al.</summary>Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Ekaterina Deyneka, Tsai-Shien Chen, Anil Kag, Yuwei Fang, Aleksei Stoliar, Elisa Ricci, Jian Ren, Sergey Tulyakov</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14797)
+[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=97cb2eb0d0517e34bf4202f0593600bb6fa043cd)](https://www.semanticscholar.org/paper/Snap-Video%3A-Scaled-Spatiotemporal-Transformers-for-Menapace-Siarohin/97cb2eb0d0517e34bf4202f0593600bb6fa043cd)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/snapvideo/)
+
++ **VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models** (17 Jan 2024)<details><summary>Haoxin Chen, Yong Zhang, Xiaodong Cun, et al.</summary>Haoxin Chen, Yong Zhang, Xiaodong Cun, Menghan Xia, Xintao Wang, Chao Weng, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047)
+[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=492bc8339d8aac442c4ec13f8c1d59e980a3af2f)](https://www.semanticscholar.org/paper/VideoCrafter2%3A-Overcoming-Data-Limitations-for-Chen-Zhang/492bc8339d8aac442c4ec13f8c1d59e980a3af2f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter2/)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
 
 + **VBench: Comprehensive Benchmark Suite for Video Generative Models** (29 Nov 2023)<details><summary>Ziqi Huang, Yinan He, Jiashuo Yu, et al.</summary>Ziqi Huang, Yinan He, Jiashuo Yu, Fan Zhang, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin, Yu Qiao, Ziwei Liu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
@@ -810,6 +850,12 @@ Tags: `general human motion generation`
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter/)
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
+
++ **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** (18 Oct 2023)<details><summary>Jinbo Xing, Menghan Xia, Yong Zhang, et al.</summary>Jinbo Xing, Menghan Xia, Yong Zhang, Haoxin Chen, Wangbo Yu, Hanyuan Liu, Xintao Wang, Tien-Tsin Wong, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12190)
+[![citation](https://img.shields.io/badge/citation-42-blue.svg?paper=083bab4a967c2221d9f4da9110fe37d8ca679078)](https://www.semanticscholar.org/paper/DynamiCrafter%3A-Animating-Open-domain-Images-with-Xing-Xia/083bab4a967c2221d9f4da9110fe37d8ca679078)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/DynamiCrafter/)
+[![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Star)](https://github.com/Doubiiu/DynamiCrafter)
 
 + **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling** (23 Oct 2023)<details><summary>Haonan Qiu, Menghan Xia, Yong Zhang, et al.</summary>Haonan Qiu, Menghan Xia, Yong Zhang, Yingqing He, Xintao Wang, Ying Shan, Ziwei Liu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15169)
