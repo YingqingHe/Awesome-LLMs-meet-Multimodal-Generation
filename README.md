@@ -710,6 +710,77 @@ Tags: `general human motion generation`
 
 ### Non-LLM-based
 
++ **[PAB] Real-Time Video Generation with Pyramid Attention Broadcast** (26 Jun 2024)<details><summary>Xuanlei Zhao, Xiaolong Jin, Kai Wang, et al.</summary>Xuanlei Zhao,  Xiaolong Jin,  Kai Wang,  Yang You</details>
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://oahzxl.github.io/PAB/)
+[![Code](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/OpenDiT.svg?style=social&label=Star)](https://github.com/NUS-HPC-AI-Lab/OpenDiT)
+
+
+
++ **Video-Infinity: Distributed Long Video Generation** (24 Jun 2024)<details><summary>Zhenxiong Tan, Xingyi Yang, Songhua Liu, et al.</summary>Zhenxiong Tan, Xingyi Yang, Songhua Liu, Xinchao Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16260)
+
+
+
+
++ **Pandora: Towards General World Model with Natural Language Actions and Video** (12 Jun 2024)<details><summary>Jiannan Xiang, Guangyi Liu, Yi Gu, et al.</summary>Jiannan Xiang, Guangyi Liu, Yi Gu, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09455)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://world-model.maitrix.org/)
+[![Code](https://img.shields.io/github/stars/yhZhai/mcm.svg?style=social&label=Star)](https://github.com/maitrix-org/Pandora)
+
+
+
++ **Text-Animator: Controllable Visual Text Video Generation** (25 Jun 2024)<details><summary>Lin Liu, Quande Liu, Shengju Qian, et al.</summary>Lin Liu, Quande Liu, Shengju Qian, Yuan Zhou, Wengang Zhou, Houqiang Li, Lingxi Xie, Qi Tian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09455)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://laulampaul.github.io/text-animator.html)
+
+
++ **MotionBooth: Motion-Aware Customized Text-to-Video Generation** (25 Jun 2024)<details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, et al.</summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17758v1)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jianzongwu.github.io/projects/motionbooth/)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=7178bbc5e8d2d9b11c890c60486ba2cc2b79b784)](https://www.semanticscholar.org/paper/MotionBooth%3A-Motion-Aware-Customized-Text-to-Video-Wu-Li/7178bbc5e8d2d9b11c890c60486ba2cc2b79b784)
+
++ **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models** (24 Jun 2024)<details><summary>Haonan Qiu, Zhaoxi Chen, Zhouxia Wang, et al.</summary>Haonan Qiu, Zhaoxi Chen, Zhouxia Wang, Yingqing He, Menghan Xia, Ziwei Liu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16863)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](http://haonanqiu.com/projects/FreeTraj.html)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=1868d2c2f56a92044908a789049fdd44094fc8f2)](https://www.semanticscholar.org/paper/FreeTraj%3A-Tuning-Free-Trajectory-Control-in-Video-Qiu-Chen/1868d2c2f56a92044908a789049fdd44094fc8f2)
+[![Code](https://img.shields.io/github/stars/arthur-qiu/FreeTraj.svg?style=social&label=Star)](https://github.com/arthur-qiu/FreeTraj)
+
+
++ **Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** (22 Jun 2024)<details><summary>Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</summary>Min Zhao, Hongzhou Zhu, Chendong Xiang, Kaiwen Zheng, Chongxuan Li, Jun Zhu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15735v1)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cond-image-leak.github.io/)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=ebf4f746d24d79d61c070f8c354b3371f461aafb)](https://www.semanticscholar.org/paper/Identifying-and-Solving-Conditional-Image-Leakage-Zhao-Zhu/ebf4f746d24d79d61c070f8c354b3371f461aafb)
+[![Code](https://img.shields.io/github/stars/thu-ml/cond-image-leakage.svg?style=social&label=Star)](https://github.com/thu-ml/cond-image-leakage/)
+
+
++ **Image Conductor: Precision Control for Interactive Video Synthesis** (21 Jun 2024)<details><summary>Yaowei Li, Xintao Wang, Zhaoyang Zhang, et al.</summary>Yaowei Li, Xintao Wang, Zhaoyang Zhang, Zhouxia Wang, Ziyang Yuan, Liangbin Xie, Yuexian Zou, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15339)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cond-image-leak.github.io/)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=b0bd64273dc8075db530fd696ee7eecb179bb908)](https://www.semanticscholar.org/paper/Image-Conductor%3A-Precision-Control-for-Interactive-Li-Wang/b0bd64273dc8075db530fd696ee7eecb179bb908)
+[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Star)](https://github.com/liyaowei-stu/ImageConductor)
+
+
++ **VIDEOSCORE: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation** (21 Jun 2024)<details><summary>Xuan He, Dongfu Jiang, Ge Zhang, et al.</summary>Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15252)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tiger-ai-lab.github.io/VideoScore/)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=1680eedc706ef081c0b103457bb52c071ab924b8)](https://www.semanticscholar.org/paper/VideoScore%3A-Building-Automatic-Metrics-to-Simulate-He-Jiang/1680eedc706ef081c0b103457bb52c071ab924b8)
+[![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore/.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/VideoScore/)
+
+
++ **Dreamitate: Real-World Visuomotor Policy Learning via Video Generation** (24 Jun 2024)<details><summary>Junbang Liang, Ruoshi Liu, Ege Ozguroglu, et al.</summary>Junbang Liang, Ruoshi Liu, Ege Ozguroglu, Sruthi Sudhakar, Achal Dave, Pavel Tokmakov, Shuran Song, Carl Vondrick</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamitate.cs.columbia.edu/)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=b0ac4f62f55bcf0427008e18f1b4b5bf7ee43df2)](https://www.semanticscholar.org/paper/Dreamitate%3A-Real-World-Visuomotor-Policy-Learning-Liang-Liu/b0ac4f62f55bcf0427008e18f1b4b5bf7ee43df2)
+
+
+
+
+
++ **ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation** (26 Jun 2024)<details><summary>Shenghai Yuan, Jinfa Huang, Yongqi Xu, et al.</summary>Shenghai Yuan, Jinfa Huang, Yongqi Xu, Yaoyang Liu, Shaofeng Zhang, Yujun Shi, Ruijie Zhu, Xinhua Cheng, Jiebo Luo, Li Yuan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.18522v1)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pku-yuangroup.github.io/ChronoMagic-Bench/)
+[![Code](https://img.shields.io/github/stars/PKU-YuanGroup/ChronoMagic-Bench.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench)
+
 + **[MCM] Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation** (11 Jun 2024)<details><summary>Yuanhao Zhai, Kevin Lin, Zhengyuan Yang, et al.</summary>Yuanhao Zhai, Kevin Lin, Zhengyuan Yang, Linjie Li, Jianfeng Wang, Chung-Ching Lin, David Doermann, Junsong Yuan, Lijuan Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06890v1)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yhzhai.github.io/mcm/)
@@ -766,9 +837,14 @@ Tags: `general human motion generation`
 [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/YueMafighting/FollowYourPose)
 
++ **Real-time Controllable Denoising for Image and Video** (29 Mar 2023)<details><summary>[CVPR 2023] Zhaoyang Zhang, Yitong Jiang, Wenqi Shao, et al.</summary>Zhaoyang Zhang, Yitong Jiang, Wenqi Shao, Xiaogang Wang, Ping Luo, Kaimo Lin, Jinwei Gu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16425)
+[![citation](https://img.shields.io/badge/citation-108-blue.svg?paper=3f3746c3c64212e97c877bd3d862b578fa24632c)](https://www.semanticscholar.org/paper/Real-Time-Controllable-Denoising-for-Image-and-Zhang-Jiang/3f3746c3c64212e97c877bd3d862b578fa24632c)
+
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (15 Mar 2023)<details><summary>Zhengxiong Luo, Dayou Chen, Yingya Zhang, et al.</summary>Zhengxiong Luo, Dayou Chen, Yingya Zhang, Yan Huang, Liang Wang, Yujun Shen, Deli Zhao, Jingren Zhou, Tieniu Tan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
 [![citation](https://img.shields.io/badge/citation-108-blue.svg?paper=26c6090b7e7ba4513f82aa28d41360c60770c618)](https://www.semanticscholar.org/paper/26c6090b7e7ba4513f82aa28d41360c60770c618)
+
 
 ### Datasets
 
