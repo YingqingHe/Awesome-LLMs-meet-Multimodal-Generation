@@ -1,7 +1,7 @@
 
 <div align="center">
 <h2> LLMs Meet Multimodal Generation and Editing: A Survey </h2> 
-<a href='https://arxiv.org/abs/2405.19334'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a>
+<a href='https://arxiv.org/abs/2405.19334'><img src='https://img.shields.io/badge/ArXiv-2405.19334-red'></a>
 </div>
 
 # 🤗 Introduction
