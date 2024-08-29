@@ -431,6 +431,19 @@ Wang, Xinyu, Bohan Zhuang, and Qi Wu.\
 [![Code](https://img.shields.io/github/stars/YangLing0818/RealCompo.svg?style=social&label=Star)](https://github.com/YangLing0818/RealCompo)
 
 ### Non-LLM-based (Clip/T5)
+
++ **InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation** (3 Apr 2024)<details><summary>Haofan Wang, Matteo Spinelli, Qixun Wang, et al.</summary>Haofan Wang, Matteo Spinelli, Qixun Wang, Xu Bai, Zekui Qin, Anthony Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02733)
+[![citation](https://img.shields.io/badge/citation-N/A-blue.svg?paper=6b5fc164c4f21e4a4f151df60bfd5e32b061a903)](https://www.semanticscholar.org/paper/InstantStyle%3A-Free-Lunch-towards-Style-Preserving-Wang-Spinelli/6b5fc164c4f21e4a4f151df60bfd5e32b061a903)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://instantstyle.github.io/)
+[![Code](https://img.shields.io/github/stars/instantX-research/InstantStyle.svg?style=social&label=Star)](https://github.com/instantX-research/InstantStyle)
+
++ **InstantID: Zero-shot Identity-Preserving Generation in Seconds** (15 Jan 2024)<details><summary>Qixun Wang, Xu Bai, Haofan Wang, et al.</summary>Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang, Yao Hu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.07519)
+[![citation](https://img.shields.io/badge/citation-N/A-blue.svg?paper=0f9b66c9208b11369e9d94d85b7dc23bcc5115e9)](https://www.semanticscholar.org/paper/InstantID%3A-Zero-shot-Identity-Preserving-Generation-Wang-Bai/0f9b66c9208b11369e9d94d85b7dc23bcc5115e9)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://instantid.github.io/)
+[![Code](https://img.shields.io/github/stars/instantX-research/InstantID.svg?style=social&label=Star)](https://github.com/instantX-research/InstantID)
+
 + **PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (30 Sep 2023)<details><summary>[ICLR 2024] Junsong Chen, Jincheng Yu, Chongjian Ge, et al.</summary>Junsong Chen, Jincheng Yu, Chongjian Ge, Lewei Yao, Enze Xie, Yue Wu, Zhongdao Wang, James Kwok, Ping Luo, Huchuan Lu, Zhenguo Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00426)
 [![citation](https://img.shields.io/badge/citation-N/A-blue.svg?paper=7dfe1c9f1d7120102499c7e561efc2326e7a0358)](https://www.semanticscholar.org/paper/7dfe1c9f1d7120102499c7e561efc2326e7a0358)
