@@ -1554,11 +1554,21 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 ### 🔅 LLM-based
 
+
+
++ **UltraEdit: Instruction-based Fine-Grained Image Editing at Scale** (7 Jul 2024)<details><summary>Haozhe Zhao, Xiaojian Ma, Liang Chen, et al.</summary> Haozhe Zhao, Xiaojian Ma, Liang Chen, Shuzheng Si, Rujie Wu, Kaikai An, Peiyu Yu, Minjia Zhang, Qing Li, Baobao Chang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06739)
+[![citation](https://img.shields.io/badge/citation-16-blue.svg?paper=388b0f44faf0a14cc402c2554ec36a868cf59129)](https://www.semanticscholar.org/paper/SmartEdit%3A-Exploring-Complex-Instruction-Based-with-Huang-Xie/388b0f44faf0a14cc402c2554ec36a868cf59129)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ultra-editing.github.io/)
+[![Code](https://img.shields.io/github/stars/HaozheZhao/UltraEdit.svg?style=social&label=Star)](https://github.com/HaozheZhao/UltraEdit)
+
+
 + **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** (11 Dec 2023)<details><summary>[CVPR 2024] Yuzhou Huang, Liangbin Xie, Xintao Wang, et al.</summary> Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06739)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=388b0f44faf0a14cc402c2554ec36a868cf59129)](https://www.semanticscholar.org/paper/388b0f44faf0a14cc402c2554ec36a868cf59129)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuzhou914.github.io/SmartEdit/)
 [![Code](https://img.shields.io/github/stars/TencentARC/SmartEdit.svg?style=social&label=Star)](https://github.com/TencentARC/SmartEdit)
+
 
 + **Self-correcting LLM-controlled Diffusion Models** (27 Nov 2023)<details><summary>[CVPR 2024] Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, et al.</summary> Tsung-Han Wu, Long Lian, Joseph E. Gonzalez, Boyi Li, Trevor Darrell</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16090)
@@ -1750,8 +1760,14 @@ Jiaxin Cheng, Tianjun Xiao, Tong He.\
 
 ### Non-LLM-based (Clip/T5)
 
+
+
++ **AudioScenic: Audio-Driven Video Scene Editing** (25 Apr 2024)<details><summary>Kaixin Shen, Ruijie Quan, Linchao Zhu, et al.</summary>Kaixin Shen, Ruijie Quan, Linchao Zhu, Jun Xiao, Yi Yang</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16581)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=6fa898ed5e58ade17a020e3251687b811ff1d023)](https://www.semanticscholar.org/paper/AudioScenic%3A-Audio-Driven-Video-Scene-Editing-Shen-Quan/6fa898ed5e58ade17a020e3251687b811ff1d023)
+
+
 + **LATENTWARP: CONSISTENT DIFFUSION LATENTS FOR ZERO-SHOT VIDEO-TO-VIDEO TRANSLATION** (1 Nov 2023)<details><summary>Yuxiang Bao, Di Qiu, Guoliang Kang, et al.</summary>Yuxiang Bao, Di Qiu, Guoliang Kang, Baochang Zhang, Bo Jin, Kaiye Wang, Pengfei Yan. </details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00353)
-[![citation](https://img.shields.io/badge/citation-N/A-blue.svg?paper=1b4323a5324ee20fe9b2ff2a65ec26550a51ec2c)](https://www.semanticscholar.org/paper/1b4323a5324ee20fe9b2ff2a65ec26550a51ec2c)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=1b4323a5324ee20fe9b2ff2a65ec26550a51ec2c)](https://www.semanticscholar.org/paper/1b4323a5324ee20fe9b2ff2a65ec26550a51ec2c)
 <!-- [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://diffusion-tokenflow.github.io/) -->
 <!-- [![Code](https://img.shields.io/github/stars/omerbt/TokenFlow.svg?style=social&label=Star)](https://github.com/omerbt/TokenFlow) -->
 
@@ -2089,10 +2105,21 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 
 ## Video Understanding
 
+
+
 + **Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**  (22 Sep 2024)<details><summary>Yan Shu, Peitian Zhang, Zheng Liu, et al.</summary>Yan Shu, Peitian Zhang, Zheng Liu, Minghao Qin, Junjie Zhou, Tiejun Huang, Bo Zhao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14485)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=ad6f68db45aaebc0e61b342d03da4c2702ce5697)](https://www.semanticscholar.org/paper/Video-XL%3A-Extra-Long-Vision-Language-Model-for-Shu-Zhang/ad6f68db45aaebc0e61b342d03da4c2702ce5697)
 [![Code](https://img.shields.io/github/stars/VectorSpaceLab/Video-XL.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/Video-XL/tree/main)
+
+
+
++ **Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution** (19 Sep 2024)<details><summary>Zuyan Liu, Yuhao Dong, Ziwei Liu, et al.</summary>Zuyan Liu, Yuhao Dong, Ziwei Liu, Winston Hu, Jiwen Lu, Yongming Rao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12961)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=85c514db4e90e1fd4200d858353f27a3cc2c29ad)](https://www.semanticscholar.org/paper/Oryx-MLLM%3A-On-Demand-Spatial-Temporal-Understanding-Liu-Dong/85c514db4e90e1fd4200d858353f27a3cc2c29ad)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://oryx-mllm.github.io/)
+[![Code](https://img.shields.io/github/stars/Oryx-mllm/Oryx.svg?style=social&label=Star)](https://github.com/Oryx-mllm/Oryx?tab=readme-ov-file)
+
 
 
 + **VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**  (25 Apr 2024)<details><summary>Zesen Cheng, Sicong Leng, Hang Zhang, et al.</summary>Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing</details>
