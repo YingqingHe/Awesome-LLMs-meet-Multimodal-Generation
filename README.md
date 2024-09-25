@@ -52,6 +52,7 @@
     - [Non-LLM-based (Clip/T5)](#non-llm-based-clipt5-5)
 - [📍 Multimodal Agents](#-multimodal-agents)
 - [📍 Multimodal Understanding with LLMs](#-multimodal-understanding-with-llms)
+  - [Multiple modalities](#multiple-modalities)
   - [Image Understanding](#image-understanding)
   - [Video Understanding](#video-understanding)
   - [3D Understanding](#3d-understanding)
@@ -626,6 +627,11 @@ Tags: `customization`
 
 ### 🔅 LLM-based
 
+
++ **Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation** (19 Aug 2024)<details><summary>[SIGGRAPH Asia 2024] Yunxin Li, Haoyuan Shi, Baotian Hu, et al.</summary>Yunxin Li, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09787)
+[![Code](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)](https://github.com/HITsz-TMG/Anim-Director?tab=readme-ov-file)
+
 + **[BSQ-ViT] Image and Video Tokenization with Binary Spherical Quantization** (11 Jun 2024)\
 [Tech Report]Yue Zhao, Yuanjun Xiong, Philipp Krähenbühl\
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07548v1)  `tokenizer`
@@ -725,6 +731,10 @@ Tags: `general human motion generation`
 [![Code](https://img.shields.io/github/stars/KU-CVLAB/DirecT2V.svg?style=social&label=Star)](https://github.com/KU-CVLAB/DirecT2V)
 
 ### Non-LLM-based
+
+
++ **OSV: One Step is Enough for High-Quality Image to Video Generation** (17 Sep 2024)<details><summary>Xiaofeng Mao, Zhengkai Jiang, Fu-Yun Wang, et al.</summary>Xiaofeng Mao, Zhengkai Jiang, Fu-Yun Wang, Wenbing Zhu, Jiangning Zhang, Hao Chen, Mingmin Chi, Yabiao Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.11367)
 
 + **[PAB] Real-Time Video Generation with Pyramid Attention Broadcast** (26 Jun 2024)<details><summary>Xuanlei Zhao, Xiaolong Jin, Kai Wang, et al.</summary>Xuanlei Zhao,  Xiaolong Jin,  Kai Wang,  Yang You</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://oahzxl.github.io/PAB/)
@@ -1970,6 +1980,13 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 
 # 📍 Multimodal Understanding with LLMs
+## Multiple modalities
++ **Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities**  (9 Nov 2023)<details><summary>[CVPR 2024] AJ Piergiovanni, Isaac Noble, Dahun Kim, et al.</summary>AJ Piergiovanni, Isaac Noble, Dahun Kim, Michael S. Ryoo, Victor Gomes, Anelia Angelova</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.05698)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=a4e7199e725b34ae5ddd574057f60ebb1a2011b7)](https://www.semanticscholar.org/paper/Mirasol3B%3A-A-Multimodal-Autoregressive-Model-for-Piergiovanni-Noble/a4e7199e725b34ae5ddd574057f60ebb1a2011b7)
+`text, video, audio`
+
+
 ## Image Understanding
 
 + **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions** (11 June 2024)<details><summary>Renjie Pi, Jianshu Zhang, Jipeng Zhang et al.</summary> Renjie Pi, Jianshu Zhang, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</details></details>
@@ -2072,6 +2089,10 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 
 ## Video Understanding
 
++ **Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**  (22 Sep 2024)<details><summary>Yan Shu, Peitian Zhang, Zheng Liu, et al.</summary>Yan Shu, Peitian Zhang, Zheng Liu, Minghao Qin, Junjie Zhou, Tiejun Huang, Bo Zhao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14485)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=ad6f68db45aaebc0e61b342d03da4c2702ce5697)](https://www.semanticscholar.org/paper/Video-XL%3A-Extra-Long-Vision-Language-Model-for-Shu-Zhang/ad6f68db45aaebc0e61b342d03da4c2702ce5697)
+[![Code](https://img.shields.io/github/stars/VectorSpaceLab/Video-XL.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/Video-XL/tree/main)
 
 
 + **VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**  (25 Apr 2024)<details><summary>Zesen Cheng, Sicong Leng, Hang Zhang, et al.</summary>Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin Zhu, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing</details>
