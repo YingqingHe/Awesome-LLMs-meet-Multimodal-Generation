@@ -2222,10 +2222,27 @@ Uppala, Phani Krishna, Shriti Priya, and Vaidehi Joshi.\
 
   
 ## 3D Understanding
++ **Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding** (12 Oct 2024)<details><summary>[NeurIPS 2024] Yunze Man, Shuhong Zheng, Zhipeng Bao, et al.</summary>Yunze Man, Shuhong Zheng, Zhipeng Bao, Martial Hebert, Liang-Yan Gui, Yu-Xiong Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03757)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=10213cac3343964f746e99e223818b052d07b775)](https://www.semanticscholar.org/paper/10213cac3343964f746e99e223818b052d07b775)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yunzeman.github.io/lexicon3d/)
+[![Code](https://img.shields.io/github/stars/YunzeMan/Lexicon3D.svg?style=social&label=Star)](https://github.com/YunzeMan/Lexicon3D)
+
+
++ **Situation3D: Situational Awareness Matters in 3D Vision Language Reasoning** (12 Oct 2024)\
+[CVPR 2024] Yunze Man, Liang-Yan Gui, Yu-Xiong Wang \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07544)
+[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=c31970f0b5a3ffa41ab604ae29ffd323af277538)](https://www.semanticscholar.org/paper/c31970f0b5a3ffa41ab604ae29ffd323af277538)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yunzeman.github.io/situation3d/)
+[![Code](https://img.shields.io/github/stars/YunzeMan/Situation3D.svg?style=social&label=Star)](https://github.com/YunzeMan/Situation3D)
+
+
+
 + **LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning** (30 Nov 2023)<details><summary>[CVPR2024]Sijin Chen, Xin Chen, Chi Zhang, et al. </summary>[CVPR 2024] Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, Hao Fei, Hongyuan Zhu, Jiayuan Fan, Tao Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.18651)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=fc53f8f3a84f1fc4993689d8f98cf6551d07a22d)](https://www.semanticscholar.org/paper/fc53f8f3a84f1fc4993689d8f98cf6551d07a22d)
 [![Code](https://img.shields.io/github/stars/Open3DA/LL3DA.svg?style=social&label=Star)](https://github.com/Open3DA/LL3DA)
+
 
 + **LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding** (21 Dec 2023)\
 Senqiao Yang*, Jiaming Liu*, Ray Zhang, et al.\
