@@ -84,39 +84,55 @@
 
 ### 🔅 LLM-based
 
+
++ **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation** (10 Oct 2024)<details><summary>Jiatao Gu, Yuyang Wang, Yizhe Zhang et al.</summary>Jiatao Gu, Yuyang Wang, Yizhe Zhang, Qihang Zhang, Dinghuai Zhang, Navdeep Jaitly, Josh Susskind, Shuangfei Zhai</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08159)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=61bfd967a6ba21e50276e52f353fa74dd68990a6)](https://www.semanticscholar.org/paper/DART%3A-Denoising-Autoregressive-Transformer-for-Gu-Wang/61bfd967a6ba21e50276e52f353fa74dd68990a6)
+
++ **OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation** (13 Jun 2024)<details><summary>Junke Wang, Yi Jiang, Zehuan Yuan et al.</summary>Junke Wang, Yi Jiang, Zehuan Yuan, Binyue Peng, Zuxuan Wu, Yu-Gang Jiang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09399)
+[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=8613c1081a6ab34e2f980e35c06a1af461d7314e)](https://www.semanticscholar.org/paper/OmniTokenizer%3A-A-Joint-Image-Video-Tokenizer-for-Wang-Jiang/8613c1081a6ab34e2f980e35c06a1af461d7314e)
+[![Code](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/OmniTokenizer)
+
+
 + **InstantUnify: Integrates Multimodal LLM into Diffusion Models** (Aug 2024)<details><summary>Qixun Wang, Xu Bai, Rui Wang et al.</summary>Qixun Wang, Xu Bai, Rui Wang, Haofan Wang</details></details>
 [![Code](https://img.shields.io/github/stars/instantX-research/InstantUnify.svg?style=social&label=Star)](https://github.com/instantX-research/InstantUnify)
 
-+ **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions** (11 June 2024)<details><summary>Renjie Pi, Jianshu Zhang, Jipeng Zhang et al.</summary> Renjie Pi, Jianshu Zhang, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</details></details>
++ **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions** (11 Jun 2024)<details><summary>Renjie Pi, Jianshu Zhang, Jipeng Zhang et al.</summary> Renjie Pi, Jianshu Zhang, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07502)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/91b4f447bb06d081a7947b42df57491a04fa46f9)
 
 
 
-+ **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text** (11 June 2024)<details><summary>[ACL 2024] Aoxiong Yin, Haoyuan Li, Kai Shen et al.</summary> Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang</details></details>
++ **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text** (11 Jun 2024)<details><summary>[ACL 2024] Aoxiong Yin, Haoyuan Li, Kai Shen et al.</summary> Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07119)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/186910d697bf7eb605aa055aee78fd91ce3ce9fe)
 
 
-+ **Open-World Human-Object Interaction Detection via Multi-modal Prompts** (11 June 2024)<details><summary>Jie Yang, Bingliang Li, Ailing Zeng et al.</summary>Jie Yang, Bingliang Li, Ailing Zeng, Lei Zhang, Ruimao Zhang</details></details>
++ **Open-World Human-Object Interaction Detection via Multi-modal Prompts** (11 Jun 2024)<details><summary>Jie Yang, Bingliang Li, Ailing Zeng et al.</summary>Jie Yang, Bingliang Li, Ailing Zeng, Lei Zhang, Ruimao Zhang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07119)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/186910d697bf7eb605aa055aee78fd91ce3ce9fe)
 
 
-+ **Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?** (11 June 2024)<details><summary>Xingyu Fu, Muyu He, Yujie Lu et al.</summary>Xingyu Fu, Muyu He, Yujie Lu, William Yang Wang, Dan Roth</details></details>
++ **Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?** (11 Jun 2024)<details><summary>Xingyu Fu, Muyu He, Yujie Lu et al.</summary>Xingyu Fu, Muyu He, Yujie Lu, William Yang Wang, Dan Roth</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07221v1)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/f0acf2a2293d963c3786e83bb198c75612adc446)
 
 
 
-+ **An Image is Worth 32 Tokens for Reconstruction and Generation** (11 June 2024)<details><summary>Qihang Yu, Mark Weber, Xueqing Deng et al.</summary> Qihang Yu, Mark Weber, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen</details></details>
++ **An Image is Worth 32 Tokens for Reconstruction and Generation** (11 Jun 2024)<details><summary>Qihang Yu, Mark Weber, Xueqing Deng et al.</summary> Qihang Yu, Mark Weber, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07550)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/1e31f4a4ccfc0d1e461be05361d77b5e045f4d37)
 
 
-+ **TRINS: Towards Multimodal Language Models that Can Read** (10 June 2024)<details><summary>[CVPR 2024] Ruiyi Zhang, Yanzhe Zhang, Jian Chen et al.</summary> Ruiyi Zhang, Yanzhe Zhang, Jian Chen, Yufan Zhou, Jiuxiang Gu, Changyou Chen, Tong Sun</details></details>
++ **TRINS: Towards Multimodal Language Models that Can Read** (10 Jun 2024)<details><summary>[CVPR 2024] Ruiyi Zhang, Yanzhe Zhang, Jian Chen et al.</summary> Ruiyi Zhang, Yanzhe Zhang, Jian Chen, Yufan Zhou, Jiuxiang Gu, Changyou Chen, Tong Sun</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06730)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/784260e953b2ce34df52086804681e35d57e5843)
+
++ **[LlamaGen] Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation** (10 Jun 2024)<details><summary>Peize Sun, Yi Jiang, Shoufa Chen et al.</summary>Peize Sun, Yi Jiang, Shoufa Chen, Shilong Zhang, Bingyue Peng, Ping Luo, Zehuan Yuan</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06525)
+[![citation](https://img.shields.io/badge/citation-42-blue.svg?paper=b15e6e2b1d81bc110f8fc98c3caf2e25e2512539)](https://www.semanticscholar.org/paper/Autoregressive-Model-Beats-Diffusion%3A-Llama-for-Sun-Jiang/b15e6e2b1d81bc110f8fc98c3caf2e25e2512539)
+[![Code](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/LlamaGen)
 
 
 
@@ -626,6 +642,13 @@ Tags: `customization`
 ## Video Generation
 
 ### 🔅 LLM-based
+
+
++ **Loong: Generating Minute-level Long Videos with Autoregressive Language Models** (3 Oct 2024)<details><summary>Yuqing Wang, Tianwei Xiong, Daquan Zhou, et al.</summary>Yuqing Wang, Tianwei Xiong, Daquan Zhou, Zhijie Lin, Yang Zhao, Bingyi Kang, Jiashi Feng, Xihui Liu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
+[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=1ac7fc5a55ce5843fb8a19d9f62b623e822bb7de)](https://www.semanticscholar.org/paper/Loong%3A-Generating-Minute-level-Long-Videos-with-Wang-Xiong/1ac7fc5a55ce5843fb8a19d9f62b623e822bb7de)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://epiphqny.github.io/Loong-video/)
+
 
 + **Compositional 3D-aware Video Generation with LLM Director** (31 Aug 2024)<details><summary>Hanxin Zhu, Tianyu He, Anni Tang, et al.</summary>Hanxin Zhu, Tianyu He, Anni Tang, Junliang Guo, Zhibo Chen, Jiang Bian</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.00558)
@@ -2009,23 +2032,23 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 ## Image Understanding
 
-+ **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions** (11 June 2024)<details><summary>Renjie Pi, Jianshu Zhang, Jipeng Zhang et al.</summary> Renjie Pi, Jianshu Zhang, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</details></details>
++ **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions** (11 Jun 2024)<details><summary>Renjie Pi, Jianshu Zhang, Jipeng Zhang et al.</summary> Renjie Pi, Jianshu Zhang, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07502)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/91b4f447bb06d081a7947b42df57491a04fa46f9)
 
 
 
-+ **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text** (11 June 2024)<details><summary>[ACL 2024] Aoxiong Yin, Haoyuan Li, Kai Shen et al.</summary> Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang</details></details>
++ **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text** (11 Jun 2024)<details><summary>[ACL 2024] Aoxiong Yin, Haoyuan Li, Kai Shen et al.</summary> Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07119)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/186910d697bf7eb605aa055aee78fd91ce3ce9fe)
 
 
-+ **Open-World Human-Object Interaction Detection via Multi-modal Prompts** (11 June 2024)<details><summary>Jie Yang, Bingliang Li, Ailing Zeng et al.</summary>Jie Yang, Bingliang Li, Ailing Zeng, Lei Zhang, Ruimao Zhang</details></details>
++ **Open-World Human-Object Interaction Detection via Multi-modal Prompts** (11 Jun 2024)<details><summary>Jie Yang, Bingliang Li, Ailing Zeng et al.</summary>Jie Yang, Bingliang Li, Ailing Zeng, Lei Zhang, Ruimao Zhang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07119)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/186910d697bf7eb605aa055aee78fd91ce3ce9fe)
 
 
-+ **Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?** (11 June 2024)<details><summary>Xingyu Fu, Muyu He, Yujie Lu et al.</summary>Xingyu Fu, Muyu He, Yujie Lu, William Yang Wang, Dan Roth</details></details>
++ **Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?** (11 Jun 2024)<details><summary>Xingyu Fu, Muyu He, Yujie Lu et al.</summary>Xingyu Fu, Muyu He, Yujie Lu, William Yang Wang, Dan Roth</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07221v1)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/f0acf2a2293d963c3786e83bb198c75612adc446)
 
