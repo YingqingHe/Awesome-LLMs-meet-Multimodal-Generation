@@ -2139,6 +2139,12 @@ Yanwei Li, Chengyao Wang, Jiaya Jia\
 
 
 
++ **StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**  (11 Nov 2024)<details><summary>Yichen He, Yuan Lin, Jianchao Wu, et al.</summary>Yichen He, Yuan Lin, Jianchao Wu, Hanchong Zhang, Yuchen Zhang, Ruicheng Le</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07076)
+[![Code](https://img.shields.io/github/stars/hyc2026/StoryTeller.svg?style=social&label=Star)](https://github.com/hyc2026/StoryTeller)
+
+
+
 + **Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**  (22 Sep 2024)<details><summary>Yan Shu, Peitian Zhang, Zheng Liu, et al.</summary>Yan Shu, Peitian Zhang, Zheng Liu, Minghao Qin, Junjie Zhou, Tiejun Huang, Bo Zhao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14485)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=ad6f68db45aaebc0e61b342d03da4c2702ce5697)](https://www.semanticscholar.org/paper/Video-XL%3A-Extra-Long-Vision-Language-Model-for-Shu-Zhang/ad6f68db45aaebc0e61b342d03da4c2702ce5697)
