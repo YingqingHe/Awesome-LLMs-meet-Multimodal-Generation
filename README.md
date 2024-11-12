@@ -1658,6 +1658,13 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 
 ### Non-LLM-based (Clip/T5)
 
++ **SeedEdit: Align Image Re-Generation to Image Editing** (11 Nov 2024)\
+Yichun Shi, Peng Wang, Weilin Huang \
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06686)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://team.doubao.com/en/special/seededit)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/ByteDance/SeedEdit-APP)
+
+
 + **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** (4 Feb 2024)<details><summary>[CVPR 2024] Chong Mou, Xintao Wang, Jiechong Song, et al.</summary>Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang. </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02583)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=198b3d809594a76bc473927af37b858132ac7fdd)](https://www.semanticscholar.org/paper/198b3d809594a76bc473927af37b858132ac7fdd)
