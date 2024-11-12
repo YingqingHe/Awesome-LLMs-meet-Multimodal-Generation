@@ -85,6 +85,11 @@
 ### 🔅 LLM-based
 
 
++ **Cosmos Tokenizer: A suite of image and video neural tokenizers** (06 Nov 2024)<details><summary>Fitsum Reda, Jinwei Gu, Xian Liu et al.</summary>Fitsum Reda, Jinwei Gu, Xian Liu, Songwei Ge, Ting-Chun Wang, Haoxiang Wang, Ming-Yu Liu</details></details>
+[![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer?tab=readme-ov-file)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)`tokenizer`
+
+
 + **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation** (10 Oct 2024)<details><summary>Jiatao Gu, Yuyang Wang, Yizhe Zhang et al.</summary>Jiatao Gu, Yuyang Wang, Yizhe Zhang, Qihang Zhang, Dinghuai Zhang, Navdeep Jaitly, Josh Susskind, Shuangfei Zhai</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08159)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=61bfd967a6ba21e50276e52f353fa74dd68990a6)](https://www.semanticscholar.org/paper/DART%3A-Denoising-Autoregressive-Transformer-for-Gu-Wang/61bfd967a6ba21e50276e52f353fa74dd68990a6)
@@ -93,7 +98,7 @@
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09399)
 [![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=8613c1081a6ab34e2f980e35c06a1af461d7314e)](https://www.semanticscholar.org/paper/OmniTokenizer%3A-A-Joint-Image-Video-Tokenizer-for-Wang-Jiang/8613c1081a6ab34e2f980e35c06a1af461d7314e)
 [![Code](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/OmniTokenizer)
-
+`tokenizer`
 
 + **InstantUnify: Integrates Multimodal LLM into Diffusion Models** (Aug 2024)<details><summary>Qixun Wang, Xu Bai, Rui Wang et al.</summary>Qixun Wang, Xu Bai, Rui Wang, Haofan Wang</details></details>
 [![Code](https://img.shields.io/github/stars/instantX-research/InstantUnify.svg?style=social&label=Star)](https://github.com/instantX-research/InstantUnify)
