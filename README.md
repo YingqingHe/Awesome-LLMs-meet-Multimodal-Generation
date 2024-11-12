@@ -2647,6 +2647,10 @@ Momina Masood, Marriam Nawaz, Khalid Mahmood Malik, Ali Javed, Aun Irtaza\
 ## Vision
 
 
+
++ **Autoregressive Models in Vision: A Survey** (8 Nov 2024)<details><summary>Jing Xiong, Gongye Liu, Lun Huang, et al.</summary>Jing Xiong, Gongye Liu, Lun Huang, Chengyue Wu, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05902)
+[![Code](https://img.shields.io/github/stars/ChaofanTao/Autoregressive-Models-in-Vision-Survey)](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
+
 + **State of the Art on Diffusion Models for Visual Computing** (11 Oct 2023)<details><summary>Ryan Po, Wang Yifan, Vladislav Golyanik, et al.</summary>Ryan Po, Wang Yifan, Vladislav Golyanik, Kfir Aberman, Jonathan T. Barron, Amit H. Bermano, Eric Ryan Chan, Tali Dekel, Aleksander Holynski, Angjoo Kanazawa, C. Karen Liu, Lingjie Liu, Ben Mildenhall, Matthias Nießner, Björn Ommer, Christian Theobalt, Peter Wonka, Gordon Wetzstein</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07204)
 [![citation](https://img.shields.io/badge/citation-27-blue.svg?paper=6487ec82f6d8082a5b402a5416ea03009acb1679)](https://www.semanticscholar.org/paper/6487ec82f6d8082a5b402a5416ea03009acb1679)
 [![Code](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
