@@ -1591,12 +1591,16 @@ Dongchao Yang, Jinchuan Tian, Xu Tan\
 ### 🔅 LLM-based
 
 
-
 + **UltraEdit: Instruction-based Fine-Grained Image Editing at Scale** (7 Jul 2024)<details><summary>Haozhe Zhao, Xiaojian Ma, Liang Chen, et al.</summary> Haozhe Zhao, Xiaojian Ma, Liang Chen, Shuzheng Si, Rujie Wu, Kaikai An, Peiyu Yu, Minjia Zhang, Qing Li, Baobao Chang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06739)
 [![citation](https://img.shields.io/badge/citation-16-blue.svg?paper=388b0f44faf0a14cc402c2554ec36a868cf59129)](https://www.semanticscholar.org/paper/SmartEdit%3A-Exploring-Complex-Instruction-Based-with-Huang-Xie/388b0f44faf0a14cc402c2554ec36a868cf59129)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ultra-editing.github.io/)
 [![Code](https://img.shields.io/github/stars/HaozheZhao/UltraEdit.svg?style=social&label=Star)](https://github.com/HaozheZhao/UltraEdit)
+
+
++ **TIE: Revolutionizing Text-based Image Editing for Complex-Prompt Following and High-Fidelity Editing** (27 May 2024)<details><summary>Xinyu Zhang, Mengxue Kang, Fei Wei, et al.</summary>Xinyu Zhang, Mengxue Kang, Fei Wei, Shuang Xu, Yuhe Liu, Lin Ma</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16803)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=8342dfd84eb91cab27404497ef0570b8d9ec55d5)](https://www.semanticscholar.org/paper/TIE%3A-Revolutionizing-Text-based-Image-Editing-for-Zhang-Kang/8342dfd84eb91cab27404497ef0570b8d9ec55d5)
 
 
 + **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** (11 Dec 2023)<details><summary>[CVPR 2024] Yuzhou Huang, Liangbin Xie, Xintao Wang, et al.</summary> Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan</details>
