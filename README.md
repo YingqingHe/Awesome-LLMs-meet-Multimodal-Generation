@@ -968,6 +968,15 @@ Tags: `general human motion generation`
 [![citation](https://img.shields.io/badge/citation-6-blue.svg?paper=2fb2a76be0f261fb2660457a6cec8a8384b33a19)](https://www.semanticscholar.org/paper/Vript%3A-A-Video-Is-Worth-Thousands-of-Words-Yang-Huang/2fb2a76be0f261fb2660457a6cec8a8384b33a19)
 [![Code](https://img.shields.io/github/stars/mutonix/Vript.svg?style=social&label=Star)](https://github.com/mutonix/Vript)
 
+
++ **MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions** (30 Jul 2024)<details><summary>Xiaowei Chi, Yatian Wang, Aosong Cheng, et al.</summary>Xiaowei Chi, Yatian Wang, Aosong Cheng, Pengjun Fang, Zeyue Tian, Yingqing He, Zhaoyang Liu, Xingqun Qi, Jiahao Pan, Rongyu Zhang, Mengfei Li, Ruibin Yuan, Yanbing Jiang, Wei Xue, Wenhan Luo, Qifeng Chen, Shanghang Zhang, Qifeng Liu, Yike Guo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20962)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=0d8ea8cf8fcadc0eb52304258e254e01c62dfe52)](https://www.semanticscholar.org/paper/MMTrail%3A-A-Multimodal-Trailer-Video-Dataset-with-Chi-Wang/0d8ea8cf8fcadc0eb52304258e254e01c62dfe52)
+[![Code](https://img.shields.io/github/stars/litwellchi/MMTrail.svg?style=social&label=Star)](https://github.com/litwellchi/MMTrail)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mattie-e.github.io/MMTrail/)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/datasets/litwell/MMTrail-20M)
+
+
 + **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)<details><summary>[ICLR 2024 Spotlight] Yi Wang, Yinan He, Yizhuo Li, et al.</summary>Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Conghui He, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 [![citation](https://img.shields.io/badge/citation-36-blue.svg?paper=369b449415d50387fba048bbd4d26ee890df84b5)](https://www.semanticscholar.org/paper/369b449415d50387fba048bbd4d26ee890df84b5)
