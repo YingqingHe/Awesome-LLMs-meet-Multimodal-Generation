@@ -956,6 +956,18 @@ Tags: `general human motion generation`
 
 ### Datasets
 
++ **VidGen-1M: A Large-Scale Dataset for Text-to-video Generation** (5 Aug 2024)<details><summary>Zhiyu Tan, Xiaomeng Yang, Luozheng Qin, et al.</summary>Zhiyu Tan, Xiaomeng Yang, Luozheng Qin, Hao Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.02629)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=8af933a6e0d45e041a1ca35d461aad92022aa957)](https://www.semanticscholar.org/paper/VidGen-1M%3A-A-Large-Scale-Dataset-for-Text-to-video-Tan-Yang/8af933a6e0d45e041a1ca35d461aad92022aa957)
+[![Code](https://img.shields.io/github/stars/mutonix/Vript.svg?style=social&label=Star)](https://github.com/SAIS-FUXI/VidGen)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sais-fuxi.github.io/projects/vidgen-1m/)
+
+
++ **Vript: A Video Is Worth Thousands of Words** (10 Jun 2024)<details><summary>[NIPS 2024 Dataset & Benchmark track] Dongjie Yang, Suyuan Huang, Chengqiang Lu, et al.</summary>Dongjie Yang, Suyuan Huang, Chengqiang Lu, Xiaodong Han, Haoxin Zhang, Yan Gao, Yao Hu, Hai Zhao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06040)
+[![citation](https://img.shields.io/badge/citation-6-blue.svg?paper=2fb2a76be0f261fb2660457a6cec8a8384b33a19)](https://www.semanticscholar.org/paper/Vript%3A-A-Video-Is-Worth-Thousands-of-Words-Yang-Huang/2fb2a76be0f261fb2660457a6cec8a8384b33a19)
+[![Code](https://img.shields.io/github/stars/mutonix/Vript.svg?style=social&label=Star)](https://github.com/mutonix/Vript)
+
 + **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation** (13 Jul 2023)<details><summary>[ICLR 2024 Spotlight] Yi Wang, Yinan He, Yizhuo Li, et al.</summary>Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, Guo Chen, Xinyuan Chen, Yaohui Wang, Conghui He, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 [![citation](https://img.shields.io/badge/citation-36-blue.svg?paper=369b449415d50387fba048bbd4d26ee890df84b5)](https://www.semanticscholar.org/paper/369b449415d50387fba048bbd4d26ee890df84b5)
