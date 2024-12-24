@@ -25,6 +25,7 @@
   - [Video Generation](#video-generation)
     - [🔅 LLM-based](#-llm-based-1)
     - [Non-LLM-based](#non-llm-based)
+    - [Video VAE/Tokenizers](#video-vaetokenizers)
     - [Datasets](#datasets-1)
   - [3D Generation](#3d-generation)
     - [🔅 LLM-based](#-llm-based-2)
@@ -727,11 +728,6 @@ Tags: `general human motion generation`
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9cdb7e415a96795dc6705e66f3b798238b4dec2c)](https://www.semanticscholar.org/paper/9cdb7e415a96795dc6705e66f3b798238b4dec2c)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://gpt4motion.github.io/)
 
-+ **[MAGVIT-v2] Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (9 Oct 2023)<details><summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, et al.</summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
-[![citation](https://img.shields.io/badge/citation-15-blue.svg?paper=985f0c89c5a607742ec43c1fdc2cbfe54541cbad)](https://www.semanticscholar.org/paper/985f0c89c5a607742ec43c1fdc2cbfe54541cbad)
-`tokenizer`
-
 + **[LVD] LLM-grounded Video Diffusion Models** (29 Sep 2023)<details><summary>Long Lian, Baifeng Shi, Adam Yala, et al.</summary>Long Lian, Baifeng Shi, Adam Yala, Trevor Darrell, Boyi Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
 [![citation](https://img.shields.io/badge/citation-10-blue.svg?paper=87bf66eb6d22df17f70170a0e575b4f12c4813ef)](https://www.semanticscholar.org/paper/87bf66eb6d22df17f70170a0e575b4f12c4813ef)
@@ -859,12 +855,6 @@ Tags: `general human motion generation`
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=2917706886df4e3bf57acd0b41bd4e396be77506)](https://www.semanticscholar.org/paper/ZeroSmooth%3A-Training-free-Diffuser-Adaptation-for-Yang-Zhang/2917706886df4e3bf57acd0b41bd4e396be77506#cited-papers)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ssyang2020.github.io/zerosmooth.github.io/)
 
-+ **CV-VAE: A Compatible Video VAE for Latent Generative Video Models** (29 May 2024)<details><summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, et al.</summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=40122a222374504fda4997ef6204dcdcee1678da)](https://www.semanticscholar.org/paper/EasyAnimate%3A-A-High-Performance-Long-Video-Method-Xu-Zou/40122a222374504fda4997ef6204dcdcee1678da)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ssyang2020.github.io/zerosmooth.github.io/)
-[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
-
 
 + **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture** (30 May 2024)<details><summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, et al.</summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, Xiaoyu Li, Wenbo Hu, Ying Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279)
@@ -952,6 +942,55 @@ Tags: `general human motion generation`
 + **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** (15 Mar 2023)<details><summary>Zhengxiong Luo, Dayou Chen, Yingya Zhang, et al.</summary>Zhengxiong Luo, Dayou Chen, Yingya Zhang, Yan Huang, Liang Wang, Yujun Shen, Deli Zhao, Jingren Zhou, Tieniu Tan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
 [![citation](https://img.shields.io/badge/citation-108-blue.svg?paper=26c6090b7e7ba4513f82aa28d41360c60770c618)](https://www.semanticscholar.org/paper/26c6090b7e7ba4513f82aa28d41360c60770c618)
+
+
+
+
+### Video VAE/Tokenizers
+
+
+
++ **VideoVAE+: Large Motion Video Autoencoding with Cross-modal Video VAE** (23 Dec 2024)<details><summary>Yazhou Xing, Yang Fei, Yingqing He, et al.</summary>Yazhou Xing, Yang Fei, Yingqing He, Jingye Chen, Jiaxin Xie, Xiaowei Chi, Qifeng Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17805)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=58d9eaa0868e971687c20d0588de3058b7780b51)]()
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yzxing87.github.io/vae/)
+[![Code](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoVAEPlus?tab=readme-ov-file)
+
+
++ **WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** (26 Nov 2024)<details><summary>Zongjian Li, Bin Lin, Yang Ye, et al.</summary>Zongjian Li, Bin Lin, Yang Ye, Liuhan Chen, Xinhua Cheng, Shenghai Yuan, Li Yuan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17459)
+[![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=58d9eaa0868e971687c20d0588de3058b7780b51)](https://www.semanticscholar.org/paper/WF-VAE%3A-Enhancing-Video-VAE-by-Wavelet-Driven-Flow-Li-Lin/58d9eaa0868e971687c20d0588de3058b7780b51)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/cvvae/index.html)
+[![Code](https://img.shields.io/github/stars/PKU-YuanGroup/WF-VAE.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/WF-VAE)
+
+
+
++ **Improved Video VAE for Latent Video Diffusion Model** (10 Nov 2024)<details><summary>Pingyu Wu, Kai Zhu, Yu Liu, et al.</summary>Pingyu Wu, Kai Zhu, Yu Liu, Liming Zhao, Wei Zhai, Yang Cao, Zheng-Jun Zha</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06449)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=4e073da5a37753fba320719baaa17ca593e6a094)](https://www.semanticscholar.org/paper/Improved-Video-VAE-for-Latent-Video-Diffusion-Model-Wu-Zhu/4e073da5a37753fba320719baaa17ca593e6a094)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wpy1999.github.io/IV-VAE/)
+
+
+
++ **Cosmos Tokenizer: A suite of image and video neural tokenizers** (Nov 6, 2024)<details><summary>Fitsum Reda, Jinwei Gu, Xian Liu, et al.</summary>Fitsum Reda, Jinwei Gu, Xian Liu, Songwei Ge, Ting-Chun Wang, Haoxiang Wang, Ming-Yu Liu</details>
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
+[![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer)
+
+
+
++ **CV-VAE: A Compatible Video VAE for Latent Generative Video Models** (30 May 2024)<details><summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, et al.</summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, Xiaoyu Li, Wenbo Hu, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279)
+[![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=70569a07d841f86faf8914aea435a1696f911a32)](https://www.semanticscholar.org/paper/CV-VAE%3A-A-Compatible-Video-VAE-for-Latent-Video-Zhao-Zhang/70569a07d841f86faf8914aea435a1696f911a32)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/cvvae/index.html)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/CV-VAE.svg?style=social&label=Star)](https://github.com/AILab-CVC/CV-VAE)
+
+
+
++ **[MAGVIT-v2] Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (9 Oct 2023)<details><summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, et al.</summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
+[![citation](https://img.shields.io/badge/citation-15-blue.svg?paper=985f0c89c5a607742ec43c1fdc2cbfe54541cbad)](https://www.semanticscholar.org/paper/985f0c89c5a607742ec43c1fdc2cbfe54541cbad)
+`tokenizer`
+
 
 
 ### Datasets
