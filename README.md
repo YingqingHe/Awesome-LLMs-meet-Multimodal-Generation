@@ -86,14 +86,35 @@
 ### 🔅 LLM-based
 
 
++ **MetaMorph: Multimodal Understanding and Generation via Instruction Tuning** (18 Dec 2024)<details><summary>Shengbang Tong, David Fan, Jiachen Zhu, et al.</summary>Shengbang Tong, David Fan, Jiachen Zhu, Yunyang Xiong, Xinlei Chen, Koustuv Sinha, Michael Rabbat, Yann LeCun, Saining Xie, Zhuang Liu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14164v1)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsb0601.github.io/metamorph/)
+
++ **X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models** (2 Dec 2024)<details><summary>Zeyi Sun, Ziyang Chu, Pan Zhang, et al.</summary>Zeyi Sun, Ziyang Chu, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuanjun Xiong, Dahua Lin, Jiaqi Wang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01824)
+[![Code](https://img.shields.io/github/stars/SunzeY/X-Prompt.svg?style=social&label=Star)](https://github.com/SunzeY/X-Prompt)
+
+
 + **Cosmos Tokenizer: A suite of image and video neural tokenizers** (06 Nov 2024)<details><summary>Fitsum Reda, Jinwei Gu, Xian Liu et al.</summary>Fitsum Reda, Jinwei Gu, Xian Liu, Songwei Ge, Ting-Chun Wang, Haoxiang Wang, Ming-Yu Liu</details></details>
 [![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer?tab=readme-ov-file)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)`tokenizer`
 
++ **ElasticTok: Adaptive Tokenization for Image and Video** (10 Oct 2024)<details><summary>Wilson Yan, Matei Zaharia, Volodymyr Mnih et al.</summary>Wilson Yan, Matei Zaharia, Volodymyr Mnih, Pieter Abbeel, Aleksandra Faust, Hao Liu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08368)
+[![Code](https://img.shields.io/github/stars/LargeWorldModel/ElasticTok.svg?style=social&label=Star)](https://github.com/LargeWorldModel/ElasticTok)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://largeworldmodel.github.io/elastictok/)`tokenizer`
 
 + **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation** (10 Oct 2024)<details><summary>Jiatao Gu, Yuyang Wang, Yizhe Zhang et al.</summary>Jiatao Gu, Yuyang Wang, Yizhe Zhang, Qihang Zhang, Dinghuai Zhang, Navdeep Jaitly, Josh Susskind, Shuangfei Zhai</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08159)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=61bfd967a6ba21e50276e52f353fa74dd68990a6)](https://www.semanticscholar.org/paper/DART%3A-Denoising-Autoregressive-Transformer-for-Gu-Wang/61bfd967a6ba21e50276e52f353fa74dd68990a6)
+
+
+
++ **VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation** (6 Sep 2024)<details><summary>Yecheng Wu, Zhuoyang Zhang, Junyu Chen et al.</summary>Yecheng Wu, Zhuoyang Zhang, Junyu Chen, Haotian Tang, Dacheng Li, Yunhao Fang, Ligeng Zhu, Enze Xie, Hongxu Yin, Li Yi, Song Han, Yao Lu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04429)
+[![Code](https://img.shields.io/github/stars/mit-han-lab/vila-u.svg?style=social&label=Star)](https://github.com/mit-han-lab/vila-u)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hanlab.mit.edu/projects/vila-u)
+
 
 + **OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation** (13 Jun 2024)<details><summary>Junke Wang, Yi Jiang, Zehuan Yuan et al.</summary>Junke Wang, Yi Jiang, Zehuan Yuan, Binyue Peng, Zuxuan Wu, Yu-Gang Jiang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09399)
@@ -103,6 +124,12 @@
 
 + **InstantUnify: Integrates Multimodal LLM into Diffusion Models** (Aug 2024)<details><summary>Qixun Wang, Xu Bai, Rui Wang et al.</summary>Qixun Wang, Xu Bai, Rui Wang, Haofan Wang</details></details>
 [![Code](https://img.shields.io/github/stars/instantX-research/InstantUnify.svg?style=social&label=Star)](https://github.com/instantX-research/InstantUnify)
+
+
++ **Show-o: One Single Transformer to Unify Multimodal Understanding and Generation** (22 Aug 2024)<details><summary>Jinheng Xie, Weijia Mao, Zechen Bai, et al.</summary>Jinheng Xie, Weijia Mao, Zechen Bai, David Junhao Zhang, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12528)
+[![citation](https://img.shields.io/badge/citation-49-blue.svg?paper=da0d382c7fa981ba185ca633868442b75cb76de6)](https://www.semanticscholar.org/paper/Show-o%3A-One-Single-Transformer-to-Unify-Multimodal-Xie-Mao/9dc337bd18bc0201839942931b12aff8ec1c93f5)
+[![Code](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
 
 + **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions** (11 Jun 2024)<details><summary>Renjie Pi, Jianshu Zhang, Jipeng Zhang et al.</summary> Renjie Pi, Jianshu Zhang, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07502)
@@ -149,6 +176,10 @@
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.09818)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=32112b798f70faab00e14806f51d46058cf5e597)](https://www.semanticscholar.org/paper/Chameleon%3A-Mixed-Modal-Early-Fusion-Foundation-Team/32112b798f70faab00e14806f51d46058cf5e597?utm_source=direct_link)
 
++ **SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation** (22 Apr 2024)<details><summary>Yuying Ge, Sijie Zhao, Jinguo Zhu, et al.</summary>Yuying Ge, Sijie Zhao, Jinguo Zhu, Yixiao Ge, Kun Yi, Lin Song, Chen Li, Xiaohan Ding, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14396)
+[![citation](https://img.shields.io/badge/citation-44-blue.svg?paper=9259b476c31ba52b7e9ed059e5fbce2125092738)](https://www.semanticscholar.org/paper/SEED-X%3A-Multimodal-Models-with-Unified-and-Ge-Zhao/ef03c907ee24e2e6c0f2d24639551c82862d1080)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED-X)
 
 
 + **Graphic Design with Large Multimodal Model** (22 Apr 2024)<details><summary>Yutao Cheng, Zhao Zhang, Maoke Yang, et al.</summary> Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, and Jie Shao</details>
@@ -206,8 +237,7 @@
 
 
 
-+ **GENIXER: Empowering Multimodal Large Language Models as a Powerful
-Data Generator** (11 Dec 2023)<details><summary>Henry Hengyuan Zhao, Pan Zhou, Mike Zheng Shou</summary> Henry Hengyuan Zhao, Pan Zhou, Mike Zheng Shou</details> 
++ **GENIXER: Empowering Multimodal Large Language Models as a Powerful Data Generator** (11 Dec 2023)<details><summary>Henry Hengyuan Zhao, Pan Zhou, Mike Zheng Shou</summary> Henry Hengyuan Zhao, Pan Zhou, Mike Zheng Shou</details> 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.06731)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=cb2295766b2f8f35524f6a9f93ae39d948d50bd4)](https://www.semanticscholar.org/paper/cb2295766b2f8f35524f6a9f93ae39d948d50bd4)
 
@@ -682,6 +712,12 @@ Tags: `customization`
 
 + **[Sora] Video generation models as world simulators** (15 Feb 2024)<details><summary>Tim Brooks, Bill Peebles, Connor Holmes, et al.</summary>Tim Brooks and Bill Peebles and Connor Holmes and Will DePue and Yufei Guo and Li Jing and David Schnurr and Joe Taylor and Troy Luhman and Eric Luhman and Clarence Ng and Ricky Wang and Aditya Ramesh</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openai.com/research/video-generation-models-as-world-simulators)
+
+
++ **[LWM] World Model on Million-Length Video And Language With Blockwise RingAttention** (13 Feb 2024)<details><summary>Hao Liu, Wilson Yan, Matei Zaharia, et al.</summary>Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.08268)
+[![citation](https://img.shields.io/badge/citation-38-blue.svg?paper=9259b476c31ba52b7e9ed059e5fbce2125092738)](https://www.semanticscholar.org/paper/World-Model-on-Million-Length-Video-And-Language-Liu-Yan/db7498f569be9852a04b2bb5bd68bd2885820bea)
+
 
 + **[LGVI] Towards Language-Driven Video Inpainting via Multimodal Large Language Models** (18 Jan 2024)<details><summary>Jianzong Wu, Xiangtai Li, Chenyang Si, et al.</summary>Jianzong Wu, Xiangtai Li, Chenyang Si, Shangchen Zhou, Jingkang Yang, Jiangning Zhang, Yining Li, Kai Chen, Yunhai Tong, Ziwei Liu, Chen Change Loy</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10226)
