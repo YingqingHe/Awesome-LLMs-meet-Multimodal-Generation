@@ -974,6 +974,9 @@ Tags: `general human motion generation`
 ### Video VAE/Tokenizers
 
 
++ **DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation** (17 Feb 2024)<details><summary>Zhihang Yuan, Siyuan Wang, Rui Xie, et al.</summary>Zhihang Yuan, Siyuan Wang, Rui Xie, Hanling Zhang, Tongcheng Fang, Yuzhang Shang, Shengen Yan, Guohao Dai, Yu Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11897)
+[![Code](https://img.shields.io/github/stars/thu-nics/DLFR-VAE.svg?style=social&label=Star)](https://github.com/thu-nics/DLFR-VAE)
 
 + **VideoVAE+: Large Motion Video Autoencoding with Cross-modal Video VAE** (23 Dec 2024)<details><summary>Yazhou Xing, Yang Fei, Yingqing He, et al.</summary>Yazhou Xing, Yang Fei, Yingqing He, Jingye Chen, Jiaxin Xie, Xiaowei Chi, Qifeng Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17805)
