@@ -977,33 +977,40 @@ Tags: `general human motion generation`
 
 + **VideoVAE+: Large Motion Video Autoencoding with Cross-modal Video VAE** (23 Dec 2024)<details><summary>Yazhou Xing, Yang Fei, Yingqing He, et al.</summary>Yazhou Xing, Yang Fei, Yingqing He, Jingye Chen, Jiaxin Xie, Xiaowei Chi, Qifeng Chen</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17805)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=58d9eaa0868e971687c20d0588de3058b7780b51)]()
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yzxing87.github.io/vae/)
 [![Code](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoVAEPlus?tab=readme-ov-file)
 
++ **VidTwin: Video VAE with Decoupled Structure and Dynamics** (23 Dec 2024)<details><summary>Yuchi Wang, Junliang Guo, Xinyi Xie, et al.</summary>Yuchi Wang, Junliang Guo, Xinyi Xie, Tianyu He, Xu Sun, Jiang Bian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17726)
+[![Code](https://img.shields.io/github/stars/microsoft/VidTok.svg?style=social&label=Star)](https://github.com/microsoft/VidTok/tree/main/vidtwin)
 
-+ **WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** (26 Nov 2024)<details><summary>Zongjian Li, Bin Lin, Yang Ye, et al.</summary>Zongjian Li, Bin Lin, Yang Ye, Liuhan Chen, Xinhua Cheng, Shenghai Yuan, Li Yuan</details>
+
++ **VidTok: A Versatile and Open-Source Video Tokenizer** (17 Dec 2024)<details><summary>Anni Tang, Tianyu He, Junliang Guo, et al.</summary>Anni Tang, Tianyu He, Junliang Guo, Xinle Cheng, Li Song, Jiang Bian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13061)
+[![Code](https://img.shields.io/github/stars/microsoft/VidTok.svg?style=social&label=Star)](https://github.com/microsoft/VidTok)
+
+
++ **[CVPR 2025] WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** (26 Nov 2024)<details><summary>Zongjian Li, Bin Lin, Yang Ye, et al.</summary>Zongjian Li, Bin Lin, Yang Ye, Liuhan Chen, Xinhua Cheng, Shenghai Yuan, Li Yuan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17459)
 [![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=58d9eaa0868e971687c20d0588de3058b7780b51)](https://www.semanticscholar.org/paper/WF-VAE%3A-Enhancing-Video-VAE-by-Wavelet-Driven-Flow-Li-Lin/58d9eaa0868e971687c20d0588de3058b7780b51)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/cvvae/index.html)
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/WF-VAE.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/WF-VAE)
 
 
-
-+ **Improved Video VAE for Latent Video Diffusion Model** (10 Nov 2024)<details><summary>Pingyu Wu, Kai Zhu, Yu Liu, et al.</summary>Pingyu Wu, Kai Zhu, Yu Liu, Liming Zhao, Wei Zhai, Yang Cao, Zheng-Jun Zha</details>
++ **[CVPR 2025] [IV-VAE] Improved Video VAE for Latent Video Diffusion Model** (10 Nov 2024)<details><summary>Pingyu Wu, Kai Zhu, Yu Liu, et al.</summary>Pingyu Wu, Kai Zhu, Yu Liu, Liming Zhao, Wei Zhai, Yang Cao, Zheng-Jun Zha</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06449)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=4e073da5a37753fba320719baaa17ca593e6a094)](https://www.semanticscholar.org/paper/Improved-Video-VAE-for-Latent-Video-Diffusion-Model-Wu-Zhu/4e073da5a37753fba320719baaa17ca593e6a094)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wpy1999.github.io/IV-VAE/)
 
 
 
-+ **Cosmos Tokenizer: A suite of image and video neural tokenizers** (Nov 6, 2024)<details><summary>Fitsum Reda, Jinwei Gu, Xian Liu, et al.</summary>Fitsum Reda, Jinwei Gu, Xian Liu, Songwei Ge, Ting-Chun Wang, Haoxiang Wang, Ming-Yu Liu</details>
++ **[Tech Report] Cosmos Tokenizer: A suite of image and video neural tokenizers** (Nov 6, 2024)<details><summary>Fitsum Reda, Jinwei Gu, Xian Liu, et al.</summary>Fitsum Reda, Jinwei Gu, Xian Liu, Songwei Ge, Ting-Chun Wang, Haoxiang Wang, Ming-Yu Liu</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
+[![TokenBench](https://img.shields.io/badge/TokenBench-00000)](https://github.com/NVlabs/TokenBench?tab=readme-ov-file)
 [![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer)
 
 
-
-+ **CV-VAE: A Compatible Video VAE for Latent Generative Video Models** (30 May 2024)<details><summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, et al.</summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, Xiaoyu Li, Wenbo Hu, Ying Shan</details>
++ **[NeurIPS 2024] CV-VAE: A Compatible Video VAE for Latent Generative Video Models** (30 May 2024)<details><summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, et al.</summary>Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, Xiaoyu Li, Wenbo Hu, Ying Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279)
 [![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=70569a07d841f86faf8914aea435a1696f911a32)](https://www.semanticscholar.org/paper/CV-VAE%3A-A-Compatible-Video-VAE-for-Latent-Video-Zhao-Zhang/70569a07d841f86faf8914aea435a1696f911a32)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/cvvae/index.html)
@@ -1011,10 +1018,9 @@ Tags: `general human motion generation`
 
 
 
-+ **[MAGVIT-v2] Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (9 Oct 2023)<details><summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, et al.</summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang</details>
++ **[ICLR 2024] [MAGVIT-v2] Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (9 Oct 2023)<details><summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, et al.</summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
 [![citation](https://img.shields.io/badge/citation-15-blue.svg?paper=985f0c89c5a607742ec43c1fdc2cbfe54541cbad)](https://www.semanticscholar.org/paper/985f0c89c5a607742ec43c1fdc2cbfe54541cbad)
-`tokenizer`
 
 ### Benchmarks
 
