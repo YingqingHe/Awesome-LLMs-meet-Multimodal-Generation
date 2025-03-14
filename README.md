@@ -87,6 +87,11 @@
 ### 🔅 LLM-based
 
 
++ **I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models** (12 Feb 2025)<details><summary>Zhenxing Mi, Kuan-Chieh Wang, Guocheng Qian, et al.</summary>Zhenxing Mi, Kuan-Chieh Wang, Guocheng Qian, Hanrong Ye, Runtao Liu, Sergey Tulyakov, Kfir Aberman, Dan Xu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10458)
+[![Code](https://img.shields.io/github/stars/MiZhenxing/ThinkDiff.svg?style=social&label=Star)](https://github.com/MiZhenxing/ThinkDiff?tab=readme-ov-file)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mizhenxing.github.io/ThinkDiff/)
+
 + **MetaMorph: Multimodal Understanding and Generation via Instruction Tuning** (18 Dec 2024)<details><summary>Shengbang Tong, David Fan, Jiachen Zhu, et al.</summary>Shengbang Tong, David Fan, Jiachen Zhu, Yunyang Xiong, Xinlei Chen, Koustuv Sinha, Michael Rabbat, Yann LeCun, Saining Xie, Zhuang Liu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14164v1)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsb0601.github.io/metamorph/)
