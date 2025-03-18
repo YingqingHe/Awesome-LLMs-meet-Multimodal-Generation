@@ -292,6 +292,13 @@
 [![Code](https://img.shields.io/github/stars/tsunghan-wu/SLD.svg?style=social&label=Star)](https://github.com/tsunghan-wu/SLD)
 
 
++ **[ParaDiffusion] Paragraph-to-Image Generation with Information-Enriched Diffusion Model** (29 Nov 2023)<details><summary>Weijia Wu, Zhuang Li, Yefei He, et al.</summary>Weijia Wu, Zhuang Li, Yefei He, Mike Zheng Shou, Chunhua Shen, Lele Cheng, Yan Li, Tingting Gao, Di Zhang, Zhongyuan Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14284)
+[![citation](https://img.shields.io/badge/citation-19-blue.svg?paper=ed4f1b0f6c09f59d07e817e532a25f4d25e94dbc)](https://www.semanticscholar.org/paper/ed4f1b0f6c09f59d07e817e532a25f4d25e94dbc)
+[![Code](https://img.shields.io/github/stars/weijiawu/ParaDiffusion.svg?style=social&label=Star)](https://github.com/weijiawu/ParaDiffusion)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://weijiawu.github.io/ParaDiffusionPage/)
+
+
 + **Tokenize and Embed ALL for Multi-modal Large Language Models** (8 Nov 2023)<details><summary>Zhen Yang, Yingxue Zhang, Fandong Meng, et al.</summary> Zhen Yang, Yingxue Zhang, Fandong Meng, Jie Zhou</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04589)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=59d716b442ab760a78f58de6748c0fa1d507bfc1)](https://www.semanticscholar.org/paper/59d716b442ab760a78f58de6748c0fa1d507bfc1)
@@ -974,7 +981,7 @@ Tags: `general human motion generation`
 ### Video VAE/Tokenizers
 
 
-+ **DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation** (17 Feb 2024)<details><summary>Zhihang Yuan, Siyuan Wang, Rui Xie, et al.</summary>Zhihang Yuan, Siyuan Wang, Rui Xie, Hanling Zhang, Tongcheng Fang, Yuzhang Shang, Shengen Yan, Guohao Dai, Yu Wang</details>
++ **DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation** (17 Feb 2025)<details><summary>Zhihang Yuan, Siyuan Wang, Rui Xie, et al.</summary>Zhihang Yuan, Siyuan Wang, Rui Xie, Hanling Zhang, Tongcheng Fang, Yuzhang Shang, Shengen Yan, Guohao Dai, Yu Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11897)
 [![Code](https://img.shields.io/github/stars/thu-nics/DLFR-VAE.svg?style=social&label=Star)](https://github.com/thu-nics/DLFR-VAE)
 
