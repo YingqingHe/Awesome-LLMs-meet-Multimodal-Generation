@@ -105,6 +105,13 @@
 [![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer?tab=readme-ov-file)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)`tokenizer`
 
+
+
++ **[ICLR 2025 Spotlight] Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance** (29 Oct 2024)<details><summary>Dongmin Park, Sebin Kim, Taehong Moon et al.</summary>Dongmin Park, Sebin Kim, Taehong Moon, Minkyu Kim, Kangwook Lee, Jaewoong Cho</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.22376)
+[![Code](https://img.shields.io/github/stars/LargeWorldModel/ElasticTok.svg?style=social&label=Star)](https://github.com/krafton-ai/Rare-to-Frequent)
+
+
 + **ElasticTok: Adaptive Tokenization for Image and Video** (10 Oct 2024)<details><summary>Wilson Yan, Matei Zaharia, Volodymyr Mnih et al.</summary>Wilson Yan, Matei Zaharia, Volodymyr Mnih, Pieter Abbeel, Aleksandra Faust, Hao Liu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08368)
 [![Code](https://img.shields.io/github/stars/LargeWorldModel/ElasticTok.svg?style=social&label=Star)](https://github.com/LargeWorldModel/ElasticTok)
