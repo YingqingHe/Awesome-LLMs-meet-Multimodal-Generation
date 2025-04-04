@@ -26,6 +26,7 @@
     - [🔅 LLM-based](#-llm-based-1)
     - [Non-LLM-based](#non-llm-based)
     - [Video VAE/Tokenizers](#video-vaetokenizers)
+    - [Audio-Video](#audio-video)
     - [Benchmarks](#benchmarks)
     - [Datasets](#datasets-1)
   - [3D Generation](#3d-generation)
@@ -1043,6 +1044,129 @@ Tags: `general human motion generation`
 + **[ICLR 2024] [MAGVIT-v2] Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation** (9 Oct 2023)<details><summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, et al.</summary>Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G. Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A. Ross, Lu Jiang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
 [![citation](https://img.shields.io/badge/citation-15-blue.svg?paper=985f0c89c5a607742ec43c1fdc2cbfe54541cbad)](https://www.semanticscholar.org/paper/985f0c89c5a607742ec43c1fdc2cbfe54541cbad)
+
+
+
+### Audio-Video
+****
+
++ **JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization** (30 Mar 2025)<details><summary>Kai Liu, Wei Li, Lai Chen, et al.</summary>Kai Liu, Wei Li, Lai Chen, Shengqiong Wu, Yanhao Zheng, Jiayi Ji, Fan Zhou, Rongxin Jiang, Jiebo Luo, Hao Fei, Tat-Seng Chua</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23377)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://javisdit.github.io/)
+
+
++ **[LVAS-Agent] Long-Video Audio Synthesis with Multi-Agent Collaboration** (13 Mar 2025)
+  <details><summary>Yehang Zhang, Xinli Xu, Xiaojie Xu, et al</summary>Yehang Zhang, Xinli Xu, Xiaojie Xu, Li Liu, Yingcong Chen</details>
+  
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10719)
+  [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=2503.10719)](https://www.semanticscholar.org/paper/2503.10719)
+  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lvas-agent.github.io/)
+  [![Code](https://img.shields.io/github/stars/ZYH-Lightyear/LVAS.svg?style=social&label=Star)](https://github.com/ZYH-Lightyear/LVAS)
+
+
++ **UniForm: A Unified Diffusion Transformer for Audio-Video Generation** (6 Feb 2025)
+    
+    <details><summary>Lei Zhao, Linfeng Feng, Dongxu Ge, et al</summary>Lei Zhao, Linfeng Feng, Dongxu Ge, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li</details>
+
+    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.03897)
+    [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=7a4436209d8cf0d868b13000c8abff63d72daf0f)](https://www.semanticscholar.org/paper/UniForm%3A-A-Unified-Diffusion-Transformer-for-Zhao-Feng/7a4436209d8cf0d868b13000c8abff63d72daf0f)
+    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://uniform-t2av.github.io)
+
+
++ **TIA2V: Video generation conditioned on triple modalities of text–image–audio** (4 Jan 2025)<details><summary>Minglu Zhao, Wenmin Wang, Rui Zhang, et al.</summary>Minglu Zhao, Wenmin Wang, Rui Zhang, Haomei Jia, Qi Chen</details>
+[![Paper](https://img.shields.io/badge/paper-b31b1b.svg)](https://doi.org/10.1016/j.eswa.2024.126278)
+[![Code](https://img.shields.io/github/stars/Minglu58/TIA2V.svg?style=social&label=Star)](https://github.com/Minglu58/TIA2V)
+
+
+
++ **SAVGBench: Benchmarking Spatially Aligned Audio-Video Generation** (18 Dec 2024)
+
+    <details><summary>Kazuki Shimada, Christian Simon, Takashi Shibuya, et al.</summary>Kazuki Shimada, Christian Simon, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji</details>
+
+    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13462)
+
+
++ **AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation** (19 Dec 2024)
+
+    <details><summary>Moayed Haji-Ali, Willi Menapace, Aliaksandr Siarohin, et al,</summary>Moayed Haji-Ali, Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Alper Canberk, Kwot Sin Lee, Vicente Ordonez, Sergey Tulyakov</details>
+
+    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15191)
+    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/AVLink/)
+
+
++ **SyncFlow: Temporally Aligned Joint Audio-Video Generation from Text** (3 Dec 2024)
+
+    <details><summary>Haohe Liu, Gael Le Lan, Xinhao Mei, et al.</summary>Haohe Liu, Gael Le Lan, Xinhao Mei, Zhaoheng Ni, Anurag Kumar, Varun Nagaraja, Wenwu Wang, Mark D. Plumbley, Yangyang Shi, Vikas Chandra</details>
+
+    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15220)
+
+
+
++ **A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation** (26 Sep 2024)
+
+    <details><summary>Masato Ishii, Akio Hayakawa, Takashi Shibuya</summary>Masato Ishii, Akio Hayakawa, Takashi Shibuya, Yuki Mitsufuji</details>
+
+    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17550)
+
+
++ **AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation** (11 Jun 2024)
+
+    <details><summary>Kai Wang, Shijian Deng, Jing Shi, et al.</summary>Kai Wang, Shijian Deng, Jing Shi, Dimitrios Hatzinakos, Yapeng Tian</details>
+
+    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07686)
+
+
++ **Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation** (28 May 2024)<details><summary>Akio Hayakawa, Masato Ishii, Takashi Shibuya, et al.</summary>Akio Hayakawa, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17842)
+[![Code](https://img.shields.io/github/stars/SonyResearch/MMDisCo.svg?style=social&label=Star)](https://github.com/SonyResearch/MMDisCo)
+
+
+
++ **AudioScenic: Audio-Driven Video Scene Editing** (25 Apr 2024)<details><summary>Kaixin Shen, Ruijie Quan, Linchao Zhu, et al.</summary>Kaixin Shen, Ruijie Quan, Linchao Zhu, Jun Xiao, Yi Yang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16581)
+
+
+
++ **A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation** (22 May 2024)<details><summary>Gwanghyun Kim, Alonso Martinez, Yu-Chuan Su, et al.</summary>Gwanghyun Kim, Alonso Martinez, Yu-Chuan Su, Brendan Jou, José Lezama, Agrim Gupta, Lijun Yu, Lu Jiang, Aren Jansen, Jacob Walker, Krishna Somandepalli</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.13762)
+
+
+
+
++ **Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model** (25 Apr 2024)<details><summary>Gehui Chen, Guan'an Wang, Xiaowen Huang, et al.</summary>Gehui Chen, Guan'an Wang, Xiaowen Huang, Jitao Sang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16305)
+
+
++ **TAVGBench: Benchmarking Text to Audible-Video Generation** (22 Apr 2024)<details><summary>Yuxin Mao, Xuyang Shen, Jing Zhang, et al.</summary>Yuxin Mao, Xuyang Shen, Jing Zhang, Zhen Qin, Jinxing Zhou, Mochu Xiang, Yiran Zhong, Yuchao Dai</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14381)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://github.com/OpenNLPLab/TAVGBench)
+[![Code](https://img.shields.io/github/stars/OpenNLPLab/TAVGBench.svg?style=social&label=Star)](https://github.com/OpenNLPLab/TAVGBench)
+
+
++ **[ECCV 2024 Oral] ASVA: Audio-Synchronized Visual Animation** (8 Mar 2024)<details><summary>Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05659)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lzhangbj.github.io/projects/asva/asva.html)
+[![Code](https://img.shields.io/github/stars/lzhangbj/ASVA.svg?style=social&label=Star)](https://github.com/lzhangbj/ASVA)
+
+
++ **[CVPR 2024] Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** (27 Feb 2024)<details><summary>Yazhou Xing, Yingqing He, Zeyue Tian, et al.</summary>Yazhou Xing, Yingqing He, Zeyue Tian, Xintao Wang, Qifeng Chen</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17723)
+[![Code](https://img.shields.io/github/stars/yzxing87/Seeing-and-Hearing.svg?style=social&label=Star)](https://github.com/yzxing87/Seeing-and-Hearing)
+
+
++ **TräumerAI: Dreaming Music with StyleGAN** (9 Feb 2021)<details><summary>Dasaem Jeong, Seungheon Doh, Taegyun Kwon (NeurIPS Workshop 2020)</summary>Dasaem Jeong, Seungheon Doh, Taegyun Kwon</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.04680)
+[![citation](https://img.shields.io/badge/citation-259-blue.svg?paper=8a1384e041cc6ea2735b01c734aeef666dc92884)](https://www.semanticscholar.org/paper/8a1384e041cc6ea2735b01c734aeef666dc92884)
+
+
++ **Sound2Sight: Generating Visual Dynamics from Sound and Context** (23 Jul 2020)<details><summary>Anoop Cherian, Moitreya Chatterjee, Narendra Ahuja. (ECCV 2020)</summary>Anoop Cherian, Moitreya Chatterjee, Narendra Ahuja</details>[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2007.12130)
+[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=02f3ced09497c5db59985b2a5db9d3d0aebe5074)](https://www.semanticscholar.org/paper/02f3ced09497c5db59985b2a5db9d3d0aebe5074)
+[![Code](https://img.shields.io/github/stars/merlresearch/Sound2Sight.svg?style=social&label=Star)](https://github.com/merlresearch/Sound2Sight)
+
+
+
+
+
+
 
 ### Benchmarks
 
