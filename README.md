@@ -1312,6 +1312,8 @@ with Large-Scale Video Transcriptions** (19 Nov 2021)<details><summary>[CVPR 202
 [![citation](https://img.shields.io/badge/citation-1395-blue.svg?paper=b8e2e9f3ba008e28257195ec69a00e07f260131d)](https://www.semanticscholar.org/paper/b8e2e9f3ba008e28257195ec69a00e07f260131d)
 [![Code](https://img.shields.io/github/stars/crux82/msr-vtt-it.svg?style=social&label=Star)](https://github.com/crux82/msr-vtt-it)
 
++ [MiniMax H3 1K prompt index](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) - Curated 1K text-to-video prompt dataset for MiniMax H3: 3-field prompt anatomy, 10 hand-picked prompts, model comparison.
+
 
 
 
